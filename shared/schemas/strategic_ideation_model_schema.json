@@ -1,0 +1,19 @@
+{
+  "schema_name": "strategic_ideation_model_schema",
+  "description": "Metadata schema for strategic-ideation models.",
+  "fields": [
+    {"name": "project_id", "type": "integer"},
+    {"name": "project_name", "type": "string"},
+    {"name": "problem_frame", "type": "string"},
+    {"name": "idea_name", "type": "string"},
+    {"name": "idea_type", "type": "string"},
+    {"name": "criterion_name", "type": "string"},
+    {"name": "score_value", "type": "number"},
+    {"name": "assumption_text", "type": "string"},
+    {"name": "confidence", "type": "number"},
+    {"name": "impact_if_wrong", "type": "number"},
+    {"name": "prototype_name", "type": "string"},
+    {"name": "implementation_milestone", "type": "string"},
+    {"name": "interpretation_note", "type": "string"}
+  ]
+}

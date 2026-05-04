@@ -1,0 +1,7 @@
+assumption_id,idea,assumption,confidence,impact_if_wrong,testing_method
+1,Community Evidence Platform,Stakeholders will contribute evidence if participation burden is low,0.62,0.78,Prototype contribution workflow
+2,Scenario-Based Policy Lab,Decision-makers will use scenarios before policy lock-in,0.55,0.82,Workshop pilot and decision audit
+3,AI-Assisted Knowledge Repository,Users need retrieval more than content volume,0.68,0.70,Search-behavior analysis
+4,Rapid Prototype Service Sprint,Low-fidelity prototypes can reveal implementation risk early,0.76,0.64,Service sprint pilot
+5,Long-Horizon Risk Dashboard,Decision-makers will act on long-horizon indicators,0.49,0.86,Governance process review
+6,Participatory Strategy Forum,Affected communities will participate if feedback visibly influences decisions,0.58,0.84,Participation and trust evaluation
