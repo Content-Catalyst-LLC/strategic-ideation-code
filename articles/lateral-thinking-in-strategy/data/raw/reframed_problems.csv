@@ -1,0 +1,14 @@
+reframe_id,move_id,context_id,reframed_problem,problem_clarity,structural_shift,stakeholder_visibility,systems_alignment,decision_value,testability,implementation_pathway_quality
+R001,M001,LT001,The issue may be misdefined value rather than inefficient delivery,0.72,0.76,0.58,0.66,0.70,0.62,0.58
+R002,M002,LT001,Efficiency metrics may be hiding service burden and public value loss,0.78,0.82,0.68,0.72,0.76,0.66,0.62
+R003,M003,LT002,Service access can be redesigned as routing rather than messaging,0.82,0.74,0.74,0.78,0.80,0.74,0.72
+R004,M004,LT002,Service demand can be triaged by need, risk, and capacity rather than arrival order,0.80,0.76,0.82,0.76,0.78,0.72,0.70
+R005,M005,LT003,Strategic delay may create better learning but requires discipline,0.56,0.62,0.48,0.52,0.50,0.46,0.38
+R006,M006,LT003,Distributed pathways may reveal more resilient service flow,0.54,0.66,0.50,0.58,0.52,0.42,0.36
+R007,M007,LT004,Approval may be redesigned around risk tiers instead of hierarchy,0.84,0.82,0.78,0.84,0.82,0.76,0.78
+R008,M008,LT004,Decision memory can become adaptive governance infrastructure,0.86,0.84,0.80,0.90,0.86,0.78,0.82
+R009,M009,LT005,Realism may be a power boundary rather than a feasibility boundary,0.76,0.86,0.64,0.70,0.72,0.58,0.52
+R010,M010,LT005,Frontline constraints can define viable strategy before leadership preference,0.74,0.80,0.78,0.72,0.70,0.60,0.54
+R011,M011,LT006,Stakeholder friction reveals the true design problem,0.88,0.78,0.92,0.80,0.84,0.78,0.76
+R012,M012,LT007,The symptom may be stabilizing a hidden feedback structure,0.82,0.90,0.74,0.94,0.86,0.72,0.74
+R013,M013,LT008,Novelty is being used as a substitute for strategy,0.62,0.70,0.40,0.42,0.46,0.38,0.28

@@ -67,3 +67,7 @@ This repository includes advanced workflows for creative constraint audits, real
 ## Analogical Thinking and Idea Transfer
 
 This repository includes advanced workflows for source-target mapping, structural-fit scoring, surface-distraction risk, adaptation testing, stakeholder legitimacy review, dynamic compatibility analysis, rival analogy comparison, and transfer decision memory.
+
+## Lateral Thinking in Strategy
+
+This repository includes advanced workflows for frame-rigidity diagnostics, assumption disruption, provocation and reversal logs, random-entry and forced-association analysis, lateral-move scoring, reframed problem review, convergence integration, stakeholder legitimacy review, and decision memory.

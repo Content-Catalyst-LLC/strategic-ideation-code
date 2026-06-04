@@ -1,0 +1,15 @@
+move_id,context_id,frame_id,technique,move_name,frame_disruption,strategic_relevance,reconstruction_quality,evidence_pathway,stakeholder_fit,systems_fit,novelty_value,drift_risk
+M001,LT001,F001,reversal,Reverse the optimization question,0.72,0.76,0.58,0.54,0.52,0.60,0.66,0.38
+M002,LT001,F001,challenge,Challenge whether efficiency equals value,0.78,0.82,0.64,0.58,0.62,0.66,0.70,0.34
+M003,LT002,F002,random_entry,Use transit-routing logic for service access,0.66,0.78,0.72,0.68,0.72,0.76,0.74,0.26
+M004,LT002,F002,concept_extraction,Extract triage from public health intake,0.64,0.80,0.74,0.70,0.78,0.74,0.72,0.24
+M005,LT003,F003,provocation,Make the process slower to make it better,0.88,0.62,0.40,0.34,0.46,0.42,0.88,0.72
+M006,LT003,F003,random_entry,Use a river delta as service model,0.82,0.58,0.38,0.32,0.44,0.50,0.86,0.68
+M007,LT004,F004,escape,Remove the central approval step,0.74,0.84,0.78,0.74,0.76,0.82,0.76,0.28
+M008,LT004,F004,forced_association,Combine decision memory with adaptive governance,0.70,0.86,0.82,0.78,0.80,0.88,0.74,0.22
+M009,LT005,F005,challenge,Challenge leadership-defined realism,0.82,0.84,0.52,0.48,0.38,0.58,0.78,0.54
+M010,LT005,F005,reversal,Let frontline constraints define strategy first,0.78,0.80,0.56,0.50,0.62,0.60,0.74,0.48
+M011,LT006,F006,concept_extraction,Extract friction map from stakeholder journeys,0.64,0.86,0.82,0.76,0.90,0.78,0.70,0.20
+M012,LT007,F007,provocation,Assume the symptom is protecting the system,0.86,0.88,0.78,0.72,0.76,0.90,0.84,0.26
+M013,LT008,F008,provocation,Generate deliberately absurd product concepts,0.80,0.34,0.22,0.18,0.26,0.24,0.86,0.86
+M014,LT008,F008,forced_association,Combine trend words without mechanism mapping,0.62,0.30,0.20,0.16,0.22,0.20,0.76,0.82

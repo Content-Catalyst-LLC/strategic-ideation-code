@@ -1,0 +1,32 @@
+title: "Lateral Thinking in Strategy"
+slug: "lateral-thinking-in-strategy"
+series: "Strategic Ideation"
+repository: "https://github.com/Content-Catalyst-LLC/strategic-ideation-code"
+article_folder: "articles/lateral-thinking-in-strategy"
+purpose: "Advanced strategist-facing companion code for frame-rigidity diagnostics, lateral-move scoring, assumption disruption, provocation/reversal/random-entry logs, reframed problem quality, convergence integration, stakeholder legitimacy review, and decision-memory systems."
+status: "advanced scaffold"
+professional_use_cases:
+  - "Lateral thinking audit"
+  - "Frame-rigidity diagnosis"
+  - "Dominant-frame and assumption inventory"
+  - "Provocation and reversal design"
+  - "Random-entry and forced-association logging"
+  - "Lateral-move scoring"
+  - "Reframed problem quality review"
+  - "Convergence-integration assessment"
+  - "Stakeholder legitimacy and political-safety review"
+  - "Decision-memory system design"
+languages:
+  - python
+  - r
+  - julia
+  - sql
+  - rust
+  - go
+  - cpp
+  - fortran
+  - c
+notes:
+  - "Uses synthetic data only."
+  - "Designed for strategists, planners, analysts, consultants, innovation teams, design researchers, knowledge architects, organizational leaders, and public-interest strategy teams."
+  - "Not a substitute for stakeholder judgment, ethical review, domain expertise, or participatory governance."

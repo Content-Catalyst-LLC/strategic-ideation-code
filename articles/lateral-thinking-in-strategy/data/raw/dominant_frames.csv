@@ -1,0 +1,9 @@
+frame_id,context_id,frame_name,frame_origin,problem_clarity,assumption_visibility,metric_lock_in,category_rigidity,stakeholder_exclusion,system_boundary_quality,frame_obsolescence_risk
+F001,LT001,Efficiency optimization frame,legacy_operations,0.74,0.28,0.86,0.78,0.44,0.46,0.72
+F002,LT002,Service pathway reframing frame,cross_functional_learning,0.78,0.70,0.42,0.44,0.34,0.72,0.38
+F003,LT003,Provocative disruption frame,innovation_workshop,0.52,0.62,0.30,0.34,0.48,0.42,0.44
+F004,LT004,Systems reframing frame,systems_review,0.82,0.78,0.36,0.38,0.26,0.86,0.28
+F005,LT005,Leadership-approved realism frame,power_and_hierarchy,0.60,0.34,0.74,0.82,0.72,0.40,0.76
+F006,LT006,Affected-stakeholder experience frame,participatory_inquiry,0.80,0.76,0.38,0.42,0.18,0.78,0.32
+F007,LT007,Feedback and leverage frame,systems_mapping,0.78,0.74,0.40,0.36,0.30,0.90,0.30
+F008,LT008,Innovation theater frame,branding_pressure,0.48,0.36,0.58,0.52,0.64,0.34,0.66

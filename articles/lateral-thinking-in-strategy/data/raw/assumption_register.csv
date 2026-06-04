@@ -1,0 +1,11 @@
+assumption_id,frame_id,context_id,assumption_text,assumption_type,evidence_strength,strategic_importance,challenge_potential,stakeholder_burden_visibility,power_protection_risk,revision_priority
+A001,F001,LT001,The current process only needs incremental improvement,frame_assumption,0.42,0.82,0.74,0.40,0.52,high
+A002,F001,LT001,Efficiency metrics represent public value,metric_assumption,0.36,0.86,0.80,0.34,0.58,high
+A003,F002,LT002,Service failure is partly a pathway-design problem,systems_assumption,0.68,0.78,0.50,0.72,0.28,moderate
+A004,F003,LT003,Provocative ideas will become useful through later sorting,process_assumption,0.44,0.70,0.58,0.46,0.34,moderate
+A005,F004,LT004,The problem boundary must include feedback and incentives,systems_assumption,0.78,0.86,0.42,0.76,0.24,moderate
+A006,F005,LT005,Only leadership-approved ideas are realistic,political_assumption,0.30,0.88,0.86,0.28,0.84,high
+A007,F005,LT005,Stakeholder objections are implementation noise,stakeholder_assumption,0.24,0.82,0.88,0.22,0.78,high
+A008,F006,LT006,Affected stakeholders understand friction points invisible to planners,stakeholder_assumption,0.74,0.82,0.46,0.90,0.18,moderate
+A009,F007,LT007,Second-order effects are central to the strategy problem,systems_assumption,0.76,0.84,0.40,0.78,0.20,moderate
+A010,F008,LT008,A strange idea is valuable because it signals innovation,novelty_assumption,0.28,0.72,0.84,0.30,0.56,high

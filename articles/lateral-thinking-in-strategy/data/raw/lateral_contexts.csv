@@ -1,0 +1,9 @@
+context_id,context_name,context_type,frame_rigidity,provocation_strength,analogical_distance,random_entry_capacity,reversal_capacity,challenge_quality,convergence_discipline,systems_integration,stakeholder_legitimacy,political_safety,transformational_potential
+LT001,Linear Optimization System,linear_optimization,0.86,0.18,0.21,0.16,0.20,0.28,0.72,0.44,0.50,0.48,0.24
+LT002,Balanced Strategic Reframing System,balanced_reframing,0.44,0.68,0.71,0.64,0.66,0.72,0.77,0.72,0.70,0.68,0.76
+LT003,Provocation-Heavy Innovation System,provocation_heavy,0.31,0.89,0.83,0.80,0.82,0.74,0.34,0.46,0.52,0.58,0.81
+LT004,High-Integration Lateral System,high_integration,0.36,0.74,0.76,0.70,0.78,0.80,0.82,0.86,0.78,0.74,0.88
+LT005,Politically Constrained System,politically_constrained,0.78,0.42,0.40,0.36,0.38,0.44,0.58,0.50,0.34,0.24,0.42
+LT006,Stakeholder-Grounded Reframing System,stakeholder_grounded,0.48,0.62,0.66,0.58,0.60,0.72,0.74,0.76,0.88,0.78,0.72
+LT007,Systems-Insight Reframing System,systems_reframing,0.42,0.70,0.74,0.62,0.72,0.76,0.78,0.90,0.74,0.70,0.84
+LT008,Performative Innovation System,performative_disruption,0.52,0.78,0.68,0.72,0.70,0.46,0.28,0.34,0.36,0.40,0.62

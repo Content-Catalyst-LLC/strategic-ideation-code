@@ -1,0 +1,13 @@
+review_id,context_id,reframe_id,stakeholder_group,inclusion_level,burden_visibility,knowledge_recognition,interpretive_trust,political_safety,legitimacy_signal,power_challenge_risk
+S001,LT001,R001,service_users,0.54,0.56,0.58,0.54,0.48,0.56,0.46
+S002,LT001,R002,frontline_workers,0.62,0.68,0.70,0.64,0.52,0.66,0.50
+S003,LT002,R003,service_users,0.74,0.72,0.74,0.72,0.68,0.74,0.30
+S004,LT002,R004,high_need_users,0.80,0.78,0.82,0.76,0.70,0.78,0.32
+S005,LT003,R005,implementation_team,0.44,0.42,0.46,0.40,0.48,0.42,0.38
+S006,LT004,R007,operations_and_risk_owners,0.76,0.74,0.72,0.76,0.74,0.76,0.36
+S007,LT004,R008,knowledge_workers,0.80,0.78,0.82,0.80,0.76,0.82,0.34
+S008,LT005,R009,frontline_staff,0.58,0.66,0.68,0.56,0.24,0.58,0.82
+S009,LT005,R010,frontline_staff,0.70,0.74,0.76,0.62,0.28,0.66,0.78
+S010,LT006,R011,affected_stakeholders,0.90,0.88,0.90,0.86,0.78,0.88,0.30
+S011,LT007,R012,system_stewards,0.78,0.76,0.78,0.76,0.72,0.78,0.38
+S012,LT008,R013,implementation_team,0.30,0.28,0.32,0.30,0.36,0.30,0.54
