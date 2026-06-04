@@ -1,0 +1,9 @@
+option_id,environment_id,option_name,option_type,robustness,option_value,reversibility,learning_value,downside_protection,resource_intensity,time_to_learning,strategic_coherence,legitimacy_requirement,evidence_readiness,review_action
+O001,ENV001,Operational buffer adjustment,no_regret,0.70,0.58,0.82,0.42,0.62,0.34,0.28,0.72,0.30,0.70,implement_if_cost_is_acceptable
+O002,ENV002,Modular platform experiment,low_regret_experiment,0.68,0.82,0.76,0.86,0.54,0.46,0.34,0.74,0.42,0.64,prototype_and_monitor_competitive_response
+O003,ENV003,Participatory policy pilot,adaptive_pathway,0.72,0.78,0.68,0.84,0.66,0.58,0.44,0.70,0.82,0.58,stage_with_legitimacy_safeguards
+O004,ENV004,Transition option portfolio,adaptive_portfolio,0.76,0.88,0.58,0.86,0.74,0.68,0.56,0.76,0.76,0.56,build_pathways_and_triggers
+O005,ENV005,Trust repair and governance experiment,trust_repair_option,0.70,0.80,0.62,0.82,0.68,0.56,0.48,0.72,0.86,0.54,stage_with_stakeholder_review
+O006,ENV006,Multi-supplier redundancy hedge,hedge,0.78,0.76,0.54,0.66,0.86,0.72,0.52,0.70,0.42,0.66,implement_as_resilience_hedge
+O007,ENV007,Regulatory scenario monitoring cell,sensing_option,0.68,0.74,0.78,0.80,0.58,0.42,0.32,0.68,0.64,0.62,create_monitoring_and_response_loop
+O008,ENV008,Knowledge-sharing pilot with reversible norms,learning_experiment,0.66,0.72,0.80,0.84,0.54,0.38,0.30,0.74,0.58,0.60,pilot_with_feedback_and_incentive_review

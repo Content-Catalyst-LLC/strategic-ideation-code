@@ -1,0 +1,9 @@
+indicator_id,environment_id,indicator_name,signal_type,leading_quality,visibility,reliability,timeliness,sensitivity,false_positive_risk,decision_linkage,monitoring_cost,trigger_threshold,review_action
+E001,ENV001,Backlog variance,operational_signal,0.58,0.82,0.78,0.76,0.54,0.28,0.70,0.24,0.20,monitor_standard_dashboard
+E002,ENV002,User switching and competitor imitation,market_signal,0.76,0.62,0.60,0.68,0.74,0.44,0.62,0.36,0.35,create_platform_signal_review
+E003,ENV003,Stakeholder trust and legitimacy complaints,legitimacy_signal,0.78,0.54,0.56,0.58,0.82,0.40,0.58,0.42,0.30,build_legitimacy_signal_loop
+E004,ENV004,Transition bottleneck and investment delay,transition_signal,0.80,0.58,0.62,0.60,0.84,0.38,0.60,0.44,0.28,connect_to_adaptive_pathway_triggers
+E005,ENV005,Trust sentiment and participation drop,trust_signal,0.82,0.50,0.54,0.56,0.86,0.42,0.56,0.38,0.25,triangulate_with_stakeholder_research
+E006,ENV006,Supplier stress and logistics delay,network_signal,0.84,0.64,0.66,0.70,0.82,0.36,0.68,0.46,0.30,connect_to_redundancy_triggers
+E007,ENV007,Regulatory consultation and enforcement drift,policy_signal,0.74,0.52,0.58,0.54,0.76,0.46,0.56,0.40,0.32,monitor_with_policy_scenarios
+E008,ENV008,Knowledge contribution and retrieval decay,organizational_signal,0.70,0.60,0.62,0.58,0.68,0.40,0.60,0.28,0.25,connect_to_learning_loop_review

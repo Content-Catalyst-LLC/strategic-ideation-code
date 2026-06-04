@@ -1,0 +1,9 @@
+driver_id,environment_id,driver_name,driver_type,volatility,ambiguity,model_uncertainty,probability_instability,value_contestation,actor_reflexivity,monitoring_quality,mitigation_quality,review_action
+U001,ENV001,Demand variability,operational_risk,0.34,0.26,0.24,0.28,0.18,0.22,0.72,0.68,use_standard_risk_management
+U002,ENV002,Competitor and user adaptation,adaptive_uncertainty,0.72,0.64,0.68,0.70,0.42,0.86,0.62,0.54,build_adaptive_response_tracking
+U003,ENV003,Policy legitimacy and contested values,deep_uncertainty,0.66,0.82,0.76,0.74,0.88,0.70,0.56,0.50,use_plural_scenarios_and_stakeholder_review
+U004,ENV004,Transition pathway uncertainty,structural_uncertainty,0.78,0.80,0.82,0.86,0.76,0.74,0.58,0.52,use_adaptive_pathways
+U005,ENV005,Trust interpretation dynamics,social_uncertainty,0.70,0.78,0.72,0.68,0.82,0.76,0.54,0.48,build_trust_signal_system
+U006,ENV006,Cascading supplier disruption,network_uncertainty,0.84,0.66,0.72,0.78,0.44,0.62,0.60,0.58,stress_test_network_dependencies
+U007,ENV007,Regulatory and innovation feedback,governance_uncertainty,0.74,0.72,0.76,0.80,0.70,0.82,0.56,0.52,use_regulatory_scenario_monitoring
+U008,ENV008,Knowledge-sharing norm drift,organizational_uncertainty,0.58,0.62,0.66,0.60,0.54,0.64,0.50,0.46,build_learning_and_norm_signals

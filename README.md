@@ -95,3 +95,7 @@ This repository includes advanced workflows for systems-based ideation, systems-
 ## Problem Framing and Problem Definition
 
 This repository includes advanced workflows for problem-framing diagnostics, frame comparison, boundary analysis, stakeholder frame mapping, causal-depth review, assumption audits, reframing triggers, problem-definition scoring, idea-space expansion modeling, and decision-memory records.
+
+## Complex Systems and Strategic Uncertainty
+
+This repository includes advanced workflows for complexity-aware strategy, structural uncertainty diagnostics, scenario robustness, adaptive option design, feedback-loop review, nonlinear risk scoring, path-dependence analysis, early-warning indicators, learning loops, and decision-memory systems.

@@ -1,0 +1,9 @@
+environment_id,environment_name,environment_type,domain,interdependence,nonlinearity,feedback_intensity,adaptation_pressure,path_dependence,boundary_ambiguity,emergence_potential,deep_uncertainty,scenario_need,learning_capacity_need,description
+ENV001,Stable Operational Environment,low_complexity,operations,0.32,0.24,0.31,0.28,0.36,0.30,0.26,0.28,0.30,0.34,Relatively stable operating context where standard planning may be sufficient.
+ENV002,Competitive Platform Environment,complex_market,platform_strategy,0.76,0.68,0.72,0.77,0.63,0.62,0.70,0.66,0.72,0.76,Platform environment shaped by network effects adaptive competitors and user behavior.
+ENV003,Public Policy Ecosystem,complex_policy,public_strategy,0.81,0.74,0.79,0.71,0.78,0.76,0.74,0.82,0.82,0.80,Policy environment shaped by multiple actors feedback and contested values.
+ENV004,Climate-Technology Transition System,complex_transition,sustainability_strategy,0.88,0.86,0.87,0.82,0.84,0.82,0.86,0.90,0.90,0.88,Transition environment shaped by infrastructure lock-in technology policy and ecological feedback.
+ENV005,Institutional Trust and Legitimacy System,complex_social,institutional_strategy,0.79,0.70,0.82,0.74,0.80,0.78,0.84,0.78,0.78,0.84,Trust system shaped by reputation legitimacy memory and stakeholder interpretation.
+ENV006,Supply Chain Shock Environment,complex_network,supply_chain_strategy,0.86,0.78,0.80,0.70,0.72,0.74,0.76,0.82,0.86,0.82,Interdependent network where shocks cascade through suppliers logistics and demand.
+ENV007,Regulated Technology Ecosystem,complex_governance,technology_policy,0.78,0.72,0.74,0.82,0.70,0.72,0.72,0.80,0.84,0.78,Technology system shaped by regulation innovation adaptation and institutional response.
+ENV008,Internal Knowledge-Sharing System,organizational_complexity,knowledge_strategy,0.68,0.60,0.70,0.62,0.74,0.64,0.66,0.58,0.64,0.78,Organizational knowledge system shaped by trust incentives norms and institutional memory.

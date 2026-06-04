@@ -1,0 +1,31 @@
+title: "Complex Systems and Strategic Uncertainty"
+slug: "complex-systems-and-strategic-uncertainty"
+series: "Strategic Ideation"
+repository: "https://github.com/Content-Catalyst-LLC/strategic-ideation-code"
+article_folder: "articles/complex-systems-and-strategic-uncertainty"
+purpose: "Advanced strategist-facing companion code for complexity-aware strategy, structural uncertainty diagnostics, scenario robustness, adaptive option design, feedback-loop review, nonlinear risk scoring, path-dependence analysis, early-warning indicators, learning loops, and decision-memory systems."
+status: "advanced scaffold"
+professional_use_cases:
+  - "Complexity-aware strategic diagnosis"
+  - "Structural uncertainty review"
+  - "Scenario robustness analysis"
+  - "Adaptive option portfolio design"
+  - "Feedback-loop review"
+  - "Path-dependence and lock-in analysis"
+  - "Early-warning indicator design"
+  - "Learning-loop governance"
+  - "Decision-memory systems"
+languages:
+  - python
+  - r
+  - julia
+  - sql
+  - rust
+  - go
+  - cpp
+  - fortran
+  - c
+notes:
+  - "Uses synthetic data only."
+  - "Designed for strategists, planners, systems thinkers, foresight practitioners, analysts, consultants, innovation teams, policy teams, sustainability teams, product strategists, and organizational leaders."
+  - "Not a substitute for stakeholder judgment, ethical review, domain expertise, or participatory governance."

@@ -1,0 +1,9 @@
+scenario_id,environment_id,scenario_name,scenario_type,plausibility,severity,novelty,strategic_disruption,signal_visibility,preparation_quality,response_flexibility,robustness_gap,review_action
+S001,ENV001,Moderate demand fluctuation,baseline_stress,0.78,0.34,0.24,0.30,0.72,0.70,0.68,0.24,standard_contingency_plan
+S002,ENV002,Platform competitor leapfrog,competitive_shock,0.62,0.76,0.68,0.78,0.50,0.46,0.54,0.58,develop_competitive_scenario_options
+S003,ENV003,Legitimacy crisis during rollout,legitimacy_shock,0.58,0.82,0.64,0.80,0.44,0.40,0.46,0.66,build_legitimacy_and_response_options
+S004,ENV004,Accelerated transition plus supply constraint,transition_shock,0.56,0.86,0.72,0.84,0.42,0.38,0.44,0.70,stress_test_adaptive_pathways
+S005,ENV005,Trust collapse after implementation failure,trust_shock,0.60,0.80,0.62,0.78,0.38,0.36,0.42,0.68,prepare_trust_repair_pathway
+S006,ENV006,Multi-node supplier disruption,cascade_shock,0.64,0.84,0.66,0.82,0.46,0.42,0.48,0.64,build_redundancy_and_sensing
+S007,ENV007,Regulatory reversal and innovation acceleration,governance_shift,0.54,0.78,0.74,0.80,0.40,0.38,0.46,0.66,monitor_policy_and_innovation_signals
+S008,ENV008,Knowledge platform adoption backlash,organizational_shift,0.52,0.62,0.58,0.64,0.44,0.42,0.48,0.56,prototype_with_feedback_and_trust_review

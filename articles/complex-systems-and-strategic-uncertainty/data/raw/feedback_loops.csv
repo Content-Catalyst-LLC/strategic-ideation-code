@@ -1,0 +1,9 @@
+loop_id,environment_id,loop_name,loop_type,loop_strength,visibility,reinforcing_risk,balancing_capacity,delay_risk,intervention_readiness,stakeholder_burden_risk,diagnostic_note
+F001,ENV001,Operational correction loop,balancing,0.42,0.72,0.28,0.74,0.30,0.70,0.24,Standard monitoring can correct deviations.
+F002,ENV002,Network adoption loop,reinforcing_positive,0.82,0.66,0.74,0.38,0.52,0.62,0.42,Adoption increases value and attracts further adoption.
+F003,ENV003,Policy legitimacy loop,reinforcing_or_balancing,0.78,0.54,0.70,0.46,0.62,0.50,0.64,Legitimacy can increase participation or collapse into distrust.
+F004,ENV004,Infrastructure lock-in loop,reinforcing_negative,0.86,0.50,0.82,0.32,0.72,0.44,0.58,Existing infrastructure reinforces delayed transition.
+F005,ENV005,Trust erosion and repair loop,reinforcing_negative,0.84,0.48,0.80,0.36,0.68,0.46,0.70,Low trust changes interpretation of future actions.
+F006,ENV006,Supply disruption cascade,reinforcing_negative,0.80,0.58,0.76,0.42,0.60,0.56,0.52,Disruption propagates across dependent nodes.
+F007,ENV007,Regulation workaround loop,adaptive_feedback,0.76,0.52,0.70,0.44,0.58,0.48,0.50,Actors adapt around regulatory constraints.
+F008,ENV008,Knowledge hoarding loop,reinforcing_negative,0.70,0.44,0.68,0.40,0.54,0.46,0.62,Low trust and incentives reinforce non-sharing.

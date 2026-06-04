@@ -1,0 +1,9 @@
+learning_id,environment_id,learning_loop_name,feedback_quality,revision_trigger_clarity,decision_memory_quality,scenario_update_quality,stakeholder_learning_visibility,governance_response_capacity,cycle_time,learning_risk,action_if_triggered
+L001,ENV001,Operational review cycle,0.72,0.68,0.62,0.42,0.44,0.70,0.74,0.24,adjust_operational_parameters
+L002,ENV002,Platform adaptation review,0.70,0.66,0.64,0.72,0.58,0.66,0.60,0.38,revise_platform_options
+L003,ENV003,Policy legitimacy learning loop,0.66,0.62,0.68,0.76,0.82,0.60,0.54,0.46,reopen_scenario_and_stakeholder_review
+L004,ENV004,Transition pathway learning loop,0.70,0.72,0.74,0.84,0.70,0.66,0.58,0.40,adjust_pathway_and_option_portfolio
+L005,ENV005,Trust repair learning loop,0.64,0.66,0.70,0.72,0.86,0.58,0.52,0.44,revisit_trust_strategy_and_governance
+L006,ENV006,Supply resilience learning loop,0.74,0.70,0.66,0.76,0.56,0.68,0.62,0.36,activate_redundancy_or_supplier_shift
+L007,ENV007,Regulatory intelligence learning loop,0.68,0.64,0.66,0.78,0.60,0.62,0.56,0.42,update_policy_and_innovation_scenarios
+L008,ENV008,Knowledge system learning loop,0.62,0.60,0.72,0.64,0.68,0.58,0.50,0.48,rework_incentives_norms_and_support

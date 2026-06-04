@@ -1,0 +1,10 @@
+actor_id,environment_id,actor_group,adaptation_speed,strategic_awareness,workaround_likelihood,imitation_likelihood,resistance_likelihood,gaming_likelihood,learning_capacity,influence_on_system,monitoring_gap,review_action
+A001,ENV001,operations_team,0.38,0.42,0.24,0.22,0.28,0.20,0.58,0.46,0.30,standard_change_management
+A002,ENV002,competitors,0.82,0.86,0.58,0.82,0.44,0.50,0.78,0.82,0.48,anticipate_competitive_response
+A003,ENV002,platform_users,0.74,0.62,0.76,0.68,0.46,0.48,0.72,0.76,0.52,monitor_user_behavior_and_workarounds
+A004,ENV003,affected_communities,0.58,0.76,0.42,0.54,0.78,0.36,0.70,0.74,0.60,include_legitimacy_and_voice_review
+A005,ENV004,incumbent_infrastructure_owners,0.52,0.78,0.50,0.54,0.82,0.46,0.68,0.80,0.56,plan_transition_incentives
+A006,ENV005,trust_sensitive_stakeholders,0.64,0.72,0.58,0.52,0.74,0.42,0.76,0.78,0.62,monitor_interpretation_and_legitimacy
+A007,ENV006,suppliers_and_logistics_partners,0.68,0.66,0.62,0.54,0.50,0.44,0.72,0.76,0.54,build_network_visibility
+A008,ENV007,regulated_firms,0.78,0.84,0.76,0.62,0.58,0.70,0.80,0.82,0.58,monitor_workarounds_and_gaming
+A009,ENV008,knowledge_workers,0.56,0.58,0.68,0.46,0.60,0.52,0.66,0.70,0.60,review_incentives_and_trust

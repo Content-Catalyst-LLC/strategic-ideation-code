@@ -1,0 +1,9 @@
+path_id,environment_id,path_factor,path_type,legacy_strength,sunk_cost_pressure,coordination_lock_in,standardization_lock_in,trust_memory_effect,transition_cost,option_closure_risk,reversibility,review_action
+P001,ENV001,legacy_operating_processes,process_legacy,0.42,0.38,0.40,0.34,0.28,0.36,0.30,0.76,manage_through_standard_process_improvement
+P002,ENV002,network_effects_and_user_base,network_lock_in,0.72,0.58,0.76,0.68,0.54,0.62,0.70,0.44,design_migration_and_platform_options
+P003,ENV003,policy_commitments_and_public_memory,institutional_legacy,0.76,0.62,0.68,0.58,0.82,0.66,0.70,0.38,include_history_and_legitimacy
+P004,ENV004,energy_and_infrastructure_assets,infrastructure_lock_in,0.88,0.86,0.82,0.78,0.58,0.90,0.84,0.30,design_adaptive_transition_pathways
+P005,ENV005,reputation_and_trust_history,trust_memory,0.82,0.54,0.60,0.48,0.90,0.62,0.72,0.36,use_trust_repair_pathway
+P006,ENV006,supplier_network_design,network_legacy,0.70,0.64,0.78,0.60,0.42,0.72,0.68,0.42,build_redundancy_and_supplier_options
+P007,ENV007,regulatory_precedent,policy_lock_in,0.74,0.58,0.66,0.62,0.60,0.64,0.66,0.40,stage_regulatory_transition
+P008,ENV008,knowledge_norms_and_tool_habits,cultural_lock_in,0.68,0.46,0.58,0.52,0.76,0.54,0.60,0.48,shift_incentives_and_norms

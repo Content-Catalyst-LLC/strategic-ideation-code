@@ -1,0 +1,9 @@
+intervention_id,intervention_name,target_complexity_risk,process_cost,implementation_complexity,complexity_diagnosis_gain,scenario_gain,feedback_gain,option_value_gain,learning_gain,resilience_gain,decision_memory_gain,political_safety_need
+INT001,Complexity classification audit,misapplied_planning_logic,0.30,0.34,0.84,0.54,0.56,0.50,0.58,0.54,0.56,0.26
+INT002,Feedback loop and second-order effect review,linear_causality_bias,0.42,0.46,0.76,0.58,0.90,0.58,0.64,0.62,0.60,0.34
+INT003,Scenario robustness workshop,single_forecast_dependence,0.48,0.54,0.68,0.92,0.62,0.76,0.72,0.68,0.66,0.38
+INT004,Adaptive option portfolio review,premature_lock_in,0.52,0.58,0.70,0.78,0.64,0.92,0.80,0.76,0.70,0.40
+INT005,Early warning indicator system,late_signal_detection,0.46,0.50,0.66,0.72,0.74,0.70,0.82,0.72,0.72,0.32
+INT006,Path-dependence and lock-in review,historical_lock_in,0.44,0.48,0.74,0.64,0.58,0.76,0.70,0.78,0.68,0.36
+INT007,Learning-loop and decision-memory design,learning_loop_failure,0.50,0.56,0.72,0.74,0.76,0.78,0.90,0.74,0.94,0.34
+INT008,Stakeholder adaptation and gaming review,adaptive_actor_blindness,0.46,0.52,0.70,0.66,0.72,0.72,0.76,0.68,0.66,0.42
