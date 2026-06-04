@@ -1,0 +1,17 @@
+element_id,narrative_id,element_type,element_statement,element_quality,internal_alignment,evidence_support,contestation_level,revision_need
+NE001,SN001,situation,The organization must transform to remain relevant,0.42,0.44,0.36,0.58,0.78
+NE002,SN001,diagnosis,Current systems are outdated and must be modernized,0.34,0.31,0.30,0.64,0.84
+NE003,SN001,choice,Adopt new tools and language across the organization,0.30,0.29,0.28,0.67,0.86
+NE004,SN002,situation,The organization faces strategic fragmentation and trust pressure,0.74,0.72,0.70,0.32,0.38
+NE005,SN002,diagnosis,Fragmented priorities weaken coordination and public credibility,0.78,0.75,0.73,0.29,0.34
+NE006,SN002,choice,Prioritize coherent capability-building over disconnected initiatives,0.76,0.74,0.70,0.34,0.35
+NE007,SN003,situation,Feedback-rich conditions require adaptive strategic learning,0.86,0.84,0.82,0.22,0.25
+NE008,SN003,diagnosis,Visible symptoms are produced by structures, delays, and incentives,0.88,0.86,0.84,0.20,0.22
+NE009,SN003,choice,Build learning loops, systems maps, and accountable revision pathways,0.84,0.82,0.80,0.24,0.26
+NE010,SN004,situation,Multiple initiatives are underway across teams,0.48,0.42,0.39,0.56,0.72
+NE011,SN004,diagnosis,Activity is interpreted as progress without shared logic,0.43,0.37,0.35,0.62,0.78
+NE012,SN004,choice,Continue priority streams while improving coordination,0.36,0.32,0.31,0.65,0.82
+NE013,SN005,choice,Reduce cost and standardize processes,0.68,0.64,0.61,0.44,0.48
+NE014,SN006,choice,Design strategy with affected stakeholders before implementation lock-in,0.82,0.78,0.74,0.30,0.32
+NE015,SN007,future,Prepare for multiple plausible futures through foresight capacity,0.86,0.80,0.78,0.28,0.30
+NE016,SN008,diagnosis,Strong leadership can overcome strategic uncertainty,0.46,0.42,0.35,0.66,0.82

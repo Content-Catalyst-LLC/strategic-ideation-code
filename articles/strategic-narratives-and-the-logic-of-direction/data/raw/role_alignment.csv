@@ -1,0 +1,13 @@
+role_id,narrative_id,actor_group,role_clarity,contribution_clarity,decision_authority_clarity,feedback_channel_quality,commitment_level,misalignment_risk
+RA001,SN001,operations,0.36,0.32,0.28,0.30,0.44,0.78
+RA002,SN001,communications,0.58,0.54,0.40,0.36,0.62,0.56
+RA003,SN002,strategy_team,0.76,0.74,0.70,0.68,0.78,0.30
+RA004,SN002,operations,0.70,0.68,0.66,0.62,0.72,0.36
+RA005,SN003,learning_team,0.84,0.82,0.78,0.86,0.80,0.22
+RA006,SN003,implementation_team,0.78,0.76,0.72,0.80,0.77,0.28
+RA007,SN004,product_team,0.40,0.36,0.32,0.34,0.48,0.72
+RA008,SN004,evaluation_team,0.38,0.34,0.30,0.32,0.44,0.76
+RA009,SN005,frontline_workers,0.48,0.44,0.36,0.38,0.42,0.70
+RA010,SN006,community_partners,0.74,0.78,0.70,0.76,0.82,0.26
+RA011,SN007,foresight_team,0.80,0.82,0.74,0.76,0.78,0.24
+RA012,SN008,middle_managers,0.52,0.48,0.40,0.34,0.50,0.66

@@ -1,0 +1,9 @@
+drift_id,narrative_id,drift_type,drift_description,drift_severity,strategic_exposure,detection_confidence,recommended_response
+ND001,SN001,slogan_substitution,Transformation narrative narrowed into tool migration and modernization language,0.86,0.90,0.78,rebuild_narrative_from_diagnosis_choice_and_sequence
+ND002,SN002,metric_narrowing,Coherence narrative drifting toward checklist completion,0.52,0.68,0.64,review_metric_narrative_alignment
+ND003,SN003,complexity_overload,Systems-aware narrative becoming too complex for local decision use,0.46,0.62,0.60,simplify_without_losing_system_logic
+ND004,SN004,fragmentation,Initiatives increasingly tell separate stories about strategic direction,0.82,0.88,0.76,create_shared_narrative_architecture
+ND005,SN005,ethical_blindness,Efficiency narrative drifting toward cost cutting without burden review,0.80,0.86,0.72,add_burden_and_stakeholder_review
+ND006,SN006,participation_risk,Participatory narrative risks symbolic consultation if influence is not documented,0.58,0.74,0.66,document_stakeholder_influence_on_decisions
+ND007,SN007,future_abstraction,Foresight narrative risks becoming future-facing language without present choices,0.62,0.78,0.70,tie_scenarios_to_current_decision_rules
+ND008,SN008,heroic_brittleness,Heroic leadership story suppresses uncertainty dissent and learning,0.88,0.92,0.80,reframe_around_learning_accountability_and_shared_role

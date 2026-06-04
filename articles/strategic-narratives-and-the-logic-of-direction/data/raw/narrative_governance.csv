@@ -1,0 +1,9 @@
+governance_id,narrative_id,owner_group,review_cadence,diagnosis_owner,choice_owner,evidence_review_quality,stakeholder_review_quality,performance_gap_review,revision_trigger_quality,governance_risk
+NG001,SN001,executive_team,semiannual,0.38,0.42,0.34,0.30,0.28,0.31,0.84
+NG002,SN002,strategy_office,quarterly,0.72,0.70,0.66,0.62,0.64,0.68,0.38
+NG003,SN003,systems_learning_team,quarterly,0.84,0.78,0.82,0.76,0.80,0.84,0.24
+NG004,SN004,portfolio_office,quarterly,0.42,0.38,0.36,0.34,0.30,0.35,0.78
+NG005,SN005,operations_team,quarterly,0.58,0.62,0.50,0.32,0.40,0.45,0.70
+NG006,SN006,participatory_governance_team,quarterly,0.74,0.72,0.70,0.86,0.68,0.72,0.30
+NG007,SN007,foresight_team,quarterly,0.76,0.70,0.74,0.64,0.66,0.78,0.34
+NG008,SN008,executive_team,annual,0.46,0.44,0.32,0.30,0.26,0.28,0.88

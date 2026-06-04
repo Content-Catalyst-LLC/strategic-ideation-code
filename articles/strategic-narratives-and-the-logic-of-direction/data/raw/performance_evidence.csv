@@ -1,0 +1,13 @@
+evidence_id,narrative_id,evidence_type,claim_tested,evidence_strength,action_alignment,contradiction_risk,stakeholder_signal,revision_required
+PE001,SN001,budget_review,Transformation narrative is supported by resource allocation,0.42,0.34,0.74,0.52,true
+PE002,SN001,implementation_review,Tool adoption equals strategic transformation,0.35,0.30,0.82,0.58,true
+PE003,SN002,decision_review,Capability-building priority affects funding choices,0.72,0.68,0.32,0.36,false
+PE004,SN002,metric_review,Metrics reflect coherence and trust goals,0.66,0.62,0.38,0.42,true
+PE005,SN003,learning_review,Feedback loops revise strategic assumptions,0.82,0.80,0.22,0.28,false
+PE006,SN003,systems_review,Interventions address structure not only symptoms,0.84,0.82,0.20,0.24,false
+PE007,SN004,portfolio_review,Initiatives connect to shared direction,0.38,0.34,0.78,0.60,true
+PE008,SN004,role_review,Teams understand how their work supports direction,0.36,0.32,0.80,0.63,true
+PE009,SN005,stakeholder_review,Efficiency narrative accounts for shifted burden,0.44,0.38,0.76,0.74,true
+PE010,SN006,participatory_review,Affected stakeholders influenced design,0.78,0.74,0.28,0.30,false
+PE011,SN007,scenario_review,Foresight narrative changes present choices,0.76,0.70,0.34,0.38,false
+PE012,SN008,crisis_review,Heroic narrative absorbs uncertainty and dissent,0.31,0.28,0.86,0.70,true

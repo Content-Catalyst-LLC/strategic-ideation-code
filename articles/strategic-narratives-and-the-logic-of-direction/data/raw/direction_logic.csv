@@ -1,0 +1,17 @@
+logic_id,narrative_id,alignment_pair,alignment_score,dependency_clarity,tradeoff_visibility,strategic_importance,logic_gap
+DL001,SN001,diagnosis_to_purpose,0.42,0.35,0.28,0.86,0.72
+DL002,SN001,purpose_to_choice,0.35,0.30,0.25,0.88,0.80
+DL003,SN001,choice_to_sequence,0.31,0.28,0.24,0.82,0.84
+DL004,SN002,diagnosis_to_purpose,0.76,0.70,0.66,0.84,0.30
+DL005,SN002,purpose_to_choice,0.74,0.69,0.64,0.86,0.32
+DL006,SN002,choice_to_sequence,0.70,0.72,0.68,0.82,0.34
+DL007,SN003,diagnosis_to_purpose,0.86,0.82,0.79,0.88,0.20
+DL008,SN003,purpose_to_choice,0.84,0.80,0.78,0.90,0.22
+DL009,SN003,choice_to_sequence,0.82,0.86,0.80,0.89,0.21
+DL010,SN004,diagnosis_to_purpose,0.44,0.38,0.32,0.84,0.70
+DL011,SN004,purpose_to_choice,0.37,0.35,0.31,0.86,0.76
+DL012,SN004,choice_to_sequence,0.34,0.30,0.28,0.82,0.80
+DL013,SN005,purpose_to_choice,0.62,0.55,0.42,0.78,0.48
+DL014,SN006,choice_to_sequence,0.76,0.70,0.74,0.86,0.28
+DL015,SN007,future_to_sequence,0.82,0.80,0.70,0.84,0.24
+DL016,SN008,diagnosis_to_choice,0.48,0.42,0.30,0.82,0.68

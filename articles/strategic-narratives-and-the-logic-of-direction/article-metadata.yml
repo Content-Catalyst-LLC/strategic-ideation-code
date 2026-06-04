@@ -1,0 +1,31 @@
+title: "Strategic Narratives and the Logic of Direction"
+slug: "strategic-narratives-and-the-logic-of-direction"
+series: "Strategic Ideation"
+repository: "https://github.com/Content-Catalyst-LLC/strategic-ideation-code"
+article_folder: "articles/strategic-narratives-and-the-logic-of-direction"
+purpose: "Advanced strategist-facing companion code for narrative coherence diagnostics, direction-logic mapping, narrative-performance gap analysis, role alignment, stakeholder interpretation, narrative drift detection, and narrative governance."
+status: "advanced scaffold"
+professional_use_cases:
+  - "Strategic narrative audit"
+  - "Direction-logic mapping"
+  - "Narrative-performance gap analysis"
+  - "Choice and sacrifice review"
+  - "Sequence and pathway coherence review"
+  - "Role-alignment diagnostics"
+  - "Stakeholder interpretation review"
+  - "Narrative drift monitoring"
+  - "Narrative governance and decision memory"
+languages:
+  - python
+  - r
+  - julia
+  - sql
+  - rust
+  - go
+  - cpp
+  - fortran
+  - c
+notes:
+  - "Uses synthetic data only."
+  - "Designed for strategists, planners, analysts, consultants, institutional leaders, communication strategists, organizational researchers, and knowledge architects."
+  - "Not a substitute for stakeholder judgment, ethical review, domain expertise, or participatory governance."

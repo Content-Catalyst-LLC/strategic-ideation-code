@@ -51,3 +51,7 @@ This repository includes advanced workflows for assumption-constraint classifica
 ## Conceptual Clarity
 
 This repository includes advanced workflows for concept inventories, interpretation variance, false-consensus detection, metric-validity review, conceptual drift monitoring, and concept-governance systems.
+
+## Strategic Narratives
+
+This repository includes advanced workflows for narrative coherence diagnostics, direction-logic mapping, narrative-performance gap analysis, role alignment, stakeholder interpretation, narrative drift monitoring, and narrative governance.
