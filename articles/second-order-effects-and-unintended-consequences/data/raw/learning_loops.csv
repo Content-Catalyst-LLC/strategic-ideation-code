@@ -1,0 +1,11 @@
+learning_id,intervention_id,learning_loop_name,feedback_quality,revision_trigger_clarity,decision_memory_quality,stakeholder_learning_visibility,scenario_update_quality,governance_response_capacity,cycle_time,learning_risk,action_if_triggered
+L001,I001,Resilience loss review loop,0.48,0.42,0.50,0.40,0.42,0.44,0.46,0.68,restore_capacity_or_pause_reform
+L002,I002,Adaptive reform review loop,0.78,0.76,0.74,0.70,0.72,0.70,0.68,0.28,revise_reform_pathway
+L003,I003,Compliance burden review loop,0.44,0.38,0.46,0.48,0.40,0.42,0.44,0.72,redesign_compliance_system
+L004,I004,Structural redesign learning loop,0.70,0.68,0.72,0.62,0.66,0.68,0.58,0.34,adjust_transition_pathway
+L005,I005,Metric distortion review loop,0.46,0.42,0.48,0.44,0.42,0.46,0.48,0.76,revise_metrics_and_countermetrics
+L006,I006,Automation dependency learning loop,0.50,0.44,0.52,0.46,0.48,0.50,0.46,0.66,restore_fallback_capacity
+L007,I007,Trust cascade learning loop,0.74,0.70,0.72,0.86,0.68,0.66,0.60,0.26,amplify_legitimacy_and_governance
+L008,I008,Prototype evidence learning loop,0.86,0.84,0.78,0.74,0.80,0.72,0.76,0.18,reframe_or_scale_based_on_evidence
+L009,I009,Reporting burden review loop,0.42,0.38,0.44,0.42,0.38,0.40,0.44,0.74,cut_or_redesign_reporting
+L010,I010,Stakeholder service learning loop,0.78,0.74,0.76,0.88,0.70,0.70,0.64,0.22,scale_with_burden_controls

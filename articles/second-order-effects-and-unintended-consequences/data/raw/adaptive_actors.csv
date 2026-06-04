@@ -1,0 +1,9 @@
+actor_id,intervention_id,actor_group,adaptation_speed,strategic_awareness,workaround_likelihood,resistance_likelihood,gaming_likelihood,imitation_likelihood,trust_sensitivity,influence_on_outcome,monitoring_gap,review_action
+A001,I001,operations_managers,0.70,0.68,0.52,0.44,0.50,0.48,0.42,0.72,0.46,monitor_capacity_tradeoffs
+A002,I003,frontline_workers,0.74,0.66,0.82,0.64,0.70,0.42,0.58,0.76,0.54,review_burden_and_workarounds
+A003,I005,performance_managed_staff,0.78,0.74,0.60,0.50,0.86,0.54,0.46,0.80,0.50,add_countermetrics_and_qualitative_review
+A004,I006,technology_users,0.64,0.58,0.66,0.46,0.42,0.44,0.52,0.70,0.56,observe_actual_use_patterns
+A005,I007,affected_stakeholders,0.52,0.70,0.34,0.44,0.24,0.46,0.88,0.78,0.58,track_legitimacy_and_trust
+A006,I008,prototype_participants,0.46,0.52,0.24,0.28,0.18,0.30,0.74,0.62,0.34,use_for_learning_feedback
+A007,I009,reporting_staff,0.72,0.64,0.76,0.58,0.68,0.40,0.50,0.74,0.52,review_documentation_burden
+A008,I010,service_users,0.44,0.58,0.22,0.28,0.16,0.34,0.86,0.70,0.36,monitor_burden_and_trust

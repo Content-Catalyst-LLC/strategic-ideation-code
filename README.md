@@ -99,3 +99,7 @@ This repository includes advanced workflows for problem-framing diagnostics, fra
 ## Complex Systems and Strategic Uncertainty
 
 This repository includes advanced workflows for complexity-aware strategy, structural uncertainty diagnostics, scenario robustness, adaptive option design, feedback-loop review, nonlinear risk scoring, path-dependence analysis, early-warning indicators, learning loops, and decision-memory systems.
+
+## Second-Order Effects and Unintended Consequences
+
+This repository includes advanced workflows for second-order effect diagnostics, unintended-consequence audits, feedback-loop review, burden-shift analysis, incentive distortion scoring, behavioral adaptation review, delay-risk modeling, policy-resistance detection, fragility analysis, early-warning indicators, learning loops, and decision-memory records.

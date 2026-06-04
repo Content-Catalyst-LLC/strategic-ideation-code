@@ -1,0 +1,9 @@
+indicator_id,intervention_id,indicator_name,signal_type,leading_quality,visibility,reliability,timeliness,sensitivity,false_positive_risk,decision_linkage,monitoring_cost,trigger_threshold,review_action
+E001,I001,Slack and recovery capacity decline,resilience_signal,0.82,0.58,0.62,0.60,0.80,0.34,0.64,0.38,0.30,connect_to_resilience_trigger
+E002,I003,Workaround frequency,behavioral_signal,0.78,0.52,0.58,0.62,0.76,0.40,0.58,0.34,0.25,review_compliance_design
+E003,I005,Metric divergence from qualitative outcomes,metric_distortion_signal,0.84,0.56,0.60,0.58,0.82,0.38,0.62,0.36,0.25,activate_countermetric_review
+E004,I006,Manual fallback capability decline,dependency_signal,0.80,0.54,0.56,0.58,0.78,0.42,0.60,0.42,0.30,restore_human_fallback_capacity
+E005,I007,Trust and participation increase,positive_cascade_signal,0.72,0.60,0.58,0.54,0.70,0.36,0.64,0.32,0.40,amplify_legitimacy_practices
+E006,I008,Prototype contradiction log,learning_signal,0.86,0.78,0.72,0.74,0.80,0.28,0.78,0.24,0.20,reframe_concept_before_scale
+E007,I009,Reporting effort to substantive work ratio,burden_signal,0.78,0.50,0.56,0.54,0.76,0.38,0.58,0.30,0.35,simplify_reporting_system
+E008,I010,Service burden and trust score,stakeholder_signal,0.82,0.62,0.64,0.60,0.78,0.34,0.68,0.34,0.30,scale_with_stakeholder_review

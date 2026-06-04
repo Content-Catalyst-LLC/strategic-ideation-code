@@ -1,0 +1,32 @@
+title: "Second-Order Effects and Unintended Consequences"
+slug: "second-order-effects-and-unintended-consequences"
+series: "Strategic Ideation"
+repository: "https://github.com/Content-Catalyst-LLC/strategic-ideation-code"
+article_folder: "articles/second-order-effects-and-unintended-consequences"
+purpose: "Advanced strategist-facing companion code for second-order effect diagnostics, unintended-consequence audits, feedback-loop review, burden-shift analysis, incentive distortion scoring, behavioral adaptation review, delay-risk modeling, policy-resistance detection, fragility analysis, early-warning indicators, learning loops, and decision-memory records."
+status: "advanced scaffold"
+professional_use_cases:
+  - "Second-order effect diagnostics"
+  - "Unintended-consequence audit"
+  - "Feedback-loop and policy-resistance review"
+  - "Behavioral adaptation and incentive distortion scoring"
+  - "Burden-shift and externality analysis"
+  - "Fragility and resilience erosion analysis"
+  - "Scenario stress testing"
+  - "Early-warning indicator design"
+  - "Learning-loop governance"
+  - "Decision-memory systems"
+languages:
+  - python
+  - r
+  - julia
+  - sql
+  - rust
+  - go
+  - cpp
+  - fortran
+  - c
+notes:
+  - "Uses synthetic data only."
+  - "Designed for strategists, systems thinkers, policy teams, product strategists, foresight practitioners, analysts, consultants, innovation teams, public-sector teams, sustainability teams, and organizational decision-makers."
+  - "Not a substitute for stakeholder judgment, ethical review, domain expertise, or participatory governance."

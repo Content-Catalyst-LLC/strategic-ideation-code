@@ -1,0 +1,11 @@
+intervention_id,intervention_name,intervention_type,domain,first_order_gain,adaptation_pressure,feedback_amplification,delay_risk,burden_shift_risk,gaming_risk,long_term_fragility,learning_capacity,stakeholder_legitimacy,strategic_reversibility,description
+I001,Fast Efficiency Reform,efficiency,operations,0.88,0.76,0.58,0.69,0.66,0.52,0.82,0.38,0.44,0.42,Immediate cost and speed gains with high fragility and adaptation risk.
+I002,Balanced Adaptive Reform,adaptive_reform,organizational_strategy,0.71,0.44,0.51,0.42,0.34,0.28,0.39,0.76,0.72,0.70,Moderate first-order gain with learning loops and revision capacity.
+I003,Compliance-Heavy Intervention,compliance,public_systems,0.63,0.81,0.73,0.57,0.78,0.74,0.74,0.42,0.46,0.38,Improves formal compliance while increasing burden and gaming risk.
+I004,Deep Structural Redesign,structural_redesign,systems_change,0.66,0.38,0.62,0.48,0.40,0.30,0.31,0.72,0.70,0.58,Slower visible gain but stronger long-term structural stability.
+I005,Metric-Driven Performance Push,metric_intervention,performance_management,0.82,0.78,0.70,0.62,0.64,0.82,0.70,0.44,0.48,0.46,High immediate metric movement with strong gaming and distortion risk.
+I006,Technology Automation Rollout,automation,technology_strategy,0.80,0.64,0.60,0.56,0.58,0.46,0.68,0.50,0.52,0.48,Efficiency gains accompanied by dependency and deskilling risk.
+I007,Trust-Building Governance Reform,governance,institutional_strategy,0.58,0.36,0.54,0.50,0.30,0.24,0.28,0.78,0.86,0.62,Lower immediate gain with potential positive legitimacy cascade.
+I008,Low-Risk Prototype and Learning Loop,prototype,innovation_strategy,0.52,0.30,0.46,0.36,0.26,0.20,0.22,0.88,0.74,0.86,Small initial intervention designed to produce evidence and preserve options.
+I009,Centralized Reporting Expansion,administrative_control,organizational_governance,0.70,0.66,0.64,0.58,0.72,0.68,0.62,0.40,0.42,0.44,Increases visibility but risks reporting burden and performative compliance.
+I010,Stakeholder-Centered Service Redesign,service_redesign,public_service,0.62,0.34,0.52,0.42,0.24,0.22,0.26,0.82,0.88,0.66,Improves legitimacy and reduces hidden burden through stakeholder inquiry.

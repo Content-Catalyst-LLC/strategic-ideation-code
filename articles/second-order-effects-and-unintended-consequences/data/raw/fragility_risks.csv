@@ -1,0 +1,11 @@
+fragility_id,intervention_id,fragility_type,slack_reduction,redundancy_reduction,trust_erosion,option_closure,dependency_creation,recovery_capacity_loss,stress_exposure,monitoring_quality,review_action
+G001,I001,resilience_erosion,0.84,0.78,0.42,0.62,0.68,0.76,0.80,0.44,restore_slack_or_redundancy
+G002,I002,managed_fragility,0.32,0.28,0.24,0.30,0.34,0.28,0.34,0.74,continue_monitoring
+G003,I003,procedural_fragility,0.52,0.40,0.58,0.48,0.44,0.50,0.58,0.42,reduce_bureaucratic_dependency
+G004,I004,transition_fragility,0.38,0.34,0.30,0.36,0.40,0.34,0.46,0.66,stage_structural_change
+G005,I005,metric_fragility,0.58,0.42,0.54,0.56,0.48,0.52,0.62,0.44,add_countermetrics_and_review
+G006,I006,automation_dependency,0.54,0.58,0.38,0.62,0.82,0.66,0.68,0.48,build_fallback_capacity
+G007,I007,legitimacy_transition_risk,0.28,0.26,0.18,0.34,0.30,0.24,0.36,0.70,protect_trust_process
+G008,I008,low_scale_learning_risk,0.20,0.18,0.14,0.16,0.18,0.16,0.24,0.82,acceptable
+G009,I009,reporting_dependency,0.56,0.38,0.50,0.48,0.60,0.46,0.58,0.40,simplify_reporting_governance
+G010,I010,participation_scaling_risk,0.24,0.20,0.16,0.26,0.28,0.22,0.30,0.76,monitor_scale_effects

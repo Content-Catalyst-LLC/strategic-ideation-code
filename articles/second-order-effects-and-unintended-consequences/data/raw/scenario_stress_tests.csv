@@ -1,0 +1,11 @@
+scenario_id,intervention_id,scenario_name,scenario_type,plausibility,severity,delay_exposure,adaptation_exposure,feedback_exposure,burden_exposure,fragility_exposure,preparation_quality,response_flexibility,review_action
+S001,I001,Cost shock after redundancy removal,stress_failure,0.62,0.86,0.76,0.62,0.72,0.70,0.88,0.38,0.42,stress_test_resilience_before_scale
+S002,I002,Stakeholder pushback during pilot,implementation_learning,0.54,0.46,0.40,0.42,0.38,0.36,0.34,0.76,0.78,use_learning_loop
+S003,I003,Compliance workaround spreads,behavioral_cascade,0.68,0.74,0.58,0.82,0.76,0.80,0.66,0.40,0.42,redesign_incentives
+S004,I004,Structural redesign meets legacy resistance,transition_friction,0.58,0.62,0.52,0.48,0.50,0.44,0.46,0.66,0.62,stage_pathway_and_monitor
+S005,I005,Metric gaming becomes institutional norm,metric_cascade,0.70,0.80,0.64,0.78,0.82,0.70,0.76,0.42,0.40,add_countermetrics_and_review
+S006,I006,Automation outage reveals deskilling,technology_fragility,0.56,0.78,0.70,0.54,0.66,0.62,0.82,0.46,0.44,build_human_fallbacks
+S007,I007,Transparency reform triggers positive trust cascade,positive_cascade,0.52,0.42,0.48,0.34,0.46,0.28,0.26,0.70,0.66,amplify_legitimacy_loop
+S008,I008,Prototype evidence contradicts original concept,learning_signal,0.64,0.38,0.30,0.26,0.32,0.24,0.20,0.84,0.86,reframe_before_scale
+S009,I009,Reporting burden reduces substantive work,administrative_cascade,0.66,0.72,0.58,0.66,0.72,0.84,0.62,0.38,0.40,reduce_reporting_burden
+S010,I010,Service redesign improves legitimacy and uptake,positive_cascade,0.58,0.40,0.38,0.30,0.42,0.24,0.22,0.76,0.70,scale_with_burden_monitoring

@@ -1,0 +1,9 @@
+intervention_id,intervention_name,target_second_order_risk,process_cost,implementation_complexity,propagation_mapping_gain,feedback_review_gain,burden_review_gain,incentive_review_gain,fragility_review_gain,learning_gain,decision_memory_gain,political_safety_need
+INT001,Second-order effects audit,first_order_fixation,0.34,0.38,0.86,0.70,0.72,0.68,0.66,0.68,0.70,0.30
+INT002,Causal-loop and policy-resistance review,policy_resistance,0.42,0.48,0.72,0.92,0.58,0.70,0.68,0.64,0.66,0.36
+INT003,Stakeholder burden and externality review,burden_shifting,0.46,0.52,0.68,0.60,0.94,0.62,0.66,0.70,0.72,0.42
+INT004,Incentive distortion and gaming review,metric_distortion,0.40,0.44,0.62,0.66,0.58,0.92,0.62,0.64,0.66,0.34
+INT005,Fragility and resilience stress test,long_term_fragility,0.44,0.50,0.64,0.70,0.62,0.58,0.94,0.68,0.70,0.36
+INT006,Prototype-before-scale review,premature_scale,0.48,0.52,0.70,0.72,0.74,0.70,0.76,0.88,0.78,0.30
+INT007,Early-warning indicator system,delayed_effects,0.46,0.50,0.68,0.76,0.78,0.72,0.80,0.84,0.76,0.32
+INT008,Decision-memory and revision-trigger design,learning_loop_failure,0.42,0.46,0.64,0.68,0.70,0.66,0.72,0.86,0.94,0.30

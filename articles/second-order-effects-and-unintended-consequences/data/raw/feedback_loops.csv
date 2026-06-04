@@ -1,0 +1,11 @@
+loop_id,intervention_id,loop_name,loop_type,loop_strength,visibility,reinforcing_risk,balancing_capacity,policy_resistance_risk,delay_risk,intervention_readiness,diagnostic_note
+F001,I001,Efficiency-fragility loop,reinforcing_negative,0.80,0.44,0.78,0.34,0.64,0.68,0.42,Efficiency gain reduces slack and increases future vulnerability.
+F002,I002,Learning-revision loop,balancing_adaptive,0.62,0.76,0.34,0.78,0.28,0.36,0.78,Feedback improves the intervention before fragility accumulates.
+F003,I003,Compliance-workaround loop,reinforcing_negative,0.76,0.42,0.74,0.30,0.82,0.56,0.38,Added procedure creates avoidance and more procedure.
+F004,I004,Structural coordination loop,reinforcing_positive,0.68,0.62,0.42,0.64,0.36,0.46,0.66,Better coordination improves information flow and lowers friction.
+F005,I005,Metric gaming loop,reinforcing_negative,0.82,0.48,0.82,0.28,0.76,0.52,0.40,Target pressure causes actors to optimize around indicators.
+F006,I006,Automation dependency loop,reinforcing_negative,0.72,0.46,0.68,0.36,0.58,0.62,0.44,Automation success increases dependency and lowers fallback capacity.
+F007,I007,Legitimacy participation loop,reinforcing_positive,0.70,0.60,0.30,0.72,0.24,0.54,0.70,Trust increases participation and improves information quality.
+F008,I008,Prototype learning loop,balancing_adaptive,0.56,0.82,0.22,0.86,0.18,0.28,0.84,Small experiments reveal effects before scale.
+F009,I009,Reporting burden loop,reinforcing_negative,0.74,0.44,0.72,0.32,0.70,0.56,0.40,More reporting reduces time for substantive work.
+F010,I010,Service trust loop,reinforcing_positive,0.66,0.66,0.26,0.74,0.22,0.42,0.76,Lower burden increases trust and service uptake.

@@ -1,0 +1,9 @@
+burden_id,intervention_id,burden_location,burden_type,hidden_cost,administrative_load,emotional_load,risk_transfer,equity_risk,visibility_to_decision_makers,participatory_review_quality,review_action
+B001,I001,operations_team,resilience_burden,0.70,0.42,0.36,0.72,0.48,0.40,0.34,include_resilience_capacity_review
+B002,I003,frontline_workers,administrative_burden,0.78,0.86,0.58,0.54,0.62,0.38,0.40,reduce_procedural_load
+B003,I005,staff_subject_to_metrics,performance_burden,0.66,0.58,0.70,0.60,0.54,0.46,0.42,review_metric_pressure_and_gaming
+B004,I006,users_and_support_staff,technology_burden,0.62,0.52,0.50,0.58,0.46,0.44,0.48,observe_hidden_labor
+B005,I007,governance_team,accountability_burden,0.42,0.48,0.44,0.36,0.32,0.66,0.72,manage_as_legitimacy_investment
+B006,I008,prototype_team,learning_burden,0.30,0.34,0.28,0.24,0.22,0.74,0.78,acceptable_learning_cost
+B007,I009,reporting_staff,documentation_burden,0.74,0.88,0.62,0.52,0.58,0.36,0.38,cut_nonessential_reporting
+B008,I010,service_design_team,participatory_process_burden,0.36,0.42,0.40,0.28,0.24,0.70,0.86,manage_with_stakeholder_care

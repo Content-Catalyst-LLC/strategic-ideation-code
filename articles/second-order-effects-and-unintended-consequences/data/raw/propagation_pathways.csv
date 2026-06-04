@@ -1,0 +1,11 @@
+pathway_id,intervention_id,pathway_name,pathway_type,cross_boundary_reach,dependency_creation,externality_risk,downstream_visibility,time_to_visibility,reversibility,monitoring_quality,review_action
+P001,I001,Cost reduction to resilience erosion,capacity_pathway,0.72,0.78,0.68,0.42,0.70,0.38,0.44,extend_resilience_review
+P002,I002,Pilot evidence to strategic revision,learning_pathway,0.58,0.34,0.28,0.76,0.38,0.76,0.78,advance_with_learning_loop
+P003,I003,Compliance burden to procedural workarounds,behavioral_pathway,0.74,0.56,0.76,0.46,0.52,0.36,0.42,review_burden_and_gaming
+P004,I004,Information flow to structural coordination,systems_pathway,0.70,0.44,0.36,0.66,0.54,0.58,0.68,monitor_structural_shift
+P005,I005,Metric target to gaming behavior,incentive_pathway,0.68,0.50,0.70,0.48,0.46,0.42,0.46,add_countermetrics
+P006,I006,Automation to dependency and deskilling,technology_pathway,0.64,0.82,0.62,0.44,0.64,0.40,0.50,plan_human_judgment_safeguards
+P007,I007,Governance transparency to legitimacy cascade,legitimacy_pathway,0.62,0.32,0.24,0.70,0.58,0.62,0.72,amplify_positive_cascade
+P008,I008,Prototype to option expansion,learning_pathway,0.46,0.24,0.18,0.82,0.30,0.86,0.84,use_for_option_learning
+P009,I009,Reporting expansion to administrative burden,administrative_pathway,0.66,0.60,0.74,0.42,0.52,0.38,0.44,review_documentation_burden
+P010,I010,User inquiry to service legitimacy,stakeholder_pathway,0.60,0.28,0.20,0.76,0.42,0.68,0.78,advance_with_burden_monitoring
