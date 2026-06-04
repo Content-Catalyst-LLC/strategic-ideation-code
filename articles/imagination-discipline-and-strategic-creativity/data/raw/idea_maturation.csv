@@ -1,0 +1,11 @@
+maturation_id,idea_id,stage,clarification_gain,evidence_gain,stakeholder_gain,systems_gain,recombination_gain,revision_quality,stage_gate_quality,next_stage_recommendation
+M001,I001,early_concept,0.32,0.28,0.26,0.24,0.30,0.34,0.30,reframe_before_development
+M002,I002,developed_concept,0.78,0.70,0.86,0.74,0.72,0.80,0.76,prototype_with_stakeholders
+M003,I003,developed_hypothesis,0.70,0.62,0.60,0.72,0.84,0.78,0.70,test_structural_fit
+M004,I004,early_hypothesis,0.58,0.60,0.42,0.48,0.56,0.62,0.54,trust_review_before_pilot
+M005,I005,strategic_option,0.82,0.72,0.66,0.86,0.76,0.84,0.80,pilot_governance_learning_loop
+M006,I006,prototype_ready,0.74,0.82,0.72,0.70,0.68,0.78,0.82,run_low_risk_sprint
+M007,I007,developed_hypothesis,0.80,0.66,0.58,0.84,0.72,0.78,0.74,simulate_metric_effects
+M008,I008,strategic_option,0.76,0.68,0.90,0.78,0.80,0.86,0.78,pilot_with_capacity_safeguards
+M009,I009,early_concept,0.30,0.24,0.20,0.22,0.26,0.28,0.24,archive_or_reframe
+M010,I010,strategic_option,0.78,0.74,0.62,0.84,0.82,0.84,0.80,stress_test_across_scenarios

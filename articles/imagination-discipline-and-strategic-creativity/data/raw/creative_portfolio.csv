@@ -1,0 +1,11 @@
+portfolio_id,idea_id,portfolio_role,confidence_level,evidence_readiness,strategic_option_value,learning_value,resource_intensity,time_sensitivity,risk_exposure,portfolio_action
+P001,I001,surface_variant,0.38,0.36,0.42,0.34,0.28,0.44,0.30,archive_or_reframe
+P002,I002,core_candidate,0.72,0.70,0.84,0.82,0.48,0.68,0.52,prototype_with_stakeholders
+P003,I003,exploratory_candidate,0.66,0.62,0.78,0.84,0.42,0.60,0.56,validate_analogy
+P004,I004,technology_candidate,0.58,0.56,0.68,0.70,0.54,0.64,0.62,trust_review_and_limited_pilot
+P005,I005,core_candidate,0.74,0.72,0.88,0.86,0.58,0.76,0.64,pilot_governance_redesign
+P006,I006,quick_learning_candidate,0.70,0.78,0.76,0.82,0.30,0.72,0.32,run_low_resource_prototype
+P007,I007,systems_candidate,0.68,0.66,0.82,0.78,0.44,0.62,0.56,simulate_metric_change
+P008,I008,participatory_candidate,0.70,0.68,0.86,0.88,0.64,0.70,0.66,pilot_with_capacity_safeguards
+P009,I009,novelty_theater_risk,0.30,0.28,0.36,0.28,0.24,0.40,0.34,do_not_advance_as_strategy
+P010,I010,uncertainty_resilience_candidate,0.72,0.70,0.88,0.84,0.46,0.74,0.54,stress_test_and_sequence

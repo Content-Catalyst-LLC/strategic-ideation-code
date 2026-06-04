@@ -1,0 +1,11 @@
+evidence_id,idea_id,evidence_name,evidence_type,evidence_strength,reliability,cost,time_to_learn,discrimination_power,learning_value,disconfirmation_quality,expected_if_promising,weakens_if
+E001,I001,Campaign message test,experiment,0.46,0.64,0.30,0.30,0.38,0.42,0.34,Attention rises and repeat engagement improves,Attention rises but behavior remains unchanged
+E002,I002,Stakeholder burden prototype,prototype,0.74,0.72,0.48,0.48,0.78,0.82,0.76,Users report lower burden and maintain agency,Burden remains or shifts elsewhere
+E003,I003,Source-target analogy validation,comparative_review,0.66,0.70,0.40,0.42,0.72,0.76,0.70,The transferred structure fits target system dynamics,Only surface features transfer
+E004,I004,Privacy-sensitive personalization pilot,pilot,0.62,0.68,0.52,0.54,0.70,0.72,0.72,Personalization improves value without reducing trust,Trust concerns offset personalization gains
+E005,I005,Governance learning-cycle pilot,pilot,0.72,0.74,0.58,0.60,0.78,0.84,0.80,Implementation evidence changes roles decisions and sequencing,Governance absorbs feedback without changing action
+E006,I006,Low-resource prototype sprint,prototype,0.78,0.76,0.28,0.30,0.70,0.80,0.72,Small test produces decision-relevant learning,Learning is too shallow to guide action
+E007,I007,Metric behavior simulation,simulation,0.68,0.72,0.42,0.44,0.76,0.78,0.74,New metrics reduce gaming and improve learning,New metrics create new distortions
+E008,I008,Participatory studio pilot,participatory_pilot,0.70,0.68,0.62,0.64,0.74,0.86,0.76,Co-design improves relevance without overburdening participants,Participation burden outweighs learning
+E009,I009,Innovation showcase feedback survey,survey,0.34,0.56,0.24,0.24,0.28,0.30,0.26,Showcase leads to durable idea development,Positive feedback does not translate into strategy
+E010,I010,Scenario option stress test,scenario_review,0.72,0.74,0.46,0.48,0.80,0.82,0.78,Options remain useful across futures,Options work in only one assumed future

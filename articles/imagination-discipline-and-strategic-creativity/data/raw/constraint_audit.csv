@@ -1,0 +1,11 @@
+constraint_id,idea_id,constraint_name,constraint_type,constraint_legitimacy,creative_focus_gain,search_narrowing_risk,assumption_disguise_risk,ethical_importance,changeability,sequencing_value,review_action
+C001,I001,Existing engagement reporting format,institutional,0.36,0.30,0.74,0.82,0.28,0.70,0.34,challenge_as_dead_constraint
+C002,I002,Reduce stakeholder burden,ethical_stakeholder,0.92,0.82,0.30,0.18,0.94,0.36,0.78,honor_as_productive_constraint
+C003,I003,Must be understandable outside source domain,communication,0.76,0.68,0.34,0.26,0.58,0.54,0.72,use_to_translate_analogy
+C004,I004,Privacy and trust requirements,ethical_technical,0.88,0.70,0.42,0.24,0.92,0.44,0.80,honor_before_prototyping
+C005,I005,Governance approval cycles,institutional,0.52,0.44,0.66,0.70,0.48,0.62,0.68,redesign_or_sequence
+C006,I006,Limited budget and time,resource,0.74,0.82,0.38,0.22,0.46,0.42,0.90,use_for_low_risk_test
+C007,I007,Existing KPI dashboard,measurement,0.42,0.36,0.78,0.76,0.52,0.68,0.48,challenge_metric_lock_in
+C008,I008,Community participation capacity,stakeholder_capacity,0.86,0.74,0.46,0.30,0.90,0.46,0.84,sequence_participation_carefully
+C009,I009,Leadership demand for polished output,political,0.34,0.24,0.82,0.78,0.30,0.66,0.32,protect_learning_over_showcase
+C010,I010,Uncertain future conditions,futures,0.82,0.76,0.36,0.22,0.62,0.28,0.88,use_scenario_testing

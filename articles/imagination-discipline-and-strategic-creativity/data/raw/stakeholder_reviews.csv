@@ -1,0 +1,11 @@
+review_id,idea_id,stakeholder_group,visibility_quality,burden_visibility,trust_sensitivity,agency_preservation,participation_quality,legitimacy_score,hidden_harm_risk,review_recommendation
+S001,I001,returning_users,0.34,0.30,0.38,0.32,0.28,0.34,0.56,add_user_research_before_campaign
+S002,I002,affected_stakeholders,0.90,0.92,0.78,0.86,0.84,0.88,0.24,advance_with_co_design
+S003,I003,frontline_implementers,0.64,0.58,0.52,0.60,0.56,0.62,0.34,translate_analogy_with_implementers
+S004,I004,privacy_sensitive_users,0.48,0.44,0.84,0.46,0.38,0.52,0.64,run_trust_and_privacy_review
+S005,I005,implementation_owners,0.70,0.66,0.58,0.68,0.62,0.70,0.36,advance_with_role_mapping
+S006,I006,resource_constrained_team,0.74,0.72,0.52,0.70,0.66,0.72,0.28,advance_as_low_risk_learning_path
+S007,I007,executive_and_team_users,0.62,0.50,0.48,0.58,0.48,0.60,0.42,add_participatory_metric_review
+S008,I008,community_members,0.94,0.88,0.80,0.90,0.92,0.90,0.30,advance_with_capacity_safeguards
+S009,I009,internal_audience,0.30,0.22,0.28,0.26,0.20,0.28,0.58,do_not_confuse_showcase_with_strategy
+S010,I010,decision_makers_and_stakeholders,0.66,0.58,0.54,0.62,0.56,0.64,0.36,add_stakeholder_scenario_review

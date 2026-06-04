@@ -1,0 +1,9 @@
+intervention_id,intervention_name,target_creativity_risk,process_cost,implementation_complexity,creativity_quality_gain,evidence_quality_gain,stakeholder_gain,systems_fit_gain,revision_gain,decision_memory_gain,political_safety_need
+INT001,Separate divergence from evaluation,premature_convergence,0.30,0.34,0.76,0.52,0.48,0.46,0.62,0.50,0.28
+INT002,Novelty-depth review,novelty_theater,0.34,0.36,0.72,0.54,0.44,0.50,0.58,0.56,0.26
+INT003,Mechanism clarification workshop,mechanism_gap,0.40,0.42,0.78,0.60,0.50,0.58,0.66,0.60,0.30
+INT004,Stakeholder burden inquiry,stakeholder_blindness,0.54,0.60,0.72,0.70,0.90,0.68,0.72,0.68,0.46
+INT005,Systems-fit review before selection,systems_mismatch,0.48,0.52,0.70,0.66,0.58,0.88,0.72,0.64,0.38
+INT006,Constraint audit,dead_constraints,0.42,0.46,0.74,0.58,0.54,0.62,0.70,0.66,0.34
+INT007,Idea maturation pipeline,overdiscipline_or_underdevelopment,0.50,0.56,0.80,0.72,0.66,0.70,0.84,0.78,0.36
+INT008,Creative decision-memory archive,institutional_forgetting,0.52,0.58,0.60,0.64,0.62,0.64,0.82,0.92,0.32

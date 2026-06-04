@@ -1,0 +1,11 @@
+systems_id,idea_id,feedback_awareness,incentive_fit,dependency_visibility,delay_awareness,second_order_review,boundary_quality,adaptation_review,robustness_across_scenarios,systems_risk,systems_recommendation
+SYS001,I001,0.32,0.36,0.34,0.28,0.30,0.34,0.28,0.32,0.62,map_service_model_before_campaign
+SYS002,I002,0.76,0.74,0.70,0.66,0.72,0.78,0.70,0.74,0.34,advance_with_system_burden_map
+SYS003,I003,0.74,0.68,0.66,0.70,0.72,0.70,0.68,0.76,0.38,test_source_target_fit
+SYS004,I004,0.52,0.48,0.58,0.46,0.50,0.52,0.48,0.54,0.58,systems_review_before_scaling
+SYS005,I005,0.88,0.84,0.82,0.76,0.80,0.86,0.82,0.78,0.42,advance_with_governance_pilot
+SYS006,I006,0.70,0.68,0.64,0.60,0.66,0.68,0.64,0.72,0.28,use_learning_loop_design
+SYS007,I007,0.86,0.82,0.78,0.74,0.84,0.82,0.76,0.80,0.36,advance_with_metric_guardrails
+SYS008,I008,0.78,0.72,0.70,0.64,0.74,0.76,0.72,0.78,0.44,advance_with_capacity_and_feedback_design
+SYS009,I009,0.28,0.30,0.26,0.24,0.28,0.30,0.24,0.30,0.68,do_not_advance_without_mechanism
+SYS010,I010,0.82,0.76,0.74,0.78,0.80,0.78,0.76,0.88,0.34,advance_as_uncertainty_resilient_option

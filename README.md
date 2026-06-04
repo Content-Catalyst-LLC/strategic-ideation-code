@@ -83,3 +83,7 @@ This repository includes advanced workflows for heuristic-profile diagnostics, s
 ## Abductive Reasoning and Strategic Hypotheses
 
 This repository includes advanced workflows for abductive reasoning, strategic hypothesis formation, rival hypothesis comparison, evidence-pathway design, weak-signal interpretation, disconfirmation review, hypothesis portfolios, commitment-level scoring, revision triggers, and decision memory.
+
+## Imagination, Discipline, and Strategic Creativity
+
+This repository includes advanced workflows for strategic creativity scoring, novelty-depth diagnostics, idea maturation modeling, constraint audits, stakeholder grounding, systems-fit checks, evidence pathways, creative portfolios, revision triggers, and decision memory.
