@@ -1,0 +1,9 @@
+observation_id,observation_name,domain,signal_type,signal_strength,strategic_relevance,novelty,urgency,ambiguity,stakeholder_visibility,system_level,description
+O001,Returning users drop after onboarding,product_strategy,behavior_pattern,0.74,0.86,0.58,0.72,0.66,0.62,process,Users complete initial setup but do not return to create a second project.
+O002,Stakeholders resist a service redesign,public_strategy,stakeholder_signal,0.68,0.84,0.52,0.70,0.72,0.84,system,Stakeholders object to a redesign despite stated support for the broader goal.
+O003,Innovation workshops produce familiar ideas,organizational_strategy,process_pattern,0.76,0.80,0.46,0.58,0.62,0.44,process,Repeated workshops generate variations of existing initiatives.
+O004,Early adopters repurpose a tool,market_strategy,weak_signal,0.58,0.78,0.82,0.54,0.74,0.66,system,A small group uses the tool for a different workflow than intended.
+O005,Implementation stalls after formal approval,execution_strategy,implementation_pattern,0.82,0.88,0.44,0.78,0.68,0.58,system,A strategy is approved but does not translate into coordinated action.
+O006,Support tickets cluster around trust and data use,trust_strategy,qualitative_signal,0.70,0.82,0.54,0.68,0.64,0.76,process,Support data suggests recurring concern over data use and institutional credibility.
+O007,Competitor imitation does not improve retention,market_strategy,performance_pattern,0.64,0.76,0.42,0.58,0.60,0.40,component,A competitor-inspired feature increases attention but does not improve repeat use.
+O008,Policy pilot succeeds locally but fails elsewhere,policy_strategy,scaling_pattern,0.72,0.86,0.62,0.70,0.78,0.72,system,A pilot works in one context but does not reproduce results in another.

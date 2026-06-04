@@ -1,0 +1,15 @@
+hypothesis_id,observation_id,hypothesis_name,hypothesis_type,frame_family,mechanism_family,explanatory_strength,testability,evidence_quality,strategic_relevance,stakeholder_visibility,systems_fit,actionability,implementation_risk,reversibility,confidence_prior
+H001,O001,Post-onboarding workflow mismatch,user_behavior,workflow,workflow_design,0.82,0.74,0.68,0.86,0.72,0.76,0.72,0.52,0.74,0.24
+H002,O001,Weak awareness after signup,marketing,awareness,communication,0.54,0.82,0.48,0.56,0.42,0.36,0.78,0.34,0.82,0.22
+H003,O001,Trust drops when additional data is requested,trust,trust,credibility_and_risk,0.76,0.68,0.62,0.82,0.78,0.62,0.66,0.48,0.70,0.20
+H004,O002,Stakeholders perceive unacknowledged burden,stakeholder,burden,burden_transfer,0.84,0.70,0.66,0.86,0.92,0.78,0.64,0.58,0.66,0.26
+H005,O002,Stakeholders lack awareness of redesign benefits,communication,awareness,benefit_communication,0.48,0.78,0.44,0.54,0.50,0.40,0.76,0.36,0.80,0.18
+H006,O003,Workshop prompts are anchored by institutional heuristics,process,ideation_system,anchoring_and_defaults,0.86,0.72,0.64,0.82,0.50,0.74,0.70,0.42,0.78,0.28
+H007,O003,Participants lack creativity,individual,capability,individual_skill_gap,0.42,0.58,0.38,0.46,0.32,0.28,0.60,0.44,0.70,0.16
+H008,O004,Lead users reveal an adjacent opportunity,opportunity,weak_signal,adjacent_use_case,0.74,0.64,0.54,0.82,0.72,0.76,0.66,0.60,0.62,0.20
+H009,O004,The signal is isolated novelty without broader relevance,noise,weak_signal,isolated_behavior,0.58,0.60,0.46,0.48,0.46,0.52,0.42,0.32,0.86,0.18
+H010,O005,Implementation conflicts with incentives and roles,execution,incentives,role_and_metric_conflict,0.88,0.68,0.72,0.90,0.66,0.86,0.62,0.66,0.58,0.24
+H011,O005,The strategy was communicated poorly,communication,awareness,internal_communication,0.56,0.78,0.52,0.60,0.48,0.42,0.76,0.38,0.80,0.22
+H012,O006,Trust concerns are blocking completion,trust,trust,credibility_and_privacy,0.82,0.72,0.70,0.84,0.84,0.66,0.68,0.50,0.72,0.24
+H013,O007,Competitor imitation solved the wrong mechanism,market,recognition_trap,mechanism_mismatch,0.78,0.64,0.60,0.80,0.46,0.70,0.58,0.46,0.74,0.22
+H014,O008,Local success depended on context-specific trust and capacity,scaling,context_fit,local_conditions,0.86,0.62,0.66,0.88,0.78,0.90,0.56,0.72,0.52,0.26

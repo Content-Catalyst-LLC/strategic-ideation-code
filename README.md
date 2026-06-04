@@ -79,3 +79,7 @@ Advanced workflows for bias-profile diagnostics, idea-space diversity scoring, a
 ## Heuristics in Strategic Ideation
 
 This repository includes advanced workflows for heuristic-profile diagnostics, search-breadth scoring, anchoring and satisficing review, recognition-trap analysis, source-domain diversity, institutional shortcut audits, systems-fit checks, stopping-rule governance, intervention design, and decision memory.
+
+## Abductive Reasoning and Strategic Hypotheses
+
+This repository includes advanced workflows for abductive reasoning, strategic hypothesis formation, rival hypothesis comparison, evidence-pathway design, weak-signal interpretation, disconfirmation review, hypothesis portfolios, commitment-level scoring, revision triggers, and decision memory.

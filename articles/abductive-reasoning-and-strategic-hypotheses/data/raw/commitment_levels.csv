@@ -1,0 +1,9 @@
+commitment_id,hypothesis_id,current_commitment,commitment_cost,commitment_reversibility,evidence_threshold_met,confidence_threshold_met,stakeholder_threshold_met,risk_threshold_met,recommended_next_commitment
+C001,H001,prototype,0.42,0.74,0.68,0.70,0.66,0.58,pilot_after_workflow_test
+C002,H003,targeted_research,0.34,0.70,0.58,0.62,0.72,0.54,prototype_trust_cues
+C003,H004,targeted_research,0.46,0.66,0.64,0.70,0.88,0.62,co_design_pilot
+C004,H006,process_intervention,0.32,0.78,0.62,0.72,0.50,0.44,run_independent_frame_rotation
+C005,H008,monitor_and_explore,0.38,0.62,0.50,0.54,0.70,0.60,lead_user_research
+C006,H010,pilot,0.58,0.58,0.72,0.76,0.62,0.68,role_incentive_redesign_pilot
+C007,H012,prototype,0.40,0.72,0.70,0.72,0.82,0.56,trust_and_privacy_language_experiment
+C008,H014,pilot_review,0.62,0.52,0.66,0.74,0.76,0.72,context_readiness_assessment_before_scaling

@@ -1,0 +1,32 @@
+title: "Abductive Reasoning and Strategic Hypotheses"
+slug: "abductive-reasoning-and-strategic-hypotheses"
+series: "Strategic Ideation"
+repository: "https://github.com/Content-Catalyst-LLC/strategic-ideation-code"
+article_folder: "articles/abductive-reasoning-and-strategic-hypotheses"
+purpose: "Advanced strategist-facing companion code for abductive reasoning, strategic hypothesis formation, rival hypothesis comparison, evidence-pathway design, disconfirmation review, hypothesis portfolios, commitment-level scoring, revision triggers, and decision-memory systems."
+status: "advanced scaffold"
+professional_use_cases:
+  - "Strategic hypothesis formation"
+  - "Rival explanation comparison"
+  - "Evidence-pathway design"
+  - "Weak-signal interpretation"
+  - "Hypothesis portfolio management"
+  - "Disconfirmation review"
+  - "Commitment-level scoring"
+  - "Prototype and pilot learning design"
+  - "Revision trigger governance"
+  - "Decision-memory system design"
+languages:
+  - python
+  - r
+  - julia
+  - sql
+  - rust
+  - go
+  - cpp
+  - fortran
+  - c
+notes:
+  - "Uses synthetic data only."
+  - "Designed for strategists, planners, analysts, consultants, innovation teams, design researchers, foresight practitioners, product strategists, policy teams, and organizational leaders."
+  - "Not a substitute for stakeholder judgment, ethical review, domain expertise, or participatory governance."

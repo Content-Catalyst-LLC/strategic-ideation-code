@@ -1,0 +1,9 @@
+test_id,hypothesis_id,test_name,disconfirmation_clarity,severity_if_disconfirmed,learning_value,political_difficulty,reversibility,decision_impact,revision_path_quality
+D001,H001,Users can explain next workflow but still do not return,0.82,0.64,0.78,0.34,0.74,0.70,0.76
+D002,H003,Trust improvements fail to increase completion,0.74,0.62,0.72,0.46,0.70,0.66,0.72
+D003,H004,Burden is low but resistance remains high,0.70,0.68,0.74,0.58,0.66,0.72,0.74
+D004,H006,Independent ideation produces the same familiar options,0.76,0.56,0.82,0.40,0.78,0.68,0.80
+D005,H008,Lead-user behavior fails to repeat across adjacent users,0.72,0.60,0.76,0.34,0.72,0.62,0.70
+D006,H010,Incentive conflicts are removed but implementation does not improve,0.78,0.72,0.84,0.62,0.58,0.78,0.82
+D007,H012,Trust concerns disappear but completion remains flat,0.76,0.66,0.78,0.50,0.70,0.72,0.76
+D008,H014,Context differences do not explain cross-site failure,0.74,0.70,0.82,0.58,0.56,0.76,0.80

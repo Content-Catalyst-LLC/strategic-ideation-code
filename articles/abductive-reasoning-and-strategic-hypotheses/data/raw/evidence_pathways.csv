@@ -1,0 +1,11 @@
+evidence_id,hypothesis_id,evidence_name,evidence_type,evidence_strength,reliability,cost,time_to_learn,discrimination_power,stakeholder_legitimacy,expected_if_true,weakens_if
+E001,H001,Workflow observation after onboarding,behavioral,0.70,0.76,0.42,0.42,0.78,0.66,Users hesitate after setup and cannot identify recurring next step,Users clearly identify recurring use but still churn
+E002,H001,Cohort event data by second-project creation,quantitative,0.68,0.82,0.34,0.36,0.74,0.42,Drop-off concentrates after setup completion,Drop-off happens before setup or after successful repeat use
+E003,H003,Trust-cue message test,experiment,0.62,0.70,0.38,0.34,0.66,0.72,Completion improves when trust cues and data-use clarity improve,Trust clarity improves but completion does not change
+E004,H004,Stakeholder burden interviews,qualitative,0.74,0.72,0.48,0.50,0.78,0.90,Stakeholders describe hidden work risk or agency loss,Stakeholders understand burden but still support redesign
+E005,H006,Prompt and anchor audit of workshops,process_audit,0.66,0.74,0.36,0.34,0.82,0.50,Ideas cluster around initial prompts templates and leadership cues,Independent prompts produce the same narrow ideas
+E006,H008,Lead-user field study,qualitative,0.56,0.68,0.54,0.58,0.72,0.76,Lead users describe a recurring unmet workflow,Repurposing is idiosyncratic and non-repeatable
+E007,H010,Role incentive and KPI mapping,organizational,0.76,0.78,0.46,0.48,0.84,0.64,Implementation owners face conflicting metrics and authority gaps,Incentive conflicts are absent but implementation still stalls
+E008,H012,Privacy language and support-ticket coding,mixed_methods,0.72,0.80,0.40,0.38,0.76,0.82,Concerns cluster around data use credibility and risk,Concerns are mostly unrelated to trust or data use
+E009,H013,Mechanism comparison between copied and original feature,comparative,0.64,0.72,0.44,0.46,0.74,0.46,Copied feature lacks the original retention mechanism,Original feature mechanism is present but still does not retain
+E010,H014,Cross-site context comparison,comparative,0.70,0.76,0.58,0.62,0.82,0.78,Successful site has trust capacity or governance conditions absent elsewhere,Context conditions do not differ meaningfully

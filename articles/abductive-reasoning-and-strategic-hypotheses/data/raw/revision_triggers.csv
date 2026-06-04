@@ -1,0 +1,9 @@
+trigger_id,hypothesis_id,trigger_name,trigger_type,trigger_clarity,monitoring_quality,reopen_value,revision_difficulty,decision_memory_quality,action_if_triggered
+R001,H001,High clarity but low return behavior,evidence_contradiction,0.78,0.72,0.76,0.42,0.74,revise_to_value_or_habit_hypothesis
+R002,H003,Trust intervention does not change completion,experiment_result,0.74,0.70,0.72,0.46,0.72,compare_with_workflow_and_value_hypotheses
+R003,H004,Burden reduction does not change resistance,stakeholder_signal,0.72,0.68,0.74,0.54,0.70,review_agency_legitimacy_and_history
+R004,H006,Frame rotation does not widen idea diversity,process_result,0.76,0.74,0.82,0.40,0.80,review_authority_incentives_and_source_domains
+R005,H008,Adjacent use repeats across segments,weak_signal_growth,0.70,0.66,0.78,0.44,0.68,advance_to_exploratory_prototype
+R006,H010,Role redesign does not improve implementation,implementation_result,0.78,0.76,0.84,0.62,0.82,review_capacity_authority_and_strategy_coherence
+R007,H012,Privacy clarity helps one segment only,segmentation_signal,0.70,0.72,0.76,0.48,0.74,split_hypothesis_by_segment
+R008,H014,Scaling succeeds only where local capacity is strong,context_signal,0.76,0.74,0.82,0.58,0.80,create_context_readiness_model

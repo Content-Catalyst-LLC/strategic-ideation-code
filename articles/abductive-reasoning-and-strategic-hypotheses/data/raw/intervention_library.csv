@@ -1,0 +1,9 @@
+intervention_id,intervention_name,target_abductive_risk,process_cost,implementation_complexity,hypothesis_quality_gain,evidence_quality_gain,disconfirmation_gain,stakeholder_gain,revision_gain,decision_memory_gain,political_safety_need
+INT001,Rival hypothesis generation,first_plausible_explanation,0.30,0.34,0.76,0.54,0.62,0.46,0.58,0.48,0.26
+INT002,Frame rotation before hypothesis selection,frame_lock,0.38,0.42,0.72,0.56,0.58,0.52,0.62,0.54,0.30
+INT003,Mechanism mapping,mechanism_gap,0.42,0.46,0.78,0.62,0.60,0.50,0.66,0.58,0.28
+INT004,Disconfirmation design review,confirmation_seeking,0.44,0.48,0.68,0.74,0.86,0.48,0.74,0.68,0.40
+INT005,Stakeholder evidence pathway,stakeholder_blindness,0.54,0.60,0.70,0.76,0.66,0.88,0.70,0.66,0.48
+INT006,Commitment-level gatekeeping,overcommitment_to_weak_hypothesis,0.40,0.44,0.64,0.66,0.70,0.52,0.78,0.70,0.38
+INT007,Hypothesis portfolio review,premature_single_hypothesis_lock_in,0.46,0.52,0.74,0.68,0.72,0.56,0.76,0.78,0.36
+INT008,Decision-memory archive,institutional_forgetting,0.50,0.56,0.58,0.64,0.66,0.60,0.82,0.90,0.32

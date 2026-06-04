@@ -1,0 +1,9 @@
+portfolio_id,hypothesis_id,portfolio_role,confidence_level,evidence_readiness,strategic_option_value,learning_value,resource_intensity,time_sensitivity,risk_exposure,portfolio_action
+P001,H001,core_hypothesis,0.70,0.68,0.78,0.76,0.44,0.70,0.52,prototype_and_test
+P002,H003,rival_hypothesis,0.62,0.58,0.72,0.70,0.38,0.62,0.48,run_targeted_trust_test
+P003,H004,core_hypothesis,0.70,0.64,0.82,0.78,0.48,0.68,0.58,co_design_evidence_pathway
+P004,H006,core_hypothesis,0.72,0.62,0.80,0.84,0.32,0.58,0.42,intervene_in_ideation_process
+P005,H008,exploratory_hypothesis,0.54,0.50,0.84,0.82,0.42,0.64,0.60,monitor_and_research
+P006,H010,core_hypothesis,0.76,0.72,0.86,0.82,0.58,0.76,0.68,pilot_incentive_redesign
+P007,H012,core_hypothesis,0.72,0.70,0.80,0.76,0.40,0.66,0.52,prototype_trust_intervention
+P008,H014,scaling_hypothesis,0.74,0.66,0.88,0.84,0.62,0.72,0.72,context_readiness_review
