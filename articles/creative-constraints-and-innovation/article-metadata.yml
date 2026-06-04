@@ -1,0 +1,31 @@
+title: "Creative Constraints and Innovation"
+slug: "creative-constraints-and-innovation"
+series: "Strategic Ideation"
+repository: "https://github.com/Content-Catalyst-LLC/strategic-ideation-code"
+article_folder: "articles/creative-constraints-and-innovation"
+purpose: "Advanced strategist-facing companion code for creative constraint audits, real-versus-assumed constraint diagnostics, innovation profile scoring, rigidity and diffusion risk analysis, stakeholder legitimacy review, dynamic constraint tracking, and constraint governance."
+status: "advanced scaffold"
+professional_use_cases:
+  - "Creative constraint audit"
+  - "Real vs assumed constraint classification"
+  - "Constraint-calibrated innovation scoring"
+  - "Rigidity risk and diffusion risk review"
+  - "Constraint function mapping"
+  - "Stakeholder legitimacy and burden visibility review"
+  - "Dynamic constraint tracking"
+  - "Capability and learning architecture review"
+  - "Constraint governance and decision memory"
+languages:
+  - python
+  - r
+  - julia
+  - sql
+  - rust
+  - go
+  - cpp
+  - fortran
+  - c
+notes:
+  - "Uses synthetic data only."
+  - "Designed for strategists, planners, analysts, consultants, organizational leaders, innovation teams, design researchers, sustainability practitioners, and knowledge architects."
+  - "Not a substitute for stakeholder judgment, ethical review, domain expertise, or participatory governance."

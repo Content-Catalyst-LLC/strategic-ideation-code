@@ -1,0 +1,9 @@
+review_id,context_id,stakeholder_group,inclusion_level,influence_on_constraint_definition,burden_visibility,knowledge_recognition,trust_signal,legitimacy_signal,review_quality
+S001,CC001,idea_contributors,0.46,0.30,0.34,0.48,0.42,0.40,0.38
+S002,CC002,cross_functional_team,0.72,0.68,0.64,0.70,0.72,0.74,0.70
+S003,CC003,frontline_workers,0.34,0.24,0.30,0.38,0.32,0.34,0.30
+S004,CC004,resource_constrained_users,0.70,0.62,0.68,0.74,0.72,0.76,0.70
+S005,CC005,affected_publics,0.88,0.82,0.86,0.84,0.86,0.90,0.86
+S006,CC006,technical_operators,0.62,0.58,0.54,0.76,0.64,0.60,0.62
+S007,CC007,environmental_stakeholders,0.84,0.78,0.88,0.82,0.84,0.88,0.84
+S008,CC008,excluded_innovation_teams,0.30,0.18,0.26,0.32,0.28,0.30,0.24

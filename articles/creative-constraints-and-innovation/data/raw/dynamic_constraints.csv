@@ -1,0 +1,9 @@
+dynamic_id,constraint_id,context_id,change_direction,change_likelihood,strategic_exposure,detection_confidence,adaptation_readiness,recommended_response
+D001,K003,CC002,tightening,0.62,0.74,0.70,0.76,sequence_portfolio_and_resource_gates
+D002,K005,CC003,loosening_possible,0.54,0.80,0.62,0.44,test_approval_process_redesign
+D003,K007,CC004,tightening,0.70,0.82,0.74,0.68,protect_core_value_and_reduce_scope
+D004,K009,CC005,stable_nonnegotiable,0.82,0.90,0.86,0.76,design_with_accountability_as_requirement
+D005,K011,CC006,tightening,0.66,0.78,0.72,0.58,develop_modular_exit_path
+D006,K013,CC007,tightening,0.86,0.94,0.88,0.72,prioritize_carbon_budget_design
+D007,K015,CC008,loosening_possible,0.58,0.82,0.60,0.42,challenge_with_evidence_and_alternative_categories
+D008,K016,CC008,politically_contested,0.74,0.88,0.66,0.36,make_power_assumption_explicit

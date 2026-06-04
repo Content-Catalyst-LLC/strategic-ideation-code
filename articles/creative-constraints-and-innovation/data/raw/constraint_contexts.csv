@@ -1,0 +1,9 @@
+context_id,context_name,context_type,resource_pressure,technical_rigidity,institutional_rigidity,ecological_boundary_pressure,ethical_constraint_visibility,search_focus,adaptive_opportunity,stakeholder_legitimacy,learning_capacity,implementation_readiness
+CC001,Unbounded Diffuse Context,under_constrained,0.12,0.18,0.16,0.20,0.38,0.24,0.38,0.42,0.36,0.34
+CC002,Balanced Creative Constraint Context,balanced,0.54,0.47,0.43,0.52,0.66,0.78,0.81,0.72,0.78,0.76
+CC003,Highly Rigid Organizational Context,over_constrained,0.71,0.82,0.88,0.58,0.42,0.41,0.26,0.38,0.30,0.40
+CC004,Frugal Innovation Context,frugal_innovation,0.83,0.44,0.39,0.50,0.58,0.72,0.84,0.64,0.70,0.68
+CC005,Ethically Constrained Public Strategy Context,public_legitimacy,0.62,0.58,0.72,0.66,0.91,0.70,0.66,0.86,0.74,0.62
+CC006,Technical Architecture Bottleneck Context,technical_bottleneck,0.48,0.86,0.54,0.42,0.50,0.56,0.48,0.46,0.55,0.58
+CC007,Ecological Boundary Innovation Context,ecological_boundary,0.66,0.52,0.57,0.92,0.88,0.74,0.70,0.82,0.76,0.60
+CC008,Inherited Assumption Constraint Context,false_constraints,0.40,0.50,0.78,0.36,0.44,0.42,0.58,0.38,0.46,0.50

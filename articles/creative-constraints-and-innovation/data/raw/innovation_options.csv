@@ -1,0 +1,15 @@
+option_id,context_id,option_name,novelty,strategic_fit,constraint_fit,adaptive_value,stakeholder_value,ecological_responsibility,ethical_legitimacy,implementation_readiness,assumption_burden
+O001,CC001,Define minimum viable decision criteria,0.46,0.78,0.82,0.70,0.58,0.46,0.62,0.82,0.24
+O002,CC002,Create staged prototype evidence gates,0.62,0.84,0.86,0.78,0.74,0.64,0.76,0.80,0.30
+O003,CC002,Build modular implementation portfolio,0.70,0.82,0.80,0.82,0.72,0.68,0.74,0.72,0.36
+O004,CC003,Redesign approval process around risk tiers,0.74,0.78,0.68,0.76,0.62,0.56,0.66,0.58,0.48
+O005,CC003,Accept legacy process and reduce innovation scope,0.28,0.42,0.50,0.32,0.34,0.42,0.38,0.70,0.26
+O006,CC004,Develop frugal modular service kit,0.78,0.80,0.86,0.84,0.76,0.74,0.78,0.68,0.40
+O007,CC004,Shift to lower-cost peer delivery model,0.66,0.72,0.78,0.70,0.82,0.62,0.76,0.58,0.48
+O008,CC005,Create public accountability design review,0.58,0.82,0.88,0.74,0.86,0.78,0.92,0.64,0.34
+O009,CC005,Compress review process without stakeholder input,0.34,0.46,0.52,0.38,0.22,0.50,0.24,0.76,0.42
+O010,CC006,Build modular migration pathway,0.72,0.80,0.74,0.82,0.60,0.56,0.64,0.62,0.52
+O011,CC006,Negotiate vendor extension only,0.30,0.48,0.62,0.34,0.38,0.44,0.42,0.78,0.22
+O012,CC007,Design within carbon budget with circular inputs,0.82,0.86,0.90,0.80,0.84,0.94,0.90,0.62,0.44
+O013,CC008,Challenge legacy funding categories through evidence memo,0.64,0.76,0.70,0.72,0.62,0.56,0.68,0.58,0.50
+O014,CC008,Keep known model to satisfy leadership preference,0.22,0.40,0.58,0.30,0.28,0.42,0.34,0.80,0.24

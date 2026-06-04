@@ -1,0 +1,9 @@
+capability_id,context_id,capability_name,interpretive_flexibility,technical_capacity,process_discipline,decision_memory,stakeholder_learning,prototype_capacity,revision_capacity,burnout_risk
+L001,CC001,basic_process_design,0.42,0.48,0.36,0.30,0.38,0.32,0.34,0.54
+L002,CC002,balanced_learning_architecture,0.76,0.72,0.78,0.74,0.70,0.76,0.78,0.32
+L003,CC003,institutional_redesign_capacity,0.38,0.64,0.42,0.36,0.34,0.40,0.38,0.70
+L004,CC004,frugal_recombination_capacity,0.78,0.66,0.72,0.62,0.68,0.70,0.74,0.66
+L005,CC005,public_accountability_learning,0.74,0.62,0.76,0.70,0.86,0.64,0.72,0.42
+L006,CC006,technical_modularity_learning,0.58,0.82,0.64,0.58,0.52,0.68,0.62,0.48
+L007,CC007,ecological_design_learning,0.80,0.70,0.78,0.72,0.82,0.74,0.76,0.44
+L008,CC008,false_constraint_challenge_capacity,0.52,0.54,0.40,0.34,0.32,0.42,0.46,0.62

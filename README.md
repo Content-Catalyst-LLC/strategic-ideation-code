@@ -59,3 +59,7 @@ This repository includes advanced workflows for narrative coherence diagnostics,
 ## Divergent and Convergent Thinking
 
 This repository includes advanced workflows for divergence-convergence diagnostics, exploration-exploitation balance, idea portfolio scoring, criteria quality review, constraint classification, stakeholder inclusion, selection integrity, iteration quality, and decision memory.
+
+## Creative Constraints and Innovation
+
+This repository includes advanced workflows for creative constraint audits, real-versus-assumed constraint diagnostics, innovation profile scoring, rigidity and diffusion risk analysis, stakeholder legitimacy review, dynamic constraint tracking, and constraint governance.
