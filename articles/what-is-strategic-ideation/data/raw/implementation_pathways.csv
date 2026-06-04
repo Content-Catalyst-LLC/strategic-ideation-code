@@ -1,0 +1,13 @@
+pathway_id,idea_id,pathway_name,phase_1,phase_2,phase_3,dependency_count,owner_clarity,feedback_strength,governance_fit,scaling_risk
+IP001,I001,Repository implementation,Template pilot,Decision-review integration,Institutional archive,4,0.78,0.82,0.86,0.32
+IP002,I002,Assumption workshop implementation,Facilitator guide,Selection-meeting integration,Portfolio review norm,3,0.84,0.79,0.81,0.24
+IP003,I003,Scenario review implementation,Scenario set,Option stress test,Decision review integration,5,0.70,0.84,0.78,0.38
+IP004,I004,Prototype sprint implementation,Prototype brief,Two-week test,Evidence review,4,0.76,0.88,0.74,0.30
+IP005,I005,Governance dashboard implementation,Metric design,Review cadence,Portfolio board integration,7,0.62,0.71,0.83,0.49
+IP006,I006,Legitimacy review implementation,Stakeholder map,Burden review,Decision revision,5,0.66,0.86,0.80,0.41
+IP007,I007,Pathway map implementation,Dependency map,Owner assignment,Execution review,3,0.85,0.76,0.79,0.26
+IP008,I008,Effects audit implementation,Causal map,Risk register,Design revision,5,0.72,0.83,0.82,0.36
+IP009,I009,Decision memory implementation,Archive template,Review routine,Reuse audit,4,0.74,0.81,0.87,0.31
+IP010,I010,Option architecture implementation,Classification sprint,Portfolio balance review,Sequencing decision,4,0.80,0.85,0.84,0.29
+IP011,I011,Criteria review implementation,Criteria inventory,Weighting workshop,Selection governance,4,0.73,0.78,0.86,0.34
+IP012,I012,Learning governance implementation,Feedback capture,Review forum,Strategy revision log,6,0.67,0.90,0.88,0.44

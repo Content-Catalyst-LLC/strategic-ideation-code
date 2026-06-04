@@ -1,0 +1,13 @@
+option_id,idea_id,option_role,time_horizon,commitment_level,reversibility,dependency_complexity,portfolio_fit,scenario_robustness,sequencing_value,description
+O001,I001,infrastructure,medium,medium,0.72,0.41,0.92,0.78,0.86,Build reusable architecture for capturing and comparing ideas
+O002,I002,learning_probe,short,low,0.88,0.22,0.81,0.74,0.79,Run workshops to expose assumptions before selection
+O003,I003,strategic_filter,medium,medium,0.66,0.48,0.86,0.91,0.84,Compare options across plausible futures
+O004,I004,prototype,short,low,0.82,0.35,0.77,0.76,0.88,Generate evidence before large commitment
+O005,I005,governance_system,long,high,0.43,0.67,0.84,0.72,0.75,Create dashboard and review cadence for portfolios
+O006,I006,legitimacy_review,short,medium,0.71,0.44,0.79,0.82,0.80,Assess affected stakeholder burdens and voice
+O007,I007,implementation_bridge,short,medium,0.69,0.39,0.85,0.76,0.91,Translate selected ideas into sequenced action
+O008,I008,risk_audit,medium,medium,0.65,0.52,0.88,0.89,0.82,Audit second-order effects and unintended consequences
+O009,I009,knowledge_memory,medium,medium,0.75,0.36,0.83,0.79,0.87,Preserve rejected alternatives and decision rationale
+O010,I010,portfolio_reset,short,medium,0.70,0.42,0.91,0.84,0.90,Classify ideas by role timing commitment and reversibility
+O011,I011,decision_rule,short,medium,0.68,0.34,0.89,0.81,0.85,Make criteria and weighting explicit before selection
+O012,I012,adaptive_governance,long,high,0.46,0.62,0.87,0.90,0.83,Convert feedback from pilots into revised strategy

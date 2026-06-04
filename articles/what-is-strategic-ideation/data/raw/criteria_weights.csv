@@ -1,0 +1,9 @@
+criterion,weight,description
+strategic_fit,0.20,Alignment with problem frame mission values and long-term direction
+feasibility,0.12,Ability to implement with realistic resources and constraints
+systems_leverage,0.18,Potential to influence structure feedback incentives or mental models
+learning_value,0.13,Ability to produce useful evidence and improve judgment
+ethical_legitimacy,0.16,Attention to affected groups voice burdens and accountability
+knowledge_reusability,0.09,Ability to become reusable institutional knowledge
+uncertainty_penalty,0.07,Penalty for untested assumptions fragile evidence and high ambiguity
+assumption_risk_penalty,0.05,Penalty for high-criticality low-confidence assumptions

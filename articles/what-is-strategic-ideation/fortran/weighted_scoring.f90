@@ -5,22 +5,26 @@
 program weighted_scoring
   implicit none
 
-  real :: strategic_fit(3), feasibility(3), leverage(3), learning(3), uncertainty(3)
-  real :: score(3)
+  real :: fit(3), feasibility(3), leverage(3), learning(3), ethics(3), reusability(3)
+  real :: uncertainty(3), assumption_risk(3), score(3)
   character(len=4) :: ids(3)
   integer :: i
 
-  ids = (/"I001", "I004", "I008"/)
-  strategic_fit = (/0.91, 0.78, 0.86/)
-  feasibility = (/0.82, 0.76, 0.70/)
-  leverage = (/0.74, 0.65, 0.89/)
-  learning = (/0.88, 0.95, 0.88/)
-  uncertainty = (/0.24, 0.28, 0.37/)
+  ids = (/"I001", "I010", "I012"/)
+  fit = (/0.91, 0.90, 0.85/)
+  feasibility = (/0.82, 0.73, 0.64/)
+  leverage = (/0.74, 0.80, 0.84/)
+  learning = (/0.88, 0.87, 0.94/)
+  ethics = (/0.86, 0.84, 0.88/)
+  reusability = (/0.94, 0.88, 0.85/)
+  uncertainty = (/0.24, 0.29, 0.39/)
+  assumption_risk = (/0.29, 0.33, 0.44/)
 
   do i = 1, 3
-     score(i) = 0.28 * strategic_fit(i) + 0.18 * feasibility(i) + &
-                0.24 * leverage(i) + 0.18 * learning(i) - &
-                0.12 * uncertainty(i)
+     score(i) = 0.20 * fit(i) + 0.12 * feasibility(i) + &
+                0.18 * leverage(i) + 0.13 * learning(i) + &
+                0.16 * ethics(i) + 0.09 * reusability(i) - &
+                0.07 * uncertainty(i) - 0.05 * assumption_risk(i)
   end do
 
   print *, "Strategic ideation weighted scores"

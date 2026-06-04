@@ -1,10 +1,12 @@
 # Notebooks
 
-Notebook placeholders for exploratory versions of the strategic ideation workflows.
+Notebook placeholders for advanced exploratory workflows.
 
 Suggested notebooks:
 
-- `idea_portfolio_scoring.ipynb`
+- `strategic_ideation_diagnostics.ipynb`
+- `idea_portfolio_review.ipynb`
 - `assumption_mapping.ipynb`
-- `scenario_comparison.ipynb`
-- `tradeoff_visualization.ipynb`
+- `option_architecture.ipynb`
+- `prototype_learning_plan.ipynb`
+- `implementation_pathway_mapping.ipynb`

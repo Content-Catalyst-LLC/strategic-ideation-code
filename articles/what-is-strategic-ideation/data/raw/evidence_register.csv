@@ -1,0 +1,13 @@
+evidence_id,idea_id,evidence_type,evidence_summary,evidence_quality,relevance,recency,contestation,source_type
+E001,I001,workflow_audit,Prior reviews show decisions often lack rationale and rejected alternatives,0.74,0.88,0.76,0.24,internal_audit
+E002,I002,workshop_observation,Assumption mapping improved clarity in pilot workshop,0.69,0.82,0.81,0.30,pilot
+E003,I003,scenario_review,Scenario comparison changed two of five initiative rankings,0.63,0.86,0.79,0.38,analysis
+E004,I004,prototype_results,Prototype sprint generated evidence before resource commitment,0.72,0.84,0.88,0.28,pilot
+E005,I005,metric_review,Dashboard metrics risked reducing qualitative judgment to false precision,0.58,0.79,0.73,0.46,expert_review
+E006,I006,stakeholder_feedback,Participants identified burdens not visible in internal planning,0.76,0.91,0.85,0.22,participatory_review
+E007,I007,pathway_mapping,Dependency mapping revealed three sequencing risks,0.71,0.83,0.82,0.29,implementation_review
+E008,I008,systems_audit,Second-order effects audit revealed incentive feedback risk,0.68,0.89,0.78,0.34,systems_analysis
+E009,I009,archive_review,Past decisions were difficult to reconstruct due to missing rationale,0.80,0.87,0.74,0.18,document_review
+E010,I010,portfolio_classification,Option classification revealed overinvestment in immediate actions and underinvestment in learning probes,0.73,0.90,0.86,0.25,portfolio_analysis
+E011,I011,criteria_review,Explicit criteria revealed disagreement over feasibility versus systems leverage,0.66,0.85,0.82,0.37,workshop
+E012,I012,learning_review,Pilot feedback often reached operational teams but not strategic decision forums,0.70,0.88,0.83,0.31,learning_audit

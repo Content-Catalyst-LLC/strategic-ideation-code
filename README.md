@@ -35,3 +35,7 @@ This repository supports articles on strategic ideation, problem framing, mental
 ## License
 
 MIT License.
+
+## Strategic Ideation Code
+
+This repository includes advanced companion code for the Strategic Ideation knowledge series, including workflows for idea portfolio governance, option architecture, assumption mapping, prototype design, implementation pathways, strategy-to-tactics alignment, and feedback routing.

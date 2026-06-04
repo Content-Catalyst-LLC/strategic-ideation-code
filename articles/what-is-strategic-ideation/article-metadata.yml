@@ -3,8 +3,19 @@ slug: "what-is-strategic-ideation"
 series: "Strategic Ideation"
 repository: "https://github.com/Content-Catalyst-LLC/strategic-ideation-code"
 article_folder: "articles/what-is-strategic-ideation"
-purpose: "Companion code for modeling strategic ideation as structured idea generation, evaluation, assumption mapping, option architecture, and iterative learning."
-status: "active scaffold"
+purpose: "Advanced strategist-facing companion code for modeling strategic ideation as structured possibility generation, option architecture, assumption mapping, evidence review, strategic selection, prototyping, implementation pathways, and adaptive learning."
+status: "advanced upgraded scaffold"
+professional_use_cases:
+  - "Idea portfolio governance"
+  - "Strategic fit assessment"
+  - "Option architecture design"
+  - "Assumption-risk review"
+  - "Evidence-quality review"
+  - "Prototype and experiment planning"
+  - "Implementation pathway mapping"
+  - "Decision-memory system design"
+  - "Learning-loop governance"
+  - "Ethical and legitimacy review"
 languages:
   - python
   - r
@@ -17,5 +28,5 @@ languages:
   - c
 notes:
   - "Uses synthetic data only."
-  - "Intended for methods demonstration and reproducible strategic analysis."
-  - "Not a substitute for stakeholder judgment, ethics, domain expertise, or participatory review."
+  - "Designed for strategists, planners, analysts, consultants, institutional leaders, organizational researchers, and knowledge architects."
+  - "Not a substitute for stakeholder judgment, ethical review, domain expertise, or participatory governance."

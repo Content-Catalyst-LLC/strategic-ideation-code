@@ -1,0 +1,13 @@
+idea_id,idea_name,idea_type,problem_frame,strategic_fit,feasibility,systems_leverage,learning_value,ethical_legitimacy,knowledge_reusability,uncertainty,estimated_cost,implementation_months
+I001,Strategic idea repository,knowledge_architecture,Ideas are fragmented and difficult to compare over time,0.91,0.82,0.74,0.88,0.86,0.94,0.24,45000,5
+I002,Assumption mapping workshop,decision_process,Hidden assumptions distort selection and implementation,0.84,0.89,0.68,0.92,0.88,0.81,0.18,18000,2
+I003,Scenario-based option review,foresight,Ideas are evaluated too narrowly under present conditions,0.87,0.71,0.81,0.90,0.82,0.79,0.35,52000,6
+I004,Prototype evidence sprint,experimentation,Ideas are overcommitted before evidence is generated,0.78,0.76,0.65,0.95,0.80,0.75,0.28,30000,3
+I005,Portfolio governance dashboard,measurement,Idea portfolios lack review cadence and accountability,0.82,0.62,0.76,0.74,0.77,0.86,0.41,85000,8
+I006,Community legitimacy review,ethics,Affected stakeholders lack structured voice in evaluation,0.74,0.67,0.72,0.86,0.94,0.70,0.32,40000,4
+I007,Implementation pathway map,execution,Selected ideas are not translated into sequenced pathways,0.88,0.79,0.70,0.82,0.85,0.78,0.22,26000,3
+I008,Second-order effects audit,systems_thinking,Ideas ignore feedback loops delayed effects and unintended consequences,0.86,0.70,0.89,0.88,0.87,0.84,0.37,36000,4
+I009,Decision memory archive,learning,Rejected options and rationale are lost after decisions,0.83,0.77,0.71,0.91,0.83,0.96,0.21,28000,3
+I010,Option architecture reset,portfolio_design,Ideas are listed without being classified by strategic function,0.90,0.73,0.80,0.87,0.84,0.88,0.29,34000,4
+I011,Strategic criteria review,governance,Selection criteria are implicit inconsistent or politically shaped,0.89,0.69,0.76,0.82,0.86,0.83,0.33,24000,3
+I012,Learning loop governance,learning,Feedback from pilots is collected but not converted into revised strategy,0.85,0.64,0.84,0.94,0.88,0.85,0.39,46000,5

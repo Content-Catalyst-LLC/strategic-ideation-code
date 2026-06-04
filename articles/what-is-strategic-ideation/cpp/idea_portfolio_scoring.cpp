@@ -1,13 +1,14 @@
-/*
-Low-level idea-score utilities.
-Compile: cc idea_score.c -o idea_score
-Run: ./idea_score
-*/
+// Efficient idea portfolio scoring example.
+// Compile: g++ idea_portfolio_scoring.cpp -std=c++17 -O2 -o idea_portfolio_scoring
+// Run: ./idea_portfolio_scoring
 
-#include <stdio.h>
+#include <algorithm>
+#include <iostream>
+#include <string>
+#include <vector>
 
-typedef struct {
-    const char *id;
+struct Idea {
+    std::string id;
     double strategic_fit;
     double feasibility;
     double systems_leverage;
@@ -16,9 +17,9 @@ typedef struct {
     double knowledge_reusability;
     double uncertainty;
     double assumption_risk;
-} Idea;
+};
 
-double idea_score(Idea idea) {
+double score(const Idea& idea) {
     return 0.20 * idea.strategic_fit
          + 0.12 * idea.feasibility
          + 0.18 * idea.systems_leverage
@@ -29,17 +30,19 @@ double idea_score(Idea idea) {
          - 0.05 * idea.assumption_risk;
 }
 
-int main(void) {
-    Idea ideas[] = {
+int main() {
+    std::vector<Idea> ideas = {
         {"I001", 0.91, 0.82, 0.74, 0.88, 0.86, 0.94, 0.24, 0.29},
         {"I010", 0.90, 0.73, 0.80, 0.87, 0.84, 0.88, 0.29, 0.33},
         {"I012", 0.85, 0.64, 0.84, 0.94, 0.88, 0.85, 0.39, 0.44}
     };
 
-    int count = sizeof(ideas) / sizeof(ideas[0]);
+    std::sort(ideas.begin(), ideas.end(), [](const Idea& a, const Idea& b) {
+        return score(a) > score(b);
+    });
 
-    for (int i = 0; i < count; i++) {
-        printf("%s | %.3f\n", ideas[i].id, idea_score(ideas[i]));
+    for (const auto& idea : ideas) {
+        std::cout << idea.id << " | " << score(idea) << "\n";
     }
 
     return 0;

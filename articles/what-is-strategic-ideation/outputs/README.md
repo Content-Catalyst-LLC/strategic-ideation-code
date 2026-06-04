@@ -1,8 +1,7 @@
 # Outputs
 
-Generated outputs should be stored here.
+Generated outputs are stored here.
 
-- `figures/` for charts and visualizations
-- `tables/` for CSV, TSV, and other tabular exports
-
-The repository may include lightweight generated examples, but large outputs should be regenerated locally.
+- `tables/` for CSV exports
+- `figures/` for optional charts
+- `reports/` for markdown and JSON reports

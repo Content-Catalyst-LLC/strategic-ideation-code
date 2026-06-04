@@ -1,9 +1,13 @@
-assumption_id,idea_id,assumption,confidence,criticality,test_method
-A001,I001,Teams will document rejected alternatives as well as selected ideas,0.62,0.76,workflow pilot
-A002,I002,Participants can distinguish evidence from preference during assumption mapping,0.70,0.82,facilitated workshop
-A003,I003,Scenario review will change option rankings before implementation,0.58,0.74,pre-post portfolio comparison
-A004,I004,Prototype results will be available quickly enough to influence strategy,0.66,0.79,evidence sprint review
-A005,I005,Dashboard metrics will not create false precision or gaming behavior,0.44,0.90,metric ethics review
-A006,I006,Affected communities will have enough time and context to review proposals meaningfully,0.55,0.94,participatory review
-A007,I007,Implementation dependencies can be mapped before major resource commitment,0.73,0.70,pathway mapping session
-A008,I008,Decision-makers will act on second-order risk findings,0.49,0.88,executive decision audit
+assumption_id,idea_id,assumption,layer,confidence,criticality,test_method,evidence_status
+A001,I001,Teams will document rejected alternatives as well as selected ideas,learning,0.62,0.76,workflow pilot,partial
+A002,I002,Participants can distinguish evidence from preference during assumption mapping,ideation,0.70,0.82,facilitated workshop,partial
+A003,I003,Scenario review will change option rankings before implementation,strategy,0.58,0.74,pre-post portfolio comparison,untested
+A004,I004,Prototype results will be available quickly enough to influence strategy,experimentation,0.66,0.79,evidence sprint review,partial
+A005,I005,Dashboard metrics will not create false precision or gaming behavior,governance,0.44,0.90,metric ethics review,untested
+A006,I006,Affected communities will have enough time and context to review proposals meaningfully,ethics,0.55,0.94,participatory review,partial
+A007,I007,Implementation dependencies can be mapped before major resource commitment,execution,0.73,0.70,pathway mapping session,partial
+A008,I008,Decision-makers will act on second-order risk findings,systems,0.49,0.88,executive decision audit,untested
+A009,I009,Decision memory will be reused in future reviews rather than archived and ignored,learning,0.52,0.81,usage audit,untested
+A010,I010,Classifying options by strategic role will change portfolio decisions,strategy,0.61,0.84,portfolio review,partial
+A011,I011,Leaders will accept explicit criteria even when they expose political disagreement,governance,0.47,0.92,criteria workshop,untested
+A012,I012,Learning loop reviews will revise strategy rather than become retrospective reporting,learning,0.50,0.89,learning review simulation,untested
