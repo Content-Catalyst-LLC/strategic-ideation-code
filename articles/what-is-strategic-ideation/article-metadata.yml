@@ -1,0 +1,21 @@
+title: "What Is Strategic Ideation?"
+slug: "what-is-strategic-ideation"
+series: "Strategic Ideation"
+repository: "https://github.com/Content-Catalyst-LLC/strategic-ideation-code"
+article_folder: "articles/what-is-strategic-ideation"
+purpose: "Companion code for modeling strategic ideation as structured idea generation, evaluation, assumption mapping, option architecture, and iterative learning."
+status: "active scaffold"
+languages:
+  - python
+  - r
+  - julia
+  - sql
+  - rust
+  - go
+  - cpp
+  - fortran
+  - c
+notes:
+  - "Uses synthetic data only."
+  - "Intended for methods demonstration and reproducible strategic analysis."
+  - "Not a substitute for stakeholder judgment, ethics, domain expertise, or participatory review."
