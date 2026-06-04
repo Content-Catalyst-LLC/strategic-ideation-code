@@ -1,0 +1,11 @@
+implication_id,concept_id,decision_context,decision_relevance,resource_allocation_effect,role_clarity_effect,tradeoff_visibility,escalation_need
+DI001,CC001,portfolio_review,0.82,0.78,0.62,0.66,0.72
+DI002,CC002,program_evaluation,0.91,0.80,0.58,0.77,0.84
+DI003,CC003,risk_planning,0.88,0.73,0.67,0.81,0.70
+DI004,CC004,implementation_review,0.84,0.70,0.82,0.69,0.68
+DI005,CC005,operating_model_change,0.90,0.86,0.75,0.83,0.89
+DI006,CC006,long_term_strategy,0.93,0.82,0.66,0.88,0.78
+DI007,CC007,institutional_legitimacy,0.86,0.69,0.61,0.80,0.76
+DI008,CC008,operations_redesign,0.80,0.83,0.73,0.72,0.64
+DI009,CC009,value_proposition_review,0.88,0.79,0.65,0.76,0.73
+DI010,CC010,stakeholder_governance,0.87,0.71,0.69,0.82,0.80

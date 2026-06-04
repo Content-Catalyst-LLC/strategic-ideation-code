@@ -1,0 +1,11 @@
+concept_id,concept_name,domain,definition_clarity,boundary_clarity,distinction_quality,operational_implication,measurement_validity,revision_capacity,stakeholder_visibility,ethical_visibility,governance_maturity
+CC001,Innovation,strategy,0.42,0.31,0.44,0.52,0.36,0.29,0.46,0.41,0.30
+CC002,Impact,measurement,0.38,0.34,0.41,0.49,0.32,0.35,0.52,0.58,0.33
+CC003,Resilience,systems,0.64,0.55,0.68,0.70,0.60,0.52,0.66,0.71,0.50
+CC004,Alignment,organization,0.47,0.39,0.45,0.57,0.43,0.40,0.49,0.44,0.36
+CC005,Transformation,strategy,0.35,0.28,0.33,0.40,0.30,0.27,0.43,0.39,0.25
+CC006,Sustainability,systems,0.58,0.50,0.61,0.63,0.54,0.49,0.68,0.78,0.47
+CC007,Trust,institutional,0.53,0.46,0.57,0.61,0.41,0.48,0.79,0.76,0.44
+CC008,Efficiency,operations,0.62,0.58,0.51,0.73,0.67,0.43,0.38,0.35,0.52
+CC009,Value,strategy,0.49,0.42,0.46,0.59,0.45,0.39,0.54,0.57,0.38
+CC010,Participation,governance,0.56,0.47,0.63,0.64,0.50,0.46,0.86,0.84,0.45

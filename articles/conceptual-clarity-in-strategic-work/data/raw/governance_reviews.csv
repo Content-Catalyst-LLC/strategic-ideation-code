@@ -1,0 +1,9 @@
+review_id,concept_id,owner_group,review_cadence,definition_owner,metric_owner,revision_trigger_quality,documentation_quality,stakeholder_review_quality,governance_risk
+GR001,CC001,strategy_office,quarterly,0.52,0.48,0.36,0.44,0.39,0.72
+GR002,CC002,evaluation_team,quarterly,0.46,0.55,0.40,0.50,0.58,0.68
+GR003,CC003,risk_and_resilience_team,semiannual,0.67,0.62,0.58,0.60,0.64,0.42
+GR004,CC004,strategy_office,monthly,0.54,0.50,0.42,0.46,0.41,0.64
+GR005,CC005,executive_team,semiannual,0.38,0.35,0.29,0.32,0.36,0.82
+GR006,CC006,sustainability_team,semiannual,0.62,0.60,0.55,0.58,0.70,0.47
+GR007,CC007,institutional_learning_team,quarterly,0.56,0.48,0.49,0.53,0.72,0.53
+GR008,CC008,operations_team,quarterly,0.64,0.66,0.45,0.57,0.34,0.58

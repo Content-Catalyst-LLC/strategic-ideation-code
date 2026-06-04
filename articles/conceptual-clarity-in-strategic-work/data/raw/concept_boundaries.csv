@@ -1,0 +1,11 @@
+boundary_id,concept_id,boundary_rule,inclusion_clarity,exclusion_clarity,strategic_importance,boundary_contestation,review_priority
+B001,CC001,Includes strategically relevant novelty not ordinary activity relabeling,0.42,0.35,0.86,0.58,high
+B002,CC002,Includes outcomes and durable changes not only outputs or reach,0.38,0.34,0.91,0.62,high
+B003,CC003,Includes robustness recovery adaptation and transformation but requires specifying which,0.65,0.58,0.84,0.37,moderate
+B004,CC004,Includes coherence around goals logic constraints and decision rules not mere agreement,0.48,0.39,0.82,0.50,high
+B005,CC005,Includes structural change not ordinary improvement or rebranding,0.34,0.29,0.88,0.66,high
+B006,CC006,Includes ecological social institutional and temporal durability with explicit tradeoffs,0.60,0.52,0.90,0.41,moderate
+B007,CC007,Includes credibility reliability procedural fairness and institutional memory,0.55,0.46,0.78,0.43,moderate
+B008,CC008,Includes resource effectiveness but excludes burden shifting disguised as savings,0.64,0.51,0.81,0.48,moderate
+B009,CC009,Includes economic social knowledge legitimacy and systems value when relevant,0.50,0.42,0.85,0.52,high
+B010,CC010,Includes meaningful influence not symbolic consultation,0.58,0.47,0.87,0.55,high

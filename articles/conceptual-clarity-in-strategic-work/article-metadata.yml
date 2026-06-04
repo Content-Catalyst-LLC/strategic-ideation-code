@@ -1,0 +1,31 @@
+title: "Conceptual Clarity in Strategic Work"
+slug: "conceptual-clarity-in-strategic-work"
+series: "Strategic Ideation"
+repository: "https://github.com/Content-Catalyst-LLC/strategic-ideation-code"
+article_folder: "articles/conceptual-clarity-in-strategic-work"
+purpose: "Advanced strategist-facing companion code for concept inventories, ambiguity diagnostics, metric-validity review, conceptual drift detection, distinction mapping, and concept-governance systems."
+status: "advanced scaffold"
+professional_use_cases:
+  - "Concept inventory and definition audit"
+  - "False-consensus detection"
+  - "Interpretation variance analysis"
+  - "Boundary and distinction mapping"
+  - "Metric-validity and proxy-risk review"
+  - "Conceptual drift monitoring"
+  - "Concept governance and revision pathways"
+  - "Decision implication mapping"
+  - "Ethical and stakeholder visibility review"
+languages:
+  - python
+  - r
+  - julia
+  - sql
+  - rust
+  - go
+  - cpp
+  - fortran
+  - c
+notes:
+  - "Uses synthetic data only."
+  - "Designed for strategists, planners, analysts, consultants, institutional leaders, organizational researchers, knowledge architects, and communication strategists."
+  - "Not a substitute for stakeholder judgment, ethical review, domain expertise, or participatory governance."

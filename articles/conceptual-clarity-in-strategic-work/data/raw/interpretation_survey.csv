@@ -1,0 +1,19 @@
+interpretation_id,concept_id,actor_group,interpretation_summary,interpretation_alignment,decision_implication_alignment,confidence,contestation_level
+IS001,CC001,executive_team,Innovation means new strategic offerings and market differentiation,0.52,0.48,0.76,0.42
+IS002,CC001,operations,Innovation means process improvement and faster delivery,0.44,0.39,0.71,0.49
+IS003,CC001,research_team,Innovation means novel knowledge architecture and experimentation,0.50,0.45,0.68,0.46
+IS004,CC002,executive_team,Impact means visible reach and strategic reputation,0.40,0.36,0.78,0.55
+IS005,CC002,community_group,Impact means durable improvement in lived conditions,0.58,0.52,0.69,0.47
+IS006,CC002,analytics_team,Impact means measurable outcome movement,0.49,0.50,0.74,0.44
+IS007,CC003,strategy_team,Resilience means adaptation under disruption,0.70,0.66,0.77,0.29
+IS008,CC003,operations,Resilience means continuity of service,0.61,0.55,0.74,0.35
+IS009,CC003,community_group,Resilience means reducing vulnerability and burden,0.66,0.60,0.70,0.33
+IS010,CC004,executive_team,Alignment means shared direction and priority coherence,0.55,0.51,0.81,0.39
+IS011,CC004,operations,Alignment means clear tasks and role coordination,0.50,0.46,0.75,0.43
+IS012,CC004,ethics_review,Alignment means fit with mission evidence and affected stakeholders,0.48,0.44,0.67,0.50
+IS013,CC005,executive_team,Transformation means major operating model change,0.41,0.37,0.79,0.53
+IS014,CC005,communications,Transformation means narrative shift and visible modernization,0.35,0.30,0.72,0.59
+IS015,CC005,operations,Transformation means tool migration and workflow updates,0.33,0.29,0.74,0.61
+IS016,CC006,sustainability_team,Sustainability means operating within ecological and social limits,0.66,0.62,0.80,0.31
+IS017,CC006,finance,Sustainability means long-term financial continuity,0.50,0.45,0.78,0.45
+IS018,CC006,community_group,Sustainability means social and ecological responsibility over time,0.62,0.58,0.73,0.34

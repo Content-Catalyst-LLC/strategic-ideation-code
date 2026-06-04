@@ -1,0 +1,11 @@
+distinction_id,concept_id,confused_with,distinction_statement,distinction_clarity,confusion_risk,decision_consequence
+D001,CC001,improvement,Innovation changes the option space while improvement refines an existing path,0.48,0.67,Weak distinction overcounts routine improvements as innovation
+D002,CC002,outputs,Impact refers to consequential change while outputs are activities or deliverables,0.42,0.74,Activity may be mistaken for outcome
+D003,CC003,stability,Resilience may include adaptation whereas stability preserves current state,0.66,0.44,Strategy may preserve brittle or harmful arrangements
+D004,CC004,agreement,Alignment means coherent fit with strategy whereas agreement may be social consensus,0.47,0.62,False consensus may be treated as strategic coherence
+D005,CC005,modernization,Transformation changes structure while modernization may only update tools or language,0.36,0.77,Incremental upgrades may be overstated as structural change
+D006,CC006,continuity,Sustainability includes limits and responsibility not merely continuation,0.55,0.53,Organizations may sustain harmful patterns
+D007,CC007,satisfaction,Trust involves credibility and reliability beyond momentary satisfaction,0.49,0.61,Satisfaction scores may hide institutional distrust
+D008,CC008,effectiveness,Efficiency concerns resource use while effectiveness concerns achieving the right outcome,0.57,0.50,Cost reduction may undermine strategic purpose
+D009,CC009,price,Value is broader than price and may include trust knowledge legitimacy or systems benefit,0.44,0.68,Pricing logic may miss actual value drivers
+D010,CC010,consultation,Participation requires influence while consultation may only collect input,0.52,0.64,Symbolic inclusion may be mistaken for shared design

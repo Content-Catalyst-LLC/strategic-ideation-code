@@ -47,3 +47,7 @@ This repository includes advanced workflows for mental-model auditing, causal-fr
 ## First Principles Thinking
 
 This repository includes advanced workflows for assumption-constraint classification, strategic decomposition, governing mechanism mapping, reconstructed option scoring, reality testing, and decision-memory governance.
+
+## Conceptual Clarity
+
+This repository includes advanced workflows for concept inventories, interpretation variance, false-consensus detection, metric-validity review, conceptual drift monitoring, and concept-governance systems.

@@ -1,0 +1,9 @@
+drift_id,concept_id,drift_type,drift_description,drift_severity,strategic_exposure,detection_confidence,recommended_response
+DR001,CC001,narrowing,Innovation narrowed into idea count and hackathon activity,0.78,0.82,0.72,reopen_definition_and_metric_validity
+DR002,CC002,proxy_substitution,Impact became reach and output volume in reporting,0.84,0.91,0.76,replace_proxy_with_outcome_model
+DR003,CC003,operational_flattening,Resilience narrowed into continuity planning only,0.58,0.73,0.68,restore_adaptation_and_vulnerability_dimensions
+DR004,CC004,politicization,Alignment used to mean agreement with leadership rather than strategic coherence,0.74,0.83,0.70,create_alignment_decision_rules
+DR005,CC005,messaging_dilution,Transformation became a modernization slogan,0.88,0.90,0.78,require_structural_change_criteria
+DR006,CC006,concept_expansion,Sustainability expanded without tradeoff rules,0.62,0.78,0.66,define_dimensions_and_priority_logic
+DR007,CC007,measurement_narrowing,Trust reduced to satisfaction survey scores,0.70,0.80,0.69,add_reliability_and_procedural_justice_measures
+DR008,CC008,boundary_loss,Efficiency used without accounting for shifted burden,0.76,0.85,0.71,add_system_cost_and_burden_review
