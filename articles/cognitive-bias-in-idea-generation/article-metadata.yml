@@ -1,0 +1,8 @@
+title: "Cognitive Bias in Idea Generation"
+slug: "cognitive-bias-in-idea-generation"
+series: "Strategic Ideation"
+repository: "https://github.com/Content-Catalyst-LLC/strategic-ideation-code"
+article_folder: "articles/cognitive-bias-in-idea-generation"
+purpose: "Bias-profile diagnostics, idea-space diversity scoring, anchoring and conformity review, frame-rotation analysis, assumption mapping, stakeholder visibility checks, premature-convergence risk, AI-amplified familiarity review, and decision-memory systems."
+status: "advanced scaffold"
+languages: [python, r, julia, sql, rust, go, cpp, fortran, c]

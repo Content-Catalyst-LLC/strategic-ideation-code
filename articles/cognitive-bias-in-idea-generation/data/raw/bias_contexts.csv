@@ -1,0 +1,9 @@
+context_id,context_name,context_type,availability_pressure,anchoring_intensity,conformity_pressure,framing_rigidity,institutional_lock_in,expert_enclosure,ai_familiarity_pressure,stakeholder_diversity,exploratory_variation,evidence_discipline,political_safety,decision_memory_quality
+CB001,Fast Familiarity-Biased Context,familiarity_biased,0.84,0.71,0.63,0.77,0.66,0.58,0.62,0.34,0.28,0.48,0.46,0.34
+CB002,Balanced Reflective Context,balanced_reflective,0.46,0.38,0.34,0.41,0.42,0.44,0.38,0.68,0.73,0.74,0.70,0.66
+CB003,Hierarchy-Driven Group Context,hierarchy_driven,0.58,0.82,0.88,0.72,0.78,0.66,0.54,0.30,0.22,0.52,0.28,0.40
+CB004,Variation-Oriented Design Context,variation_oriented,0.32,0.29,0.27,0.31,0.30,0.34,0.36,0.82,0.89,0.76,0.74,0.72
+CB005,Institutionally Locked Context,institutional_lock_in,0.70,0.76,0.72,0.84,0.90,0.74,0.66,0.28,0.24,0.46,0.30,0.36
+CB006,Stakeholder-Grounded Ideation Context,stakeholder_grounded,0.40,0.34,0.36,0.38,0.44,0.42,0.40,0.90,0.76,0.72,0.78,0.70
+CB007,Expert-Enclosed Strategy Context,expert_enclosed,0.62,0.58,0.46,0.68,0.64,0.88,0.58,0.38,0.34,0.66,0.52,0.48
+CB008,AI-Assisted Familiarity Context,ai_assisted_familiarity,0.66,0.52,0.44,0.60,0.58,0.52,0.86,0.46,0.48,0.62,0.58,0.52

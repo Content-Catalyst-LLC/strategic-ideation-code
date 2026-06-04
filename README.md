@@ -71,3 +71,7 @@ This repository includes advanced workflows for source-target mapping, structura
 ## Lateral Thinking in Strategy
 
 This repository includes advanced workflows for frame-rigidity diagnostics, assumption disruption, provocation and reversal logs, random-entry and forced-association analysis, lateral-move scoring, reframed problem review, convergence integration, stakeholder legitimacy review, and decision memory.
+
+## Cognitive Bias in Idea Generation
+
+Advanced workflows for bias-profile diagnostics, idea-space diversity scoring, anchoring and conformity review, frame-rotation analysis, assumption mapping, stakeholder visibility checks, premature-convergence risk, AI-amplified familiarity review, intervention design, and decision memory.

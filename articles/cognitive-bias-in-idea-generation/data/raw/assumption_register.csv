@@ -1,0 +1,13 @@
+assumption_id,context_id,assumption_text,assumption_type,evidence_strength,strategic_importance,challenge_potential,power_protection_risk,stakeholder_burden_visibility,revision_priority
+A001,CB001,Recent competitor activity is the best source of ideas,availability_assumption,0.36,0.72,0.78,0.38,0.34,high
+A002,CB001,The easiest ideas to explain are the most feasible,cognitive_fluency_assumption,0.32,0.78,0.82,0.42,0.38,high
+A003,CB002,Independent ideation will reveal options missed in group discussion,process_assumption,0.70,0.76,0.44,0.22,0.68,moderate
+A004,CB003,Senior alignment is a reliable proxy for strategic quality,hierarchy_assumption,0.28,0.86,0.88,0.82,0.26,high
+A005,CB003,Dissent slows ideation more than it improves quality,conformity_assumption,0.24,0.80,0.86,0.72,0.30,high
+A006,CB004,Stakeholder burden is a source of strategic insight,stakeholder_assumption,0.76,0.84,0.42,0.18,0.90,moderate
+A007,CB005,Current KPIs describe the real value of innovation,metric_assumption,0.30,0.88,0.90,0.74,0.28,high
+A008,CB005,Ideas outside the current reporting structure are not actionable,institutional_assumption,0.26,0.82,0.86,0.78,0.24,high
+A009,CB006,Affected stakeholders should shape the initial idea space,participatory_assumption,0.78,0.86,0.40,0.20,0.92,moderate
+A010,CB007,Expert playbooks remain valid under changed conditions,expert_assumption,0.42,0.80,0.76,0.52,0.38,high
+A011,CB008,AI-generated common patterns are a sufficient ideation baseline,ai_assumption,0.34,0.74,0.82,0.42,0.36,high
+A012,CB008,Adversarial prompting is needed to disrupt model familiarity,ai_assumption,0.66,0.76,0.48,0.26,0.62,moderate

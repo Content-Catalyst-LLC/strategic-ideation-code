@@ -1,0 +1,10 @@
+intervention_id,intervention_name,target_bias,process_cost,implementation_complexity,variation_gain,legitimacy_gain,evidence_gain,political_safety_need,decision_memory_gain
+INT001,Independent ideation before group discussion,anchoring_conformity,0.30,0.32,0.72,0.50,0.46,0.30,0.42
+INT002,Anonymous dissent intake,social_conformity,0.36,0.40,0.66,0.62,0.48,0.62,0.50
+INT003,Frame rotation matrix,framing_effects,0.42,0.46,0.78,0.58,0.56,0.38,0.58
+INT004,Distant analogy source library,availability_bias,0.46,0.52,0.82,0.44,0.50,0.28,0.54
+INT005,Stakeholder vantage rotation,power_institutional_bias,0.58,0.62,0.74,0.86,0.68,0.54,0.66
+INT006,Assumption register and challenge review,confirmation_status_quo,0.44,0.48,0.62,0.58,0.72,0.50,0.74
+INT007,Pre-mortem and red-team protocol,overconfidence_groupthink,0.52,0.56,0.58,0.54,0.76,0.62,0.68
+INT008,AI adversarial prompt and source-diversity review,ai_familiarity,0.40,0.46,0.70,0.52,0.62,0.34,0.60
+INT009,Decision-memory archive for rejected and deferred ideas,institutional_forgetting,0.54,0.60,0.56,0.60,0.70,0.42,0.90

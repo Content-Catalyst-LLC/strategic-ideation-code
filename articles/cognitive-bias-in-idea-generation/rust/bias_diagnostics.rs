@@ -1,0 +1,4 @@
+// Compile: rustc bias_diagnostics.rs -o bias_diagnostics && ./bias_diagnostics
+struct Context { id: &'static str, availability:f64, anchoring:f64, conformity:f64, framing:f64, institutional:f64, expert:f64, ai:f64, stakeholder:f64, variation:f64, evidence:f64, political:f64, memory:f64 }
+fn profile(c:&Context)->f64{-.12*c.availability-.12*c.anchoring-.13*c.conformity-.12*c.framing-.10*c.institutional-.08*c.expert-.07*c.ai+.16*c.stakeholder+.18*c.variation+.12*c.evidence+.08*c.political+.08*c.memory}
+fn main(){let rows=vec![Context{id:"CB001",availability:.84,anchoring:.71,conformity:.63,framing:.77,institutional:.66,expert:.58,ai:.62,stakeholder:.34,variation:.28,evidence:.48,political:.46,memory:.34},Context{id:"CB004",availability:.32,anchoring:.29,conformity:.27,framing:.31,institutional:.30,expert:.34,ai:.36,stakeholder:.82,variation:.89,evidence:.76,political:.74,memory:.72}];for r in rows{println!("{} | {:.3}",r.id,profile(&r));}}

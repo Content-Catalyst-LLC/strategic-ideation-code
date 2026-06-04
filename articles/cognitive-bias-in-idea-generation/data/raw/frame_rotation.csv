@@ -1,0 +1,16 @@
+frame_id,context_id,frame_name,frame_type,idea_count,distinct_mechanisms,stakeholder_inclusion,system_level_coverage,evidence_pathway_quality,comfort_level,frame_shift_value
+FR001,CB001,Efficiency frame,efficiency,12,3,0.32,0.36,0.48,0.84,0.22
+FR002,CB001,Trust frame,trust,4,3,0.54,0.50,0.46,0.50,0.58
+FR003,CB002,Access frame,access,9,6,0.72,0.70,0.72,0.58,0.76
+FR004,CB002,Learning frame,learning,8,6,0.68,0.74,0.76,0.54,0.74
+FR005,CB003,Leadership-priority frame,hierarchy,10,2,0.24,0.34,0.42,0.90,0.20
+FR006,CB003,Dissent-and-risk frame,dissent,5,5,0.60,0.62,0.58,0.34,0.70
+FR007,CB004,Stakeholder-burden frame,stakeholder,10,8,0.90,0.82,0.78,0.44,0.84
+FR008,CB004,Systems-resilience frame,systems,8,7,0.76,0.88,0.74,0.46,0.82
+FR009,CB005,KPI-performance frame,metric,14,3,0.28,0.42,0.50,0.86,0.24
+FR010,CB005,Institutional-filter frame,institutional,6,6,0.62,0.70,0.66,0.40,0.78
+FR011,CB006,Affected-stakeholder frame,participatory,11,8,0.94,0.78,0.72,0.42,0.86
+FR012,CB007,Expert-model frame,expert,9,3,0.34,0.44,0.62,0.78,0.30
+FR013,CB007,Cross-expertise review frame,interdisciplinary,7,6,0.72,0.70,0.70,0.52,0.74
+FR014,CB008,AI-pattern-retrieval frame,ai_familiarity,12,4,0.40,0.48,0.58,0.70,0.36
+FR015,CB008,AI-adversarial-source-diversity frame,ai_disruption,7,7,0.70,0.72,0.70,0.48,0.78

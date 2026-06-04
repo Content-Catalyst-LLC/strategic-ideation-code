@@ -1,0 +1,9 @@
+review_id,context_id,stakeholder_group,inclusion_level,idea_influence,burden_visibility,knowledge_recognition,interpretive_trust,power_distance,legitimacy_signal
+S001,CB001,service_users,0.34,0.28,0.32,0.36,0.38,0.62,0.36
+S002,CB002,cross_functional_team,0.70,0.66,0.62,0.68,0.70,0.36,0.70
+S003,CB003,junior_staff_and_dissenters,0.24,0.18,0.28,0.30,0.26,0.82,0.26
+S004,CB004,users_frontline_staff_and_affected_groups,0.86,0.82,0.88,0.84,0.82,0.26,0.84
+S005,CB005,people_burdened_by_current_metrics,0.28,0.20,0.26,0.30,0.28,0.78,0.28
+S006,CB006,affected_stakeholders,0.92,0.88,0.90,0.90,0.86,0.22,0.88
+S007,CB007,non_expert_reviewers,0.42,0.34,0.38,0.46,0.44,0.58,0.42
+S008,CB008,human_reviewers_of_ai_outputs,0.58,0.52,0.50,0.56,0.58,0.44,0.56

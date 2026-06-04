@@ -1,0 +1,17 @@
+idea_id,context_id,idea_name,frame_family,mechanism_family,stakeholder_visibility,novelty_level,evidence_pathway,strategic_relevance,implementation_pathway,system_level,source_diversity,social_safety,assumption_burden
+I001,CB001,Add a familiar dashboard update,efficiency,measurement,0.32,0.22,0.46,0.48,0.74,component,0.22,0.84,0.30
+I002,CB001,Replicate competitor content model,market_benchmarking,imitation,0.26,0.30,0.38,0.44,0.68,component,0.28,0.78,0.42
+I003,CB002,Rotate the problem through trust access and learning frames,multi_frame,frame_rotation,0.68,0.72,0.70,0.78,0.66,system,0.74,0.58,0.48
+I004,CB002,Build independent ideation before group review,process_design,anchoring_control,0.64,0.58,0.76,0.72,0.78,process,0.66,0.62,0.34
+I005,CB003,Follow senior leadership preferred proposal,hierarchy,authority_alignment,0.24,0.18,0.42,0.40,0.82,component,0.20,0.90,0.36
+I006,CB003,Use anonymous dissent input before synthesis,governance,conformity_control,0.58,0.66,0.62,0.70,0.64,process,0.62,0.36,0.50
+I007,CB004,Generate alternatives from ecology law public health and logistics,cross_domain,analogical_diversity,0.78,0.86,0.74,0.82,0.62,system,0.88,0.42,0.52
+I008,CB004,Map user burden before feature ideation,stakeholder_experience,burden_visibility,0.90,0.74,0.78,0.84,0.70,system,0.76,0.48,0.44
+I009,CB005,Improve existing KPI system without reframing,metric_lock_in,optimization,0.28,0.24,0.50,0.46,0.76,component,0.26,0.82,0.38
+I010,CB005,Audit which metrics define what ideas count,metric_audit,institutional_filter_review,0.62,0.70,0.66,0.76,0.58,system,0.68,0.44,0.56
+I011,CB006,Generate ideas from affected stakeholder narratives,participatory,stakeholder_knowledge,0.94,0.72,0.72,0.82,0.64,system,0.78,0.46,0.42
+I012,CB006,Create a decision-memory archive for rejected ideas,knowledge_architecture,decision_memory,0.70,0.68,0.76,0.78,0.72,system,0.74,0.52,0.36
+I013,CB007,Use expert playbook from previous success,expertise,past_success_transfer,0.34,0.30,0.58,0.56,0.72,component,0.32,0.76,0.48
+I014,CB007,Pair expert model with stakeholder and novice review,interdisciplinary,expertise_disruption,0.76,0.72,0.70,0.78,0.66,system,0.78,0.50,0.46
+I015,CB008,Ask AI for standard strategy ideas,ai_assisted,pattern_retrieval,0.38,0.44,0.56,0.54,0.70,component,0.36,0.72,0.42
+I016,CB008,Use adversarial AI prompts and human source diversity review,ai_assisted,pattern_disruption,0.68,0.78,0.70,0.76,0.62,process,0.82,0.46,0.50
