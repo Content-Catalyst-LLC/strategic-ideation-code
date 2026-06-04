@@ -1,0 +1,11 @@
+ethics_id,boundary_id,ethical_issue,exclusion_risk,burden_shift_risk,harm_visibility,future_consequence_risk,power_asymmetry,redress_path_quality,participation_quality,accountability_quality,review_action
+H001,B001,frontline_burden_hidden,0.58,0.66,0.36,0.46,0.52,0.34,0.38,0.44,review_hidden_burden
+H002,B002,user_access_and_burden,0.32,0.38,0.76,0.42,0.44,0.58,0.82,0.66,maintain_participatory_review
+H003,B003,system_externality_risk,0.40,0.46,0.70,0.62,0.54,0.52,0.66,0.60,monitor_externalities
+H004,B004,metric_pressure_and_exclusion,0.72,0.78,0.30,0.58,0.68,0.28,0.26,0.34,urgent_ethical_boundary_review
+H005,B005,adaptive_ethics_governance,0.28,0.30,0.82,0.44,0.36,0.74,0.80,0.78,use_as_ethics_standard
+H006,B006,mandate_based_exclusion,0.62,0.64,0.42,0.54,0.58,0.40,0.44,0.50,review_exclusions_outside_mandate
+H007,B007,future_stakeholder_discounting,0.46,0.42,0.58,0.84,0.50,0.44,0.52,0.58,assign_future_impact_review
+H008,B008,affected_community_legitimacy,0.24,0.30,0.88,0.58,0.62,0.76,0.88,0.82,co_design_and_redress
+H009,B009,qualitative_harm_invisibility,0.68,0.62,0.24,0.48,0.56,0.32,0.30,0.38,expand_evidence_and_harm_boundary
+H010,B010,assumption_harm_pathway,0.38,0.42,0.76,0.56,0.46,0.62,0.66,0.70,test_theory_of_change_for_harm

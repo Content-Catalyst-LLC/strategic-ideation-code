@@ -1,0 +1,11 @@
+boundary_id,boundary_name,frame_type,domain,problem_clarity,system_context,stakeholder_inclusion,causal_adequacy,temporal_adequacy,institutional_responsibility,evidence_diversity,ethical_review,revision_readiness,actionability,description
+B001,Narrow Process Fix,process_boundary,operations,0.62,0.38,0.34,0.42,0.38,0.50,0.40,0.32,0.38,0.82,Highly actionable but narrowly framed around a visible process symptom.
+B002,Stakeholder-Centered Redesign,stakeholder_boundary,service_design,0.76,0.66,0.88,0.70,0.64,0.66,0.76,0.82,0.70,0.64,Boundary centers lived experience and burden while preserving implementation focus.
+B003,System Leverage Intervention,system_boundary,systems_change,0.82,0.90,0.72,0.88,0.76,0.78,0.74,0.70,0.72,0.58,Boundary expands from local symptom to causal system and leverage points.
+B004,Short-Term Metric Push,metric_boundary,performance_management,0.54,0.32,0.30,0.36,0.28,0.46,0.34,0.26,0.32,0.86,Boundary favors internal indicators and short-term movement.
+B005,Adaptive Boundary Strategy,adaptive_boundary,strategic_governance,0.84,0.86,0.82,0.82,0.84,0.80,0.86,0.84,0.90,0.66,Boundary is explicit, multi-frame, and designed to update through evidence.
+B006,Institutional Mandate Boundary,institutional_boundary,public_systems,0.70,0.54,0.48,0.58,0.50,0.82,0.58,0.46,0.52,0.72,Boundary tracks formal authority but may undercount consequences outside mandate.
+B007,Long-Term Resilience Boundary,temporal_boundary,resilience_strategy,0.74,0.82,0.70,0.76,0.92,0.68,0.74,0.78,0.76,0.54,Boundary prioritizes delayed effects resilience and future consequences.
+B008,Ethical Responsibility Boundary,ethical_boundary,governance,0.72,0.78,0.86,0.74,0.78,0.70,0.80,0.94,0.78,0.56,Boundary centers harm burden legitimacy and responsible inclusion.
+B009,Evidence-Narrow Technical Frame,evidence_boundary,technology_strategy,0.66,0.44,0.42,0.50,0.40,0.56,0.28,0.36,0.40,0.78,Boundary privileges measurable technical evidence while excluding qualitative signals.
+B010,Theory-of-Change Boundary,theory_of_change,implementation_strategy,0.80,0.76,0.74,0.84,0.74,0.76,0.78,0.76,0.80,0.68,Boundary links inputs actors mechanisms outcomes assumptions and risks.

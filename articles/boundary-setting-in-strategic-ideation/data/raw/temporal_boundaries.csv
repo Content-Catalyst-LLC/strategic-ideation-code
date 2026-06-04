@@ -1,0 +1,11 @@
+time_id,boundary_id,time_horizon,review_stage,immediate_signal_quality,short_term_signal_quality,medium_term_signal_quality,long_term_signal_quality,delayed_effect_risk,resilience_relevance,ownership_continuity,revision_cadence_quality,review_action
+T001,B001,0_to_90_days,launch_review,0.82,0.70,0.38,0.22,0.58,0.36,0.50,0.42,extend_review_horizon
+T002,B002,0_to_12_months,adoption_and_burden_review,0.74,0.78,0.66,0.48,0.50,0.56,0.60,0.66,monitor_user_burden_over_time
+T003,B003,1_to_3_years,system_pattern_review,0.56,0.64,0.78,0.70,0.66,0.76,0.62,0.70,track_system_shift_and_feedback
+T004,B004,0_to_30_days,metric_movement_review,0.88,0.62,0.28,0.16,0.74,0.24,0.38,0.30,high_temporal_compression_risk
+T005,B005,staged_multi_horizon,adaptive_review,0.76,0.80,0.82,0.76,0.42,0.80,0.76,0.88,use_as_boundary_standard
+T006,B006,annual_mandate_cycle,institutional_review,0.64,0.70,0.62,0.46,0.56,0.54,0.68,0.60,connect_annual_review_to_consequences
+T007,B007,3_to_10_years,resilience_and_future_review,0.48,0.58,0.76,0.90,0.70,0.94,0.58,0.72,protect_long_term_indicators
+T008,B008,intergenerational_proxy,ethical_future_review,0.42,0.54,0.70,0.86,0.76,0.86,0.46,0.68,assign_future_stakeholder_proxy
+T009,B009,technical_sprint_cycle,delivery_review,0.84,0.66,0.36,0.20,0.68,0.30,0.44,0.36,add_post_launch_ethnographic_review
+T010,B010,theory_of_change_horizon,mechanism_review,0.68,0.72,0.78,0.66,0.54,0.70,0.70,0.76,align_horizon_to_mechanism

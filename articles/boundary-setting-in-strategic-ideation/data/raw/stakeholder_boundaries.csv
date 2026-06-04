@@ -1,0 +1,11 @@
+stakeholder_id,boundary_id,stakeholder_group,role_type,inclusion_quality,affectedness,decision_power,implementation_role,knowledge_value,burden_risk,trust_sensitivity,representation_quality,review_action
+S001,B001,internal_process_owner,decision_maker,0.78,0.54,0.82,0.70,0.58,0.38,0.34,0.70,include_as_owner
+S002,B001,frontline_implementers,implementer,0.42,0.72,0.38,0.88,0.82,0.68,0.58,0.40,increase_frontline_inclusion
+S003,B002,direct_users,user,0.88,0.90,0.34,0.42,0.86,0.72,0.82,0.82,maintain_user_inquiry
+S004,B002,non_users,excluded_or_potential_user,0.66,0.78,0.20,0.24,0.76,0.74,0.78,0.60,review_access_barriers
+S005,B003,cross_system_partners,system_actor,0.70,0.72,0.56,0.66,0.74,0.58,0.56,0.62,coordinate_system_boundary
+S006,B004,performance_managed_staff,affected_worker,0.30,0.82,0.22,0.72,0.70,0.80,0.64,0.28,urgent_stakeholder_review
+S007,B005,future_stakeholders,future_or_indirect,0.62,0.66,0.10,0.10,0.54,0.68,0.44,0.52,include_temporal_proxy
+S008,B006,adjacent_agency,external_institution,0.44,0.62,0.48,0.58,0.68,0.60,0.50,0.42,map_influence_and_consequence
+S009,B008,affected_community,affected_public,0.86,0.92,0.30,0.36,0.88,0.86,0.90,0.82,co_design_boundary_review
+S010,B009,qualitative_knowledge_holder,evidence_source,0.32,0.70,0.18,0.40,0.86,0.62,0.68,0.30,expand_evidence_boundary

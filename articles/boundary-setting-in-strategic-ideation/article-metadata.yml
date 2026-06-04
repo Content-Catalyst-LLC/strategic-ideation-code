@@ -1,0 +1,33 @@
+title: "Boundary Setting in Strategic Ideation"
+slug: "boundary-setting-in-strategic-ideation"
+series: "Strategic Ideation"
+repository: "https://github.com/Content-Catalyst-LLC/strategic-ideation-code"
+article_folder: "articles/boundary-setting-in-strategic-ideation"
+purpose: "Advanced strategist-facing companion code for boundary-setting diagnostics, stakeholder boundary review, causal-frame comparison, temporal-scope scoring, institutional responsibility mapping, evidence-boundary review, ethical boundary analysis, option sensitivity testing, boundary drift detection, revision-trigger design, learning loops, and decision-memory records."
+status: "advanced scaffold"
+professional_use_cases:
+  - "Boundary quality scoring"
+  - "Stakeholder inclusion diagnostics"
+  - "Causal-frame comparison"
+  - "Temporal horizon and delayed-effect review"
+  - "Institutional responsibility mapping"
+  - "Evidence-boundary and knowledge-legitimacy review"
+  - "Ethical boundary and burden-shift review"
+  - "Boundary-sensitive option evaluation"
+  - "Boundary drift detection"
+  - "Theory-of-change boundary review"
+  - "Revision-trigger and decision-memory systems"
+languages:
+  - python
+  - r
+  - julia
+  - sql
+  - rust
+  - go
+  - cpp
+  - fortran
+  - c
+notes:
+  - "Uses synthetic data only."
+  - "Designed for strategists, systems thinkers, policy teams, product strategists, foresight practitioners, analysts, consultants, innovation teams, public-sector teams, sustainability teams, organizational decision-makers, and knowledge architects."
+  - "Not a substitute for stakeholder judgment, ethical review, domain expertise, or participatory governance."

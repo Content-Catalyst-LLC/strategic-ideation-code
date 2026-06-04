@@ -107,3 +107,7 @@ This repository includes advanced workflows for second-order effect diagnostics,
 ## Leverage Points in Systems Change
 
 This repository includes advanced workflows for leverage-point diagnostics, structural-depth scoring, feedback-loop analysis, information-flow review, rule and incentive mapping, system-goal diagnosis, paradigm review, tipping-threshold analysis, unintended-consequence review, early-warning indicators, learning loops, and decision-memory records.
+
+## Boundary Setting in Strategic Ideation
+
+This repository includes advanced workflows for boundary-setting diagnostics, stakeholder boundary review, causal-frame comparison, temporal-scope scoring, institutional responsibility mapping, evidence-boundary review, ethical boundary analysis, option sensitivity testing, boundary drift detection, revision-trigger design, learning loops, and decision-memory records.

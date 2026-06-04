@@ -1,0 +1,11 @@
+trigger_id,boundary_id,trigger_name,trigger_type,signal_quality,threshold_clarity,decision_linkage,timeliness,stakeholder_visibility,governance_owner_clarity,response_options_quality,review_action
+RT001,B001,Frontline workaround threshold,stakeholder_signal,0.72,0.62,0.58,0.60,0.70,0.54,0.56,reopen_process_boundary
+RT002,B002,Non-user exclusion signal,access_signal,0.76,0.66,0.64,0.58,0.78,0.60,0.62,expand_stakeholder_boundary
+RT003,B003,Feedback loop resistance signal,systems_signal,0.78,0.64,0.68,0.62,0.62,0.66,0.68,revise_system_boundary_or_leverage_point
+RT004,B004,Metric-outcome divergence,metric_distortion_signal,0.84,0.72,0.70,0.66,0.56,0.62,0.66,reopen_success_boundary
+RT005,B005,Boundary assumption contradiction,learning_signal,0.88,0.82,0.78,0.74,0.76,0.80,0.84,revise_boundary_and_update_memory
+RT006,B006,Externalized burden report,consequence_signal,0.80,0.70,0.66,0.62,0.72,0.58,0.62,map_authority_influence_consequence
+RT007,B007,Delayed fragility indicator,temporal_signal,0.82,0.74,0.68,0.58,0.58,0.60,0.66,extend_time_horizon
+RT008,B008,Harm visibility increase,ethical_signal,0.86,0.78,0.74,0.68,0.84,0.70,0.76,activate_ethical_boundary_review
+RT009,B009,Qualitative evidence contradiction,evidence_signal,0.78,0.66,0.62,0.60,0.72,0.56,0.60,expand_evidence_boundary
+RT010,B010,Theory mechanism failure,mechanism_signal,0.82,0.76,0.72,0.68,0.66,0.72,0.74,revise_theory_of_change_boundary

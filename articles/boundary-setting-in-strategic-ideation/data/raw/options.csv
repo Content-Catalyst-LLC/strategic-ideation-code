@@ -1,0 +1,9 @@
+option_id,option_name,internal_efficiency,stakeholder_value,system_leverage,long_term_resilience,ethical_responsibility,implementation_feasibility,learning_value,strategic_reversibility
+O001,Narrow Process Fix,0.84,0.42,0.38,0.40,0.34,0.82,0.38,0.70
+O002,Stakeholder-Centered Redesign,0.62,0.88,0.68,0.72,0.86,0.64,0.76,0.62
+O003,System Leverage Intervention,0.66,0.74,0.90,0.84,0.74,0.58,0.78,0.54
+O004,Short-Term Metric Push,0.88,0.36,0.34,0.28,0.30,0.86,0.32,0.66
+O005,Adaptive Boundary Strategy,0.70,0.84,0.86,0.88,0.90,0.66,0.92,0.72
+O006,Institutional Coordination Reform,0.64,0.68,0.80,0.74,0.70,0.56,0.74,0.52
+O007,Long-Term Resilience Pathway,0.58,0.72,0.82,0.94,0.82,0.48,0.80,0.46
+O008,Evidence Boundary Expansion,0.60,0.80,0.70,0.76,0.86,0.68,0.84,0.76

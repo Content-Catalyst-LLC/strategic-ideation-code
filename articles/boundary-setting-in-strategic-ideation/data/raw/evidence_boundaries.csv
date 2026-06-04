@@ -1,0 +1,11 @@
+evidence_id,boundary_id,evidence_frame,quantitative_quality,qualitative_quality,stakeholder_testimony_quality,prototype_evidence_quality,scenario_evidence_quality,expert_judgment_quality,ethical_reasoning_quality,interpretation_discipline,blind_spot_risk,review_action
+E001,B001,operational_metrics,0.78,0.34,0.28,0.46,0.24,0.52,0.24,0.50,0.70,add_qualitative_and_stakeholder_evidence
+E002,B002,mixed_user_research,0.64,0.84,0.86,0.70,0.50,0.62,0.74,0.76,0.30,maintain_mixed_evidence_boundary
+E003,B003,systems_and_scenario_evidence,0.68,0.70,0.68,0.62,0.78,0.72,0.68,0.74,0.34,link_system_model_to_stakeholder_review
+E004,B004,performance_dashboard_only,0.82,0.24,0.20,0.32,0.18,0.44,0.18,0.42,0.82,high_evidence_narrowing_risk
+E005,B005,adaptive_mixed_evidence,0.78,0.84,0.82,0.78,0.76,0.74,0.80,0.86,0.22,use_as_evidence_standard
+E006,B006,mandate_and_compliance_evidence,0.70,0.46,0.38,0.42,0.40,0.64,0.42,0.58,0.58,add_consequence_evidence
+E007,B007,long_term_resilience_indicators,0.66,0.62,0.58,0.54,0.84,0.72,0.76,0.70,0.38,protect_future_oriented_signals
+E008,B008,ethical_and_lived_experience_evidence,0.58,0.82,0.88,0.62,0.68,0.66,0.94,0.80,0.24,use_for_responsibility_review
+E009,B009,technical_measurement_only,0.86,0.28,0.22,0.46,0.20,0.58,0.20,0.44,0.80,expand_beyond_technical_metrics
+E010,B010,theory_of_change_evidence,0.72,0.74,0.70,0.76,0.70,0.76,0.72,0.82,0.28,use_for_mechanism_testing

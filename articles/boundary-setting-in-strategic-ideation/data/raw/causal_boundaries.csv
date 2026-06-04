@@ -1,0 +1,11 @@
+cause_id,boundary_id,causal_frame,causal_level,causal_plausibility,evidence_strength,structural_depth,actor_adaptation_considered,feedback_considered,incentive_considered,historical_context_considered,implementation_relevance,review_action
+C001,B001,workflow_step_failure,process,0.70,0.66,0.36,0.32,0.30,0.38,0.22,0.78,compare_with_structural_causes
+C002,B001,role_and_authority_misalignment,organizational_structure,0.72,0.58,0.70,0.58,0.54,0.62,0.40,0.72,include_in_problem_frame
+C003,B002,user_burden_and_access_barriers,experience_and_access,0.84,0.76,0.66,0.62,0.58,0.60,0.54,0.80,prioritize_user_burden_cause
+C004,B003,feedback_loop_reproducing_pattern,system_feedback,0.82,0.68,0.88,0.78,0.90,0.72,0.62,0.76,map_feedback_leverage
+C005,B004,individual_performance_gap,individual_behavior,0.56,0.54,0.24,0.30,0.22,0.42,0.20,0.70,avoid_causal_convenience
+C006,B004,metric_incentive_distortion,incentive_structure,0.78,0.66,0.74,0.72,0.70,0.88,0.42,0.82,add_countermetric_review
+C007,B006,mandate_fragmentation,institutional_boundary,0.74,0.60,0.78,0.62,0.66,0.64,0.58,0.70,coordinate_authority_boundary
+C008,B007,short_term_optimization_creating_fragility,time_and_resilience,0.80,0.64,0.82,0.68,0.76,0.74,0.62,0.74,extend_temporal_frame
+C009,B008,burden_shift_and_exclusion,ethical_systemic,0.82,0.70,0.76,0.66,0.68,0.64,0.70,0.78,include_ethical_causal_frame
+C010,B009,technical_usability_issue,technical,0.62,0.72,0.32,0.30,0.28,0.34,0.20,0.72,compare_with_social_and_trust_causes
