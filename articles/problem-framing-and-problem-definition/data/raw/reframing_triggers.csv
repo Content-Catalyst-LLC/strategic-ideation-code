@@ -1,0 +1,11 @@
+trigger_id,frame_id,trigger_name,trigger_type,evidence_threshold,stakeholder_signal_strength,implementation_signal_strength,systems_signal_strength,urgency,reversibility,decision_memory_need,trigger_quality,action_if_triggered
+R001,F001,Repeated failure under administrative frame,implementation_evidence,0.72,0.48,0.82,0.62,0.74,0.66,0.72,0.74,reopen_boundary_and_causal_model
+R002,F002,Stakeholder evidence contradicts balanced frame,stakeholder_evidence,0.66,0.80,0.58,0.60,0.62,0.70,0.70,0.72,recompare_stakeholder_frames
+R003,F003,System map misses lived burden,stakeholder_evidence,0.64,0.84,0.50,0.62,0.58,0.72,0.68,0.70,add_participatory_boundary_review
+R004,F004,Political contestation blocks implementation,power_signal,0.58,0.72,0.70,0.54,0.78,0.50,0.76,0.68,negotiate_problem_definition
+R005,F005,Participation burden rises,burden_signal,0.60,0.86,0.62,0.56,0.70,0.68,0.72,0.74,revise_participation_model
+R006,F006,Feature release fails to change behavior,disconfirmation,0.78,0.70,0.76,0.66,0.72,0.82,0.70,0.78,test_nontechnical_rival_frames
+R007,F007,Trust metrics improve but behavior does not,causal_disconfirmation,0.68,0.74,0.70,0.64,0.64,0.66,0.68,0.70,combine_trust_with_workflow_or_incentive_frame
+R008,F008,Metric redesign creates gaming,unintended_consequence,0.70,0.62,0.78,0.72,0.76,0.56,0.74,0.72,revise_incentive_frame
+R009,F009,Symptom reduction does not change recurrence,implementation_evidence,0.82,0.58,0.84,0.70,0.80,0.72,0.76,0.80,reject_symptom_frame
+R010,F010,Decision memory exists but decisions do not change,governance_signal,0.74,0.58,0.80,0.72,0.76,0.64,0.82,0.76,reframe_as_governance_authority_problem

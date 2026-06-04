@@ -1,0 +1,9 @@
+intervention_id,intervention_name,target_framing_risk,process_cost,implementation_complexity,boundary_gain,causal_depth_gain,stakeholder_gain,assumption_clarity_gain,reframing_capacity_gain,decision_memory_gain,political_safety_need
+INT001,Multiple-frame comparison workshop,premature_closure,0.34,0.38,0.66,0.62,0.54,0.70,0.82,0.62,0.30
+INT002,Boundary expansion review,boundary_myopia,0.38,0.42,0.90,0.66,0.68,0.60,0.64,0.58,0.34
+INT003,Stakeholder frame mapping,stakeholder_blindness,0.52,0.58,0.68,0.62,0.92,0.66,0.70,0.68,0.44
+INT004,Causal mechanism review,symptom_framing,0.40,0.44,0.56,0.88,0.50,0.70,0.66,0.62,0.30
+INT005,Assumption transparency audit,hidden_assumptions,0.36,0.38,0.54,0.64,0.56,0.92,0.74,0.70,0.28
+INT006,Frame-origin and lock-in review,institutional_lock_in,0.42,0.48,0.58,0.60,0.54,0.78,0.80,0.76,0.42
+INT007,Reframing trigger design,frame_rigidity,0.44,0.50,0.56,0.62,0.58,0.76,0.90,0.84,0.34
+INT008,Decision-memory archive,institutional_forgetting,0.48,0.52,0.50,0.56,0.54,0.70,0.78,0.94,0.32

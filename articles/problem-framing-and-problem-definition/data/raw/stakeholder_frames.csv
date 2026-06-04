@@ -1,0 +1,11 @@
+stakeholder_frame_id,frame_id,stakeholder_group,problem_definition_alignment,burden_visibility,trust_sensitivity,agency_visibility,legitimacy_contribution,conflict_visibility,participation_quality,hidden_harm_risk,review_action
+S001,F001,administrators,0.78,0.34,0.30,0.32,0.42,0.28,0.30,0.56,add_affected_stakeholders
+S002,F002,cross_functional_team,0.72,0.68,0.58,0.66,0.70,0.62,0.68,0.34,usable_with_stakeholder_review
+S003,F003,systems_practitioners,0.76,0.62,0.56,0.60,0.66,0.58,0.62,0.36,translate_model_for_affected_groups
+S004,F004,affected_communities,0.54,0.84,0.82,0.86,0.90,0.88,0.74,0.48,protect_plural_frames
+S005,F005,service_users,0.86,0.92,0.78,0.88,0.90,0.64,0.84,0.24,advance_with_participatory_definition
+S006,F006,technical_team,0.82,0.38,0.34,0.42,0.48,0.30,0.36,0.60,review_technical_frame_bias
+S007,F007,trust_sensitive_users,0.76,0.78,0.90,0.76,0.86,0.70,0.76,0.30,advance_with_legitimacy_evidence
+S008,F008,frontline_implementers,0.70,0.72,0.52,0.68,0.70,0.66,0.72,0.36,advance_with_role_and_metric_review
+S009,F009,affected_stakeholders,0.32,0.26,0.30,0.28,0.32,0.22,0.24,0.68,reframe_with_stakeholders
+S010,F010,implementation_owners,0.78,0.68,0.54,0.70,0.72,0.58,0.74,0.30,advance_with_after_action_learning

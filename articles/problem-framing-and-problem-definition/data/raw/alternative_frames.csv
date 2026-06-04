@@ -1,0 +1,9 @@
+comparison_id,primary_frame_id,rival_frame_id,comparison_focus,novelty_gain,causal_gain,stakeholder_gain,boundary_gain,actionability_gain,evidence_need,risk_of_confusion,recommendation
+AF001,F001,F002,administrative_to_strategic,0.58,0.66,0.54,0.62,0.42,0.58,0.30,compare_before_solution_generation
+AF002,F001,F003,administrative_to_systems,0.70,0.78,0.58,0.76,0.28,0.72,0.44,use_for_structural_diagnosis
+AF003,F006,F007,technology_to_trust,0.62,0.68,0.74,0.58,0.36,0.66,0.38,test_feature_frame_against_trust_frame
+AF004,F006,F008,technology_to_incentive,0.56,0.72,0.52,0.60,0.48,0.62,0.34,test_feature_frame_against_incentives
+AF005,F009,F003,symptom_to_systems,0.78,0.84,0.62,0.80,0.24,0.76,0.42,reframe_before_ideation
+AF006,F004,F005,political_to_stakeholder,0.42,0.50,0.82,0.64,0.38,0.64,0.52,use_to_ground_contested_problem
+AF007,F007,F010,trust_to_learning,0.48,0.58,0.46,0.50,0.54,0.56,0.32,combine_trust_and_learning_frames
+AF008,F008,F010,incentive_to_learning,0.44,0.62,0.38,0.46,0.58,0.54,0.28,combine_incentive_and_learning_frames

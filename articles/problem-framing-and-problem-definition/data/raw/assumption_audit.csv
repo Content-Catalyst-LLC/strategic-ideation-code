@@ -1,0 +1,11 @@
+assumption_id,frame_id,assumption_text,assumption_type,importance,uncertainty,visibility,testability,disconfirmation_quality,stakeholder_sensitivity,reversibility,assumption_risk,review_action
+A001,F001,Current reporting categories reflect the real problem,administrative,0.82,0.72,0.28,0.42,0.36,0.48,0.58,0.76,challenge_assumption
+A002,F002,Multiple interacting causes explain the pattern,causal,0.74,0.46,0.66,0.70,0.68,0.62,0.70,0.36,test_with_mixed_evidence
+A003,F003,Feedback loops sustain the recurring pattern,systems,0.80,0.44,0.62,0.72,0.70,0.58,0.66,0.34,test_with_systems_evidence
+A004,F004,Stakeholders define responsibility differently,power,0.76,0.40,0.70,0.64,0.66,0.86,0.50,0.42,protect_plural_interpretation
+A005,F005,Affected users experience hidden burden,stakeholder,0.84,0.34,0.78,0.76,0.74,0.92,0.62,0.30,advance_with_burden_mapping
+A006,F006,The main cause is a missing technical feature,technical,0.78,0.68,0.42,0.70,0.68,0.60,0.76,0.62,test_against_nontechnical_causes
+A007,F007,Trust loss is accumulated and reversible only through governance,trust,0.82,0.50,0.62,0.66,0.70,0.88,0.48,0.46,develop_trust_evidence
+A008,F008,Existing incentives make poor coordination rational,incentive,0.86,0.42,0.68,0.72,0.74,0.66,0.56,0.38,advance_with_metric_audit
+A009,F009,Visible symptoms are the problem,symptom,0.74,0.76,0.34,0.36,0.30,0.54,0.72,0.80,reject_or_reframe
+A010,F010,Strategy fails because feedback does not update decisions,learning,0.80,0.38,0.66,0.74,0.76,0.62,0.70,0.32,advance_with_decision_memory

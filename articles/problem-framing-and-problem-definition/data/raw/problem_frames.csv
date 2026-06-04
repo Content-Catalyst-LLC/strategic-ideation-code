@@ -1,0 +1,11 @@
+frame_id,frame_name,frame_type,domain,boundary_breadth,stakeholder_inclusion,systems_awareness,causal_depth,assumption_clarity,reframing_capacity,actionability,institutional_lock_in_risk,political_convenience_risk,description
+F001,Narrow Administrative Frame,administrative,public_service,0.28,0.34,0.26,0.31,0.24,0.22,0.62,0.82,0.70,Defines the problem by existing reporting and administrative categories.
+F002,Balanced Strategic Frame,strategic,organizational_strategy,0.71,0.74,0.72,0.76,0.70,0.73,0.78,0.40,0.36,Balances actionability with systems awareness and stakeholder inclusion.
+F003,Systems-Oriented Frame,systems,systems_strategy,0.86,0.79,0.91,0.84,0.78,0.82,0.72,0.32,0.34,Defines the problem through feedback loops boundaries incentives and delays.
+F004,Politically Contested Frame,political,policy_strategy,0.63,0.88,0.61,0.58,0.62,0.69,0.56,0.56,0.76,Reveals competing values responsibilities and power over problem definition.
+F005,Stakeholder-Grounded Frame,stakeholder,service_strategy,0.82,0.92,0.78,0.74,0.76,0.80,0.74,0.34,0.30,Defines the problem from lived experience burden trust and legitimacy.
+F006,Technology-Fix Frame,technical,product_strategy,0.42,0.44,0.38,0.40,0.46,0.42,0.76,0.68,0.62,Frames the challenge as a tool or feature gap while underplaying structure.
+F007,Trust and Legitimacy Frame,trust,institutional_strategy,0.76,0.86,0.74,0.72,0.70,0.78,0.70,0.42,0.48,Defines the problem as accumulated trust loss and legitimacy failure.
+F008,Incentive-Misalignment Frame,incentive,organizational_design,0.70,0.66,0.80,0.82,0.72,0.74,0.78,0.44,0.40,Defines the problem around metrics incentives authority and role conflicts.
+F009,Symptom-Only Frame,symptom,operations,0.24,0.30,0.22,0.24,0.28,0.20,0.66,0.78,0.60,Targets visible symptoms without explaining recurring structure.
+F010,Learning-Failure Frame,learning,implementation_strategy,0.78,0.72,0.82,0.80,0.74,0.84,0.76,0.36,0.34,Defines the problem as weak feedback revision and decision memory.

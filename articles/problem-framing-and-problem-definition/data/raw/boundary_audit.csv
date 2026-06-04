@@ -1,0 +1,11 @@
+boundary_id,frame_id,boundary_name,boundary_type,stakeholder_visibility,downstream_effect_visibility,externality_visibility,implementation_visibility,time_horizon_quality,hidden_dependency_visibility,boundary_risk,revision_need,review_recommendation
+B001,F001,Existing reporting boundary,administrative,0.30,0.24,0.20,0.42,0.28,0.26,0.78,0.82,expand_beyond_reporting_categories
+B002,F002,Strategic operating boundary,balanced,0.74,0.66,0.58,0.76,0.68,0.70,0.36,0.34,usable_with_downstream_review
+B003,F003,System dynamics boundary,systems,0.78,0.82,0.76,0.72,0.82,0.80,0.26,0.28,advance_with_model_humility
+B004,F004,Contested policy boundary,political,0.88,0.72,0.70,0.60,0.66,0.64,0.46,0.58,include_power_and_legitimacy_review
+B005,F005,Stakeholder burden boundary,stakeholder,0.92,0.84,0.78,0.70,0.72,0.76,0.28,0.30,advance_with_burden_safeguards
+B006,F006,Technical component boundary,technical,0.38,0.30,0.26,0.54,0.34,0.36,0.72,0.76,expand_to_behavior_trust_and_incentives
+B007,F007,Trust ecosystem boundary,trust,0.86,0.80,0.70,0.68,0.76,0.72,0.34,0.40,advance_with_governance_mapping
+B008,F008,Incentive system boundary,incentive,0.66,0.68,0.58,0.82,0.70,0.78,0.36,0.38,advance_with_cross_boundary_metrics
+B009,F009,Visible symptom boundary,symptom,0.28,0.20,0.18,0.36,0.24,0.22,0.84,0.88,reject_as_primary_boundary
+B010,F010,Learning loop boundary,learning,0.72,0.76,0.62,0.84,0.78,0.80,0.30,0.28,advance_with_memory_and_revision_triggers

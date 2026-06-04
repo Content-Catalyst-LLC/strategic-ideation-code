@@ -1,0 +1,11 @@
+causal_id,frame_id,causal_story,causal_depth,mechanism_clarity,feedback_awareness,incentive_awareness,delay_awareness,evidence_strength,alternative_cause_review,linear_oversimplification_risk,review_action
+C001,F001,Administrative backlog causes poor performance,0.32,0.42,0.24,0.30,0.26,0.46,0.24,0.78,expand_causal_model
+C002,F002,Performance reflects coordination incentives capacity and trust,0.76,0.74,0.70,0.68,0.62,0.70,0.68,0.34,advance_with_evidence_plan
+C003,F003,Recurring behavior emerges from feedback loops and system structure,0.86,0.80,0.90,0.72,0.78,0.68,0.76,0.28,advance_with_stakeholder_validation
+C004,F004,Problem is shaped by competing causal narratives and responsibility claims,0.62,0.58,0.54,0.50,0.56,0.54,0.72,0.46,compare_public_problem_stories
+C005,F005,Burden and mistrust reproduce low participation,0.78,0.76,0.72,0.58,0.66,0.76,0.78,0.30,advance_with_participatory_evidence
+C006,F006,Missing feature causes weak adoption,0.38,0.46,0.28,0.32,0.26,0.50,0.30,0.74,test_against_behavioral_rivals
+C007,F007,Accumulated legitimacy loss changes stakeholder response,0.74,0.72,0.70,0.54,0.68,0.70,0.74,0.34,advance_with_trust_metrics
+C008,F008,Conflicting incentives make weak implementation rational,0.82,0.80,0.74,0.88,0.68,0.72,0.76,0.30,advance_with_incentive_tests
+C009,F009,Visible symptom is treated as cause,0.24,0.28,0.20,0.22,0.20,0.34,0.18,0.86,reject_symptom_as_cause
+C010,F010,Weak learning loops prevent strategy from updating,0.80,0.78,0.82,0.66,0.72,0.74,0.80,0.28,advance_with_revision_triggers

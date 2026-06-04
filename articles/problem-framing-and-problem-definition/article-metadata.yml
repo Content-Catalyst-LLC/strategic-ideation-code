@@ -1,0 +1,31 @@
+title: "Problem Framing and Problem Definition"
+slug: "problem-framing-and-problem-definition"
+series: "Strategic Ideation"
+repository: "https://github.com/Content-Catalyst-LLC/strategic-ideation-code"
+article_folder: "articles/problem-framing-and-problem-definition"
+purpose: "Advanced strategist-facing companion code for problem-framing diagnostics, frame comparison, boundary analysis, stakeholder frame mapping, causal-depth review, assumption audits, reframing triggers, problem-definition scoring, idea-space expansion modeling, and decision-memory records."
+status: "advanced scaffold"
+professional_use_cases:
+  - "Problem-framing diagnostics"
+  - "Problem-definition quality scoring"
+  - "Frame-origin and institutional lock-in analysis"
+  - "Boundary and stakeholder visibility review"
+  - "Causal-depth and mechanism review"
+  - "Assumption transparency audit"
+  - "Alternative-frame comparison"
+  - "Reframing trigger design"
+  - "Decision-memory system design"
+languages:
+  - python
+  - r
+  - julia
+  - sql
+  - rust
+  - go
+  - cpp
+  - fortran
+  - c
+notes:
+  - "Uses synthetic data only."
+  - "Designed for strategists, planners, systems thinkers, analysts, consultants, innovation teams, design researchers, policy teams, product strategists, transformation leaders, and organizational decision-makers."
+  - "Not a substitute for stakeholder judgment, ethical review, domain expertise, or participatory governance."

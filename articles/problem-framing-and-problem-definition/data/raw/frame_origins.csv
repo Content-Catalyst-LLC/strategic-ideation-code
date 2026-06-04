@@ -1,0 +1,11 @@
+origin_id,frame_id,origin_source,authority_weight,metric_dependency,legacy_dependency,stakeholder_evidence_strength,frontline_evidence_strength,political_safety,diagnostic_independence,origin_risk,review_action
+O001,F001,legacy_reporting_structure,0.62,0.86,0.82,0.28,0.34,0.78,0.24,0.80,challenge_administrative_origin
+O002,F002,cross_functional_strategy_review,0.54,0.50,0.34,0.74,0.72,0.62,0.78,0.34,usable_with_frame_comparison
+O003,F003,systems_mapping_workshop,0.48,0.42,0.30,0.76,0.70,0.52,0.82,0.28,advance_with_evidence_tests
+O004,F004,stakeholder_conflict_and_policy_debate,0.70,0.48,0.42,0.82,0.66,0.36,0.64,0.58,protect_contested_frames
+O005,F005,participatory_research,0.40,0.34,0.28,0.92,0.78,0.58,0.86,0.26,advance_with_capacity_safeguards
+O006,F006,technology_team_solution_proposal,0.66,0.58,0.62,0.38,0.42,0.70,0.30,0.70,review_solution_imposition
+O007,F007,trust_repair_inquiry,0.46,0.38,0.32,0.88,0.66,0.50,0.76,0.34,advance_with_governance_review
+O008,F008,implementation_failure_review,0.52,0.62,0.44,0.64,0.82,0.56,0.74,0.36,advance_with_incentive_mapping
+O009,F009,crisis_response_meeting,0.72,0.66,0.58,0.24,0.30,0.84,0.22,0.78,do_not_lock_frame
+O010,F010,after_action_review,0.46,0.44,0.34,0.70,0.80,0.62,0.82,0.30,advance_with_decision_memory

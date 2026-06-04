@@ -91,3 +91,7 @@ This repository includes advanced workflows for strategic creativity scoring, no
 ## Systems Thinking in Ideation
 
 This repository includes advanced workflows for systems-based ideation, systems-profile diagnostics, feedback-loop review, leverage-point scoring, boundary analysis, unintended-consequence review, structural intervention portfolios, adaptive learning loops, and decision memory.
+
+## Problem Framing and Problem Definition
+
+This repository includes advanced workflows for problem-framing diagnostics, frame comparison, boundary analysis, stakeholder frame mapping, causal-depth review, assumption audits, reframing triggers, problem-definition scoring, idea-space expansion modeling, and decision-memory records.
