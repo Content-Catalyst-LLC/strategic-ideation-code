@@ -1,0 +1,34 @@
+title: "Leverage Points in Systems Change"
+slug: "leverage-points-in-systems-change"
+series: "Strategic Ideation"
+repository: "https://github.com/Content-Catalyst-LLC/strategic-ideation-code"
+article_folder: "articles/leverage-points-in-systems-change"
+purpose: "Advanced strategist-facing companion code for leverage-point diagnostics, structural-depth scoring, feedback-loop analysis, information-flow review, rule and incentive mapping, system-goal diagnosis, paradigm review, tipping-threshold analysis, unintended-consequence review, early-warning indicators, learning loops, and decision-memory records."
+status: "advanced scaffold"
+professional_use_cases:
+  - "Leverage-point diagnostics"
+  - "Structural-depth scoring"
+  - "Feedback-loop and system sensitivity analysis"
+  - "Information-flow and visibility review"
+  - "Rule and incentive mapping"
+  - "System-goal and operating-goal diagnosis"
+  - "Paradigm and mental-model review"
+  - "Positive tipping threshold analysis"
+  - "Governance-need and unintended-consequence review"
+  - "Early-warning indicator design"
+  - "Learning-loop governance"
+  - "Decision-memory systems"
+languages:
+  - python
+  - r
+  - julia
+  - sql
+  - rust
+  - go
+  - cpp
+  - fortran
+  - c
+notes:
+  - "Uses synthetic data only."
+  - "Designed for strategists, systems thinkers, foresight practitioners, policy teams, sustainability teams, innovation teams, product strategists, public-sector teams, analysts, consultants, and organizational leaders."
+  - "Not a substitute for stakeholder judgment, ethical review, domain expertise, or participatory governance."

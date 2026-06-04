@@ -1,0 +1,11 @@
+leverage_id,intervention_name,leverage_level,domain,implementation_ease,structural_depth,system_sensitivity,feedback_influence,information_effect,rule_power,goal_alignment,paradigm_relevance,transformative_potential,legitimacy_requirement,unintended_consequence_risk,learning_capacity,description
+L001,Parameter Adjustment,parameter,operations,0.86,0.22,0.28,0.28,0.31,0.20,0.28,0.16,0.24,0.24,0.26,0.34,Budget target threshold or technical setting adjustment.
+L002,Buffer and Capacity Redesign,buffer_reserve,resilience_strategy,0.70,0.42,0.48,0.46,0.40,0.34,0.46,0.26,0.46,0.38,0.36,0.52,Slack redundancy reserve or recovery capacity redesign.
+L003,Delay and Timing Redesign,delay_timing,governance,0.62,0.50,0.58,0.56,0.52,0.40,0.52,0.30,0.54,0.44,0.42,0.60,Feedback timing review cadence and adoption sequence redesign.
+L004,Information Flow Redesign,information_flow,knowledge_strategy,0.62,0.58,0.68,0.66,0.88,0.42,0.56,0.36,0.63,0.48,0.50,0.68,Transparency dashboard signal routing or stakeholder feedback redesign.
+L005,Feedback Loop Redesign,feedback_loop,systems_change,0.54,0.70,0.78,0.88,0.62,0.54,0.64,0.46,0.74,0.58,0.62,0.72,Reinforcing or balancing loop redesign.
+L006,Rule and Incentive Redesign,rule_incentive,institutional_design,0.44,0.82,0.82,0.76,0.66,0.90,0.78,0.58,0.82,0.72,0.70,0.70,Governance reward constraint permission or decision-right redesign.
+L007,System Goal Shift,system_goal,organizational_strategy,0.30,0.92,0.86,0.80,0.60,0.78,0.96,0.78,0.92,0.84,0.78,0.76,Shift from output goal to resilience equity learning trust or long-term value.
+L008,Paradigm and Mental Model Shift,paradigm,transformation_strategy,0.21,0.96,0.88,0.82,0.60,0.78,0.96,0.98,0.96,0.90,0.82,0.78,Change the underlying assumptions that define what the system is for.
+L009,Access Burden Redesign,rule_information,public_service,0.48,0.76,0.80,0.68,0.72,0.82,0.86,0.62,0.84,0.80,0.64,0.74,Reduce administrative burden and redesign rules around access.
+L010,Platform Metric Redesign,rule_feedback,technology_strategy,0.52,0.78,0.84,0.82,0.76,0.86,0.82,0.66,0.86,0.76,0.74,0.72,Change platform success metrics from engagement to agency safety or civic value.

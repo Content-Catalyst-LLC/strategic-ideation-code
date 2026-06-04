@@ -1,0 +1,10 @@
+indicator_id,leverage_id,indicator_name,signal_type,leading_quality,visibility,reliability,timeliness,sensitivity,false_positive_risk,decision_linkage,monitoring_cost,trigger_threshold,review_action
+E001,L001,Target gaming signal,metric_signal,0.64,0.66,0.62,0.60,0.62,0.42,0.54,0.28,0.25,review_parameter_distortion
+E002,L003,Feedback delay variance,timing_signal,0.76,0.58,0.64,0.70,0.74,0.36,0.66,0.34,0.30,shorten_or_visualize_delay
+E003,L004,Information use and overload signal,information_signal,0.74,0.62,0.60,0.64,0.72,0.42,0.62,0.36,0.35,govern_dashboard_use
+E004,L005,Feedback loop amplification signal,systems_signal,0.82,0.56,0.60,0.58,0.80,0.38,0.66,0.42,0.30,review_reinforcing_loop
+E005,L006,Incentive gaming and countermetric divergence,behavioral_signal,0.84,0.54,0.60,0.58,0.82,0.40,0.68,0.38,0.25,activate_countermetric_review
+E006,L007,Goal alignment drift signal,strategic_signal,0.80,0.52,0.58,0.54,0.78,0.38,0.70,0.36,0.30,reopen_goal_alignment_review
+E007,L008,Paradigm rhetoric-practice gap,interpretive_signal,0.78,0.48,0.54,0.50,0.76,0.42,0.62,0.34,0.35,review_practice_embedding
+E008,L009,Administrative burden and access trust signal,stakeholder_signal,0.86,0.64,0.66,0.62,0.84,0.34,0.72,0.38,0.30,adjust_access_design
+E009,L010,User agency and engagement tradeoff signal,product_signal,0.82,0.58,0.62,0.60,0.80,0.40,0.74,0.40,0.30,review_product_metric_shift

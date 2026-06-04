@@ -1,0 +1,9 @@
+threshold_id,leverage_id,threshold_name,threshold_type,current_progress,threshold_level,diffusion_potential,self_reinforcement_strength,complementary_condition_quality,legitimacy_support,infrastructure_support,monitoring_quality,review_action
+T001,L002,Resilience reserve activation,capacity_threshold,0.54,0.70,0.46,0.48,0.58,0.50,0.62,0.60,protect_buffers_before_stress
+T002,L004,Shared visibility adoption,information_threshold,0.48,0.65,0.72,0.70,0.62,0.58,0.56,0.66,cross_adoption_threshold
+T003,L005,Trust participation cascade,feedback_threshold,0.42,0.62,0.76,0.84,0.58,0.70,0.52,0.64,invest_in_trust_and_feedback
+T004,L006,Incentive norm shift,rule_threshold,0.38,0.68,0.70,0.76,0.60,0.58,0.54,0.58,sequence_incentive_change
+T005,L007,Goal alignment tipping point,goal_threshold,0.34,0.72,0.72,0.82,0.56,0.62,0.50,0.54,align_metrics_budget_and_governance
+T006,L008,Paradigm legitimacy threshold,paradigm_threshold,0.28,0.76,0.68,0.84,0.48,0.56,0.44,0.48,build_coalition_and_practice_base
+T007,L009,Access trust cascade,service_threshold,0.50,0.66,0.78,0.82,0.66,0.76,0.60,0.68,scale_access_redesign
+T008,L010,Platform agency norm threshold,technology_threshold,0.32,0.70,0.74,0.80,0.54,0.58,0.52,0.56,stage_product_metric_shift

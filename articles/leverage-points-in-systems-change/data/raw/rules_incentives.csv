@@ -1,0 +1,9 @@
+rule_id,leverage_id,rule_name,rule_type,current_misalignment,behavioral_power,incentive_clarity,cross_boundary_effect,implementation_complexity,political_resistance,governance_readiness,countermetric_quality,review_action
+R001,L001,Target threshold adjustment,parameter_rule,0.42,0.44,0.70,0.30,0.28,0.24,0.72,0.44,monitor_behavioral_response
+R002,L006,Shared outcome incentive,incentive,0.76,0.84,0.68,0.72,0.62,0.58,0.56,0.66,prototype_incentive_redesign
+R003,L006,Cross-functional decision rights,governance_rule,0.72,0.80,0.62,0.76,0.66,0.60,0.52,0.58,clarify_authority_and_accountability
+R004,L007,Long-term value governance goal,system_goal_rule,0.84,0.82,0.56,0.78,0.72,0.72,0.46,0.62,stage_goal_shift_with_metrics
+R005,L009,Simplified access eligibility,access_rule,0.80,0.86,0.74,0.82,0.64,0.52,0.58,0.70,co_design_access_rules
+R006,L010,Platform wellbeing metric rule,product_governance_rule,0.82,0.88,0.64,0.76,0.68,0.66,0.50,0.72,combine_metrics_with_qualitative_review
+R007,L008,Paradigm-aligned investment criteria,resource_rule,0.86,0.84,0.54,0.80,0.74,0.78,0.44,0.64,build_coalition_before_commitment
+R008,L002,Resilience reserve requirement,buffer_rule,0.58,0.62,0.70,0.54,0.50,0.44,0.66,0.60,protect_buffer_in_budget_logic

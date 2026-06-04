@@ -1,0 +1,10 @@
+learning_id,leverage_id,learning_loop_name,feedback_quality,revision_trigger_clarity,decision_memory_quality,stakeholder_learning_visibility,scenario_update_quality,governance_response_capacity,cycle_time,learning_risk,action_if_triggered
+LL001,L001,Parameter review loop,0.58,0.56,0.54,0.38,0.42,0.60,0.68,0.36,adjust_or_deepen_intervention
+LL002,L003,Delay learning loop,0.70,0.68,0.64,0.50,0.60,0.66,0.62,0.30,shorten_delay_or_change_review_cadence
+LL003,L004,Information-flow learning loop,0.74,0.68,0.66,0.68,0.62,0.64,0.58,0.34,revise_visibility_governance
+LL004,L005,Feedback-loop learning review,0.76,0.70,0.68,0.64,0.66,0.62,0.56,0.36,redesign_loop_or_monitoring
+LL005,L006,Rule and incentive learning loop,0.68,0.62,0.70,0.60,0.64,0.58,0.52,0.44,reopen_incentive_design
+LL006,L007,Goal alignment learning loop,0.66,0.60,0.74,0.66,0.70,0.56,0.50,0.48,realign_metrics_budget_and_decision_rights
+LL007,L008,Paradigm transition learning loop,0.62,0.58,0.78,0.72,0.72,0.52,0.46,0.54,revisit_narrative_coalition_and_practice
+LL008,L009,Access redesign learning loop,0.78,0.74,0.72,0.86,0.68,0.70,0.62,0.24,scale_or_revise_based_on_burden_evidence
+LL009,L010,Platform metric learning loop,0.70,0.64,0.74,0.66,0.72,0.60,0.54,0.46,adjust_metrics_and_governance

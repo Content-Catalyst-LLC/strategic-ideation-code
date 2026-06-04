@@ -1,0 +1,9 @@
+governance_id,leverage_id,governance_focus,legitimacy_requirement,unintended_consequence_risk,implementation_complexity,monitoring_need,stakeholder_inclusion_need,decision_memory_need,revision_trigger_clarity,current_governance_capacity,review_action
+GN001,L001,Parameter monitoring,0.24,0.26,0.28,0.42,0.24,0.36,0.54,0.72,standard_monitoring
+GN002,L004,Information governance,0.48,0.50,0.54,0.72,0.62,0.60,0.58,0.58,govern_visibility_for_learning
+GN003,L005,Feedback governance,0.58,0.62,0.60,0.78,0.60,0.68,0.56,0.52,build_loop_monitoring_and_review
+GN004,L006,Rule and incentive governance,0.72,0.70,0.66,0.76,0.66,0.72,0.52,0.46,create_countermetric_and_review_board
+GN005,L007,Goal-shift governance,0.84,0.78,0.72,0.82,0.76,0.82,0.48,0.40,stage_goal_shift_with_decision_memory
+GN006,L008,Paradigm transition governance,0.90,0.82,0.78,0.86,0.84,0.88,0.42,0.36,build_transition_coalition_and_learning_loop
+GN007,L009,Access redesign governance,0.80,0.64,0.64,0.76,0.86,0.74,0.58,0.50,co_design_and_monitor_burden
+GN008,L010,Platform metric governance,0.76,0.74,0.68,0.80,0.66,0.76,0.50,0.44,establish_product_governance_review

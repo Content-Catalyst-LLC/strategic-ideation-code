@@ -1,0 +1,7 @@
+paradigm_id,leverage_id,paradigm_name,current_assumption,alternative_frame,assumption_visibility,paradigm_lock_in,conceptual_clarity,coalition_strength,evidence_base,transition_pathway_quality,practice_embedding,review_action
+P001,L001,Parameter management,If the number changes the system changes,The number is only one surface expression of structure,0.62,0.40,0.58,0.46,0.56,0.50,0.52,use_as_shallow_baseline
+P002,L006,Control through incentives,People follow what the system rewards,Incentives must be aligned with purpose and learning,0.56,0.66,0.62,0.54,0.60,0.52,0.48,prototype_rule_change_with_countermetrics
+P003,L007,Throughput as success,Efficiency and utilization define value,Resilience learning trust and long-term outcomes define value,0.44,0.78,0.58,0.50,0.56,0.46,0.40,build_goal_shift_narrative_and_metrics
+P004,L008,Growth or control paradigm,The inherited model defines what is realistic,System purpose can be redefined around sustainability legitimacy or wellbeing,0.38,0.88,0.54,0.46,0.52,0.42,0.34,build_paradigm_transition_coalition
+P005,L009,Administrative gatekeeping,Access requires control and proof,Access should minimize burden while protecting integrity,0.52,0.72,0.68,0.62,0.66,0.58,0.54,co_design_access_paradigm_shift
+P006,L010,Engagement maximization,Attention is the core product value,Agency wellbeing and civic quality are strategic value,0.42,0.82,0.60,0.52,0.58,0.48,0.42,align_product_governance_with_new_frame

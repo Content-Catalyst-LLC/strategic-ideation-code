@@ -1,0 +1,11 @@
+flow_id,leverage_id,flow_name,flow_type,visibility_gain,signal_quality,decision_linkage,stakeholder_access,delay_reduction,context_quality,gaming_risk,data_burden,review_action
+IF001,L001,Parameter dashboard,internal_metric,0.56,0.62,0.58,0.22,0.42,0.48,0.42,0.30,monitor_for_metric_fixation
+IF002,L003,Leading indicator review,early_warning,0.70,0.66,0.72,0.44,0.82,0.58,0.36,0.34,use_for_delay_reduction
+IF003,L004,Shared system visibility dashboard,cross_boundary_signal,0.88,0.76,0.74,0.62,0.68,0.70,0.50,0.48,govern_for_learning_not_punishment
+IF004,L004,Stakeholder feedback channel,stakeholder_signal,0.82,0.70,0.68,0.88,0.62,0.76,0.30,0.42,connect_feedback_to_decision_rights
+IF005,L005,Feedback loop monitoring,systems_signal,0.76,0.72,0.70,0.58,0.66,0.68,0.34,0.44,monitor_recursive_dynamics
+IF006,L006,Incentive consequence dashboard,behavioral_signal,0.74,0.68,0.76,0.50,0.58,0.66,0.60,0.44,add_countermetric_review
+IF007,L007,Goal alignment scorecard,strategic_signal,0.70,0.66,0.78,0.56,0.54,0.72,0.48,0.46,link_to_governance_review
+IF008,L008,Paradigm evidence narrative,interpretive_signal,0.58,0.60,0.62,0.70,0.40,0.82,0.28,0.36,use_with_deliberation_process
+IF009,L009,Administrative burden visibility,access_signal,0.86,0.74,0.78,0.82,0.64,0.76,0.26,0.40,use_to_reduce_access_burden
+IF010,L010,Platform wellbeing and agency metrics,product_signal,0.78,0.70,0.80,0.60,0.60,0.74,0.54,0.44,watch_metric_substitution

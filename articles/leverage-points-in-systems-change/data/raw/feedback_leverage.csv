@@ -1,0 +1,11 @@
+feedback_id,leverage_id,loop_name,loop_type,loop_strength,current_visibility,reinforcing_potential,balancing_capacity,delay_risk,intervention_readiness,positive_cascade_potential,policy_resistance_risk,review_action
+F001,L001,Target pressure loop,reinforcing_negative,0.42,0.70,0.46,0.48,0.36,0.72,0.28,0.34,monitor_metric_response
+F002,L002,Resilience buffer loop,balancing,0.58,0.58,0.42,0.72,0.46,0.64,0.50,0.30,protect_buffer_capacity
+F003,L003,Delayed learning loop,balancing_adaptive,0.64,0.44,0.46,0.66,0.82,0.56,0.52,0.42,shorten_feedback_delay
+F004,L004,Visibility behavior loop,information_feedback,0.70,0.52,0.66,0.58,0.42,0.62,0.68,0.46,govern_visibility_for_learning
+F005,L005,Trust participation loop,reinforcing_positive,0.82,0.54,0.84,0.62,0.50,0.58,0.88,0.36,amplify_constructive_feedback
+F006,L006,Incentive behavior loop,rule_feedback,0.86,0.50,0.78,0.54,0.48,0.52,0.76,0.58,redesign_incentives_and_countermetrics
+F007,L007,Goal alignment loop,goal_feedback,0.88,0.46,0.82,0.58,0.64,0.46,0.84,0.66,align_measures_with_goal_shift
+F008,L008,Paradigm legitimacy loop,paradigm_feedback,0.90,0.42,0.86,0.50,0.72,0.40,0.88,0.74,build_legitimacy_and_transition_pathway
+F009,L009,Access trust loop,reinforcing_positive,0.78,0.56,0.80,0.64,0.44,0.62,0.86,0.32,amplify_access_trust_cascade
+F010,L010,Metric optimization loop,rule_feedback,0.84,0.48,0.82,0.52,0.50,0.54,0.70,0.62,add_countermetrics_and_monitor_gaming

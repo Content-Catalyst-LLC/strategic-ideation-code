@@ -1,0 +1,7 @@
+goal_id,leverage_id,stated_goal,operating_goal,goal_misalignment,metric_alignment,budget_alignment,decision_right_alignment,tradeoff_clarity,stakeholder_legitimacy,long_term_orientation,revision_readiness,review_action
+G001,L001,Improve performance,Hit numerical target,0.48,0.70,0.62,0.58,0.46,0.40,0.38,0.54,review_target_consequences
+G002,L006,Improve collaboration,Individual output and local control,0.78,0.44,0.42,0.38,0.50,0.48,0.46,0.42,align_incentives_with_collaboration
+G003,L007,Build resilient long-term value,Short-term utilization and throughput,0.86,0.36,0.34,0.40,0.42,0.58,0.44,0.46,redesign_goal_metrics_and_budget
+G004,L008,Transform institutional purpose,Protect inherited paradigm,0.90,0.30,0.32,0.34,0.36,0.62,0.50,0.38,use_paradigm_deliberation_and_governance
+G005,L009,Equitable access,Administrative control,0.84,0.38,0.40,0.42,0.48,0.76,0.52,0.50,shift_goal_to_access_and_burden_reduction
+G006,L010,User agency and civic value,Engagement growth,0.88,0.34,0.36,0.38,0.40,0.58,0.48,0.44,shift_product_goal_and_metrics

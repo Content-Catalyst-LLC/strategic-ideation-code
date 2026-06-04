@@ -103,3 +103,7 @@ This repository includes advanced workflows for complexity-aware strategy, struc
 ## Second-Order Effects and Unintended Consequences
 
 This repository includes advanced workflows for second-order effect diagnostics, unintended-consequence audits, feedback-loop review, burden-shift analysis, incentive distortion scoring, behavioral adaptation review, delay-risk modeling, policy-resistance detection, fragility analysis, early-warning indicators, learning loops, and decision-memory records.
+
+## Leverage Points in Systems Change
+
+This repository includes advanced workflows for leverage-point diagnostics, structural-depth scoring, feedback-loop analysis, information-flow review, rule and incentive mapping, system-goal diagnosis, paradigm review, tipping-threshold analysis, unintended-consequence review, early-warning indicators, learning loops, and decision-memory records.
