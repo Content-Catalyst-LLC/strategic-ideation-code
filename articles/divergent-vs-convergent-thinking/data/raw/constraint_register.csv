@@ -1,0 +1,15 @@
+constraint_id,context_id,constraint_name,constraint_type,is_real_constraint,certainty,strategic_importance,redesign_potential,evidence_quality,notes
+K001,DC001,Quarterly delivery deadline,time,true,0.84,0.78,0.28,0.80,Real near-term commitment
+K002,DC001,Ideas must resemble current service model,assumed,false,0.66,0.82,0.76,0.48,Inherited frame not confirmed
+K003,DC002,Limited implementation capacity,resource,true,0.78,0.80,0.42,0.76,Requires sequencing
+K004,DC002,Existing portfolio categories,assumed,false,0.70,0.68,0.72,0.52,Categories can be redesigned
+K005,DC003,No selection criteria until all ideas are generated,process_assumption,false,0.62,0.76,0.82,0.40,Creates unbounded divergence
+K006,DC003,Limited evaluation time,time,true,0.74,0.72,0.30,0.70,Requires staged selection
+K007,DC004,Prototype evidence required before scale,evidence,true,0.82,0.86,0.24,0.80,Useful convergence gate
+K008,DC004,Stakeholder feedback must be incorporated,ethical,true,0.80,0.84,0.32,0.78,Legitimacy constraint
+K009,DC005,Only executives can define viability,power_assumption,false,0.72,0.88,0.84,0.44,Selection-power problem
+K010,DC005,Short-term cost ceiling,resource,true,0.76,0.70,0.38,0.72,Can be phased
+K011,DC006,Affected stakeholder review time,ethical,true,0.78,0.86,0.36,0.76,Meaningful participation requires time
+K012,DC007,Current technical architecture,technical,true,0.84,0.76,0.30,0.82,May be redesigned over longer horizon
+K013,DC008,Research must precede decision,assumed,false,0.68,0.74,0.70,0.56,Can use staged evidence gates
+K014,DC008,Uncertain policy environment,external,true,0.70,0.82,0.22,0.68,Requires scenario testing

@@ -1,0 +1,9 @@
+review_id,context_id,stakeholder_group,inclusion_level,influence_on_criteria,influence_on_selection,burden_visibility,knowledge_recognition,legitimacy_signal,review_quality
+S001,DC001,frontline_users,0.32,0.22,0.20,0.30,0.34,0.38,0.30
+S002,DC002,cross_functional_team,0.70,0.66,0.62,0.64,0.68,0.70,0.68
+S003,DC003,idea_contributors,0.58,0.36,0.30,0.42,0.50,0.46,0.42
+S004,DC004,affected_stakeholders,0.82,0.76,0.70,0.78,0.80,0.84,0.78
+S005,DC005,frontline_workers,0.24,0.16,0.12,0.20,0.28,0.26,0.22
+S006,DC006,community_partners,0.90,0.84,0.78,0.86,0.88,0.90,0.86
+S007,DC007,end_users,0.30,0.22,0.18,0.26,0.32,0.34,0.28
+S008,DC008,research_partners,0.66,0.54,0.46,0.58,0.70,0.64,0.60

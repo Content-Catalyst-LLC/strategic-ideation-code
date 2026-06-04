@@ -1,0 +1,32 @@
+title: "Divergent vs Convergent Thinking"
+slug: "divergent-vs-convergent-thinking"
+series: "Strategic Ideation"
+repository: "https://github.com/Content-Catalyst-LLC/strategic-ideation-code"
+article_folder: "articles/divergent-vs-convergent-thinking"
+purpose: "Advanced strategist-facing companion code for divergence-convergence diagnostics, exploration-exploitation balance, constraint classification, selection integrity, stakeholder inclusion review, iteration quality, and decision-memory systems."
+status: "advanced scaffold"
+professional_use_cases:
+  - "Ideation process audit"
+  - "Premature convergence risk analysis"
+  - "Unbounded divergence risk analysis"
+  - "Exploration-exploitation balance review"
+  - "Constraint classification"
+  - "Evaluation criteria quality review"
+  - "Selection bias and selection integrity review"
+  - "Stakeholder inclusion and legitimacy gap review"
+  - "Iteration and learning diagnostics"
+  - "Decision-memory system design"
+languages:
+  - python
+  - r
+  - julia
+  - sql
+  - rust
+  - go
+  - cpp
+  - fortran
+  - c
+notes:
+  - "Uses synthetic data only."
+  - "Designed for strategists, planners, analysts, consultants, organizational leaders, innovation teams, design researchers, and knowledge architects."
+  - "Not a substitute for stakeholder judgment, ethical review, domain expertise, or participatory governance."

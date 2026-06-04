@@ -55,3 +55,7 @@ This repository includes advanced workflows for concept inventories, interpretat
 ## Strategic Narratives
 
 This repository includes advanced workflows for narrative coherence diagnostics, direction-logic mapping, narrative-performance gap analysis, role alignment, stakeholder interpretation, narrative drift monitoring, and narrative governance.
+
+## Divergent and Convergent Thinking
+
+This repository includes advanced workflows for divergence-convergence diagnostics, exploration-exploitation balance, idea portfolio scoring, criteria quality review, constraint classification, stakeholder inclusion, selection integrity, iteration quality, and decision memory.

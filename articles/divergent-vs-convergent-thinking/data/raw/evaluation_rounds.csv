@@ -1,0 +1,9 @@
+round_id,context_id,round_name,mode,mode_clarity,participation_quality,criteria_transparency,evidence_use,stakeholder_voice,decision_documentation,iteration_trigger_quality
+R001,DC001,initial_screen,convergence,0.68,0.42,0.54,0.46,0.28,0.38,0.32
+R002,DC002,portfolio_review,mixed,0.78,0.72,0.76,0.74,0.68,0.72,0.70
+R003,DC003,open_brainstorm,divergence,0.62,0.58,0.22,0.24,0.46,0.28,0.30
+R004,DC004,evidence_gate,mixed,0.84,0.78,0.82,0.86,0.76,0.80,0.84
+R005,DC005,executive_selection,convergence,0.60,0.24,0.32,0.34,0.18,0.30,0.28
+R006,DC006,co_design_review,mixed,0.76,0.88,0.72,0.70,0.92,0.74,0.76
+R007,DC007,technical_screen,convergence,0.72,0.36,0.60,0.74,0.24,0.52,0.42
+R008,DC008,research_synthesis,divergence,0.70,0.66,0.46,0.86,0.58,0.54,0.50

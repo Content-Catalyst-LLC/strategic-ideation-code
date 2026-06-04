@@ -1,0 +1,15 @@
+criteria_id,context_id,criterion_name,definition_clarity,weight_justification,measurement_validity,bias_risk,stakeholder_relevance,strategic_importance,review_priority
+C001,DC001,implementation_speed,0.70,0.62,0.66,0.54,0.30,0.72,moderate
+C002,DC001,strategic_novelty,0.42,0.34,0.38,0.62,0.44,0.78,high
+C003,DC002,strategic_fit,0.78,0.76,0.72,0.30,0.70,0.86,moderate
+C004,DC002,learning_value,0.74,0.72,0.70,0.34,0.68,0.82,moderate
+C005,DC003,idea_volume,0.64,0.50,0.46,0.70,0.40,0.52,high
+C006,DC003,originality,0.52,0.44,0.38,0.58,0.50,0.70,high
+C007,DC004,evidence_contact,0.80,0.78,0.76,0.28,0.72,0.84,moderate
+C008,DC004,iteration_quality,0.76,0.74,0.72,0.30,0.70,0.82,moderate
+C009,DC005,executive_preference,0.58,0.30,0.24,0.86,0.18,0.50,high
+C010,DC005,cost_reduction,0.66,0.58,0.60,0.72,0.24,0.76,high
+C011,DC006,stakeholder_value,0.78,0.74,0.70,0.28,0.92,0.86,moderate
+C012,DC007,technical_feasibility,0.84,0.76,0.78,0.46,0.30,0.78,moderate
+C013,DC008,research_depth,0.76,0.70,0.74,0.42,0.58,0.72,moderate
+C014,DC008,selection_readiness,0.52,0.46,0.44,0.50,0.62,0.80,high

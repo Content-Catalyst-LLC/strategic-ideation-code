@@ -1,0 +1,15 @@
+idea_id,context_id,idea_name,novelty,strategic_fit,evidence_strength,feasibility,stakeholder_value,risk_visibility,ethical_legitimacy,implementation_readiness,assumption_burden
+I001,DC001,Optimize existing workflow with minor automation,0.32,0.68,0.72,0.84,0.44,0.46,0.50,0.78,0.30
+I002,DC001,Reframe service around user decision moments,0.72,0.76,0.48,0.56,0.70,0.62,0.68,0.48,0.52
+I003,DC002,Build staged option portfolio for strategic learning,0.74,0.82,0.70,0.76,0.72,0.78,0.76,0.74,0.38
+I004,DC002,Create decision-memory system for deferred ideas,0.62,0.80,0.74,0.82,0.68,0.70,0.72,0.78,0.28
+I005,DC003,Launch open-ended idea challenge with no criteria,0.82,0.38,0.24,0.30,0.46,0.28,0.42,0.22,0.76
+I006,DC003,Create broad speculative concept archive,0.88,0.44,0.30,0.32,0.52,0.34,0.50,0.28,0.70
+I007,DC004,Prototype three alternative pathways with feedback loops,0.76,0.84,0.78,0.72,0.82,0.80,0.84,0.76,0.34
+I008,DC004,Stage exploration then converge through evidence gates,0.70,0.86,0.82,0.78,0.80,0.84,0.82,0.80,0.26
+I009,DC005,Select executive-preferred idea before stakeholder review,0.52,0.58,0.40,0.66,0.24,0.30,0.28,0.62,0.64
+I010,DC005,Score ideas only by speed and cost,0.38,0.54,0.46,0.80,0.22,0.26,0.24,0.72,0.56
+I011,DC006,Co-design strategic options with affected stakeholders,0.72,0.78,0.66,0.62,0.92,0.76,0.90,0.58,0.40
+I012,DC007,Scale technically feasible option without frame review,0.36,0.62,0.76,0.84,0.30,0.42,0.34,0.80,0.48
+I013,DC008,Continue research scan without selection threshold,0.78,0.58,0.84,0.42,0.60,0.62,0.66,0.30,0.58
+I014,DC008,Convert research evidence into three testable pathways,0.70,0.80,0.86,0.66,0.72,0.74,0.76,0.62,0.32

@@ -1,0 +1,9 @@
+context_id,context_name,context_type,exploratory_breadth,evaluative_discipline,iteration_quality,constraint_clarity,stakeholder_inclusion,evidence_contact,action_readiness,decision_memory_quality,closure_pressure
+DC001,Premature Convergence Context,premature_convergence,0.28,0.86,0.31,0.71,0.34,0.42,0.79,0.38,0.88
+DC002,Balanced Strategic Thinking Context,balanced,0.74,0.77,0.76,0.73,0.70,0.74,0.81,0.72,0.62
+DC003,Unbounded Divergence Context,unbounded_divergence,0.91,0.22,0.38,0.19,0.46,0.31,0.27,0.30,0.22
+DC004,Iterative Adaptive Context,iterative_adaptive,0.79,0.72,0.88,0.69,0.76,0.82,0.77,0.80,0.50
+DC005,Power-Biased Selection Context,power_biased_selection,0.48,0.70,0.42,0.55,0.28,0.44,0.58,0.36,0.74
+DC006,Stakeholder-Grounded Exploration Context,stakeholder_grounded,0.76,0.66,0.74,0.62,0.88,0.72,0.68,0.70,0.48
+DC007,Technically Strong but Narrow Context,technical_narrow,0.40,0.82,0.50,0.78,0.32,0.70,0.72,0.52,0.80
+DC008,Research-Heavy Low-Commitment Context,research_heavy,0.84,0.44,0.68,0.46,0.62,0.86,0.34,0.56,0.34
