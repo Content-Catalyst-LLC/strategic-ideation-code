@@ -1,0 +1,9 @@
+system_id,system_name,system_type,domain,feedback_awareness,leverage_sensitivity,root_cause_depth,stakeholder_visibility,boundary_quality,stock_flow_awareness,delay_awareness,adaptive_learning,unintended_consequence_risk,local_optimization_risk,description
+SYS001,Symptom-Focused Ideation System,weak_system,organizational_strategy,0.24,0.21,0.31,0.28,0.34,0.30,0.26,0.29,0.79,0.76,Generates ideas around visible symptoms without structural diagnosis.
+SYS002,Balanced Systems-Ideation System,developing_system,product_strategy,0.74,0.72,0.76,0.68,0.72,0.70,0.66,0.77,0.41,0.38,Uses feedback maps and stakeholder review before selecting interventions.
+SYS003,High-Leverage Structural System,advanced_system,public_strategy,0.86,0.91,0.88,0.70,0.78,0.82,0.76,0.83,0.36,0.32,Focuses on rules incentives information flows goals and learning loops.
+SYS004,Fragmented Local Optimization System,weak_system,enterprise_strategy,0.19,0.17,0.22,0.24,0.30,0.28,0.22,0.25,0.84,0.88,Optimizes departmental metrics while degrading whole-system performance.
+SYS005,Stakeholder-Grounded Systems System,advanced_system,sustainability_strategy,0.78,0.76,0.80,0.90,0.86,0.74,0.72,0.82,0.34,0.30,Combines systems mapping with participatory stakeholder and burden review.
+SYS006,Learning-Loop Intervention System,advanced_system,implementation_strategy,0.82,0.78,0.78,0.72,0.76,0.80,0.78,0.90,0.32,0.34,Builds revision triggers and decision memory into intervention design.
+SYS007,Technology-Fix Ideation System,risk_system,technology_strategy,0.36,0.30,0.40,0.42,0.38,0.34,0.30,0.38,0.72,0.68,Treats structural or trust problems as technology gaps.
+SYS008,Policy Feedback-Aware System,developing_system,policy_strategy,0.80,0.74,0.82,0.76,0.78,0.70,0.74,0.76,0.40,0.36,Uses feedback and delay review in policy design.

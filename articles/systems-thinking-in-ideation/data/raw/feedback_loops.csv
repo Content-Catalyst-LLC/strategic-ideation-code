@@ -1,0 +1,9 @@
+loop_id,system_id,loop_name,loop_type,loop_strength,visibility,intervention_readiness,reinforcing_risk,balancing_capacity,delay_risk,stakeholder_burden_risk,diagnostic_note
+F001,SYS001,More messaging for low adoption,reinforcing,0.72,0.38,0.32,0.78,0.22,0.54,0.46,Low adoption triggers more messaging without addressing trust or workflow.
+F002,SYS002,User feedback improves workflow fit,balancing,0.66,0.74,0.72,0.36,0.76,0.38,0.34,Feedback from users revises workflow before scaling.
+F003,SYS003,Information transparency improves accountability,reinforcing_positive,0.78,0.82,0.78,0.28,0.70,0.42,0.30,Information flows improve accountability and structural learning.
+F004,SYS004,Departmental targets increase cross-boundary burden,reinforcing_negative,0.84,0.42,0.30,0.86,0.18,0.62,0.74,Local optimization creates burden elsewhere and reinforces fragmentation.
+F005,SYS005,Stakeholder participation improves legitimacy,reinforcing_positive,0.76,0.88,0.80,0.30,0.76,0.46,0.36,Participation improves legitimacy when capacity safeguards exist.
+F006,SYS006,Implementation evidence updates strategy,balancing_learning,0.82,0.80,0.86,0.24,0.84,0.40,0.32,Implementation feedback changes decisions and prevents drift.
+F007,SYS007,Technology fixes generate workaround behavior,reinforcing_negative,0.70,0.46,0.36,0.74,0.28,0.58,0.62,Technical solution creates adaptation around unresolved structural causes.
+F008,SYS008,Policy signal triggers adaptive compliance,balancing,0.68,0.72,0.70,0.42,0.74,0.56,0.48,Compliance response changes policy effectiveness over time.

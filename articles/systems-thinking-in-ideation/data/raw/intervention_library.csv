@@ -1,0 +1,9 @@
+intervention_id,intervention_name,target_systems_risk,process_cost,implementation_complexity,structure_quality_gain,feedback_gain,leverage_gain,stakeholder_gain,boundary_gain,learning_gain,unintended_consequence_reduction,political_safety_need
+INT001,Pattern-before-solution diagnostic,symptom_substitution,0.30,0.34,0.76,0.54,0.58,0.46,0.52,0.58,0.50,0.26
+INT002,Boundary expansion review,boundary_blindness,0.38,0.42,0.72,0.58,0.60,0.74,0.88,0.60,0.68,0.30
+INT003,Feedback-loop mapping,feedback_blindness,0.42,0.46,0.74,0.86,0.68,0.54,0.62,0.66,0.72,0.32
+INT004,Leverage-point ranking,low_leverage_solution_bias,0.40,0.44,0.78,0.66,0.90,0.50,0.58,0.64,0.70,0.34
+INT005,Unintended-consequence review,second_order_effect_blindness,0.46,0.50,0.70,0.64,0.68,0.62,0.66,0.68,0.90,0.38
+INT006,Stakeholder burden mapping,hidden_burden,0.54,0.60,0.68,0.62,0.64,0.90,0.76,0.72,0.78,0.46
+INT007,Learning-loop and decision-memory design,no_adaptive_learning,0.50,0.56,0.72,0.78,0.70,0.64,0.68,0.92,0.74,0.36
+INT008,Systems intervention portfolio review,local_optimization,0.48,0.52,0.76,0.72,0.80,0.66,0.72,0.78,0.82,0.40

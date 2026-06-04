@@ -1,0 +1,9 @@
+boundary_id,system_id,boundary_name,boundary_scope,stakeholder_inclusion,downstream_effect_visibility,externality_visibility,implementation_visibility,ecological_or_social_context,hidden_dependency_visibility,boundary_risk,review_recommendation
+B001,SYS001,Internal marketing boundary,narrow,0.30,0.24,0.20,0.34,0.22,0.28,0.78,expand_to_workflow_trust_and_users
+B002,SYS002,User workflow boundary,moderate,0.72,0.62,0.50,0.68,0.46,0.64,0.38,add_downstream_support_and_capacity
+B003,SYS003,Institutional performance boundary,broad,0.70,0.76,0.68,0.78,0.62,0.72,0.34,usable_with_stakeholder_review
+B004,SYS004,Departmental KPI boundary,narrow,0.24,0.20,0.18,0.30,0.20,0.26,0.84,replace_with_cross_boundary_system_map
+B005,SYS005,Participatory sustainability boundary,broad,0.90,0.84,0.82,0.74,0.88,0.78,0.28,advance_with_capacity_safeguards
+B006,SYS006,Implementation learning boundary,broad,0.72,0.78,0.62,0.86,0.56,0.80,0.30,advance_with_decision_memory
+B007,SYS007,Technology component boundary,narrow,0.40,0.30,0.26,0.38,0.24,0.32,0.74,expand_to_incentives_trust_and_behavior
+B008,SYS008,Policy delivery boundary,moderate,0.76,0.70,0.66,0.74,0.64,0.68,0.36,add_long_horizon_context_review

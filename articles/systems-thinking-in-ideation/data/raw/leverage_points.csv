@@ -1,0 +1,10 @@
+leverage_id,system_id,intervention_name,leverage_level,leverage_depth,implementation_feasibility,evidence_quality,stakeholder_legitimacy,reversibility,system_sensitivity,risk_exposure,time_to_effect,expected_system_effect
+L001,SYS001,Increase campaign frequency,parameter,0.24,0.82,0.54,0.34,0.88,0.28,0.30,0.22,Temporary attention gain without structural change
+L002,SYS002,Create continuous user-workflow feedback loop,information_flow,0.66,0.72,0.70,0.76,0.74,0.70,0.36,0.42,Improves workflow fit and reduces repeated adoption friction
+L003,SYS003,Change incentive rules for implementation owners,rules_incentives,0.82,0.62,0.68,0.70,0.58,0.84,0.54,0.60,Aligns behavior with strategic outcomes rather than activity metrics
+L004,SYS003,Redefine system goal from output volume to long-term learning,goals,0.90,0.48,0.62,0.66,0.44,0.88,0.62,0.72,Changes what the system optimizes for
+L005,SYS004,Create cross-boundary shared accountability rules,rules_incentives,0.78,0.56,0.60,0.62,0.54,0.78,0.58,0.64,Reduces local optimization and burden transfer
+L006,SYS005,Add participatory boundary review before ideation,boundary,0.74,0.68,0.66,0.90,0.70,0.76,0.42,0.50,Improves stakeholder visibility and problem definition
+L007,SYS006,Build decision-memory and revision-trigger system,learning_loop,0.80,0.70,0.72,0.68,0.76,0.82,0.34,0.46,Prevents repeated errors and improves adaptation
+L008,SYS007,Replace technology-first frame with structural diagnosis gate,mental_model,0.86,0.54,0.58,0.60,0.62,0.84,0.48,0.56,Reduces technology-fix bias and improves intervention design
+L009,SYS008,Add delayed-effect review to policy pilots,feedback_delay,0.70,0.64,0.70,0.72,0.70,0.72,0.40,0.58,Prevents premature scale-up before delayed consequences appear

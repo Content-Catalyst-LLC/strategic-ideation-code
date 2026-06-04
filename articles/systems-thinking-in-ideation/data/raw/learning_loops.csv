@@ -1,0 +1,9 @@
+learning_id,system_id,learning_loop_name,feedback_quality,revision_trigger_clarity,decision_memory_quality,stakeholder_learning_visibility,implementation_signal_quality,governance_response_capacity,cycle_time,learning_risk,action_if_triggered
+LL001,SYS001,Campaign performance review,0.34,0.28,0.24,0.26,0.40,0.32,0.30,0.68,reframe_metrics_around_system_structure
+LL002,SYS002,Workflow feedback revision loop,0.74,0.70,0.66,0.72,0.78,0.70,0.64,0.34,revise_workflow_and_feedback_prompts
+LL003,SYS003,Implementation incentive learning loop,0.78,0.74,0.70,0.66,0.76,0.72,0.58,0.36,adjust_incentives_and_roles
+LL004,SYS004,Department KPI review,0.30,0.24,0.22,0.24,0.36,0.28,0.26,0.74,replace_with_cross_boundary_learning_review
+LL005,SYS005,Participatory boundary learning loop,0.80,0.78,0.72,0.90,0.74,0.76,0.62,0.30,revise_boundaries_and_burden_safeguards
+LL006,SYS006,Decision-memory review cycle,0.84,0.82,0.90,0.70,0.80,0.82,0.66,0.24,update_decisions_and_reopen_archived_options
+LL007,SYS007,Technology intervention review,0.44,0.38,0.34,0.36,0.46,0.40,0.34,0.62,trigger_structural_diagnosis
+LL008,SYS008,Policy delayed-effect loop,0.76,0.74,0.68,0.72,0.74,0.70,0.56,0.34,revise_policy_before_scaling

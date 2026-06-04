@@ -1,0 +1,31 @@
+title: "Systems Thinking in Ideation"
+slug: "systems-thinking-in-ideation"
+series: "Strategic Ideation"
+repository: "https://github.com/Content-Catalyst-LLC/strategic-ideation-code"
+article_folder: "articles/systems-thinking-in-ideation"
+purpose: "Advanced strategist-facing companion code for systems-based ideation, feedback-loop diagnostics, leverage-point scoring, boundary analysis, unintended-consequence review, intervention portfolio design, learning-loop governance, and decision-memory systems."
+status: "advanced scaffold"
+professional_use_cases:
+  - "Systems-based ideation"
+  - "Feedback-loop diagnostics"
+  - "Leverage-point ranking"
+  - "Boundary and stakeholder visibility review"
+  - "Stock-flow and accumulation analysis"
+  - "Unintended-consequence review"
+  - "Structural intervention portfolio design"
+  - "Learning-loop governance"
+  - "Decision-memory system design"
+languages:
+  - python
+  - r
+  - julia
+  - sql
+  - rust
+  - go
+  - cpp
+  - fortran
+  - c
+notes:
+  - "Uses synthetic data only."
+  - "Designed for strategists, planners, systems thinkers, analysts, consultants, innovation teams, design researchers, foresight practitioners, product strategists, policy teams, sustainability teams, and organizational leaders."
+  - "Not a substitute for stakeholder judgment, ethical review, domain expertise, or participatory governance."

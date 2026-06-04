@@ -87,3 +87,7 @@ This repository includes advanced workflows for abductive reasoning, strategic h
 ## Imagination, Discipline, and Strategic Creativity
 
 This repository includes advanced workflows for strategic creativity scoring, novelty-depth diagnostics, idea maturation modeling, constraint audits, stakeholder grounding, systems-fit checks, evidence pathways, creative portfolios, revision triggers, and decision memory.
+
+## Systems Thinking in Ideation
+
+This repository includes advanced workflows for systems-based ideation, systems-profile diagnostics, feedback-loop review, leverage-point scoring, boundary analysis, unintended-consequence review, structural intervention portfolios, adaptive learning loops, and decision memory.

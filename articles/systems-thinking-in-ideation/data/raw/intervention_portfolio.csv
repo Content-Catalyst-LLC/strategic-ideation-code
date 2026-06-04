@@ -1,0 +1,10 @@
+portfolio_id,system_id,intervention_name,portfolio_role,leverage_level,confidence_level,evidence_readiness,strategic_option_value,learning_value,resource_intensity,time_sensitivity,risk_exposure,portfolio_action
+P001,SYS001,Increase campaign frequency,surface_fix,parameter,0.42,0.46,0.38,0.30,0.24,0.56,0.30,do_not_treat_as_structural_strategy
+P002,SYS002,Continuous user-workflow feedback loop,core_intervention,information_flow,0.70,0.68,0.78,0.82,0.42,0.66,0.36,prototype_feedback_loop
+P003,SYS003,Implementation owner incentive redesign,core_intervention,rules_incentives,0.72,0.66,0.84,0.78,0.56,0.72,0.54,pilot_with_guardrails
+P004,SYS003,System goal redesign,transformational_intervention,goals,0.66,0.58,0.88,0.84,0.64,0.70,0.62,sequence_with_stakeholder_alignment
+P005,SYS004,Cross-boundary accountability rules,structural_repair,rules_incentives,0.58,0.54,0.76,0.72,0.58,0.64,0.58,pilot_in_one_cross_boundary_process
+P006,SYS005,Participatory boundary review,stakeholder_grounding,boundary,0.74,0.70,0.82,0.86,0.50,0.68,0.44,advance_with_capacity_safeguards
+P007,SYS006,Decision-memory and revision triggers,learning_infrastructure,learning_loop,0.76,0.72,0.84,0.88,0.46,0.62,0.34,implement_as_lightweight_governance
+P008,SYS007,Structural diagnosis gate,mental_model_shift,mental_model,0.62,0.56,0.78,0.76,0.38,0.58,0.44,test_as_pre_ideation_gate
+P009,SYS008,Delayed-effect review for pilots,adaptive_policy,feedback_delay,0.70,0.68,0.80,0.82,0.44,0.66,0.40,add_to_policy_pilot_design
