@@ -1,0 +1,9 @@
+audit_id,model_id,audit_dimension,audit_question,current_score,desired_score,priority,review_method
+AU001,M001,causality,Where are we assuming linear cause and effect in a nonlinear system?,0.22,0.75,high,causal_map_review
+AU002,M001,disconfirmation,What evidence would force revision of the current model?,0.28,0.80,high,disconfirmation_workshop
+AU003,M004,institutional_lock_in,Which routines protect the model from revision?,0.18,0.76,high,governance_review
+AU004,M005,ethical_visibility,Whose burden is invisible in the efficiency model?,0.30,0.82,high,stakeholder_burden_review
+AU005,M006,stakeholder_visibility,Where does technical optimization ignore adoption and trust?,0.31,0.78,high,participatory_review
+AU006,M007,model_plurality,Which technical or feasibility constraints are underweighted?,0.75,0.84,moderate,cross_model_review
+AU007,M008,implementation_translation,How do scenarios change present choices?,0.68,0.86,moderate,scenario_to_decision_review
+AU008,M010,scalability,What risks appear when participatory insight is scaled institutionally?,0.71,0.84,moderate,scaling_review

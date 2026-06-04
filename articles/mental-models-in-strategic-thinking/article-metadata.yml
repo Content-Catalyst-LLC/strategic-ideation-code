@@ -1,0 +1,31 @@
+title: "Mental Models in Strategic Thinking"
+slug: "mental-models-in-strategic-thinking"
+series: "Strategic Ideation"
+repository: "https://github.com/Content-Catalyst-LLC/strategic-ideation-code"
+article_folder: "articles/mental-models-in-strategic-thinking"
+purpose: "Advanced strategist-facing companion code for mental-model auditing, causal-frame analysis, model pluralism, institutional lock-in review, evidence interpretation, model revision, and strategic learning governance."
+status: "advanced scaffold"
+professional_use_cases:
+  - "Mental-model audit"
+  - "Causal-frame comparison"
+  - "Model monoculture diagnosis"
+  - "Institutional lock-in assessment"
+  - "Scenario stress testing"
+  - "Disconfirming evidence review"
+  - "Ethical visibility and stakeholder-blindness review"
+  - "Model-revision governance"
+  - "Decision-memory system design"
+languages:
+  - python
+  - r
+  - julia
+  - sql
+  - rust
+  - go
+  - cpp
+  - fortran
+  - c
+notes:
+  - "Uses synthetic data only."
+  - "Designed for strategists, planners, analysts, consultants, institutional leaders, organizational researchers, and knowledge architects."
+  - "Not a substitute for stakeholder judgment, ethical review, domain expertise, or participatory governance."

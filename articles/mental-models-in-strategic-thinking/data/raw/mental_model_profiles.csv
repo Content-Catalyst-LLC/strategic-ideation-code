@@ -1,0 +1,11 @@
+model_id,model_name,dominant_frame,systems_richness,probabilistic_depth,model_flexibility,model_plurality,revision_capacity,institutional_embedding,ethical_visibility,stakeholder_visibility,evidence_responsiveness
+M001,Rigid Linear Strategy Model,linear_mechanistic,0.24,0.21,0.19,0.22,0.22,0.58,0.31,0.28,0.34
+M002,Balanced Reflective Strategy Model,plural_reflective,0.71,0.73,0.77,0.79,0.76,0.64,0.78,0.74,0.81
+M003,Systems-Rich Adaptive Model,systems_adaptive,0.89,0.84,0.88,0.86,0.87,0.71,0.82,0.80,0.86
+M004,Institutionally Locked Model,legacy_institutional,0.33,0.29,0.18,0.24,0.16,0.91,0.42,0.39,0.27
+M005,Financial Efficiency Model,financial_efficiency,0.38,0.52,0.44,0.36,0.41,0.82,0.30,0.34,0.48
+M006,Technical Optimization Model,technical_optimization,0.47,0.48,0.46,0.40,0.43,0.76,0.35,0.31,0.51
+M007,Institutional Legitimacy Model,institutional_legitimacy,0.68,0.61,0.72,0.75,0.74,0.69,0.91,0.88,0.76
+M008,Futures Scenario Model,foresight_scenario,0.76,0.88,0.80,0.83,0.82,0.57,0.74,0.71,0.84
+M009,Competitive Game Model,game_theoretic,0.55,0.69,0.62,0.58,0.60,0.63,0.44,0.47,0.66
+M010,Community Systems Model,participatory_systems,0.82,0.67,0.78,0.84,0.79,0.52,0.93,0.94,0.78

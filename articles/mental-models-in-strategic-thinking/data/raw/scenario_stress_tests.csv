@@ -1,0 +1,9 @@
+scenario_id,scenario_name,model_id,stress_condition,performance_under_stress,revision_speed,blind_spot_exposure,strategic_robustness
+SS001,Regime shift with delayed feedback,M001,nonlinear_feedback,0.25,0.19,0.86,0.24
+SS002,Institutional legitimacy crisis,M005,trust_collapse,0.31,0.34,0.82,0.29
+SS003,Technology adoption resistance,M006,stakeholder_resistance,0.36,0.39,0.78,0.35
+SS004,Multi-scenario policy environment,M008,uncertain_future_pathways,0.82,0.79,0.31,0.84
+SS005,Community contestation and burden exposure,M010,affected_stakeholder_challenge,0.79,0.76,0.28,0.81
+SS006,Legacy routine failure,M004,environmental_discontinuity,0.22,0.16,0.90,0.20
+SS007,Complex system cascade,M003,cascading_effects,0.86,0.84,0.22,0.88
+SS008,Strategic interaction under regulation,M009,actor_response_shift,0.68,0.63,0.44,0.66

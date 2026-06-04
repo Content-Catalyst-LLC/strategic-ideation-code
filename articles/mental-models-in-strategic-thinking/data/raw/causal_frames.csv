@@ -1,0 +1,11 @@
+frame_id,model_id,causal_assumption,causal_type,environment_fit,feedback_awareness,delay_awareness,nonlinearity_awareness,second_order_awareness,blind_spot_risk
+CF001,M001,More inputs produce proportionally more outputs,linear,0.32,0.18,0.22,0.16,0.19,0.78
+CF002,M002,Outcomes emerge through multiple interacting causal pathways,multi_causal,0.76,0.72,0.70,0.69,0.73,0.31
+CF003,M003,System behavior is shaped by feedback loops delays and thresholds,systems,0.90,0.92,0.86,0.88,0.91,0.18
+CF004,M004,Established institutional routines remain reliable guides,legacy_institutional,0.39,0.34,0.31,0.25,0.28,0.82
+CF005,M005,Efficiency gains translate into strategic advantage,efficiency,0.51,0.39,0.42,0.36,0.34,0.70
+CF006,M006,Technical optimization solves the dominant strategic constraint,technical,0.54,0.41,0.39,0.37,0.35,0.68
+CF007,M007,Legitimacy trust and institutional norms shape adoption and durability,institutional,0.78,0.69,0.66,0.62,0.71,0.29
+CF008,M008,Future conditions branch through uncertainty and weak signals,foresight,0.82,0.74,0.79,0.76,0.80,0.25
+CF009,M009,Actors respond strategically to incentives and anticipated responses,game_theoretic,0.68,0.63,0.55,0.58,0.61,0.41
+CF010,M010,Community knowledge and lived experience reveal system effects invisible to institutions,participatory_systems,0.84,0.77,0.72,0.74,0.83,0.20

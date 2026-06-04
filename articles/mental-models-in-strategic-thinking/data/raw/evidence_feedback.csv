@@ -1,0 +1,9 @@
+evidence_id,model_id,evidence_summary,evidence_type,disconfirmation_strength,evidence_quality,model_response,revision_required,affected_layer
+EF001,M001,Pilot outcomes were nonlinear and delayed rather than proportional to input,pilot_feedback,0.86,0.78,treated_as_exception,true,causality
+EF002,M004,External conditions changed faster than planning assumptions,environmental_signal,0.81,0.74,delayed_review,true,foresight
+EF003,M005,Efficiency gains reduced redundancy and increased outage vulnerability,systems_audit,0.79,0.82,partially_accepted,true,resilience
+EF004,M006,Users resisted technically optimal workflow due to trust and labor concerns,stakeholder_feedback,0.84,0.80,contested,true,legitimacy
+EF005,M007,Stakeholder review changed implementation sequence,participatory_review,0.63,0.76,accepted,true,implementation
+EF006,M008,Weak signals indicated multiple plausible futures rather than one forecast,horizon_scan,0.72,0.70,accepted,true,foresight
+EF007,M009,Competitors cooperated unexpectedly due to regulatory pressure,market_signal,0.68,0.66,under_review,true,game_model
+EF008,M010,Community knowledge revealed hidden burden not captured by operational metrics,community_evidence,0.88,0.84,accepted,true,ethical_visibility
