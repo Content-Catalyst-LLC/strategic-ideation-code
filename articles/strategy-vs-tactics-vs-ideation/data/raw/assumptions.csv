@@ -1,0 +1,11 @@
+assumption_id,initiative_id,assumption,layer,confidence,criticality,test_method,evidence_status
+A001,S001,Teams will document rejected alternatives rather than only final decisions,learning,0.57,0.82,pilot repository audit,untested
+A002,S002,Leadership can agree on explicit tradeoff rules,strategy,0.61,0.91,facilitated decision workshop,partial
+A003,S003,Operational teams can translate priorities into action without adding conflicting local goals,tactics,0.66,0.84,pathway review,partial
+A004,S004,Feedback can be routed to ideation strategy or tactics without becoming political blame,learning,0.48,0.95,learning review simulation,untested
+A005,S005,Low-alignment initiatives can be paused without major legitimacy loss,strategy,0.43,0.88,portfolio review,untested
+A006,S006,Affected stakeholders will have enough context and time to review burdens meaningfully,ethics,0.52,0.96,participatory review,partial
+A007,S007,Decision memory will be used in future reviews rather than archived and ignored,learning,0.55,0.79,usage analytics,untested
+A008,S008,Scenario stress testing will change investment or implementation choices,strategy,0.50,0.86,pre-post ranking comparison,untested
+A009,S009,Teams can distinguish strategic activity from tactical habit,tactics,0.64,0.75,activity classification workshop,partial
+A010,S010,Reframing will reveal options unavailable under the legacy frame,ideation,0.68,0.89,alternative frame workshop,partial

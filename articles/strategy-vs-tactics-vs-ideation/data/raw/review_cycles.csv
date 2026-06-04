@@ -1,0 +1,5 @@
+cycle_id,cycle_name,review_focus,ideation_open,strategy_commitment,tactical_adjustment,learning_review
+R001,Initial layer review,Classify initiatives by layer,true,true,false,true
+R002,Strategy-to-tactics translation,Translate strategic choices into tactical pathways,false,true,true,true
+R003,Feedback routing review,Route tactical evidence to the right decision layer,true,true,true,true
+R004,Portfolio reset,Retire pause or revise misaligned initiatives,false,true,true,true

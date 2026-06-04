@@ -1,0 +1,8 @@
+criterion,weight,description
+strategic_fit,0.22,Fit with declared strategic priority and problem frame
+implementation_feasibility,0.14,Ability to implement with realistic capacity and constraints
+systems_leverage,0.18,Ability to affect deeper structure feedback incentives or mental models
+learning_value,0.14,Ability to generate useful evidence and strategic learning
+ethical_legitimacy,0.18,Attention to voice accountability burdens and distributional effects
+uncertainty_penalty,0.08,Penalty for uncertainty weak evidence and fragile assumptions
+assumption_risk_penalty,0.06,Penalty for high-criticality low-confidence assumptions

@@ -1,0 +1,14 @@
+tactic_id,initiative_id,tactic_name,owner_group,alignment_to_strategy,execution_readiness,resource_fit,feedback_capture,learning_routing,delivery_risk
+T001,S001,Create idea taxonomy and repository template,strategy_office,0.86,0.78,0.74,0.82,0.76,0.24
+T002,S001,Run cross-functional framing review,leadership_team,0.81,0.71,0.68,0.77,0.72,0.30
+T003,S002,Define strategic choice rules,strategy_office,0.92,0.69,0.70,0.74,0.78,0.28
+T004,S002,Map rejected alternatives and rationale,portfolio_board,0.88,0.66,0.62,0.83,0.81,0.33
+T005,S003,Translate strategy into implementation pathways,operations,0.90,0.81,0.76,0.72,0.69,0.22
+T006,S003,Define tactical decision rights,operations,0.84,0.77,0.73,0.66,0.64,0.27
+T007,S004,Create feedback routing protocol,learning_office,0.91,0.62,0.58,0.89,0.92,0.35
+T008,S004,Build monthly learning review,leadership_team,0.83,0.64,0.60,0.86,0.88,0.34
+T009,S005,Retire low-alignment initiatives,portfolio_board,0.78,0.55,0.57,0.61,0.59,0.46
+T010,S006,Run affected-stakeholder burden review,ethics_board,0.80,0.59,0.55,0.81,0.74,0.38
+T011,S008,Run scenario stress table,foresight_team,0.87,0.63,0.61,0.84,0.82,0.36
+T012,S009,Classify busywork by strategic link,operations,0.76,0.86,0.81,0.69,0.63,0.20
+T013,S010,Host alternative frame workshop,strategy_office,0.88,0.57,0.54,0.86,0.83,0.41

@@ -1,0 +1,8 @@
+feedback_id,initiative_id,tactic_id,feedback_summary,observed_layer,affected_layer,severity,signal_strength,recommended_routing
+F001,S003,T005,Implementation teams interpret the strategic priority differently across departments,tactics,strategy,0.78,0.82,strategy_review
+F002,S001,T001,Repository captures final ideas but not discarded alternatives,learning,learning,0.62,0.71,decision_memory_review
+F003,S002,T003,Tradeoff rules reveal unresolved disagreement about risk tolerance,strategy,strategy,0.81,0.86,executive_choice_review
+F004,S004,T007,Feedback routing protocol is viewed as accountability rather than learning,learning,ethics,0.74,0.76,legitimacy_review
+F005,S009,T012,Several recurring tactical activities have no clear strategic owner,tactics,strategy,0.69,0.80,portfolio_review
+F006,S010,T013,Alternative problem frame exposes a governance issue previously treated as communications,tactics,ideation,0.88,0.91,problem_reframing_review
+F007,S006,T010,Stakeholders identify implementation burden that was invisible in strategic plan,ethics,strategy,0.84,0.89,burden_review

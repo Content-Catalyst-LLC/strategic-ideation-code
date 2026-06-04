@@ -1,0 +1,30 @@
+title: "Strategy vs Tactics vs Ideation"
+slug: "strategy-vs-tactics-vs-ideation"
+series: "Strategic Ideation"
+repository: "https://github.com/Content-Catalyst-LLC/strategic-ideation-code"
+article_folder: "articles/strategy-vs-tactics-vs-ideation"
+purpose: "Advanced strategist-facing companion code for diagnosing ideation, strategy, tactics, feedback routing, tactical translation, and adaptive learning."
+status: "advanced scaffold"
+professional_use_cases:
+  - "Layered strategy diagnosis"
+  - "Strategy-to-tactics alignment review"
+  - "Tactical translation assessment"
+  - "Feedback-routing analysis"
+  - "Portfolio and initiative review"
+  - "Decision-memory system design"
+  - "Strategy meeting facilitation"
+  - "Adaptive-learning governance"
+languages:
+  - python
+  - r
+  - julia
+  - sql
+  - rust
+  - go
+  - cpp
+  - fortran
+  - c
+notes:
+  - "Uses synthetic data only."
+  - "Designed for strategists, planners, analysts, consultants, institutional leaders, and organizational researchers."
+  - "Not a substitute for stakeholder judgment, ethical review, domain expertise, or participatory governance."
