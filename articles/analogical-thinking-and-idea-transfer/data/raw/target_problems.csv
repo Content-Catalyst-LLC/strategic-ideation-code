@@ -1,0 +1,7 @@
+target_id,target_name,target_domain,problem_clarity,stakeholder_complexity,implementation_complexity,uncertainty_level,ethical_sensitivity,system_dynamism,evidence_availability
+T001,Reduce misinformation spread,public_information,0.76,0.84,0.74,0.82,0.86,0.88,0.68
+T002,Improve organizational knowledge retention,organizational_learning,0.82,0.58,0.62,0.54,0.56,0.60,0.74
+T003,Design resilient regional infrastructure,infrastructure,0.78,0.82,0.86,0.76,0.84,0.88,0.70
+T004,Redesign public service access,civic_service,0.74,0.88,0.78,0.66,0.90,0.74,0.72
+T005,Improve platform governance,digital_platform,0.70,0.86,0.80,0.78,0.88,0.82,0.64
+T006,Reframe legacy operating model,organization_strategy,0.66,0.72,0.74,0.70,0.62,0.68,0.58

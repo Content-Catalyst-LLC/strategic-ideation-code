@@ -1,0 +1,10 @@
+review_id,strategy_id,target_id,stakeholder_group,inclusion_level,burden_visibility,knowledge_recognition,interpretive_trust,legitimacy_signal,power_blindness_risk,review_quality
+SL001,A001,T006,implementation_team,0.38,0.34,0.36,0.40,0.38,0.68,0.36
+SL002,A002,T004,service_users,0.72,0.70,0.68,0.72,0.74,0.32,0.70
+SL003,A003,T003,regional_communities,0.66,0.72,0.70,0.68,0.70,0.36,0.68
+SL004,A004,T005,platform_users,0.42,0.38,0.40,0.44,0.42,0.62,0.44
+SL005,A005,T005,users_and_moderators,0.78,0.76,0.74,0.78,0.80,0.26,0.76
+SL006,A006,T006,frontline_staff,0.30,0.26,0.28,0.32,0.30,0.78,0.28
+SL007,A007,T001,affected_publics,0.84,0.82,0.80,0.78,0.82,0.28,0.80
+SL008,A008,T003,ecological_and_civic_stakeholders,0.82,0.86,0.84,0.82,0.86,0.22,0.84
+SL009,A005,T002,knowledge_workers,0.70,0.66,0.72,0.74,0.72,0.30,0.70

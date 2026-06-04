@@ -1,0 +1,9 @@
+strategy_id,strategy_name,strategy_type,source_distance,structural_fit,functional_fit,surface_distraction,adaptation_quality,context_sensitivity,stakeholder_legitimacy,dynamic_compatibility,innovation_potential,evidence_strength
+A001,Surface Benchmarking Strategy,surface_benchmarking,0.22,0.28,0.46,0.82,0.34,0.30,0.38,0.26,0.29,0.36
+A002,Balanced Cross-Domain Strategy,cross_domain,0.58,0.72,0.74,0.44,0.71,0.68,0.66,0.70,0.74,0.68
+A003,Biomimicry-Inspired Strategy,biomimicry,0.78,0.76,0.81,0.31,0.77,0.72,0.70,0.74,0.82,0.70
+A004,Historical Warning Strategy,historical_warning,0.46,0.64,0.66,0.58,0.60,0.62,0.58,0.56,0.62,0.64
+A005,Deep Structural Transfer Strategy,deep_structural,0.84,0.89,0.83,0.22,0.86,0.84,0.78,0.86,0.88,0.80
+A006,Prestige Borrowing Strategy,prestige_transfer,0.40,0.38,0.52,0.76,0.42,0.36,0.34,0.32,0.44,0.40
+A007,Public Health Diffusion Analogy,diffusion_model,0.70,0.82,0.78,0.34,0.80,0.76,0.82,0.84,0.78,0.76
+A008,Ecological Resilience Analogy,systems_resilience,0.76,0.84,0.80,0.28,0.82,0.80,0.86,0.88,0.84,0.78

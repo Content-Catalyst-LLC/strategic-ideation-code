@@ -1,0 +1,10 @@
+hypothesis_id,mapping_id,strategy_id,hypothesis_statement,hypothesis_clarity,evidence_strength,testability,implementation_risk,unintended_consequence_risk,revision_trigger_quality,recommended_next_step
+H001,M001,A001,Peer benchmarking can reveal an operating-model pattern to copy,0.48,0.36,0.42,0.60,0.62,0.34,reframe_as_structural_benchmarking
+H002,M002,A002,Transit flow logic can improve public service routing and queue design,0.76,0.70,0.74,0.38,0.36,0.70,prototype_service_flow_map
+H003,M003,A003,Biological metabolism can inform infrastructure resource cycling,0.72,0.68,0.66,0.44,0.40,0.66,run_material_flow_mapping
+H004,M004,A004,Military command analogies can clarify platform governance authority,0.62,0.58,0.60,0.64,0.72,0.56,compare_with_governance_rival_analogies
+H005,M005,A005,Commons governance can inform platform rule design and participation,0.84,0.78,0.80,0.34,0.32,0.78,advance_to_stakeholder_review
+H006,M006,A006,Prestige benchmark can justify legacy operating model shift,0.46,0.34,0.36,0.68,0.70,0.30,halt_until_mapping_quality_improves
+H007,M007,A007,Public health diffusion can guide misinformation intervention timing,0.86,0.80,0.82,0.38,0.36,0.80,design_diffusion_intervention_tests
+H008,M008,A008,Wetland resilience can inform regional infrastructure redundancy and absorption,0.84,0.78,0.76,0.36,0.34,0.78,build_resilience_mapping_workshop
+H009,M009,A005,Version control can strengthen organizational knowledge retention,0.82,0.80,0.84,0.30,0.28,0.82,prototype_decision_memory_system

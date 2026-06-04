@@ -1,0 +1,13 @@
+rival_id,target_id,analogy_set,analogy_name,structural_fit,explanatory_power,blind_spot_risk,ethical_risk,implementation_relevance,novelty_value
+R001,T001,misinformation_models,Epidemiological diffusion,0.86,0.84,0.30,0.34,0.78,0.76
+R002,T001,misinformation_models,Cybersecurity intrusion,0.74,0.78,0.38,0.42,0.72,0.70
+R003,T001,misinformation_models,Marketplace of ideas,0.42,0.54,0.70,0.62,0.46,0.40
+R004,T002,knowledge_memory_models,Software version control,0.84,0.82,0.28,0.26,0.80,0.72
+R005,T002,knowledge_memory_models,Library archive,0.78,0.76,0.34,0.24,0.74,0.58
+R006,T002,knowledge_memory_models,Oral apprenticeship,0.66,0.70,0.42,0.30,0.62,0.68
+R007,T003,resilience_models,Wetland resilience,0.86,0.82,0.30,0.22,0.74,0.80
+R008,T003,resilience_models,Power grid redundancy,0.82,0.80,0.28,0.26,0.84,0.66
+R009,T003,resilience_models,Military hardening,0.58,0.62,0.60,0.58,0.70,0.42
+R010,T005,platform_governance_models,Commons governance,0.88,0.86,0.24,0.24,0.78,0.74
+R011,T005,platform_governance_models,Public utility regulation,0.80,0.84,0.30,0.22,0.82,0.62
+R012,T005,platform_governance_models,Military command,0.54,0.58,0.66,0.70,0.56,0.38

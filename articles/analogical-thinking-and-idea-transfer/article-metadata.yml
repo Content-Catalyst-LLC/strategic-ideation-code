@@ -1,0 +1,32 @@
+title: "Analogical Thinking and Idea Transfer"
+slug: "analogical-thinking-and-idea-transfer"
+series: "Strategic Ideation"
+repository: "https://github.com/Content-Catalyst-LLC/strategic-ideation-code"
+article_folder: "articles/analogical-thinking-and-idea-transfer"
+purpose: "Advanced strategist-facing companion code for analogical mapping, source-target comparison, structural-fit scoring, surface-distraction risk, adaptation testing, stakeholder legitimacy review, dynamic compatibility analysis, rival analogy comparison, and idea-transfer decision memory."
+status: "advanced scaffold"
+professional_use_cases:
+  - "Analogical thinking audit"
+  - "Source-target mapping"
+  - "Structural-fit and functional-fit review"
+  - "Surface-distraction risk analysis"
+  - "Adaptation-readiness assessment"
+  - "Dynamic compatibility review"
+  - "Stakeholder legitimacy and burden visibility review"
+  - "Rival analogy comparison"
+  - "Transfer hypothesis tracking"
+  - "Decision-memory system design"
+languages:
+  - python
+  - r
+  - julia
+  - sql
+  - rust
+  - go
+  - cpp
+  - fortran
+  - c
+notes:
+  - "Uses synthetic data only."
+  - "Designed for strategists, planners, analysts, consultants, innovation teams, design researchers, knowledge architects, policy teams, and organizational learning practitioners."
+  - "Not a substitute for stakeholder judgment, ethical review, domain expertise, or participatory governance."

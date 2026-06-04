@@ -63,3 +63,7 @@ This repository includes advanced workflows for divergence-convergence diagnosti
 ## Creative Constraints and Innovation
 
 This repository includes advanced workflows for creative constraint audits, real-versus-assumed constraint diagnostics, innovation profile scoring, rigidity and diffusion risk analysis, stakeholder legitimacy review, dynamic constraint tracking, and constraint governance.
+
+## Analogical Thinking and Idea Transfer
+
+This repository includes advanced workflows for source-target mapping, structural-fit scoring, surface-distraction risk, adaptation testing, stakeholder legitimacy review, dynamic compatibility analysis, rival analogy comparison, and transfer decision memory.

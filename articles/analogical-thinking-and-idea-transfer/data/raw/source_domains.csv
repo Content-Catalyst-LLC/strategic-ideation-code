@@ -1,0 +1,9 @@
+source_id,source_name,source_domain_type,source_distance,relational_clarity,mechanism_visibility,constraint_visibility,failure_mode_visibility,prestige_pressure,transfer_complexity
+S001,Peer Industry Benchmark,near_peer,0.22,0.42,0.46,0.54,0.40,0.68,0.30
+S002,Urban Transit Flow,logistics_system,0.56,0.76,0.82,0.70,0.66,0.34,0.58
+S003,Epidemiological Diffusion,public_health,0.70,0.84,0.86,0.78,0.80,0.42,0.70
+S004,Wetland Resilience,ecological_system,0.78,0.82,0.78,0.84,0.76,0.36,0.74
+S005,Software Version Control,knowledge_system,0.58,0.80,0.82,0.66,0.72,0.32,0.54
+S006,Military Command Structure,military_strategy,0.52,0.62,0.70,0.74,0.68,0.76,0.64
+S007,Commons Governance,governance_system,0.66,0.82,0.78,0.86,0.82,0.30,0.68
+S008,Biological Metabolism,living_system,0.82,0.74,0.76,0.80,0.70,0.40,0.78
