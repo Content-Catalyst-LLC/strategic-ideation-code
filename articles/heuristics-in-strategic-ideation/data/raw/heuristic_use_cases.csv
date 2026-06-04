@@ -1,0 +1,17 @@
+heuristic_id,context_id,heuristic_name,heuristic_family,use_phase,search_speed_gain,search_depth_loss,strategic_relevance,fit_to_context,misuse_risk,stakeholder_visibility,systems_fit,evidence_pathway
+HU001,H001,Recent competitor shortcut,availability,generation,0.86,0.72,0.48,0.42,0.76,0.30,0.36,0.42
+HU002,H001,Recognizable initiative template,recognition,generation,0.78,0.66,0.52,0.48,0.68,0.34,0.40,0.46
+HU003,H002,Multiple starting frames,framing,generation,0.50,0.28,0.78,0.76,0.30,0.70,0.72,0.68
+HU004,H002,Search-closure checklist,satisficing,convergence,0.44,0.20,0.76,0.74,0.26,0.64,0.70,0.72
+HU005,H003,First-suggestion anchor,anchoring,generation,0.72,0.80,0.44,0.34,0.86,0.28,0.32,0.36
+HU006,H003,Leadership realism filter,recognition,evaluation,0.70,0.74,0.46,0.36,0.84,0.26,0.34,0.38
+HU007,H004,Distant analogy source rotation,analogy,generation,0.42,0.18,0.84,0.82,0.24,0.78,0.76,0.70
+HU008,H004,Stakeholder burden heuristic,stakeholder,generation,0.40,0.16,0.86,0.84,0.22,0.90,0.78,0.74
+HU009,H005,Existing planning template,default,generation,0.82,0.78,0.42,0.34,0.88,0.24,0.30,0.36
+HU010,H005,Peer imitation heuristic,social_proof,generation,0.76,0.70,0.46,0.40,0.78,0.28,0.34,0.40
+HU011,H006,Expert prior success pattern,expertise,generation,0.78,0.58,0.66,0.58,0.62,0.38,0.58,0.62
+HU012,H006,Outside reviewer interruption,expertise_disruption,reframing,0.36,0.18,0.74,0.72,0.28,0.66,0.68,0.64
+HU013,H007,Feedback-loop search heuristic,systems,generation,0.42,0.14,0.86,0.88,0.20,0.72,0.92,0.76
+HU014,H007,Second-order-effect heuristic,systems,evaluation,0.34,0.12,0.84,0.86,0.18,0.70,0.90,0.78
+HU015,H008,Crisis satisficing rule,satisficing,generation,0.90,0.72,0.76,0.70,0.62,0.44,0.52,0.58
+HU016,H008,After-action review heuristic,learning,review,0.28,0.10,0.80,0.82,0.20,0.66,0.72,0.82

@@ -1,0 +1,9 @@
+intervention_id,intervention_name,target_heuristic_risk,process_cost,implementation_complexity,search_breadth_gain,stakeholder_gain,systems_fit_gain,closure_quality_gain,decision_memory_gain,political_safety_need
+INT001,Multiple starting prompts,anchoring,0.30,0.34,0.72,0.48,0.48,0.44,0.42,0.24
+INT002,Independent generation before group discussion,anchoring_conformity,0.34,0.38,0.68,0.52,0.42,0.46,0.44,0.30
+INT003,Distant analogy source-domain library,availability_local_search,0.48,0.54,0.82,0.48,0.56,0.46,0.58,0.28
+INT004,Stopping-rule audit,satisficing,0.42,0.44,0.58,0.46,0.54,0.78,0.66,0.36
+INT005,Institutional shortcut audit,path_dependence,0.54,0.60,0.64,0.60,0.62,0.64,0.72,0.52
+INT006,Stakeholder burden heuristic,stakeholder_exclusion,0.56,0.62,0.70,0.86,0.68,0.54,0.60,0.48
+INT007,Systems-fit check before convergence,complexity_mismatch,0.50,0.56,0.56,0.54,0.86,0.70,0.64,0.40
+INT008,Decision-memory archive,institutional_forgetting,0.52,0.58,0.50,0.56,0.58,0.60,0.90,0.34

@@ -1,0 +1,9 @@
+rule_id,context_id,rule_name,closure_trigger,option_diversity_requirement,stakeholder_coverage_requirement,source_domain_requirement,systems_review_requirement,evidence_threshold,political_pressure,closure_quality,reopen_trigger_quality
+SR001,H001,Stop when a competitor-style option is plausible,plausibility,0.28,0.30,0.26,0.34,0.42,0.60,0.32,0.30
+SR002,H002,Stop after frame and source diversity thresholds are met,diversity_threshold,0.74,0.68,0.70,0.72,0.70,0.34,0.74,0.66
+SR003,H003,Stop after senior sponsor approves direction,authority_approval,0.24,0.26,0.22,0.28,0.36,0.84,0.28,0.24
+SR004,H004,Stop after divergent search and systems review,balanced_review,0.86,0.82,0.84,0.80,0.74,0.30,0.82,0.72
+SR005,H005,Stop at annual planning deadline,deadline,0.30,0.28,0.26,0.30,0.40,0.78,0.30,0.28
+SR006,H006,Stop after expert feasibility approval,expert_approval,0.42,0.38,0.36,0.56,0.62,0.58,0.50,0.42
+SR007,H007,Stop after complexity-fit and scenario review,complexity_review,0.76,0.72,0.74,0.90,0.72,0.34,0.80,0.76
+SR008,H008,Stop when minimum viable crisis response is identified,crisis_threshold,0.34,0.42,0.32,0.44,0.58,0.72,0.54,0.70

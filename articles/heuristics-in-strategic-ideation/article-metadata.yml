@@ -1,0 +1,32 @@
+title: "Heuristics in Strategic Ideation"
+slug: "heuristics-in-strategic-ideation"
+series: "Strategic Ideation"
+repository: "https://github.com/Content-Catalyst-LLC/strategic-ideation-code"
+article_folder: "articles/heuristics-in-strategic-ideation"
+purpose: "Advanced strategist-facing companion code for heuristic-profile diagnostics, search-breadth scoring, anchoring and satisficing review, recognition-trap analysis, source-domain diversity, institutional shortcut audits, systems-fit checks, stopping-rule governance, and decision-memory systems."
+status: "advanced scaffold"
+professional_use_cases:
+  - "Heuristic-aware ideation audit"
+  - "Search-breadth scoring"
+  - "Anchoring and satisficing review"
+  - "Recognition-trap and familiarity-risk analysis"
+  - "Institutional shortcut audit"
+  - "Expertise compression and expert-enclosure review"
+  - "Source-domain diversity and distant analogy review"
+  - "Complexity-fit review"
+  - "Stopping-rule governance"
+  - "Decision-memory system design"
+languages:
+  - python
+  - r
+  - julia
+  - sql
+  - rust
+  - go
+  - cpp
+  - fortran
+  - c
+notes:
+  - "Uses synthetic data only."
+  - "Designed for strategists, planners, analysts, consultants, innovation teams, design researchers, cognitive-science-informed practitioners, knowledge architects, and organizational leaders."
+  - "Not a substitute for stakeholder judgment, ethical review, domain expertise, or participatory governance."

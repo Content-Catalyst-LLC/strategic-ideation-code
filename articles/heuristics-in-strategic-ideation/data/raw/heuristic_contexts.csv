@@ -1,0 +1,9 @@
+context_id,context_name,context_type,availability_dependence,anchoring_intensity,recognition_comfort,satisficing_tendency,affect_pressure,default_gravity,social_proof_pressure,exploratory_diversity,stakeholder_variation,source_domain_diversity,systems_check_quality,political_safety,decision_memory_quality
+H001,Fast Familiarity-Driven System,familiarity_driven,0.84,0.63,0.79,0.82,0.66,0.72,0.70,0.29,0.34,0.28,0.40,0.48,0.34
+H002,Balanced Reflective System,balanced_reflective,0.48,0.39,0.54,0.47,0.44,0.42,0.40,0.72,0.68,0.70,0.70,0.68,0.66
+H003,Anchor-Dominated Workshop System,anchor_dominated,0.62,0.88,0.71,0.76,0.58,0.66,0.62,0.24,0.30,0.32,0.38,0.34,0.40
+H004,Diverse Exploratory System,diverse_exploratory,0.31,0.27,0.36,0.34,0.32,0.30,0.28,0.89,0.82,0.88,0.78,0.74,0.72
+H005,Institutional Autopilot System,institutional_autopilot,0.76,0.72,0.82,0.78,0.62,0.88,0.74,0.30,0.28,0.26,0.36,0.30,0.36
+H006,Expert-Compressed Strategy System,expert_compressed,0.58,0.54,0.68,0.62,0.50,0.58,0.54,0.42,0.36,0.38,0.64,0.52,0.46
+H007,Systems-Aware Heuristic System,systems_aware,0.40,0.34,0.46,0.44,0.40,0.36,0.38,0.74,0.70,0.72,0.90,0.66,0.68
+H008,Crisis Response System,crisis_response,0.68,0.60,0.72,0.88,0.82,0.70,0.66,0.34,0.42,0.34,0.50,0.54,0.52

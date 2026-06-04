@@ -1,0 +1,9 @@
+shortcut_id,context_id,shortcut_name,shortcut_type,coordination_benefit,search_narrowing_risk,metric_lock_in,template_dependency,leadership_preference_pressure,stakeholder_exclusion,revision_difficulty,strategic_obsolescence_risk
+IS001,H001,Competitor benchmark first,benchmarking,0.70,0.74,0.58,0.46,0.52,0.54,0.48,0.62
+IS002,H002,Frame rotation before portfolio review,process_governance,0.58,0.28,0.34,0.40,0.34,0.28,0.36,0.24
+IS003,H003,Senior idea becomes starting point,hierarchy,0.72,0.86,0.56,0.50,0.90,0.72,0.74,0.70
+IS004,H004,Distant source-domain library,knowledge_architecture,0.52,0.20,0.30,0.36,0.28,0.22,0.30,0.22
+IS005,H005,Annual planning template defines strategy,planning_template,0.82,0.88,0.76,0.90,0.72,0.70,0.82,0.78
+IS006,H006,Expert review gate defines realism,expert_gate,0.74,0.64,0.54,0.48,0.62,0.58,0.60,0.56
+IS007,H007,Systems review required before closure,systems_governance,0.60,0.24,0.36,0.42,0.34,0.30,0.38,0.20
+IS008,H008,Crisis threshold triggers immediate action,crisis_protocol,0.90,0.62,0.50,0.44,0.64,0.44,0.42,0.46

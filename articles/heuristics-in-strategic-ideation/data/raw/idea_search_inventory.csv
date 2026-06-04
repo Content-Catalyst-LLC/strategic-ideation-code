@@ -1,0 +1,17 @@
+idea_id,context_id,idea_name,dominant_heuristic,frame_family,source_domain,stakeholder_visibility,novelty_level,evidence_pathway,strategic_relevance,implementation_pathway,system_level,search_breadth,closure_pressure,assumption_burden
+I001,H001,Copy recent competitor campaign,availability,market_benchmarking,industry_peer,0.28,0.26,0.40,0.44,0.74,component,0.24,0.80,0.36
+I002,H001,Refresh the familiar dashboard template,recognition,efficiency,internal_precedent,0.34,0.22,0.46,0.48,0.78,component,0.28,0.76,0.34
+I003,H002,Generate options from trust access and learning frames,framing,multi_frame,cross_functional,0.72,0.72,0.70,0.80,0.68,system,0.76,0.36,0.46
+I004,H002,Use search closure only after source diversity is met,satisficing_governance,process_design,decision_process,0.66,0.58,0.76,0.74,0.80,process,0.70,0.30,0.32
+I005,H003,Extend first workshop idea into full proposal,anchoring,workshop_anchor,internal_meeting,0.26,0.20,0.36,0.40,0.76,component,0.22,0.86,0.38
+I006,H003,Run anonymous second-round independent ideation,anchoring_control,process_design,group_process,0.58,0.66,0.62,0.70,0.62,process,0.62,0.34,0.48
+I007,H004,Use ecology and logistics analogies for capacity design,analogy,cross_domain,ecology_logistics,0.76,0.84,0.72,0.82,0.64,system,0.86,0.28,0.52
+I008,H004,Map stakeholder burden before generating solutions,stakeholder,stakeholder_experience,user_research,0.92,0.74,0.78,0.84,0.70,system,0.80,0.30,0.42
+I009,H005,Reuse existing strategic planning template,default,institutional_template,internal_process,0.24,0.20,0.42,0.40,0.78,component,0.22,0.84,0.40
+I010,H005,Audit which planning rituals are acting as shortcuts,institutional_audit,governance,organizational_learning,0.60,0.68,0.66,0.76,0.58,system,0.66,0.38,0.54
+I011,H006,Apply expert playbook from prior success,expertise,expert_pattern,prior_project,0.36,0.32,0.58,0.62,0.72,component,0.34,0.68,0.46
+I012,H006,Pair expert model with stakeholder and novice challenge,expertise_disruption,interdisciplinary,review_process,0.76,0.70,0.72,0.80,0.66,system,0.74,0.34,0.44
+I013,H007,Identify leverage points before solution generation,systems,leverage,systems_mapping,0.74,0.72,0.76,0.86,0.66,system,0.78,0.30,0.40
+I014,H007,Test direct-solution heuristic against second-order effects,systems,complexity_review,systems_mapping,0.70,0.66,0.80,0.82,0.64,system,0.74,0.28,0.38
+I015,H008,Deploy first workable response immediately,crisis_satisficing,crisis_response,incident_memory,0.42,0.28,0.58,0.76,0.86,process,0.34,0.82,0.52
+I016,H008,Preserve after-action learning for next search cycle,learning,decision_memory,review_process,0.68,0.62,0.82,0.80,0.74,system,0.70,0.32,0.34

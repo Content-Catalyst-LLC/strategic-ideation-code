@@ -75,3 +75,7 @@ This repository includes advanced workflows for frame-rigidity diagnostics, assu
 ## Cognitive Bias in Idea Generation
 
 Advanced workflows for bias-profile diagnostics, idea-space diversity scoring, anchoring and conformity review, frame-rotation analysis, assumption mapping, stakeholder visibility checks, premature-convergence risk, AI-amplified familiarity review, intervention design, and decision memory.
+
+## Heuristics in Strategic Ideation
+
+This repository includes advanced workflows for heuristic-profile diagnostics, search-breadth scoring, anchoring and satisficing review, recognition-trap analysis, source-domain diversity, institutional shortcut audits, systems-fit checks, stopping-rule governance, intervention design, and decision memory.

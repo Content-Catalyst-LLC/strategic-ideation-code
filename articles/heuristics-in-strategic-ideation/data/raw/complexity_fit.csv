@@ -1,0 +1,9 @@
+fit_id,context_id,heuristic_name,assumed_environment,actual_environment,feedback_awareness,delay_awareness,second_order_review,adaptation_review,boundary_quality,robustness_across_scenarios,complexity_mismatch_risk
+CF001,H001,Recent competitor shortcut,stable_market,adaptive_market,0.34,0.28,0.30,0.26,0.36,0.32,0.72
+CF002,H002,Multiple starting frames,ambiguous_strategy,ambiguous_strategy,0.70,0.64,0.66,0.62,0.72,0.68,0.28
+CF003,H003,First-suggestion anchor,group_workshop,complex_organization,0.28,0.24,0.26,0.24,0.30,0.26,0.80
+CF004,H004,Distant analogy source rotation,uncertain_strategy,uncertain_strategy,0.76,0.70,0.72,0.68,0.78,0.74,0.22
+CF005,H005,Existing planning template,stable_planning,complex_transition,0.26,0.22,0.24,0.22,0.28,0.24,0.86
+CF006,H006,Expert prior success pattern,known_domain,changed_domain,0.52,0.44,0.46,0.42,0.50,0.46,0.58
+CF007,H007,Feedback-loop search heuristic,complex_system,complex_system,0.90,0.82,0.84,0.80,0.88,0.82,0.18
+CF008,H008,Crisis satisficing rule,time_critical,time_critical_complex,0.54,0.46,0.44,0.48,0.52,0.50,0.48
