@@ -1,0 +1,13 @@
+assumption_id,context_id,assumption,assumption_domain,confidence,strategic_influence,evidence_status,test_method
+A001,FP001,Competitors define the correct market category,market,0.42,0.86,weak,category_reframing_review
+A002,FP001,Customers primarily value the industry-standard bundle,value,0.48,0.81,partial,willingness_to_pay_probe
+A003,FP002,Current planning cadence supports strategic learning,governance,0.59,0.64,partial,planning_cycle_audit
+A004,FP002,Incremental changes are sufficient under current conditions,foresight,0.56,0.70,contested,scenario_stress_test
+A005,FP003,Ecological constraints must shape the success metric,sustainability,0.82,0.92,strong,systems_boundary_review
+A006,FP003,Departments can be reorganized around flows rather than legacy functions,organization,0.61,0.76,partial,workflow_redesign_pilot
+A007,FP004,Current budget structure reflects strategic priorities,budget,0.37,0.88,weak,budget_logic_audit
+A008,FP004,Legacy categories are necessary for accountability,institutional,0.40,0.83,weak,accountability_requirement_review
+A009,FP005,Technical optimization will drive adoption,technology,0.46,0.90,contested,user_acceptance_test
+A010,FP005,Institutional feasibility can be handled after design,implementation,0.39,0.84,weak,implementation_pathway_review
+A011,FP006,Stakeholder burden review will improve legitimacy and durability,ethics,0.72,0.89,partial,participatory_review
+A012,FP008,Systems mapping will reveal leverage points unavailable under current frame,systems,0.68,0.87,partial,causal_mapping_workshop

@@ -43,3 +43,7 @@ This repository includes advanced companion code for the Strategic Ideation know
 ## Mental Model Analysis
 
 This repository includes advanced workflows for mental-model auditing, causal-frame comparison, model monoculture diagnosis, institutional lock-in review, scenario stress testing, and model-revision governance.
+
+## First Principles Thinking
+
+This repository includes advanced workflows for assumption-constraint classification, strategic decomposition, governing mechanism mapping, reconstructed option scoring, reality testing, and decision-memory governance.

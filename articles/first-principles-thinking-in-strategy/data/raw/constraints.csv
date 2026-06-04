@@ -1,0 +1,13 @@
+constraint_id,context_id,constraint_name,constraint_type,is_real_constraint,certainty,strategic_importance,redesign_potential,evidence_quality,notes
+C001,FP001,Industry-standard pricing model,assumed,false,0.62,0.82,0.78,0.54,Pricing convention copied from incumbents
+C002,FP001,Customer willingness to switch,behavioral,true,0.71,0.88,0.42,0.69,Switching costs and trust friction are real but reducible
+C003,FP002,Regulatory compliance requirement,legal,true,0.91,0.84,0.16,0.88,Binding legal requirement
+C004,FP002,Quarterly planning cadence,institutional,false,0.76,0.58,0.69,0.61,Cadence is inherited rather than necessary
+C005,FP003,Ecological throughput limit,ecological,true,0.86,0.93,0.08,0.82,Biophysical constraint
+C006,FP003,Legacy department boundaries,institutional,false,0.79,0.74,0.81,0.66,Org design is historically contingent
+C007,FP004,Current budget category structure,budget,false,0.83,0.80,0.76,0.58,Budget structure prevents cross-cutting work
+C008,FP004,Procurement law,legal,true,0.88,0.69,0.20,0.80,Legal constraint but process design may vary
+C009,FP005,Technical latency limit,technical,true,0.84,0.77,0.24,0.78,Physical and architecture constraint
+C010,FP005,User adoption as secondary concern,assumed,false,0.58,0.86,0.84,0.49,Assumption creates implementation risk
+C011,FP006,Affected stakeholder review time,institutional,true,0.74,0.90,0.38,0.72,Meaningful participation requires time
+C012,FP006,Internal approval hierarchy,institutional,false,0.81,0.66,0.73,0.60,Approval steps may be redesigned

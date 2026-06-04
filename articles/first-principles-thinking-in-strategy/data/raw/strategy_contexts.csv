@@ -1,0 +1,9 @@
+context_id,context_name,context_type,assumption_load,structural_clarity,constraint_discrimination,reconstruction_quality,adaptive_potential,evidence_contact,ethical_visibility,implementation_feasibility
+FP001,Analogy-Dependent Strategy Context,analogy_dependent,0.84,0.31,0.28,0.34,0.39,0.42,0.45,0.52
+FP002,Balanced Analytical Strategy Context,balanced,0.46,0.72,0.74,0.76,0.77,0.72,0.76,0.73
+FP003,Deep First-Principles Context,deep_first_principles,0.22,0.88,0.91,0.89,0.92,0.84,0.82,0.78
+FP004,Legacy Lock-In Context,legacy_lock_in,0.91,0.24,0.19,0.21,0.26,0.30,0.36,0.41
+FP005,Technically Elegant but Institutionally Weak Context,technical_abstraction,0.39,0.81,0.79,0.84,0.70,0.58,0.34,0.46
+FP006,Ethically Grounded Reconstruction Context,legitimacy_oriented,0.34,0.76,0.72,0.78,0.81,0.74,0.94,0.69
+FP007,Operationally Feasible but Conceptually Narrow Context,operations_heavy,0.70,0.46,0.42,0.51,0.48,0.63,0.55,0.86
+FP008,Systems-Oriented Reconstruction Context,systems_oriented,0.30,0.84,0.86,0.82,0.88,0.80,0.83,0.72

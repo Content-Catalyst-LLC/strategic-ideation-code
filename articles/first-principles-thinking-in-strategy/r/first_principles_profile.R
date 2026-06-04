@@ -1,0 +1,16 @@
+root <- normalizePath(file.path(dirname(sys.frame(1)$ofile), ".."), mustWork = TRUE)
+raw_dir <- file.path(root, "data", "raw")
+out_tables <- file.path(root, "outputs", "tables")
+out_figures <- file.path(root, "outputs", "figures")
+dir.create(out_tables, recursive = TRUE, showWarnings = FALSE)
+dir.create(out_figures, recursive = TRUE, showWarnings = FALSE)
+contexts <- read.csv(file.path(raw_dir, "strategy_contexts.csv"))
+assumptions <- read.csv(file.path(raw_dir, "assumptions.csv"))
+contexts$profile_score <- -0.16*contexts$assumption_load + 0.18*contexts$structural_clarity + 0.18*contexts$constraint_discrimination + 0.18*contexts$reconstruction_quality + 0.14*contexts$adaptive_potential + 0.10*contexts$evidence_contact + 0.10*contexts$ethical_visibility + 0.08*contexts$implementation_feasibility
+assumptions$assumption_burden <- (1 - assumptions$confidence) * assumptions$strategic_influence
+write.csv(contexts[order(-contexts$profile_score), ], file.path(out_tables, "r_first_principles_profile_scores.csv"), row.names = FALSE)
+write.csv(assumptions[order(-assumptions$assumption_burden), ], file.path(out_tables, "r_assumption_burden_register.csv"), row.names = FALSE)
+png(file.path(out_figures, "r_first_principles_profile_scores_base.png"), width = 1100, height = 800)
+barplot(contexts$profile_score, names.arg = contexts$context_id, main = "First Principles Strategy Profile Scores", ylab = "Profile score")
+dev.off()
+print(contexts[, c("context_id", "context_name", "profile_score")])

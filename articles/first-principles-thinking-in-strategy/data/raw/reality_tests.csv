@@ -1,0 +1,9 @@
+test_id,option_id,test_name,test_type,learning_goal,minimal_test,success_signal,review_layer,estimated_weeks,resource_intensity
+RT001,O001,Trust-friction value probe,prototype,Test whether trust friction drives adoption more than price,Interview and prototype with target users,Users rank trust and friction above price,strategy,3,low
+RT002,O002,Unbundling willingness test,experiment,Test whether the assumed bundle is necessary,A/B concept test on bundled versus unbundled offer,Unbundled option has equal or higher preference,value,4,medium
+RT003,O003,Compliance-cadence separation audit,audit,Test which planning steps are legal versus habitual,Map cadence elements to legal requirements,At least two cadence elements are redesignable,governance,2,low
+RT004,O004,Ecological metric stress test,systems_test,Test whether existing success metric violates stock-flow limits,Compare metric against threshold scenarios,Metric revision changes strategic priority,sustainability,5,medium
+RT005,O005,Budget reconstruction simulation,simulation,Test whether outcome-based budget structure changes priorities,Recode budget lines into strategic outcomes,Resource allocation priorities shift,finance,4,medium
+RT006,O006,Socio-technical adoption sprint,prototype,Test trust requirements before technical lock-in,Run adoption sprint with user trust criteria,Trust criteria alter technical roadmap,implementation,4,medium
+RT007,O007,Early legitimacy review pilot,participatory_review,Test stakeholder consultation as design input,Review proposal before implementation design is finalized,Stakeholder input changes design sequence,ethics,5,medium
+RT008,O008,Leverage intervention workshop,systems_workshop,Test whether systems map changes intervention priority,Compare current priorities to leverage map,At least one intervention priority changes,systems,3,low

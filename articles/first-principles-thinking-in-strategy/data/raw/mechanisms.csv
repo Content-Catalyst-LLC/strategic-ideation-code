@@ -1,0 +1,9 @@
+mechanism_id,context_id,mechanism_name,mechanism_type,mechanism_strength,visibility,current_strategy_alignment,intervention_leverage,second_order_risk
+M001,FP001,Switching cost and trust friction,behavioral,0.82,0.55,0.41,0.74,0.48
+M002,FP001,Industry category inheritance,market_cognitive,0.78,0.42,0.36,0.81,0.52
+M003,FP002,Compliance and accountability pressure,institutional,0.80,0.76,0.72,0.48,0.34
+M004,FP003,Ecological stock-flow constraint,systems,0.93,0.69,0.84,0.88,0.61
+M005,FP004,Budget category lock-in,budget,0.86,0.63,0.34,0.76,0.55
+M006,FP005,User trust and adoption resistance,social,0.88,0.40,0.28,0.86,0.62
+M007,FP006,Affected-stakeholder legitimacy,social,0.91,0.73,0.74,0.83,0.39
+M008,FP008,Feedback delay and unintended consequences,systems,0.89,0.62,0.65,0.85,0.67

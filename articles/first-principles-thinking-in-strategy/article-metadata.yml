@@ -1,0 +1,8 @@
+title: "First Principles Thinking in Strategy"
+slug: "first-principles-thinking-in-strategy"
+series: "Strategic Ideation"
+repository: "https://github.com/Content-Catalyst-LLC/strategic-ideation-code"
+article_folder: "articles/first-principles-thinking-in-strategy"
+purpose: "Advanced strategist-facing companion code for assumption-constraint separation, strategic decomposition, mechanism mapping, reconstruction scoring, reality testing, and decision-memory governance."
+status: "advanced scaffold"
+languages: [python, r, julia, sql, rust, go, cpp, fortran, c]
