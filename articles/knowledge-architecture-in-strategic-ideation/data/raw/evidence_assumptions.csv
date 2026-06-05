@@ -1,0 +1,11 @@
+record_id,idea_id,knowledge_type,item_name,source_quality,confidence_level,review_frequency,uncertainty_level,counterevidence_visibility,owner_clarity,revision_trigger_quality,review_action
+EA001,KA001,evidence,Stakeholder interview evidence,0.74,0.68,0.62,0.38,0.54,0.66,0.64,maintain_stakeholder_evidence_links
+EA002,KA001,assumption,Stakeholders will participate if governance is credible,0.66,0.60,0.58,0.46,0.50,0.62,0.60,test_participation_capacity
+EA003,KA002,evidence,Pilot portfolio review outcomes,0.72,0.70,0.64,0.34,0.58,0.68,0.66,continue_portfolio_evidence_review
+EA004,KA003,assumption,AI scenario clusters will preserve strategic distinctions,0.48,0.42,0.50,0.68,0.40,0.46,0.44,require_human_concept_review
+EA005,KA004,evidence,Repository retrieval tests,0.76,0.72,0.70,0.30,0.62,0.74,0.70,maintain_retrieval_testing
+EA006,KA004,assumption,Teams will reuse lessons if records are searchable,0.68,0.64,0.64,0.42,0.56,0.70,0.66,track_reuse_behavior
+EA007,KA005,evidence,Participatory evaluation feedback,0.70,0.66,0.62,0.40,0.64,0.66,0.62,preserve_affected_group_evidence
+EA008,KA006,assumption,Capability gaps can be mapped before scaling,0.60,0.56,0.58,0.48,0.52,0.60,0.58,validate_capability_mapping
+EA009,KA007,evidence,Decision traceability audit,0.78,0.74,0.68,0.32,0.60,0.72,0.70,maintain_decision_memory_audit
+EA010,KA008,assumption,Controlled vocabulary improves cross-team interpretation,0.58,0.54,0.56,0.50,0.48,0.58,0.54,test_semantic_standards_with_users

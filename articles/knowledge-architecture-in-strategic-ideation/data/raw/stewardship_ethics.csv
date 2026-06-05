@@ -1,0 +1,9 @@
+stewardship_id,idea_id,taxonomy_stewardship,metadata_stewardship,evidence_standard_quality,repository_curation,access_governance,privacy_sensitivity,stakeholder_representation,dissent_preservation,ethical_risk,review_action
+SE001,KA001,0.66,0.64,0.70,0.62,0.58,0.64,0.78,0.66,0.42,protect_participatory_governance_records
+SE002,KA002,0.68,0.66,0.68,0.64,0.60,0.46,0.60,0.62,0.38,maintain_portfolio_review_stewardship
+SE003,KA003,0.52,0.48,0.44,0.46,0.50,0.58,0.46,0.44,0.72,add_ai_knowledge_governance
+SE004,KA004,0.76,0.78,0.74,0.80,0.70,0.56,0.66,0.68,0.34,maintain_repository_stewardship
+SE005,KA005,0.64,0.62,0.72,0.60,0.58,0.66,0.82,0.70,0.40,preserve_stakeholder_evaluation_evidence
+SE006,KA006,0.58,0.56,0.60,0.54,0.52,0.42,0.58,0.54,0.46,improve_capability_record_quality
+SE007,KA007,0.72,0.76,0.78,0.72,0.68,0.62,0.68,0.84,0.36,maintain_decision_memory_integrity
+SE008,KA008,0.78,0.60,0.56,0.58,0.54,0.38,0.64,0.62,0.44,govern_semantic_standards_participatorily

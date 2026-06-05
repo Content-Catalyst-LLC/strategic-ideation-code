@@ -211,3 +211,7 @@ This repository includes advanced workflows for alignment drift diagnostics, str
 ## Learning Loops in Strategic Execution
 
 This repository includes advanced workflows for learning loop diagnostics, feedback-quality assessment, assumption review, evidence-confidence scoring, after-action review, strategic retrospective design, decision-memory documentation, governance authority scoring, learning closure analysis, knowledge scaling, psychological safety review, ethical learning review, and strategic learning simulation.
+
+## Knowledge Architecture in Strategic Ideation
+
+This repository includes advanced workflows for strategic idea taxonomies, metadata schemas, concept mapping, idea repositories, evidence and assumption linkage, decision-memory documentation, retrieval and reuse testing, knowledge graph construction, AI-assisted ideation governance, stewardship models, and ethics and power review.

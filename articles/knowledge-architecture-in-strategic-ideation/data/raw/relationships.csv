@@ -1,0 +1,13 @@
+relationship_id,source_id,target_id,relationship_type,relationship_strength,relationship_confidence,strategic_value,maintenance_need,review_action
+R001,KA001,KA005,reinforces,0.72,0.68,0.76,0.50,link_participatory_governance_and_evaluation
+R002,KA002,KA007,requires,0.70,0.72,0.74,0.56,connect_portfolio_choices_to_decision_memory
+R003,KA003,KA008,requires,0.78,0.58,0.70,0.66,apply_semantic_standards_before_ai_scaling
+R004,KA004,KA007,reinforces,0.84,0.80,0.86,0.54,integrate_repository_and_decision_memory
+R005,KA004,KA006,supports,0.66,0.62,0.70,0.52,link_capability_lessons_to_roadmap
+R006,KA005,KA001,depends_on,0.68,0.66,0.72,0.58,maintain_stakeholder_evidence_linkage
+R007,KA006,KA002,enables,0.62,0.60,0.66,0.60,connect_capacity_to_portfolio_review
+R008,KA008,KA004,improves,0.70,0.64,0.72,0.62,apply_semantic_standards_to_repository
+R009,KA007,KA003,governs,0.64,0.56,0.68,0.68,require_decision_memory_for_ai_ideation
+R010,KA002,KA004,feeds,0.72,0.70,0.78,0.54,connect_portfolio_reviews_to_learning_repository
+R011,KA005,KA007,feeds,0.66,0.62,0.72,0.56,capture_participatory_evaluation_decisions
+R012,KA003,KA004,feeds,0.54,0.46,0.58,0.76,govern_ai_scenario_outputs_before_storage

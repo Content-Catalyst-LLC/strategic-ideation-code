@@ -1,0 +1,39 @@
+title: "Knowledge Architecture in Strategic Ideation"
+slug: "knowledge-architecture-in-strategic-ideation"
+series: "Strategic Ideation"
+repository: "https://github.com/Content-Catalyst-LLC/strategic-ideation-code"
+article_folder: "articles/knowledge-architecture-in-strategic-ideation"
+previous_article:
+  title: "Learning Loops in Strategic Execution"
+  slug: "learning-loops-in-strategic-execution"
+next_article:
+  title: "Content Frameworks in Strategic Ideation"
+  slug: "content-frameworks-in-strategic-ideation"
+purpose: "Advanced strategist-facing companion code for strategic idea taxonomies, metadata schemas, concept mapping, idea repositories, evidence and assumption linkage, decision-memory documentation, retrieval and reuse testing, knowledge graph construction, AI-assisted ideation governance, stewardship models, and ethics and power review."
+status: "advanced scaffold"
+professional_use_cases:
+  - "Strategic idea taxonomy design"
+  - "Metadata schema review"
+  - "Conceptual clarity and semantic coherence assessment"
+  - "Idea repository diagnostics"
+  - "Evidence and assumption linkage"
+  - "Strategic knowledge graph construction"
+  - "Decision-memory and traceability review"
+  - "Retrieval and reuse testing"
+  - "Knowledge stewardship review"
+  - "AI-assisted ideation governance"
+  - "Ethics and power review"
+languages:
+  - python
+  - r
+  - julia
+  - sql
+  - rust
+  - go
+  - cpp
+  - fortran
+  - c
+notes:
+  - "Uses synthetic data only."
+  - "Designed for strategists, knowledge architects, implementation teams, policy teams, public-sector teams, product teams, sustainability teams, transformation teams, executives, consultants, analysts, systems thinkers, content strategists, and information architects."
+  - "Not a substitute for executive judgment, stakeholder engagement, ethical review, legal review, information governance, privacy review, domain expertise, accountable governance, or responsible institutional change."
