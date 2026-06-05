@@ -1,0 +1,9 @@
+gate_id,option_id,gate_name,evidence_threshold_clarity,scale_trigger_quality,revise_trigger_quality,stop_trigger_quality,owner_clarity,review_cadence_quality,signal_monitoring_quality,documentation_quality,review_action
+DG001,OV001,Pilot-to-scale gate,0.76,0.78,0.70,0.72,0.70,0.68,0.66,0.72,maintain_gate_protocol
+DG002,OV002,Architecture review gate,0.70,0.72,0.68,0.62,0.66,0.64,0.70,0.68,strengthen_switching_gate
+DG003,OV003,Post-launch review gate,0.42,0.38,0.36,0.28,0.50,0.42,0.44,0.38,define_stop_and_revise_thresholds
+DG004,OV004,Partnership deepening gate,0.68,0.70,0.66,0.64,0.68,0.66,0.62,0.64,clarify_trust_metrics
+DG005,OV005,Policy evaluation gate,0.78,0.68,0.74,0.76,0.72,0.74,0.70,0.78,maintain_evaluation_governance
+DG006,OV006,Supplier switching gate,0.66,0.62,0.68,0.70,0.64,0.62,0.68,0.64,test_trigger_readiness
+DG007,OV007,Research-to-prototype gate,0.72,0.64,0.72,0.70,0.66,0.60,0.64,0.72,define_prototype_threshold
+DG008,OV008,Infrastructure commitment gate,0.54,0.60,0.50,0.42,0.62,0.56,0.54,0.52,strengthen_precommitment_gate

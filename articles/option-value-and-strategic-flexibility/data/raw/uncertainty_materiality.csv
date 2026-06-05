@@ -1,0 +1,9 @@
+uncertainty_id,option_id,uncertainty_domain,market_uncertainty,technical_uncertainty,regulatory_uncertainty,stakeholder_uncertainty,cost_uncertainty,system_response_uncertainty,information_arrival_likelihood,decision_impact,review_action
+UM001,OV001,Pilot demand and transferability,0.68,0.54,0.36,0.62,0.48,0.60,0.78,0.74,test_before_scale
+UM002,OV002,Architecture and interoperability,0.42,0.72,0.34,0.46,0.56,0.58,0.62,0.68,validate_modular_assumptions
+UM003,OV003,Locked-in forecast assumptions,0.58,0.50,0.42,0.56,0.54,0.64,0.60,0.80,reduce_commitment_until_evidence_improves
+UM004,OV004,Partner behavior and trust,0.50,0.46,0.44,0.70,0.48,0.58,0.66,0.70,stage_partnership_commitments
+UM005,OV005,Policy effects and legitimacy,0.40,0.38,0.72,0.78,0.44,0.70,0.74,0.76,use_evaluation_and_sunset
+UM006,OV006,Supply disruption and bargaining power,0.54,0.42,0.32,0.38,0.62,0.66,0.58,0.64,preserve_switching_paths
+UM007,OV007,Discovery uncertainty,0.72,0.76,0.42,0.56,0.48,0.64,0.82,0.78,prioritize_learning
+UM008,OV008,Long-run infrastructure conditions,0.50,0.58,0.64,0.62,0.70,0.76,0.48,0.84,stage_irreversible_build

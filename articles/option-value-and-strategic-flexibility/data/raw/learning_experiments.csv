@@ -1,0 +1,9 @@
+experiment_id,option_id,experiment_name,assumption_clarity,evidence_quality,transferability,decision_relevance,measurement_quality,stakeholder_validity,cost_efficiency,stopping_rule_quality,review_action
+LE001,OV001,Limited market pilot,0.78,0.74,0.66,0.82,0.70,0.68,0.66,0.72,connect_pilot_to_scale_gate
+LE002,OV002,Modular integration prototype,0.72,0.70,0.74,0.76,0.68,0.54,0.60,0.66,test_interoperability
+LE003,OV003,Full launch without experiment,0.38,0.34,0.28,0.42,0.36,0.32,0.48,0.24,add_experiment_before_commitment
+LE004,OV004,Partner trust trial,0.66,0.68,0.60,0.74,0.62,0.70,0.58,0.64,stage_trust_and_delivery_tests
+LE005,OV005,Policy sandbox trial,0.74,0.72,0.64,0.80,0.70,0.78,0.62,0.76,protect_evaluation_integrity
+LE006,OV006,Supplier switch simulation,0.68,0.64,0.70,0.72,0.66,0.50,0.56,0.68,test_switching_readiness
+LE007,OV007,Exploratory research sprint,0.82,0.76,0.58,0.78,0.68,0.56,0.72,0.70,document_learning_agenda
+LE008,OV008,Infrastructure stress pilot,0.60,0.58,0.46,0.72,0.62,0.54,0.42,0.52,improve_scale_transferability

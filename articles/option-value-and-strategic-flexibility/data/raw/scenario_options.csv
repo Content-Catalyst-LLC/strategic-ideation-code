@@ -1,0 +1,9 @@
+scenario_id,option_id,stable_growth,market_shift,regulatory_change,technology_disruption,stakeholder_resistance,cost_shock,implementation_delay,system_stress,review_action
+SO001,OV001,0.70,0.76,0.68,0.72,0.66,0.62,0.64,0.68,strong_learning_option
+SO002,OV002,0.76,0.82,0.70,0.86,0.66,0.68,0.70,0.74,strong_modular_pathway
+SO003,OV003,0.88,0.38,0.42,0.34,0.40,0.36,0.44,0.32,high_scenario_fragility
+SO004,OV004,0.70,0.68,0.62,0.66,0.60,0.58,0.62,0.64,stage_response_to_scenarios
+SO005,OV005,0.62,0.72,0.84,0.68,0.78,0.64,0.66,0.72,strong_policy_flexibility
+SO006,OV006,0.64,0.70,0.60,0.66,0.56,0.78,0.62,0.70,strong_supply_resilience
+SO007,OV007,0.52,0.74,0.62,0.76,0.64,0.60,0.58,0.66,preserve_discovery_option
+SO008,OV008,0.82,0.42,0.46,0.40,0.44,0.38,0.36,0.34,avoid_full_build_without_stress_review

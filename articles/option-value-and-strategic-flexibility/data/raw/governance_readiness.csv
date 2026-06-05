@@ -1,0 +1,9 @@
+governance_id,option_id,governance_model,decision_rights_clarity,evidence_standard_quality,review_cadence_quality,trigger_authority,accountability_clarity,stakeholder_voice,documentation_quality,revision_capacity,review_action
+GR001,OV001,Pilot governance,0.72,0.74,0.68,0.70,0.68,0.62,0.70,0.66,maintain_pilot_governance
+GR002,OV002,Architecture governance,0.68,0.70,0.66,0.64,0.66,0.56,0.68,0.72,strengthen_interface_governance
+GR003,OV003,Launch governance,0.62,0.46,0.42,0.38,0.54,0.40,0.44,0.36,create_adaptive_governance
+GR004,OV004,Partnership governance,0.70,0.66,0.64,0.68,0.66,0.62,0.64,0.66,clarify_joint_decision_rights
+GR005,OV005,Policy trial governance,0.74,0.76,0.72,0.72,0.70,0.78,0.76,0.74,maintain_adaptive_policy_review
+GR006,OV006,Switching governance,0.64,0.62,0.60,0.66,0.62,0.50,0.60,0.64,define_switching_authority
+GR007,OV007,Research governance,0.60,0.72,0.58,0.62,0.60,0.54,0.70,0.66,connect_research_to_decision
+GR008,OV008,Infrastructure governance,0.66,0.56,0.52,0.48,0.60,0.54,0.56,0.46,strengthen_precommitment_governance

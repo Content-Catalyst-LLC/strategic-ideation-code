@@ -1,0 +1,9 @@
+modularity_id,option_id,architecture_name,component_modularity,interface_openness,data_portability,vendor_substitutability,policy_revisability,organizational_adaptability,switching_readiness,dependency_concentration,review_action
+MS001,OV001,Pilot operating model,0.64,0.58,0.60,0.56,0.62,0.68,0.66,0.34,keep_pilot_modular
+MS002,OV002,Modular platform architecture,0.88,0.86,0.78,0.72,0.64,0.70,0.76,0.30,protect_modularity
+MS003,OV003,Single-path launch architecture,0.28,0.32,0.30,0.26,0.34,0.40,0.28,0.78,reduce_dependency_concentration
+MS004,OV004,Partnership operating model,0.62,0.60,0.56,0.52,0.58,0.64,0.60,0.48,define_switching_terms
+MS005,OV005,Adaptive policy architecture,0.66,0.62,0.58,0.48,0.86,0.72,0.68,0.36,maintain_policy_revisability
+MS006,OV006,Dual supplier design,0.70,0.66,0.62,0.84,0.54,0.66,0.82,0.28,maintain_dual_readiness
+MS007,OV007,Research pathway,0.72,0.66,0.70,0.58,0.60,0.78,0.74,0.22,protect_exploratory_modularity
+MS008,OV008,Infrastructure build design,0.36,0.40,0.42,0.34,0.38,0.48,0.32,0.82,review_modularity_before_build

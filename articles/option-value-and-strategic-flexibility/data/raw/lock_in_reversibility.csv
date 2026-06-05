@@ -1,0 +1,9 @@
+lock_id,option_id,irreversibility,switching_cost,ecosystem_dependence,contractual_constraint,data_or_platform_dependence,political_or_reputation_commitment,retained_flexibility,exit_path_quality,review_action
+LI001,OV001,0.30,0.34,0.38,0.24,0.30,0.32,0.74,0.72,maintain_pilot_exit_gate
+LI002,OV002,0.38,0.42,0.56,0.34,0.50,0.40,0.78,0.70,protect_open_interfaces
+LI003,OV003,0.78,0.74,0.70,0.62,0.72,0.66,0.26,0.24,reduce_lock_in_before_commitment
+LI004,OV004,0.42,0.46,0.48,0.54,0.38,0.50,0.68,0.62,define_partnership_exit_terms
+LI005,OV005,0.28,0.30,0.34,0.26,0.24,0.46,0.80,0.74,use_sunset_clause
+LI006,OV006,0.34,0.40,0.44,0.36,0.38,0.32,0.76,0.72,maintain_dual_source_readiness
+LI007,OV007,0.18,0.22,0.24,0.20,0.18,0.28,0.86,0.82,protect_low_commitment_learning
+LI008,OV008,0.88,0.82,0.78,0.70,0.64,0.76,0.18,0.20,urgent_lock_in_review

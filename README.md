@@ -171,3 +171,7 @@ This repository includes advanced workflows for game-theoretic strategy diagnost
 ## Risk, Tradeoffs, and Strategic Choices
 
 This repository includes advanced workflows for risk and tradeoff diagnostics, strategic option comparison, exposure profiling, opportunity-cost analysis, temporal tradeoff review, scenario stress testing, robustness and fragility scoring, reversibility and lock-in review, value-priority mapping, ethical burden analysis, resource-allocation review, and decision-memory documentation.
+
+## Option Value and Strategic Flexibility
+
+This repository includes advanced workflows for option-value diagnostics, strategic flexibility scoring, learning-value analysis, staged-commitment review, lock-in and reversibility assessment, modularity and switching analysis, scenario stress testing, option-expiration review, governance trigger design, ethical burden analysis, and decision-memory documentation.

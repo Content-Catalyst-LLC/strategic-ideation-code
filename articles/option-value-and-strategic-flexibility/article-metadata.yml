@@ -1,0 +1,14 @@
+title: "Option Value and Strategic Flexibility"
+slug: "option-value-and-strategic-flexibility"
+series: "Strategic Ideation"
+repository: "https://github.com/Content-Catalyst-LLC/strategic-ideation-code"
+article_folder: "articles/option-value-and-strategic-flexibility"
+previous_article:
+  title: "Risk, Tradeoffs, and Strategic Choices"
+  slug: "risk-tradeoffs-and-strategic-choices"
+next_article:
+  title: "Portfolio Thinking in Strategic Ideation"
+  slug: "portfolio-thinking-in-strategic-ideation"
+purpose: "Advanced strategist-facing companion code for option-value diagnostics, strategic flexibility scoring, learning-value analysis, staged-commitment review, lock-in and reversibility assessment, modularity and switching analysis, scenario stress testing, option-expiration review, governance trigger design, ethical burden analysis, and decision-memory documentation."
+status: "advanced scaffold"
+languages: [python, r, julia, sql, rust, go, cpp, fortran, c]

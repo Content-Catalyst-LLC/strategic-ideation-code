@@ -1,0 +1,9 @@
+option_id,option_name,option_type,initial_return,learning_value,flexibility,reversibility,scalability,modularity,lock_in_exposure,carrying_cost,governance_readiness,ethical_resilience,description
+OV001,Pilot Before Scale,learning_option,0.58,0.82,0.78,0.74,0.70,0.64,0.32,0.46,0.70,0.68,Small-scale test that preserves the option to expand after evidence improves.
+OV002,Modular Platform Pathway,modularity_option,0.62,0.66,0.88,0.72,0.84,0.90,0.28,0.58,0.76,0.70,Modular technical pathway that reduces switching cost and preserves future adaptation.
+OV003,Full Commitment Now,commitment,0.86,0.30,0.28,0.22,0.80,0.24,0.82,0.34,0.48,0.36,High immediate return with major lock-in and weak reversibility.
+OV004,Staged Partnership Option,partnership_option,0.64,0.74,0.76,0.68,0.72,0.70,0.42,0.44,0.68,0.66,Partnership that can deepen revise or exit after staged evidence review.
+OV005,Adaptive Policy Trial,policy_trial,0.52,0.78,0.82,0.76,0.62,0.68,0.36,0.40,0.72,0.76,Temporary policy design with evaluation revision and sunset protections.
+OV006,Dual Supplier Switching Option,switching_option,0.56,0.58,0.84,0.78,0.66,0.72,0.34,0.52,0.64,0.62,Sourcing design that preserves the ability to switch under supply disruption.
+OV007,Exploratory Research Option,learning_option,0.38,0.90,0.86,0.82,0.48,0.74,0.22,0.36,0.66,0.72,Research pathway with high learning value and low commitment.
+OV008,Irreversible Infrastructure Build,hard_commitment,0.78,0.44,0.24,0.18,0.86,0.30,0.88,0.28,0.52,0.42,Large infrastructure commitment with high scale potential and severe lock-in.

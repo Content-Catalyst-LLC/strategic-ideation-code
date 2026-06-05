@@ -1,0 +1,9 @@
+ethics_id,option_id,ethical_issue,delay_burden,experimentation_burden,exit_burden,asymmetric_flexibility,stakeholder_voice,transparency,transition_support,redress_quality,review_action
+EB001,OV001,Pilot participants may bear experimentation burden,0.38,0.58,0.42,0.46,0.62,0.64,0.56,0.52,review_pilot_consent_and_support
+EB002,OV002,Platform flexibility may shift uncertainty to users and developers,0.42,0.40,0.44,0.58,0.54,0.60,0.52,0.50,improve_ecosystem_voice
+EB003,OV003,Full commitment may lock stakeholders into weak exit paths,0.32,0.36,0.72,0.70,0.40,0.46,0.34,0.32,urgent_exit_and_redress_review
+EB004,OV004,Partnership flexibility may create dependency for weaker partner,0.44,0.38,0.56,0.64,0.58,0.58,0.50,0.48,review_partner_power_balance
+EB005,OV005,Policy trial may expose communities to provisional rules,0.48,0.54,0.44,0.46,0.78,0.72,0.62,0.64,maintain_public_review
+EB006,OV006,Dual sourcing may shift instability to suppliers,0.36,0.34,0.46,0.54,0.50,0.54,0.48,0.46,review_supplier_burden
+EB007,OV007,Research may delay action for affected stakeholders,0.56,0.42,0.30,0.40,0.56,0.60,0.44,0.42,watch_delay_burden
+EB008,OV008,Infrastructure lock-in may burden future communities,0.30,0.34,0.76,0.68,0.52,0.50,0.42,0.38,review_future_burden

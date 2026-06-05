@@ -1,0 +1,9 @@
+memory_id,option_id,memory_practice,uncertainty_record_quality,option_inventory_quality,learning_agenda_quality,trigger_record_quality,lock_in_record_quality,ethics_record_quality,decision_gate_record_quality,revision_history_quality,reuse_quality,review_action
+DM001,OV001,Pilot option record,0.72,0.74,0.78,0.70,0.66,0.62,0.70,0.64,0.70,maintain_pilot_memory
+DM002,OV002,Modular architecture decision record,0.66,0.76,0.64,0.66,0.72,0.58,0.66,0.62,0.68,document_interface_decisions
+DM003,OV003,Full commitment memo,0.46,0.38,0.34,0.32,0.42,0.36,0.34,0.30,0.34,create_missing_option_memory
+DM004,OV004,Partnership option record,0.64,0.70,0.66,0.68,0.62,0.60,0.66,0.62,0.64,maintain_partnership_memory
+DM005,OV005,Policy trial memory,0.74,0.72,0.76,0.74,0.68,0.76,0.76,0.70,0.72,protect_policy_learning_memory
+DM006,OV006,Switching readiness record,0.58,0.70,0.60,0.66,0.64,0.54,0.62,0.58,0.60,document_supplier_switching_triggers
+DM007,OV007,Exploratory research record,0.76,0.78,0.82,0.64,0.58,0.60,0.66,0.62,0.70,connect_research_to_future_decisions
+DM008,OV008,Infrastructure option record,0.54,0.42,0.46,0.44,0.52,0.48,0.46,0.40,0.44,strengthen_irreversibility_memory

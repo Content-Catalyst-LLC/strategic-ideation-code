@@ -1,0 +1,9 @@
+expiration_id,option_id,window_name,market_window_pressure,competitor_movement,regulatory_deadline,stakeholder_patience_loss,capability_decay,information_value_decay,carrying_cost_pressure,renewal_path_quality,review_action
+OE001,OV001,Pilot window,0.52,0.50,0.34,0.48,0.36,0.34,0.42,0.66,define_pilot_duration
+OE002,OV002,Architecture window,0.44,0.46,0.30,0.38,0.42,0.40,0.50,0.70,review_architecture_timing
+OE003,OV003,Immediate launch window,0.72,0.70,0.42,0.58,0.46,0.44,0.36,0.38,do_not_use_window_pressure_to_ignore_lock_in
+OE004,OV004,Partnership window,0.58,0.54,0.38,0.56,0.40,0.42,0.44,0.62,define_partner_decision_date
+OE005,OV005,Policy trial window,0.34,0.30,0.66,0.52,0.36,0.38,0.40,0.68,align_trial_with_policy_calendar
+OE006,OV006,Supplier switch window,0.48,0.42,0.28,0.34,0.44,0.42,0.48,0.64,refresh_supplier_readiness
+OE007,OV007,Research relevance window,0.42,0.46,0.34,0.40,0.58,0.54,0.32,0.60,prevent_research_staleness
+OE008,OV008,Infrastructure funding window,0.68,0.60,0.58,0.54,0.48,0.46,0.34,0.42,avoid_rushed_irreversible_commitment
