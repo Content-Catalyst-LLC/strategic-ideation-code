@@ -1,0 +1,9 @@
+idea_id,idea,idea_type,stakeholder_voice,evidence_integrity,burden_visibility,uncertainty_visibility,reversibility,long_term_responsibility,ai_governance,accountability,redress_quality,problem_frame_integrity,power_review,description
+EI001,AI-Assisted Service Triage,technology_strategy,0.42,0.56,0.44,0.46,0.50,0.52,0.38,0.48,0.36,0.54,0.42,Automated triage idea with service access and misclassification risk.
+EI002,Participatory Governance Council,governance_strategy,0.84,0.72,0.78,0.70,0.72,0.74,0.62,0.76,0.72,0.76,0.78,Governance idea designed to shift voice and decision influence.
+EI003,Strategic Learning Repository,knowledge_strategy,0.66,0.78,0.66,0.68,0.82,0.76,0.58,0.70,0.62,0.72,0.66,Idea for preserving lessons decisions and reusable knowledge.
+EI004,Automated Performance Dashboard,measurement_strategy,0.50,0.62,0.48,0.52,0.58,0.54,0.44,0.56,0.44,0.58,0.48,Dashboard idea with metric capture and surveillance risk.
+EI005,Climate Resilience Investment,sustainability_strategy,0.72,0.70,0.74,0.76,0.60,0.88,0.50,0.72,0.66,0.74,0.70,Long-horizon infrastructure investment with intergenerational stakes.
+EI006,Workforce Restructuring Plan,organizational_strategy,0.38,0.58,0.40,0.44,0.36,0.42,0.40,0.46,0.34,0.50,0.36,Cost and structure idea with workforce burden and voice gaps.
+EI007,Stakeholder Data Stewardship Compact,data_governance,0.78,0.74,0.72,0.70,0.68,0.76,0.66,0.78,0.74,0.76,0.80,Data governance idea with consent voice and accountability emphasis.
+EI008,Reversible Pilot Portfolio,portfolio_strategy,0.68,0.72,0.66,0.74,0.88,0.72,0.56,0.70,0.64,0.70,0.68,Portfolio idea preserving optionality and learning before lock-in.

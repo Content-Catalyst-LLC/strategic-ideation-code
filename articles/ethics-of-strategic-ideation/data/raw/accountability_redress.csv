@@ -1,0 +1,9 @@
+accountability_id,idea_id,owner_clarity,monitoring_quality,escalation_path,appeal_process,correction_capacity,redress_access,revision_trigger_quality,public_accountability,review_action
+AR001,EI001,0.50,0.52,0.46,0.36,0.42,0.38,0.48,0.44,create_service_triage_redress_plan
+AR002,EI002,0.76,0.72,0.70,0.68,0.72,0.72,0.74,0.70,maintain_governance_accountability
+AR003,EI003,0.70,0.68,0.62,0.56,0.62,0.58,0.72,0.60,improve_memory_correction_process
+AR004,EI004,0.56,0.58,0.52,0.42,0.48,0.44,0.54,0.48,add_metric_appeal_and_review
+AR005,EI005,0.72,0.74,0.68,0.60,0.66,0.62,0.76,0.72,maintain_long_term_monitoring
+AR006,EI006,0.46,0.48,0.42,0.34,0.38,0.34,0.44,0.40,urgent_workforce_redress_and_escalation
+AR007,EI007,0.78,0.76,0.72,0.74,0.76,0.76,0.78,0.72,maintain_data_stewardship_accountability
+AR008,EI008,0.70,0.74,0.68,0.60,0.66,0.62,0.82,0.64,maintain_stop_rules_and_revision_triggers

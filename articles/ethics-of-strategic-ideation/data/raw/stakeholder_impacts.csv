@@ -1,0 +1,9 @@
+impact_id,idea_id,stakeholder_group,benefit_score,burden_score,risk_exposure,voice_quality,consent_quality,redress_access,trust_sensitivity,long_term_exposure,review_action
+SI001,EI001,Service Users,0.68,0.58,0.74,0.42,0.36,0.38,0.76,0.56,add_appeal_and_manual_review
+SI002,EI001,Frontline Workers,0.54,0.66,0.62,0.44,0.40,0.42,0.58,0.48,review_workflow_burden
+SI003,EI002,Affected Communities,0.78,0.42,0.36,0.82,0.74,0.72,0.80,0.68,maintain_shared_authority
+SI004,EI003,Future Teams,0.76,0.34,0.30,0.58,0.52,0.56,0.48,0.70,maintain_memory_stewardship
+SI005,EI004,Workers,0.58,0.70,0.66,0.46,0.40,0.42,0.64,0.54,review_metric_surveillance_risk
+SI006,EI005,Future Residents,0.82,0.46,0.42,0.54,0.48,0.60,0.72,0.88,add_future_generation_review
+SI007,EI006,Workers,0.42,0.82,0.78,0.34,0.30,0.32,0.78,0.64,urgent_workforce_voice_and_redress
+SI008,EI007,Data Subjects,0.74,0.44,0.52,0.78,0.72,0.76,0.82,0.70,maintain_data_stewardship_compact

@@ -1,0 +1,9 @@
+claim_id,idea_id,claim_type,claim_text,source_quality,confidence_level,uncertainty_visibility,counterevidence_visibility,transfer_limits,overclaim_risk,ethical_salience,review_action
+CE001,EI001,benefit_claim,AI triage will improve service routing speed,0.58,0.54,0.46,0.42,0.44,0.62,0.76,verify_access_and_error_rates
+CE002,EI002,legitimacy_claim,Shared governance will improve trust and accountability,0.72,0.68,0.66,0.62,0.60,0.36,0.80,maintain_participation_evidence
+CE003,EI003,learning_claim,Repository design will improve strategic reuse,0.78,0.74,0.68,0.64,0.66,0.30,0.62,maintain_retrieval_tests
+CE004,EI004,performance_claim,Dashboard metrics will improve management quality,0.62,0.58,0.50,0.48,0.46,0.56,0.70,add_metric_capture_review
+CE005,EI005,long_term_claim,Climate investment will reduce future disruption burden,0.74,0.70,0.72,0.66,0.64,0.34,0.88,maintain_long_horizon_evidence
+CE006,EI006,efficiency_claim,Restructuring will reduce cost without reducing institutional capacity,0.54,0.48,0.42,0.40,0.38,0.72,0.82,urgent_overclaim_and_burden_review
+CE007,EI007,data_ethics_claim,Data stewardship compact will increase consent and accountability,0.76,0.72,0.68,0.64,0.62,0.28,0.84,maintain_consent_and_redress_review
+CE008,EI008,option_value_claim,Reversible pilot portfolio will preserve learning and reduce lock-in,0.72,0.70,0.74,0.68,0.66,0.30,0.68,maintain_revision_trigger_logic

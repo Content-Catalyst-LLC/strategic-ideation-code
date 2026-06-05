@@ -1,0 +1,39 @@
+title: "Ethics of Strategic Ideation"
+slug: "ethics-of-strategic-ideation"
+series: "Strategic Ideation"
+repository: "https://github.com/Content-Catalyst-LLC/strategic-ideation-code"
+article_folder: "articles/ethics-of-strategic-ideation"
+previous_article:
+  title: "Taxonomy of Strategic Ideas"
+  slug: "taxonomy-of-strategic-ideas"
+next_article:
+  title: "Strategic Ideation and Institutional Power"
+  slug: "strategic-ideation-and-institutional-power"
+purpose: "Advanced strategist-facing companion code for ethical ideation review, stakeholder impact mapping, problem-frame ethics diagnostics, claim-evidence assessment, burden and distribution analysis, dissent preservation, uncertainty and reversibility review, AI-assisted ideation governance, accountability design, redress planning, and ethics and power review."
+status: "advanced scaffold"
+professional_use_cases:
+  - "Ethical strategic ideation review"
+  - "Problem-frame ethics diagnostics"
+  - "Stakeholder voice and participation mapping"
+  - "Claim-evidence integrity review"
+  - "Burden and distributional impact analysis"
+  - "Bias and exclusion diagnostics"
+  - "Power and realism review"
+  - "Uncertainty and reversibility analysis"
+  - "Future-generation responsibility review"
+  - "AI-assisted ideation governance"
+  - "Accountability and redress planning"
+languages:
+  - python
+  - r
+  - julia
+  - sql
+  - rust
+  - go
+  - cpp
+  - fortran
+  - c
+notes:
+  - "Uses synthetic data only."
+  - "Designed for strategists, policy teams, public-sector teams, product teams, sustainability teams, ethics review teams, transformation teams, knowledge architects, executives, consultants, analysts, content strategists, communications leaders, and systems thinkers."
+  - "Not a substitute for executive judgment, stakeholder engagement, ethical review, legal review, information governance, privacy review, domain expertise, accountable governance, or responsible institutional change."

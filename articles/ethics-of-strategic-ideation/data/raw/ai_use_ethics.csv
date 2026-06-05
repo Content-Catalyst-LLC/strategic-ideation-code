@@ -1,0 +1,9 @@
+ai_use_id,idea_id,ai_use_case,disclosure_quality,source_traceability,human_review,bias_review,stakeholder_review,uncertainty_preservation,accountability_clarity,automation_risk,review_action
+AI001,EI001,triage_design_options,0.42,0.44,0.48,0.38,0.36,0.40,0.44,0.78,urgent_ai_impact_review
+AI002,EI002,participation_summary,0.62,0.60,0.68,0.58,0.72,0.62,0.66,0.36,maintain_stakeholder_summary_review
+AI003,EI003,repository_tag_suggestions,0.58,0.56,0.64,0.54,0.50,0.60,0.62,0.42,add_taxonomy_audit
+AI004,EI004,metric_pattern_analysis,0.48,0.50,0.52,0.44,0.38,0.46,0.50,0.68,review_surveillance_and_metric_bias
+AI005,EI005,scenario_summarization,0.56,0.58,0.62,0.54,0.56,0.66,0.60,0.46,preserve_uncertainty_and_sources
+AI006,EI006,restructuring_options,0.40,0.42,0.46,0.36,0.30,0.38,0.42,0.80,urgent_worker_impact_review
+AI007,EI007,data_policy_drafting,0.66,0.64,0.70,0.62,0.72,0.68,0.70,0.34,maintain_data_governance_review
+AI008,EI008,pilot_portfolio_scenarios,0.60,0.62,0.68,0.58,0.56,0.70,0.66,0.38,maintain_scenario_review
