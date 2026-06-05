@@ -1,0 +1,17 @@
+signal_id,context_id,signal_type,signal_name,signal_strength,evidence_quality,visibility,correction_difficulty,review_action
+DS001,AD001,resource,Declared priority lacks material support,0.76,0.66,0.62,0.68,reconnect_resources_to_strategy
+DS002,AD001,governance,Review forums are mostly status updates,0.72,0.62,0.58,0.66,restore_decision_authority
+DS003,AD002,feedback,Evidence changes decisions,0.28,0.78,0.72,0.30,maintain_feedback_and_memory
+DS004,AD002,adaptation,Revision is governed and documented,0.24,0.76,0.70,0.28,protect_adaptive_coherence
+DS005,AD003,metric,Metrics replace strategic purpose,0.84,0.70,0.76,0.74,redesign_indicator_system
+DS006,AD003,incentive,Teams are rewarded for narrow targets,0.80,0.68,0.72,0.76,repair_incentive_alignment
+DS007,AD004,portfolio,Initiatives accumulate without pruning,0.82,0.64,0.66,0.70,prioritize_sequence_and_prune
+DS008,AD004,capacity,Foundational work is repeatedly delayed,0.76,0.60,0.62,0.68,protect_foundational_capacity
+DS009,AD005,ethics,Stakeholder voice declines after launch,0.78,0.68,0.56,0.72,restore_voice_and_redress
+DS010,AD005,burden,Implementation burden shifts to low-power groups,0.74,0.62,0.50,0.76,run_distributional_review
+DS011,AD006,attention,Leadership review cadence fades,0.72,0.66,0.64,0.64,restore_leadership_decision_rhythm
+DS012,AD006,budget,Budget no longer follows stated priorities,0.82,0.72,0.70,0.78,reallocate_or_revise_claims
+DS013,AD007,narrative,Teams repeat slogans but cannot explain tradeoffs,0.78,0.60,0.64,0.66,rebuild_strategic_narrative
+DS014,AD007,memory,New staff inherit language without rationale,0.70,0.58,0.52,0.62,create_decision_memory_and_onboarding
+DS015,AD008,governance,Governance corrects drift early,0.22,0.80,0.76,0.24,maintain_governance_strength
+DS016,AD008,learning,Assumption review is routine,0.26,0.78,0.72,0.28,maintain_assumption_review

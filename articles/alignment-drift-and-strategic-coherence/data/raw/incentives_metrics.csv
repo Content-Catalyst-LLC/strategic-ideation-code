@@ -1,0 +1,9 @@
+metric_id,context_id,indicator_fit,reward_alignment,local_optimization_risk,metric_gaming_risk,short_termism,qualitative_review_strength,stakeholder_metric_balance,review_action
+IM001,AD001,0.50,0.42,0.70,0.62,0.66,0.44,0.46,repair_rewards_and_review
+IM002,AD002,0.78,0.80,0.34,0.28,0.32,0.76,0.72,maintain_balanced_metrics
+IM003,AD003,0.42,0.36,0.78,0.84,0.72,0.38,0.40,urgent_metric_substitution_review
+IM004,AD004,0.56,0.54,0.72,0.58,0.62,0.50,0.52,add_system_level_portfolio_metrics
+IM005,AD005,0.58,0.56,0.60,0.54,0.58,0.54,0.36,restore_stakeholder_and_ethics_metrics
+IM006,AD006,0.60,0.56,0.64,0.56,0.66,0.52,0.54,align_measures_with_resource_commitment
+IM007,AD007,0.56,0.58,0.62,0.50,0.54,0.48,0.50,add_narrative_quality_review
+IM008,AD008,0.72,0.70,0.40,0.34,0.38,0.74,0.70,maintain_interpretive_metric_review

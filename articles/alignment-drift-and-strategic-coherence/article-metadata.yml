@@ -1,0 +1,40 @@
+title: "Alignment Drift and Strategic Coherence"
+slug: "alignment-drift-and-strategic-coherence"
+series: "Strategic Ideation"
+repository: "https://github.com/Content-Catalyst-LLC/strategic-ideation-code"
+article_folder: "articles/alignment-drift-and-strategic-coherence"
+previous_article:
+  title: "Implementation Pathways and Strategic Sequencing"
+  slug: "implementation-pathways-and-strategic-sequencing"
+next_article:
+  title: "Learning Loops in Strategic Execution"
+  slug: "learning-loops-in-strategic-execution"
+purpose: "Advanced strategist-facing companion code for alignment drift diagnostics, strategic coherence assessment, purpose-continuity review, incentive and metric audit, resource alignment analysis, portfolio fragmentation review, narrative drift detection, governance strength scoring, ethical coherence review, feedback-loop design, and decision-memory documentation."
+status: "advanced scaffold"
+professional_use_cases:
+  - "Alignment drift diagnostics"
+  - "Strategic coherence assessment"
+  - "Purpose-continuity review"
+  - "Resource alignment analysis"
+  - "Incentive and metric substitution audit"
+  - "Portfolio fragmentation review"
+  - "Narrative drift detection"
+  - "Governance strength scoring"
+  - "Feedback-loop design"
+  - "Decision-memory assessment"
+  - "Ethics and power review"
+  - "Adaptive coherence review"
+languages:
+  - python
+  - r
+  - julia
+  - sql
+  - rust
+  - go
+  - cpp
+  - fortran
+  - c
+notes:
+  - "Uses synthetic data only."
+  - "Designed for strategists, implementation teams, policy teams, public-sector teams, product teams, sustainability teams, transformation teams, executives, consultants, analysts, systems thinkers, and knowledge architects."
+  - "Not a substitute for executive judgment, stakeholder engagement, ethical review, legal review, domain expertise, accountable governance, implementation expertise, labor consultation, or responsible institutional change."

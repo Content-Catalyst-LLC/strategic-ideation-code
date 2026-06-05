@@ -1,0 +1,9 @@
+governance_id,context_id,review_cadence,decision_authority,assumption_review,tradeoff_review,stop_rule_quality,resource_reallocation_power,escalation_clarity,decision_memory_quality,review_action
+GV001,AD001,0.52,0.38,0.42,0.44,0.34,0.36,0.46,0.40,rebuild_governance_authority
+GV002,AD002,0.78,0.80,0.82,0.78,0.76,0.74,0.78,0.80,maintain_adaptive_governance
+GV003,AD003,0.60,0.50,0.48,0.52,0.44,0.46,0.54,0.50,connect_governance_to_metric_revision
+GV004,AD004,0.56,0.48,0.50,0.54,0.42,0.40,0.50,0.48,add_portfolio_stop_rules
+GV005,AD005,0.58,0.52,0.54,0.56,0.46,0.48,0.52,0.50,add_ethics_gates_to_governance
+GV006,AD006,0.54,0.44,0.50,0.48,0.40,0.34,0.48,0.46,connect_governance_to_budget
+GV007,AD007,0.56,0.52,0.48,0.50,0.44,0.46,0.50,0.38,restore_decision_memory
+GV008,AD008,0.84,0.82,0.84,0.80,0.78,0.76,0.80,0.82,protect_governance_strength

@@ -1,0 +1,9 @@
+context_id,context_name,context_type,purpose_clarity,priority_discipline,tradeoff_integrity,resource_alignment,incentive_fit,interpretive_consistency,governance_strength,feedback_quality,decision_memory,ethical_coherence,adaptive_capacity,description
+AD001,Symbolically Aligned Organization,symbolic_alignment,0.64,0.50,0.46,0.46,0.42,0.50,0.44,0.48,0.40,0.54,0.46,Strategy language is visible but resources incentives and governance are weak.
+AD002,Coherent Adaptive Organization,adaptive_coherence,0.84,0.80,0.78,0.78,0.80,0.82,0.78,0.84,0.76,0.80,0.86,Strong coherence with feedback and adaptive revision.
+AD003,Metric-Substituted Organization,metric_substitution,0.68,0.60,0.54,0.62,0.36,0.58,0.52,0.44,0.50,0.46,0.50,Metrics have displaced the underlying strategic purpose.
+AD004,Portfolio-Fragmented Organization,portfolio_fragmentation,0.58,0.42,0.48,0.48,0.54,0.46,0.50,0.54,0.48,0.58,0.52,Too many initiatives weaken focus and strategic hierarchy.
+AD005,Ethically Drifting Organization,ethical_drift,0.70,0.64,0.58,0.60,0.56,0.62,0.58,0.60,0.52,0.38,0.58,Performance remains plausible while voice burden and redress weaken.
+AD006,Resource-Drifting Organization,resource_drift,0.72,0.58,0.54,0.34,0.56,0.60,0.54,0.58,0.54,0.62,0.56,Strategy remains stated but budget staff and attention have moved elsewhere.
+AD007,Narratively Drifting Organization,narrative_drift,0.56,0.58,0.52,0.60,0.58,0.38,0.56,0.52,0.42,0.60,0.54,Teams use the same words but mean different things.
+AD008,Governance-Strong Learning Organization,governance_learning,0.78,0.74,0.72,0.70,0.68,0.74,0.84,0.82,0.78,0.74,0.80,Governance has authority to correct drift and preserve learning.

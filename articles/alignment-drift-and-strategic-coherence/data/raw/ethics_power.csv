@@ -1,0 +1,9 @@
+ethics_id,context_id,ethical_issue,sponsor_power,affected_stakeholder_voice,benefit_concentration,burden_concentration,transparency,redress_quality,pause_authority,long_term_responsibility,review_action
+EP001,AD001,Symbolic alignment may hide who bears implementation burden,0.70,0.44,0.60,0.64,0.48,0.40,0.42,0.50,expand_voice_and_burden_review
+EP002,AD002,Adaptive coherence still needs ongoing distribution review,0.52,0.72,0.42,0.38,0.76,0.72,0.70,0.78,maintain_ethics_monitoring
+EP003,AD003,Metric substitution may make stakeholder harms invisible,0.76,0.40,0.72,0.70,0.44,0.36,0.38,0.42,redesign_metrics_with_ethics
+EP004,AD004,Portfolio fragmentation may overload lower-power teams,0.68,0.46,0.62,0.68,0.50,0.42,0.44,0.52,review_burden_across_portfolio
+EP005,AD005,Stakeholder voice and redress have weakened during implementation,0.72,0.36,0.64,0.72,0.42,0.30,0.34,0.38,urgent_ethics_repair
+EP006,AD006,Resource drift may abandon commitments made to affected groups,0.66,0.48,0.60,0.62,0.46,0.38,0.40,0.46,reconcile_promises_and_resources
+EP007,AD007,Narrative drift can preserve attractive language while hiding tradeoffs,0.64,0.50,0.58,0.56,0.48,0.42,0.44,0.50,restore_transparent_tradeoff_story
+EP008,AD008,Strong governance can still overcentralize coherence decisions,0.58,0.68,0.46,0.44,0.72,0.68,0.70,0.76,maintain_participatory_governance

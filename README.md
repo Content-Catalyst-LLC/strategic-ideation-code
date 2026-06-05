@@ -203,3 +203,7 @@ This repository includes advanced workflows for strategic effectiveness measurem
 ## Implementation Pathways and Strategic Sequencing
 
 This repository includes advanced workflows for implementation pathway design, sequencing readiness analysis, dependency mapping, capability-building review, stage-gate design, capacity load analysis, timing-window assessment, reversibility and lock-in scoring, feedback-driven resequencing, ethics and power review, governance documentation, and decision-memory records.
+
+## Alignment Drift and Strategic Coherence
+
+This repository includes advanced workflows for alignment drift diagnostics, strategic coherence assessment, purpose-continuity review, incentive and metric audit, resource alignment analysis, portfolio fragmentation review, narrative drift detection, governance strength scoring, ethical coherence review, feedback-loop design, and decision-memory documentation.

@@ -1,0 +1,9 @@
+resource_id,context_id,budget_alignment,staff_alignment,leadership_attention,technical_support,governance_bandwidth,communication_capacity,portfolio_focus,opportunity_cost_visibility,review_action
+RA001,AD001,0.44,0.46,0.40,0.48,0.42,0.50,0.46,0.38,resource_strategy_before_restatement
+RA002,AD002,0.78,0.80,0.82,0.76,0.78,0.74,0.80,0.76,maintain_resource_alignment
+RA003,AD003,0.62,0.60,0.58,0.64,0.54,0.56,0.58,0.50,rebalance_resources_beyond_metrics
+RA004,AD004,0.48,0.52,0.54,0.50,0.48,0.54,0.34,0.36,portfolio_pruning_required
+RA005,AD005,0.60,0.58,0.62,0.56,0.58,0.60,0.60,0.54,add_resources_for_ethics_and_redress
+RA006,AD006,0.32,0.38,0.36,0.44,0.40,0.46,0.48,0.42,urgent_resource_drift_review
+RA007,AD007,0.58,0.60,0.56,0.58,0.54,0.48,0.56,0.50,reconnect_resources_to_narrative
+RA008,AD008,0.72,0.70,0.78,0.74,0.82,0.72,0.74,0.76,maintain_governed_resource_review
