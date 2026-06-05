@@ -123,3 +123,7 @@ This repository includes advanced workflows for theory-of-change mapping, strate
 ## Design Thinking Foundations
 
 This repository includes advanced workflows for design thinking capability assessment, human-centered inquiry review, problem reframing analysis, prototype-test design, design-learning simulation, stakeholder evidence review, systems-aware design diagnostics, ethical design checks, decision-linkage scoring, and institutional learning records.
+
+## Empathy and User-Centered Ideation
+
+This repository includes advanced workflows for empathic inquiry review, projection-risk scoring, user-centered ideation assessment, journey-friction analysis, unmet-need detection, stakeholder mapping, ethical empathy review, systems-aware user research, prototype-test planning, decision-linkage scoring, and institutional user-insight records.

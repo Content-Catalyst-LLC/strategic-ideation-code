@@ -1,0 +1,9 @@
+ethics_id,context_id,ethical_issue,participation_quality,power_awareness,burden_visibility,consent_quality,representation_quality,redress_quality,decision_traceability,harm_monitoring,review_action
+E001,C001,Frontline staff burden is hidden behind adoption metrics,0.46,0.48,0.62,0.52,0.46,0.38,0.42,0.48,add_burden_review
+E002,C002,Service users need evidence that feedback changes design,0.70,0.66,0.70,0.68,0.66,0.58,0.70,0.64,trace_feedback_to_design
+E003,C003,Non-users may be excluded from service assumptions,0.58,0.62,0.70,0.64,0.52,0.46,0.56,0.54,recruit_non_users
+E004,C004,Community participation may extract emotional labor without power,0.82,0.90,0.88,0.78,0.82,0.76,0.82,0.80,formalize_power_and_redress
+E005,C005,Personas may replace real participation,0.30,0.28,0.34,0.42,0.32,0.24,0.22,0.26,stop_empathy_theater
+E006,C006,Support data may obscure who is missing from the dataset,0.50,0.52,0.54,0.58,0.48,0.40,0.50,0.46,add_missing_voice_review
+E007,C007,Community research requires compensation and shared ownership,0.84,0.90,0.86,0.82,0.84,0.78,0.76,0.80,maintain_participatory_governance
+E008,C008,Early adopter evidence may exclude skeptical users,0.52,0.46,0.44,0.58,0.44,0.36,0.48,0.40,include_skeptical_users

@@ -1,0 +1,35 @@
+title: "Empathy and User-Centered Ideation"
+slug: "empathy-and-user-centered-ideation"
+series: "Strategic Ideation"
+repository: "https://github.com/Content-Catalyst-LLC/strategic-ideation-code"
+article_folder: "articles/empathy-and-user-centered-ideation"
+purpose: "Advanced strategist-facing companion code for empathic inquiry review, projection-risk scoring, user-centered ideation assessment, journey-friction analysis, unmet-need detection, stakeholder mapping, ethical empathy review, systems-aware user research, prototype-test planning, decision-linkage scoring, and institutional user-insight records."
+status: "advanced scaffold"
+professional_use_cases:
+  - "Empathic inquiry quality review"
+  - "Projection-risk diagnostics"
+  - "Stakeholder field mapping"
+  - "Observation and workaround synthesis"
+  - "Journey friction and hidden-burden analysis"
+  - "Unmet-need detection"
+  - "Preference-behavior comparison"
+  - "Strategic reframing quality scoring"
+  - "Ethical empathy and participation review"
+  - "Systems-aware user research"
+  - "Prototype-test design from user evidence"
+  - "Decision-linkage and insight-to-action scoring"
+  - "Institutional user-insight memory"
+languages:
+  - python
+  - r
+  - julia
+  - sql
+  - rust
+  - go
+  - cpp
+  - fortran
+  - c
+notes:
+  - "Uses synthetic data only."
+  - "Designed for strategists, design researchers, service designers, systems thinkers, product strategists, public-sector teams, innovation teams, sustainability teams, organizational leaders, analysts, consultants, and knowledge architects."
+  - "Not a substitute for stakeholder judgment, ethical review, accessibility review, domain expertise, or participatory governance."

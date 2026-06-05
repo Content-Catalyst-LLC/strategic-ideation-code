@@ -1,0 +1,9 @@
+reframe_id,context_id,initial_frame,reframed_problem,evidence_basis,inquiry_influence,projection_reduction,causal_depth,stakeholder_evidence,systems_context,ethical_awareness,decision_usefulness,review_action
+R001,C001,Users need training,Adoption depends on workflow fit authority clarity and reduced shadow labor,observation_and_workaround,0.66,0.62,0.70,0.64,0.58,0.56,0.72,prototype_workflow_change
+R002,C002,Service users need faster responses,Users need reassurance status visibility and confidence during uncertainty,journey_map,0.76,0.70,0.68,0.74,0.60,0.66,0.78,test_status_cues
+R003,C003,Non-users are uninterested,Non-use reflects trust risk and fear of making costly mistakes,contextual_inquiry,0.84,0.80,0.76,0.78,0.66,0.76,0.82,design_trust_entry
+R004,C004,Community engagement is low,Participation lacks influence and creates repeated explanation burden,participatory_research,0.88,0.78,0.82,0.86,0.88,0.90,0.86,redesign_governance
+R005,C005,Users like the proposed concept,The team lacks evidence about actual use context and behavior,workshop_gap_review,0.34,0.42,0.36,0.30,0.28,0.32,0.34,conduct_real_inquiry
+R006,C006,Users need better documentation,Users need language clarity recoverable errors and lower cognitive load,support_logs,0.64,0.60,0.68,0.58,0.56,0.54,0.68,test_plain_language
+R007,C007,Community needs education,Community needs accessible participation resources and shared decision power,community_input,0.86,0.76,0.78,0.86,0.82,0.92,0.84,co_design_decision_power
+R008,C008,Early users want more features,Non-users need trust proof and low-friction switching support,prototype_and_nonuser_gap,0.58,0.56,0.62,0.50,0.46,0.44,0.64,expand_research_sample

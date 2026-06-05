@@ -1,0 +1,9 @@
+gap_id,context_id,stakeholder_group,stated_preference,observed_behavior,preference_clarity,behavioral_evidence,alignment_score,interpretive_uncertainty,strategic_importance,review_action
+G001,C001,frontline_staff,Want simpler reporting,Use unofficial spreadsheet for control and speed,0.64,0.82,0.42,0.58,0.78,study_workaround_need
+G002,C002,service_users,Want faster response,Repeatedly check status due to uncertainty,0.72,0.78,0.54,0.46,0.76,distinguish_speed_from_reassurance
+G003,C003,non_users,Say service is not relevant,Avoid service because of mistrust and risk fear,0.50,0.72,0.34,0.68,0.82,reframe_as_trust_problem
+G004,C004,affected_communities,Want voice in decisions,Attend meetings but report no influence,0.80,0.74,0.38,0.52,0.86,trace_participation_to_decisions
+G005,C005,workshop_participants,Say concept seems good,No observed behavior tested,0.58,0.22,0.30,0.78,0.42,do_not_claim_validation
+G006,C006,support_contacts,Ask for clearer instructions,Repeat same errors after reading instructions,0.70,0.76,0.48,0.54,0.72,test_comprehension_not_preference
+G007,C007,community_members,Want accessible participation,Informally coordinate attendance due to barriers,0.76,0.78,0.44,0.50,0.84,redesign_access_conditions
+G008,C008,early_adopters,Want advanced features,Use only core workflow repeatedly,0.66,0.72,0.50,0.48,0.66,test_value_moment

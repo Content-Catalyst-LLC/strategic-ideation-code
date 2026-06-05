@@ -1,0 +1,9 @@
+stakeholder_id,context_id,stakeholder_group,relationship_to_system,visibility,influence,vulnerability,knowledge_value,participation_access,burden_risk,representation_gap,decision_relevance,review_action
+S001,C001,frontline_staff,implementers,0.52,0.46,0.58,0.82,0.44,0.72,0.58,0.68,include_frontline_inquiry
+S002,C002,service_users,direct_users,0.72,0.58,0.64,0.80,0.70,0.62,0.38,0.78,maintain_user_panel
+S003,C003,non_users,excluded_or_absent_users,0.48,0.34,0.78,0.76,0.42,0.70,0.72,0.74,recruit_non_users
+S004,C004,affected_communities,affected_publics,0.80,0.62,0.86,0.88,0.78,0.82,0.32,0.86,co_design_governance
+S005,C005,workshop_participants,convenient_participants,0.70,0.40,0.38,0.44,0.74,0.34,0.62,0.36,replace_convenience_sample
+S006,C006,support_contacts,signals_from_support,0.62,0.38,0.56,0.78,0.58,0.60,0.50,0.66,connect_support_to_strategy
+S007,C007,community_leaders,participatory_partners,0.84,0.76,0.74,0.90,0.82,0.70,0.28,0.84,trace_input_to_decisions
+S008,C008,early_adopters,direct_users,0.76,0.52,0.36,0.70,0.78,0.38,0.66,0.68,add_skeptical_non_users

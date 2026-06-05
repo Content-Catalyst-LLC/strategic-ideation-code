@@ -1,0 +1,9 @@
+journey_id,context_id,stage_name,stakeholder_group,time_cost,cognitive_load,emotional_cost,trust_risk,accessibility_burden,uncertainty,workaround_dependency,dropoff_risk,review_action
+J001,C001,onboarding,frontline_staff,0.68,0.74,0.58,0.52,0.42,0.66,0.80,0.62,reduce_workflow_burden
+J002,C002,status_check,service_users,0.54,0.62,0.72,0.70,0.46,0.82,0.50,0.58,improve_status_and_reassurance
+J003,C003,first_contact,non_users,0.48,0.66,0.84,0.88,0.62,0.76,0.42,0.74,design_trust_entry_point
+J004,C004,eligibility_review,affected_communities,0.78,0.82,0.86,0.84,0.76,0.80,0.66,0.78,redesign_eligibility_experience
+J005,C005,idea_workshop,workshop_participants,0.34,0.42,0.38,0.36,0.30,0.40,0.20,0.28,insufficient_journey_evidence
+J006,C006,error_resolution,support_contacts,0.70,0.76,0.62,0.58,0.52,0.72,0.64,0.66,redesign_language_and_support
+J007,C007,public_meeting,community_members,0.72,0.68,0.78,0.80,0.84,0.74,0.56,0.64,make_participation_accessible
+J008,C008,switching_decision,non_users,0.58,0.70,0.66,0.78,0.44,0.72,0.48,0.68,test_switching_support

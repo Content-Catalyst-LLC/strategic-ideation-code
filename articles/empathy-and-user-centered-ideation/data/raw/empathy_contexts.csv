@@ -1,0 +1,9 @@
+context_id,context_name,organization_type,domain,observational_depth,projection_risk,unmet_need_visibility,stakeholder_breadth,reframing_potential,ethical_review,systems_awareness,decision_linkage,institutional_memory,description
+C001,Inside-Out Planning Context,legacy_enterprise,operations,0.24,0.84,0.31,0.28,0.34,0.38,0.35,0.32,0.30,Strategy begins from internal assumptions and weak user evidence.
+C002,Balanced User-Informed Context,mid_size_institution,service_strategy,0.71,0.41,0.74,0.63,0.76,0.70,0.66,0.70,0.64,Uses user research and prototypes with moderate governance connection.
+C003,Deep Ethnographic Insight Context,research_mature_org,experience_strategy,0.88,0.26,0.87,0.58,0.89,0.74,0.68,0.76,0.72,Strong observation and reframing with deep contextual inquiry.
+C004,Multi-Stakeholder Systems Context,public_system,public_service,0.76,0.48,0.79,0.90,0.83,0.86,0.88,0.78,0.76,Combines user experience stakeholder breadth systems review and ethics.
+C005,Empathy-Theater Context,large_institution,innovation_theater,0.38,0.72,0.42,0.36,0.40,0.32,0.30,0.24,0.22,Uses personas and workshops without decision influence or deep evidence.
+C006,Metric-Dominant Analytics Context,analytics_org,digital_service,0.30,0.68,0.44,0.42,0.46,0.48,0.58,0.54,0.50,Strong dashboards but weak lived-experience inquiry.
+C007,Community-Led Inquiry Context,coalition,sustainability,0.82,0.34,0.84,0.88,0.86,0.90,0.82,0.72,0.78,Community knowledge shapes problem framing and legitimacy.
+C008,Rapid Product Discovery Context,startup,product_strategy,0.62,0.50,0.66,0.46,0.70,0.48,0.50,0.68,0.48,Fast research with early users but weaker stakeholder breadth and systems review.

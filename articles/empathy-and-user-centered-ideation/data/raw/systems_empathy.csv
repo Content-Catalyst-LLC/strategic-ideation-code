@@ -1,0 +1,9 @@
+system_id,context_id,system_issue,feedback_risk,delay_risk,burden_shift_risk,incentive_misalignment,metric_gaming_risk,context_dependency,leverage_relevance,monitoring_quality,review_action
+SY001,C001,Workflow redesign may shift burden between teams,0.64,0.54,0.76,0.68,0.44,0.66,0.62,0.54,burden_shift_review
+SY002,C002,Status transparency may increase support demand if not designed well,0.52,0.48,0.44,0.50,0.34,0.62,0.58,0.60,prototype_support_load
+SY003,C003,Trust repair may require governance not just interface change,0.62,0.60,0.48,0.70,0.36,0.76,0.80,0.58,connect_to_governance
+SY004,C004,Participation without power can reinforce mistrust,0.74,0.62,0.80,0.78,0.44,0.82,0.86,0.68,decision_power_review
+SY005,C005,Empathy artifacts may become innovation theater metrics,0.78,0.56,0.52,0.72,0.68,0.70,0.42,0.34,stop_artifact_metrics
+SY006,C006,Analytics may reinforce blind spots if non-contact users are excluded,0.66,0.52,0.46,0.60,0.56,0.74,0.66,0.52,add_absent_user_research
+SY007,C007,Community-led ideas may be blocked by institutional rules,0.68,0.58,0.64,0.78,0.36,0.82,0.84,0.66,redesign_authority_path
+SY008,C008,Rapid iteration may overfit early-adopter behavior,0.60,0.46,0.38,0.52,0.42,0.72,0.56,0.50,add_non_user_testing

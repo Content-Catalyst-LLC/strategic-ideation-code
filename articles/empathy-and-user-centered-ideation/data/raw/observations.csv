@@ -1,0 +1,9 @@
+observation_id,context_id,stakeholder_id,observation_method,observed_signal,contextual_depth,behavioral_clarity,workaround_visibility,emotional_signal,accessibility_signal,trust_signal,interpretation_confidence,strategic_relevance,review_action
+O001,C001,S001,shadowing,Staff maintain unofficial spreadsheet to bypass slow workflow,0.62,0.82,0.88,0.54,0.42,0.48,0.68,0.82,treat_workaround_as_design_evidence
+O002,C002,S002,journey_observation,Users repeatedly check status because process feels opaque,0.76,0.78,0.62,0.74,0.56,0.70,0.72,0.80,improve_status_visibility
+O003,C003,S003,contextual_inquiry,Non-users avoid service due to distrust and fear of mistakes,0.84,0.72,0.58,0.86,0.62,0.88,0.78,0.84,reframe_around_trust
+O004,C004,S004,participatory_observation,Community members describe repeated explanation burden,0.86,0.76,0.70,0.84,0.74,0.82,0.80,0.88,map_burden_and_redress
+O005,C005,S005,workshop_notes,Participants like idea but no behavioral evidence is available,0.30,0.24,0.20,0.38,0.30,0.32,0.36,0.34,do_not_treat_as_validation
+O006,C006,S006,support_log_analysis,Support tickets reveal language confusion and repeated errors,0.58,0.70,0.52,0.54,0.50,0.48,0.66,0.72,combine_with_interviews
+O007,C007,S007,community_walkthrough,Residents identify inaccessible decision points and informal gatekeeping,0.88,0.78,0.68,0.82,0.86,0.80,0.82,0.90,co_design_access_pathway
+O008,C008,S008,prototype_session,Early adopters navigate quickly but skeptical users absent,0.52,0.66,0.42,0.44,0.38,0.40,0.58,0.62,add_non_user_observation

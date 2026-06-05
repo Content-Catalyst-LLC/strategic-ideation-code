@@ -1,0 +1,9 @@
+need_id,context_id,stakeholder_group,need_statement,need_type,visibility,criticality,frequency,burden_intensity,evidence_strength,solution_fit_uncertainty,stakeholder_sensitivity,review_action
+N001,C001,frontline_staff,Need authority clarity and workflow fit before adoption,implementation_need,0.56,0.82,0.76,0.74,0.62,0.60,0.70,test_workflow_fit
+N002,C002,service_users,Need reassurance and status visibility during waiting periods,trust_and_clarity,0.72,0.78,0.80,0.72,0.70,0.46,0.76,prototype_status_cues
+N003,C003,non_users,Need low-risk entry point and institutional trust repair,trust_repair,0.48,0.88,0.70,0.86,0.68,0.72,0.88,reframe_around_trust
+N004,C004,affected_communities,Need reduced repeated explanation burden and decision traceability,dignity_and_legitimacy,0.66,0.90,0.82,0.88,0.76,0.64,0.92,co_design_redress_pathway
+N005,C005,workshop_participants,Need appears assumed but not evidenced,unknown,0.34,0.46,0.38,0.40,0.28,0.78,0.44,conduct_real_research
+N006,C006,support_contacts,Need clearer language and recoverable error pathways,comprehension_and_recovery,0.70,0.74,0.78,0.66,0.66,0.52,0.62,test_plain_language
+N007,C007,community_members,Need accessible participation and shared decision power,participation_and_power,0.76,0.88,0.74,0.84,0.78,0.58,0.90,formalize_decision_power
+N008,C008,non_users,Need proof of value and low-friction switching support,adoption_and_trust,0.54,0.76,0.66,0.70,0.58,0.62,0.64,test_non_user_pathway

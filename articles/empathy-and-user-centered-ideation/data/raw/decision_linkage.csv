@@ -1,0 +1,9 @@
+decision_id,context_id,insight_artifact,decision_type,artifact_quality,evidence_quality,decision_relevance,authority_connection,resource_connection,revision_trigger_quality,learning_memory_quality,implementation_path_quality,review_action
+D001,C001,workflow_workaround_map,implementation_decision,0.62,0.60,0.74,0.46,0.44,0.52,0.48,0.58,connect_to_authority
+D002,C002,status_uncertainty_journey_map,service_strategy,0.76,0.72,0.80,0.70,0.62,0.68,0.70,0.72,prototype_status_pathway
+D003,C003,non_user_trust_reframe,strategy_reframe,0.82,0.78,0.84,0.72,0.64,0.70,0.72,0.74,design_trust_intervention
+D004,C004,participation_burden_map,governance_decision,0.84,0.80,0.88,0.78,0.72,0.80,0.78,0.82,formalize_decision_traceability
+D005,C005,persona_board,concept_decision,0.38,0.30,0.28,0.22,0.20,0.26,0.24,0.26,do_not_use_for_scale_decision
+D006,C006,support_error_pattern_brief,service_improvement,0.66,0.68,0.72,0.58,0.50,0.58,0.60,0.64,link_support_to_design
+D007,C007,community_power_and_access_map,participatory_governance,0.82,0.78,0.86,0.74,0.70,0.78,0.76,0.80,resource_shared_decision_process
+D008,C008,non_user_switching_barrier_map,market_strategy,0.64,0.58,0.70,0.60,0.56,0.60,0.54,0.64,run_non_user_prototype
