@@ -1,0 +1,9 @@
+test_id,query_type,query_text,expected_record,relevance,context_completeness,classification_accuracy,searchability,decision_usefulness,transfer_caution,ethical_visibility,review_action
+RT001,prior_idea,Have we considered participatory governance before?,TR003,0.78,0.72,0.76,0.74,0.72,0.68,0.80,maintain_governance_and_stakeholder_tags
+RT002,retired_warning,Why did the advisory panel model fail?,TR007,0.70,0.66,0.68,0.64,0.68,0.76,0.78,improve_retired_idea_retrieval
+RT003,learning_reuse,What lessons explain why metadata matters?,TR006,0.82,0.76,0.78,0.80,0.74,0.70,0.64,maintain_learning_record_links
+RT004,signal_monitoring,Which ideas relate to AI regulation?,TR005,0.70,0.64,0.66,0.72,0.68,0.66,0.60,improve_signal_to_scenario_relationships
+RT005,capability_dependency,Which strategies require scenario planning capability?,TR004,0.72,0.68,0.70,0.66,0.70,0.68,0.58,add_capability_dependency_tags
+RT006,implementation_pathway,Which ideas require phased rollout?,TR008,0.74,0.70,0.72,0.68,0.76,0.66,0.60,map_pathway_dependencies
+RT007,problem_frame,What problem does the learning repository solve?,TR001,0.66,0.62,0.64,0.60,0.66,0.64,0.60,link_opportunity_to_problem_frame
+RT008,ethical_taxonomy,Which idea records include stakeholder burden?,TR003,0.68,0.64,0.66,0.62,0.70,0.72,0.84,strengthen_ethics_fields_and_filters

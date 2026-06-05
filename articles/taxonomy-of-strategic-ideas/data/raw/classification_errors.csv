@@ -1,0 +1,9 @@
+error_id,record_id,error_type,error_description,severity,likelihood,detectability,repair_quality,governance_need,review_action
+CE001,TR001,symptom_as_problem,Low adoption is treated as the full problem rather than a symptom of decision fragmentation,0.74,0.68,0.62,0.70,0.66,require_problem_frame_review
+CE002,TR002,tool_as_strategy,Repository creation is treated as strategy without retrieval and learning logic,0.70,0.64,0.58,0.72,0.68,link_repository_to_learning_goals
+CE003,TR003,consultation_as_participation,Stakeholder update is misclassified as participatory governance,0.82,0.70,0.60,0.74,0.76,clarify_voice_authority_and_decision_rights
+CE004,TR004,capability_as_training_only,Scenario planning capability is reduced to a workshop event,0.66,0.62,0.56,0.66,0.60,define_routines_tools_and_review_cadence
+CE005,TR005,scenario_as_prediction,Foresight signal is treated as expected future rather than monitored uncertainty,0.78,0.66,0.58,0.70,0.68,preserve_uncertainty_and_multiple_futures
+CE006,TR006,lesson_as_report,Learning record is stored but not connected to future idea retrieval,0.72,0.68,0.60,0.72,0.64,add_reuse_tags_and_decision_links
+CE007,TR007,retired_as_failed_forever,Retired idea is treated as permanently invalid without revisit conditions,0.68,0.60,0.54,0.68,0.62,record_retirement_rationale_and_reactivation_conditions
+CE008,TR008,task_list_as_pathway,Implementation tasks are treated as a strategic pathway without dependency logic,0.70,0.66,0.58,0.70,0.64,map_dependencies_and_review_gates

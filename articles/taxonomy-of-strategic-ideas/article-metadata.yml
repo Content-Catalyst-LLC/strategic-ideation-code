@@ -1,0 +1,39 @@
+title: "Taxonomy of Strategic Ideas"
+slug: "taxonomy-of-strategic-ideas"
+series: "Strategic Ideation"
+repository: "https://github.com/Content-Catalyst-LLC/strategic-ideation-code"
+article_folder: "articles/taxonomy-of-strategic-ideas"
+previous_article:
+  title: "Institutional Memory and Idea Systems"
+  slug: "institutional-memory-and-idea-systems"
+next_article:
+  title: "Ethics of Strategic Ideation"
+  slug: "ethics-of-strategic-ideation"
+purpose: "Advanced strategist-facing companion code for strategic idea taxonomy design, idea classification diagnostics, category governance, maturity-state modeling, evidence classification, mechanism and function mapping, relationship modeling, retrieval testing, AI-assisted classification governance, taxonomy stewardship, and ethics and power review."
+status: "advanced scaffold"
+professional_use_cases:
+  - "Strategic idea taxonomy design"
+  - "Idea type classification"
+  - "Strategic level mapping"
+  - "Maturity-state modeling"
+  - "Evidence and confidence classification"
+  - "Strategic function and mechanism mapping"
+  - "Relationship modeling"
+  - "Retrieval and reuse testing"
+  - "Taxonomy governance"
+  - "AI-assisted classification review"
+  - "Ethical taxonomy and power review"
+languages:
+  - python
+  - r
+  - julia
+  - sql
+  - rust
+  - go
+  - cpp
+  - fortran
+  - c
+notes:
+  - "Uses synthetic data only."
+  - "Designed for strategists, knowledge architects, implementation teams, policy teams, public-sector teams, product teams, sustainability teams, transformation teams, executives, consultants, analysts, content strategists, communications leaders, and systems thinkers."
+  - "Not a substitute for executive judgment, stakeholder engagement, ethical review, legal review, information governance, privacy review, domain expertise, accountable governance, or responsible institutional change."

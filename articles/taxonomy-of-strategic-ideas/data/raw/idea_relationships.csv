@@ -1,0 +1,9 @@
+relationship_id,source_record,target_record,relationship_type,relationship_clarity,strategic_importance,evidence_support,governance_visibility,reuse_value,review_action
+IR001,TR002,TR006,depends_on,0.78,0.82,0.74,0.70,0.82,link_repository_to_metadata_learning
+IR002,TR003,TR007,warned_by,0.74,0.80,0.70,0.72,0.76,preserve_authority_warning
+IR003,TR005,TR004,increases_need_for,0.70,0.76,0.64,0.66,0.70,connect_ai_signal_to_scenario_capability
+IR004,TR004,TR002,enables,0.72,0.74,0.66,0.64,0.72,map_capability_to_repository_use
+IR005,TR008,TR003,implements,0.68,0.72,0.64,0.66,0.68,connect_pathway_to_governance_option
+IR006,TR001,TR008,informs,0.70,0.74,0.66,0.62,0.70,link_problem_frame_to_pathway
+IR007,TR006,TR001,improves,0.66,0.70,0.68,0.60,0.72,use_learning_record_to_reframe_problem
+IR008,TR007,TR003,constrains,0.76,0.78,0.72,0.70,0.74,require_governance_authority_constraint

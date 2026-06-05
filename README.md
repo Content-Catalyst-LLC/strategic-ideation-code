@@ -227,3 +227,7 @@ This repository includes advanced workflows for conceptual coherence diagnostics
 ## Institutional Memory and Idea Systems
 
 This repository includes advanced workflows for institutional memory diagnostics, idea lifecycle modeling, idea-system mapping, decision-memory review, retrieval testing, learning-loop integration, strategic reuse analysis, repository stewardship, continuity planning, AI-assisted memory governance, and ethics and power review.
+
+## Taxonomy of Strategic Ideas
+
+This repository includes advanced workflows for strategic idea taxonomy design, idea classification diagnostics, category governance, maturity-state modeling, evidence classification, mechanism and function mapping, relationship modeling, retrieval testing, AI-assisted classification governance, taxonomy stewardship, and ethics and power review.

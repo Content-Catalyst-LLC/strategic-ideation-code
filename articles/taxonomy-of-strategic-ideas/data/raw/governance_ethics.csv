@@ -1,0 +1,9 @@
+governance_id,taxonomy_area,category_ownership,definition_quality,change_control,metadata_quality,review_cadence,user_guidance,ai_review,stakeholder_visibility,dissent_preservation,burden_visibility,ethical_risk,review_action
+GE001,Idea Type Categories,0.70,0.76,0.66,0.70,0.64,0.68,0.54,0.60,0.58,0.56,0.38,clarify_idea_type_definitions
+GE002,Strategic Level Categories,0.66,0.72,0.62,0.66,0.60,0.64,0.50,0.56,0.54,0.52,0.42,improve_level_usage_examples
+GE003,Maturity State Rules,0.72,0.74,0.68,0.70,0.66,0.70,0.52,0.58,0.60,0.56,0.36,maintain_maturity_transition_rules
+GE004,Evidence Status Categories,0.68,0.70,0.64,0.72,0.62,0.66,0.50,0.62,0.64,0.60,0.40,protect_evidence_and_uncertainty_fields
+GE005,Relationship Model,0.64,0.68,0.60,0.66,0.58,0.62,0.48,0.58,0.62,0.58,0.44,strengthen_relationship_review
+GE006,Retrieval and Reuse Tags,0.70,0.72,0.66,0.78,0.64,0.68,0.54,0.60,0.58,0.56,0.38,maintain_retrieval_quality_tests
+GE007,Ethical Classification Fields,0.62,0.66,0.60,0.64,0.58,0.60,0.46,0.82,0.78,0.84,0.34,protect_voice_burden_and_dissent
+GE008,AI Classification Governance,0.52,0.56,0.50,0.54,0.50,0.52,0.36,0.50,0.48,0.46,0.74,urgent_ai_classification_governance
