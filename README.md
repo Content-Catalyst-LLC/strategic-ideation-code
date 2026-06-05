@@ -215,3 +215,7 @@ This repository includes advanced workflows for learning loop diagnostics, feedb
 ## Knowledge Architecture in Strategic Ideation
 
 This repository includes advanced workflows for strategic idea taxonomies, metadata schemas, concept mapping, idea repositories, evidence and assumption linkage, decision-memory documentation, retrieval and reuse testing, knowledge graph construction, AI-assisted ideation governance, stewardship models, and ethics and power review.
+
+## Content Frameworks in Strategic Ideation
+
+This repository includes advanced workflows for content framework design, content type modeling, strategic template systems, conceptual hierarchy review, evidence and assumption fields, decision-support structures, narrative frameworks, modular content libraries, reuse testing, AI-assisted content governance, framework stewardship, and ethics and power review.

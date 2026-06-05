@@ -1,0 +1,9 @@
+decision_id,framework_id,decision_type,criteria_visibility,evidence_visibility,assumption_visibility,tradeoff_visibility,reversibility_visibility,stakeholder_visibility,revision_trigger_quality,decision_owner_clarity,review_action
+DS001,CF001,explore_or_hold,0.62,0.66,0.68,0.52,0.50,0.58,0.56,0.60,add_decision_status_guidance
+DS002,CF002,test_or_advance,0.72,0.72,0.70,0.66,0.62,0.68,0.64,0.66,strengthen_option_comparison
+DS003,CF003,choose_option,0.84,0.80,0.78,0.82,0.76,0.72,0.74,0.78,maintain_decision_memo_quality
+DS004,CF004,communicate_direction,0.60,0.64,0.58,0.56,0.52,0.68,0.54,0.56,make_narrative_decision_link_clearer
+DS005,CF005,revise_or_reuse_lesson,0.68,0.76,0.72,0.62,0.60,0.72,0.70,0.68,link_learning_to_next_decision
+DS006,CF006,review_ai_output,0.54,0.50,0.48,0.46,0.44,0.42,0.40,0.44,urgent_ai_decision_governance
+DS007,CF007,explain_or_consult,0.64,0.68,0.64,0.62,0.56,0.82,0.58,0.60,clarify_stakeholder_feedback_loop
+DS008,CF008,implement_or_resequence,0.72,0.70,0.68,0.70,0.66,0.64,0.72,0.70,maintain_playbook_decision_support

@@ -1,0 +1,9 @@
+framework_id,framework_name,framework_type,structure_quality,conceptual_clarity,evidence_discipline,assumption_visibility,narrative_coherence,decision_relevance,modularity,reuse_readiness,governance_strength,ethical_visibility,ai_governance,description
+CF001,Idea Record Framework,idea_record,0.76,0.72,0.66,0.68,0.62,0.64,0.74,0.72,0.66,0.60,0.58,Captures ideas with metadata evidence assumptions status and review fields.
+CF002,Opportunity Profile Framework,opportunity_profile,0.74,0.70,0.72,0.70,0.72,0.76,0.68,0.70,0.64,0.68,0.56,Structures strategic openings through problem value mechanism evidence and fit.
+CF003,Decision Memo Framework,decision_memo,0.82,0.76,0.80,0.78,0.74,0.86,0.66,0.68,0.72,0.72,0.60,Supports strategic choice through options criteria evidence tradeoffs and revision triggers.
+CF004,Strategic Narrative Framework,narrative_framework,0.70,0.80,0.64,0.58,0.84,0.66,0.72,0.74,0.62,0.64,0.54,Connects problem stakes insight direction mechanism evidence and choice.
+CF005,Learning Brief Framework,learning_brief,0.78,0.74,0.76,0.72,0.70,0.72,0.78,0.80,0.70,0.74,0.58,Turns execution evidence and after-action reviews into reusable learning.
+CF006,AI-Assisted Ideation Framework,ai_assisted,0.62,0.56,0.50,0.48,0.58,0.54,0.60,0.58,0.46,0.42,0.36,Filters AI-generated concepts through required fields review and governance.
+CF007,Stakeholder Explanation Framework,stakeholder_explanation,0.72,0.70,0.68,0.64,0.78,0.66,0.70,0.68,0.62,0.82,0.52,Translates strategy for affected audiences while preserving evidence and tradeoffs.
+CF008,Implementation Playbook Framework,playbook,0.80,0.72,0.70,0.68,0.66,0.74,0.76,0.78,0.68,0.66,0.54,Turns strategic principles into repeatable guidance roles tools and failure modes.

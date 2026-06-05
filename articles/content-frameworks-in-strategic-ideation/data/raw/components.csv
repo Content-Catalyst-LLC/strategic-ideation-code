@@ -1,0 +1,11 @@
+component_id,component_name,component_type,clarity,requiredness,reuse_value,decision_value,evidence_value,maintenance_need,ethical_importance,review_action
+C001,Problem Frame,conceptual_component,0.78,0.84,0.82,0.76,0.64,0.42,0.68,maintain_problem_framing_standard
+C002,Mechanism,conceptual_component,0.72,0.78,0.74,0.72,0.66,0.46,0.58,require_mechanism_statement
+C003,Evidence Summary,evidence_component,0.74,0.86,0.80,0.82,0.90,0.52,0.70,link_claims_to_evidence
+C004,Assumption Profile,learning_component,0.70,0.82,0.76,0.80,0.74,0.54,0.64,maintain_assumption_visibility
+C005,Tradeoff Analysis,decision_component,0.72,0.78,0.70,0.86,0.68,0.50,0.72,make_tradeoffs_explicit
+C006,Decision Rationale,decision_component,0.76,0.82,0.74,0.88,0.70,0.48,0.66,preserve_decision_memory
+C007,Revision Trigger,governance_component,0.68,0.76,0.70,0.82,0.66,0.58,0.62,add_revision_triggers
+C008,Stakeholder Implication,ethics_component,0.72,0.78,0.72,0.76,0.70,0.50,0.88,protect_stakeholder_visibility
+C009,Reuse Tags,architecture_component,0.66,0.72,0.84,0.62,0.58,0.62,0.50,standardize_reuse_tags
+C010,Dissent and Uncertainty,ethics_component,0.64,0.74,0.68,0.78,0.72,0.56,0.86,preserve_dissent_and_uncertainty

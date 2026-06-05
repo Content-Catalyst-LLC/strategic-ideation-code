@@ -1,0 +1,9 @@
+narrative_id,framework_id,problem_clarity,stakes_clarity,insight_quality,direction_clarity,mechanism_clarity,evidence_integration,choice_clarity,audience_fit,review_action
+N001,CF001,0.70,0.58,0.62,0.60,0.66,0.64,0.58,0.62,improve_idea_record_story
+N002,CF002,0.76,0.72,0.70,0.74,0.72,0.70,0.72,0.68,maintain_opportunity_narrative
+N003,CF003,0.72,0.70,0.74,0.76,0.70,0.78,0.84,0.66,maintain_decision_story
+N004,CF004,0.82,0.80,0.78,0.84,0.72,0.66,0.72,0.82,maintain_narrative_framework
+N005,CF005,0.70,0.68,0.76,0.72,0.68,0.80,0.70,0.72,connect_learning_story_to_decision
+N006,CF006,0.58,0.54,0.52,0.56,0.48,0.46,0.50,0.52,improve_ai_narrative_integrity
+N007,CF007,0.74,0.78,0.70,0.72,0.68,0.66,0.70,0.84,maintain_stakeholder_explanation
+N008,CF008,0.68,0.66,0.64,0.72,0.74,0.68,0.70,0.70,connect_playbook_to_strategy_story

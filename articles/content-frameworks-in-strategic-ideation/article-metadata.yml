@@ -1,0 +1,40 @@
+title: "Content Frameworks in Strategic Ideation"
+slug: "content-frameworks-in-strategic-ideation"
+series: "Strategic Ideation"
+repository: "https://github.com/Content-Catalyst-LLC/strategic-ideation-code"
+article_folder: "articles/content-frameworks-in-strategic-ideation"
+previous_article:
+  title: "Knowledge Architecture in Strategic Ideation"
+  slug: "knowledge-architecture-in-strategic-ideation"
+next_article:
+  title: "Strategic Communication and Conceptual Coherence"
+  slug: "strategic-communication-and-conceptual-coherence"
+purpose: "Advanced strategist-facing companion code for content framework design, content type modeling, strategic template systems, conceptual hierarchy review, evidence and assumption fields, decision-support structures, narrative frameworks, modular content libraries, reuse testing, AI-assisted content governance, framework stewardship, and ethics and power review."
+status: "advanced scaffold"
+professional_use_cases:
+  - "Content framework design"
+  - "Content type modeling"
+  - "Strategic template systems"
+  - "Conceptual hierarchy review"
+  - "Evidence and assumption field design"
+  - "Narrative coherence diagnostics"
+  - "Decision-support structure review"
+  - "Modular content library design"
+  - "Reuse and recombination testing"
+  - "AI-assisted content governance"
+  - "Framework stewardship"
+  - "Ethics and power review"
+languages:
+  - python
+  - r
+  - julia
+  - sql
+  - rust
+  - go
+  - cpp
+  - fortran
+  - c
+notes:
+  - "Uses synthetic data only."
+  - "Designed for strategists, content strategists, knowledge architects, communications leaders, implementation teams, policy teams, public-sector teams, product teams, sustainability teams, transformation teams, executives, consultants, analysts, and systems thinkers."
+  - "Not a substitute for executive judgment, stakeholder engagement, ethical review, legal review, information governance, privacy review, domain expertise, accountable governance, or responsible institutional change."

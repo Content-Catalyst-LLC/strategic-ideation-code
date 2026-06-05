@@ -1,0 +1,9 @@
+governance_id,framework_id,ownership_clarity,version_control,quality_standards,user_training,review_cadence,exception_process,stakeholder_voice,burden_visibility,dissent_preservation,ethical_risk,review_action
+GE001,CF001,0.66,0.62,0.66,0.58,0.60,0.56,0.58,0.56,0.60,0.42,improve_framework_training
+GE002,CF002,0.64,0.60,0.68,0.56,0.58,0.54,0.66,0.62,0.60,0.40,strengthen_framework_stewardship
+GE003,CF003,0.72,0.70,0.78,0.64,0.66,0.60,0.66,0.68,0.72,0.36,maintain_decision_memo_governance
+GE004,CF004,0.62,0.58,0.64,0.60,0.58,0.56,0.64,0.60,0.62,0.44,govern_narrative_integrity
+GE005,CF005,0.70,0.68,0.72,0.62,0.66,0.60,0.72,0.70,0.74,0.34,maintain_learning_brief_governance
+GE006,CF006,0.46,0.44,0.48,0.40,0.42,0.38,0.42,0.40,0.44,0.78,urgent_ai_framework_governance
+GE007,CF007,0.64,0.60,0.66,0.58,0.60,0.56,0.82,0.76,0.70,0.38,maintain_stakeholder_visibility
+GE008,CF008,0.68,0.66,0.70,0.64,0.62,0.58,0.64,0.66,0.62,0.40,maintain_playbook_governance
