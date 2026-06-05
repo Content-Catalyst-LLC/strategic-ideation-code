@@ -1,0 +1,9 @@
+pathway_id,idea_id,weakness_type,premature_commitment,execution_strain,defensive_narrative,stakeholder_harm,learning_distortion,escalation_risk,mitigation_quality,review_action
+FP001,BI001,metric_substitution,0.68,0.58,0.66,0.54,0.62,0.64,0.46,add_metric_integrity_and_burden_review
+FP002,BI002,ai_fluency_trap,0.72,0.70,0.74,0.66,0.68,0.76,0.40,require_ai_claim_evidence_and_worker_review
+FP003,BI003,low_institutional_support,0.38,0.42,0.34,0.28,0.32,0.36,0.74,protect_high_merit_unsponsored_idea
+FP004,BI004,hidden_burden,0.76,0.78,0.70,0.82,0.72,0.80,0.34,urgent_burden_incentive_and_stop_rule_review
+FP005,BI005,retrieval_without_governance,0.42,0.44,0.38,0.34,0.46,0.40,0.68,maintain_governance_and_retrieval_tests
+FP006,BI006,transformation_overreach,0.84,0.82,0.80,0.70,0.76,0.86,0.30,pause_for_reframe_and_readiness_review
+FP007,BI007,performative_innovation,0.66,0.56,0.64,0.44,0.60,0.62,0.42,score_learning_and_implementation_not_pitches
+FP008,BI008,portfolio_complexity,0.36,0.42,0.34,0.30,0.28,0.34,0.76,maintain_pilot_learning_and_option_review

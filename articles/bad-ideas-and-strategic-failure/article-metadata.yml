@@ -1,0 +1,41 @@
+title: "Bad Ideas and Strategic Failure"
+slug: "bad-ideas-and-strategic-failure"
+series: "Strategic Ideation"
+repository: "https://github.com/Content-Catalyst-LLC/strategic-ideation-code"
+article_folder: "articles/bad-ideas-and-strategic-failure"
+previous_article:
+  title: "Strategic Ideation and Institutional Power"
+  slug: "strategic-ideation-and-institutional-power"
+next_article:
+  title: "Future Directions in Strategic Ideation"
+  slug: "future-directions-in-strategic-ideation"
+purpose: "Advanced strategist-facing companion code for bad-idea risk diagnostics, problem-frame review, evidence quality assessment, mechanism mapping, implementation readiness analysis, incentive failure modeling, ethical burden review, power distortion analysis, red-team review, narrative honesty review, learning design, stop-rule modeling, and strategic failure pathway mapping."
+status: "advanced scaffold"
+professional_use_cases:
+  - "Bad-idea risk diagnostics"
+  - "Problem-frame integrity review"
+  - "Causal mechanism mapping"
+  - "Evidence quality assessment"
+  - "Implementation readiness analysis"
+  - "Incentive failure modeling"
+  - "Ethical burden review"
+  - "Power distortion analysis"
+  - "Narrative honesty review"
+  - "AI fluency and overclaiming review"
+  - "Red-team and dissent protection"
+  - "Stop-rule and revision-trigger design"
+  - "Strategic failure pathway mapping"
+languages:
+  - python
+  - r
+  - julia
+  - sql
+  - rust
+  - go
+  - cpp
+  - fortran
+  - c
+notes:
+  - "Uses synthetic data only."
+  - "Designed for strategists, policy teams, transformation teams, product teams, public-sector teams, governance teams, ethics review teams, knowledge architects, executives, consultants, analysts, content strategists, communications leaders, and systems thinkers."
+  - "Not a substitute for executive judgment, stakeholder engagement, ethical review, legal review, information governance, privacy review, domain expertise, accountable governance, or responsible institutional change."

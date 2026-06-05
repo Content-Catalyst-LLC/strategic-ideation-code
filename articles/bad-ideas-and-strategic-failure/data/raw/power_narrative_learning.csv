@@ -1,0 +1,9 @@
+pnl_id,idea_id,sponsor_power,narrative_strength,dissent_visibility,red_team_quality,stop_rule_quality,revision_trigger_quality,decision_memory_quality,ai_review_quality,power_protection_risk,review_action
+PNL001,BI001,0.84,0.72,0.44,0.42,0.46,0.48,0.50,0.44,0.72,require_sponsor_independent_review
+PNL002,BI002,0.78,0.76,0.40,0.38,0.42,0.44,0.46,0.36,0.76,urgent_ai_and_power_review
+PNL003,BI003,0.44,0.42,0.78,0.74,0.72,0.72,0.70,0.58,0.26,protect_unsponsored_high_merit_idea
+PNL004,BI004,0.82,0.70,0.38,0.34,0.36,0.38,0.42,0.38,0.80,halt_until_burden_and_dissent_review
+PNL005,BI005,0.62,0.52,0.66,0.64,0.74,0.76,0.78,0.56,0.36,maintain_learning_design
+PNL006,BI006,0.80,0.84,0.34,0.30,0.32,0.34,0.36,0.34,0.86,stop_transformation_overclaiming
+PNL007,BI007,0.70,0.74,0.42,0.40,0.40,0.42,0.46,0.42,0.68,add_red_team_and_quality_gates
+PNL008,BI008,0.58,0.48,0.70,0.72,0.82,0.80,0.76,0.60,0.24,maintain_stop_rules_and_decision_memory

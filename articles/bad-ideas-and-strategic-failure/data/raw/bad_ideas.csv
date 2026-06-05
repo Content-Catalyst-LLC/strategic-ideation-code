@@ -1,0 +1,9 @@
+idea_id,idea,idea_type,problem_frame_integrity,mechanism_clarity,evidence_quality,context_fit,implementation_readiness,incentive_alignment,ethical_visibility,institutional_support,strategic_merit,learning_design,narrative_honesty,ai_fluency_risk,description
+BI001,Executive Dashboard Expansion,measurement_strategy,0.58,0.60,0.58,0.56,0.54,0.46,0.50,0.84,0.60,0.48,0.52,0.64,Dashboard idea with strong sponsorship but risk of metric substitution and hidden burden.
+BI002,AI-Assisted Workflow Redesign,technology_strategy,0.54,0.56,0.52,0.50,0.48,0.44,0.46,0.78,0.58,0.46,0.46,0.82,AI-enabled workflow idea with fluency, evidence, and implementation risks.
+BI003,Community Accountability Compact,accountability_strategy,0.78,0.74,0.76,0.72,0.66,0.70,0.82,0.44,0.82,0.72,0.74,0.32,High-merit accountability idea with lower institutional support but strong ethical visibility.
+BI004,Cost Consolidation Plan,efficiency_strategy,0.50,0.52,0.48,0.46,0.44,0.36,0.38,0.82,0.54,0.40,0.42,0.68,Cost-focused idea with high sponsorship and high burden invisibility.
+BI005,Strategic Learning Repository,knowledge_strategy,0.76,0.72,0.74,0.70,0.70,0.68,0.66,0.62,0.76,0.76,0.70,0.36,Repository idea with strong learning logic and moderate implementation readiness.
+BI006,Rapid Transformation Program,transformation_strategy,0.46,0.44,0.42,0.40,0.38,0.34,0.40,0.80,0.48,0.36,0.34,0.74,Ambitious transformation idea with weak frame evidence learning and implementation readiness.
+BI007,Innovation Challenge Platform,innovation_strategy,0.56,0.50,0.46,0.52,0.48,0.42,0.54,0.70,0.56,0.44,0.48,0.70,Idea-generation platform at risk of rewarding performance over usable learning.
+BI008,Reversible Pilot Portfolio,portfolio_strategy,0.74,0.72,0.70,0.74,0.72,0.68,0.70,0.58,0.78,0.82,0.72,0.28,Portfolio idea with strong option value and learning design.

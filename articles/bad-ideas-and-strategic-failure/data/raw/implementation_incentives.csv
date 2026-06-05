@@ -1,0 +1,9 @@
+impl_id,idea_id,capacity_fit,role_clarity,dependency_visibility,technical_readiness,stakeholder_trust,incentive_alignment,gaming_risk,hidden_labor,adoption_assumption_risk,review_action
+II001,BI001,0.54,0.58,0.52,0.66,0.48,0.46,0.66,0.60,0.62,review_dashboard_behavior_and_hidden_labor
+II002,BI002,0.48,0.50,0.46,0.52,0.42,0.44,0.70,0.68,0.76,run_implementation_and_worker_impact_review
+II003,BI003,0.66,0.68,0.64,0.58,0.78,0.70,0.34,0.38,0.40,maintain_authority_and_trust_design
+II004,BI004,0.44,0.46,0.42,0.50,0.36,0.36,0.76,0.82,0.74,urgent_capacity_hidden_labor_and_incentive_review
+II005,BI005,0.70,0.66,0.68,0.64,0.62,0.68,0.36,0.42,0.38,maintain_stewardship_and_metadata_capacity
+II006,BI006,0.38,0.40,0.36,0.42,0.34,0.34,0.78,0.76,0.82,pause_for_operational_reality_check
+II007,BI007,0.48,0.44,0.42,0.56,0.50,0.42,0.72,0.58,0.64,align_rewards_with_usable_learning
+II008,BI008,0.72,0.70,0.74,0.66,0.68,0.68,0.34,0.36,0.32,maintain_pilot_portfolio_cadence

@@ -239,3 +239,7 @@ This repository includes advanced workflows for ethical ideation review, stakeho
 ## Strategic Ideation and Institutional Power
 
 This repository includes advanced workflows for institutional power diagnostics, agenda-setting review, feasibility and constraint analysis, sponsorship and gatekeeper mapping, evidence parity review, participation influence mapping, dissent protection, classification power review, resource allocation analysis, institutional memory audit, AI mediation review, and power-aware governance design.
+
+## Bad Ideas and Strategic Failure
+
+This repository includes advanced workflows for bad-idea risk diagnostics, problem-frame review, evidence quality assessment, mechanism mapping, implementation readiness analysis, incentive failure modeling, ethical burden review, power distortion analysis, red-team review, narrative honesty review, learning design, stop-rule modeling, and strategic failure pathway mapping.

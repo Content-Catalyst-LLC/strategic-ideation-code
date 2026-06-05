@@ -1,0 +1,9 @@
+claim_id,idea_id,claim_type,claim_text,source_quality,confidence_level,evidence_relevance,counterevidence_visibility,transfer_fit,overclaim_risk,narrative_pressure,review_action
+EO001,BI001,performance_claim,Dashboard expansion will improve strategic accountability,0.58,0.62,0.56,0.44,0.50,0.62,0.68,clarify_metric_proxy_limits
+EO002,BI002,technology_claim,AI workflow redesign will increase efficiency and reduce burden,0.52,0.60,0.48,0.40,0.44,0.74,0.78,verify_sources_and_test_burden_effects
+EO003,BI003,legitimacy_claim,Accountability compact will improve trust and shared authority,0.76,0.72,0.74,0.70,0.68,0.28,0.36,preserve_stakeholder_evidence_and_governance
+EO004,BI004,cost_claim,Consolidation will reduce cost without reducing capacity,0.48,0.58,0.44,0.38,0.42,0.78,0.72,review_lifecycle_cost_and_capacity_loss
+EO005,BI005,learning_claim,Repository will improve future strategy reuse,0.74,0.70,0.72,0.66,0.68,0.30,0.38,maintain_retrieval_test_evidence
+EO006,BI006,transformation_claim,Rapid transformation will align the organization quickly,0.42,0.56,0.40,0.34,0.36,0.82,0.84,halt_overclaiming_and_define_mechanism
+EO007,BI007,innovation_claim,Challenge platform will generate high-value strategic ideas,0.46,0.54,0.44,0.40,0.46,0.70,0.72,require_follow_through_and_quality_metrics
+EO008,BI008,option_value_claim,Reversible pilots will preserve learning and limit commitment risk,0.70,0.68,0.72,0.68,0.70,0.26,0.32,maintain_stop_rule_and_learning_evidence
