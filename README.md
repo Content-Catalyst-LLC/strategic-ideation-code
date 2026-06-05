@@ -199,3 +199,7 @@ This repository includes advanced workflows for strategy implementation diagnost
 ## Measuring Strategic Effectiveness
 
 This repository includes advanced workflows for strategic effectiveness measurement, multidimensional indicator design, leading and lagging indicator analysis, evidence-confidence scoring, attribution and contribution review, feedback-loop design, strategic drift detection, qualitative evaluation, ethics and power review, governance documentation, and decision-memory records.
+
+## Implementation Pathways and Strategic Sequencing
+
+This repository includes advanced workflows for implementation pathway design, sequencing readiness analysis, dependency mapping, capability-building review, stage-gate design, capacity load analysis, timing-window assessment, reversibility and lock-in scoring, feedback-driven resequencing, ethics and power review, governance documentation, and decision-memory records.

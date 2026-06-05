@@ -1,0 +1,9 @@
+ethics_id,pathway_id,ethical_issue,sponsor_power,affected_stakeholder_voice,benefit_concentration,burden_concentration,sequencing_transparency,redress_quality,pause_authority,long_term_responsibility,review_action
+EP001,IP001,Foundational data work may define future power before stakeholders understand it,0.66,0.52,0.58,0.48,0.60,0.54,0.56,0.64,expand_governance_transparency
+EP002,IP002,Pilot may impose participation burden on service users,0.54,0.68,0.44,0.48,0.66,0.62,0.64,0.70,maintain_pilot_ethics_review
+EP003,IP003,Full rollout may scale harm before evidence and redress are ready,0.78,0.38,0.72,0.76,0.42,0.34,0.36,0.40,urgent_pause_before_scaling
+EP004,IP004,Trust pathway must avoid symbolic participation,0.48,0.82,0.36,0.40,0.74,0.72,0.68,0.80,protect_meaningful_voice
+EP005,IP005,Capability-building burden may fall on frontline teams,0.58,0.60,0.48,0.62,0.64,0.58,0.60,0.72,resource_transition_burden
+EP006,IP006,Urgency may bypass stakeholder review and accountability,0.72,0.50,0.64,0.60,0.54,0.48,0.50,0.62,use_reversible_urgent_steps
+EP007,IP007,Procurement lock-in may privilege vendor logic over public value,0.76,0.42,0.70,0.66,0.46,0.40,0.42,0.50,complete_ethics_before_procurement
+EP008,IP008,Adaptive rollout must maintain contestability across stages,0.56,0.72,0.42,0.44,0.72,0.70,0.72,0.78,maintain_adaptive_accountability

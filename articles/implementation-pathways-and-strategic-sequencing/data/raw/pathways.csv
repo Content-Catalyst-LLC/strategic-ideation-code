@@ -1,0 +1,9 @@
+pathway_id,pathway_name,pathway_type,capability_readiness,evidence_strength,governance_readiness,legitimacy,dependency_load,reversibility,capacity_demand,timing_urgency,ethical_resilience,feedback_strength,strategic_fit,description
+IP001,Data Governance Foundation,foundation,0.72,0.66,0.78,0.62,0.42,0.70,0.46,0.52,0.70,0.72,0.80,Foundational pathway that enables later data and evidence work.
+IP002,Public Service Pilot,pilot,0.68,0.70,0.64,0.70,0.54,0.74,0.58,0.62,0.72,0.74,0.74,Testable service pathway with moderate dependencies and strong learning value.
+IP003,Full Platform Rollout,scale_up,0.52,0.46,0.48,0.44,0.82,0.38,0.84,0.60,0.42,0.44,0.58,Premature high-commitment rollout with weak readiness and high dependency load.
+IP004,Stakeholder Trust Pathway,legitimacy_building,0.58,0.62,0.70,0.84,0.48,0.68,0.54,0.50,0.86,0.78,0.78,Pathway focused on legitimacy trust participation and redress.
+IP005,Capability-Building Program,capability_building,0.64,0.58,0.66,0.68,0.58,0.72,0.62,0.48,0.74,0.70,0.76,Capability-building pathway that prepares later strategic commitments.
+IP006,Policy Window Response,timing_window,0.60,0.56,0.58,0.60,0.66,0.52,0.70,0.84,0.62,0.60,0.70,Time-sensitive pathway responding to external opportunity conditions.
+IP007,Technology Procurement Sequence,procurement,0.56,0.50,0.54,0.48,0.76,0.40,0.78,0.68,0.46,0.52,0.62,High lock-in technical pathway requiring stronger governance before commitment.
+IP008,Adaptive Rollout Sequence,adaptive_rollout,0.70,0.68,0.72,0.74,0.52,0.76,0.60,0.66,0.78,0.82,0.80,Staged adaptive rollout with strong feedback and manageable dependency load.

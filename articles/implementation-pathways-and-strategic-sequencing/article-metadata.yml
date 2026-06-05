@@ -1,0 +1,40 @@
+title: "Implementation Pathways and Strategic Sequencing"
+slug: "implementation-pathways-and-strategic-sequencing"
+series: "Strategic Ideation"
+repository: "https://github.com/Content-Catalyst-LLC/strategic-ideation-code"
+article_folder: "articles/implementation-pathways-and-strategic-sequencing"
+previous_article:
+  title: "Measuring Strategic Effectiveness"
+  slug: "measuring-strategic-effectiveness"
+next_article:
+  title: "Alignment Drift and Strategic Coherence"
+  slug: "alignment-drift-and-strategic-coherence"
+purpose: "Advanced strategist-facing companion code for implementation pathway design, sequencing readiness analysis, dependency mapping, capability-building review, stage-gate design, capacity load analysis, timing-window assessment, reversibility and lock-in scoring, feedback-driven resequencing, ethics and power review, governance documentation, and decision-memory records."
+status: "advanced scaffold"
+professional_use_cases:
+  - "Implementation pathway design"
+  - "Strategic sequencing readiness diagnostics"
+  - "Dependency mapping"
+  - "Stage-gate and readiness-gate design"
+  - "Capability-building before scaling review"
+  - "Capacity-load analysis"
+  - "Timing-window assessment"
+  - "Reversibility and lock-in scoring"
+  - "Portfolio sequencing review"
+  - "Feedback-driven resequencing"
+  - "Ethics and power review"
+  - "Governance and decision-memory documentation"
+languages:
+  - python
+  - r
+  - julia
+  - sql
+  - rust
+  - go
+  - cpp
+  - fortran
+  - c
+notes:
+  - "Uses synthetic data only."
+  - "Designed for strategists, implementation teams, policy teams, public-sector teams, product teams, sustainability teams, transformation teams, executives, consultants, analysts, systems thinkers, and knowledge architects."
+  - "Not a substitute for executive judgment, stakeholder engagement, ethical review, legal review, domain expertise, accountable governance, implementation expertise, labor consultation, or responsible institutional change."

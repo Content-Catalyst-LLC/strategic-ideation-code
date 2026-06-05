@@ -1,0 +1,9 @@
+lockin_id,pathway_id,technical_lockin,institutional_lockin,political_lockin,metric_lockin,resource_lockin,narrative_lockin,modularity,exit_rule_quality,review_action
+RL001,IP001,0.38,0.42,0.34,0.36,0.40,0.38,0.72,0.68,maintain_modular_foundation
+RL002,IP002,0.42,0.38,0.40,0.36,0.44,0.42,0.74,0.70,protect_pilot_reversibility
+RL003,IP003,0.82,0.72,0.70,0.58,0.76,0.68,0.38,0.34,high_lockin_delay_scaling
+RL004,IP004,0.32,0.44,0.42,0.38,0.40,0.48,0.68,0.72,define_redress_exit_rules
+RL005,IP005,0.40,0.52,0.38,0.36,0.50,0.44,0.72,0.66,maintain_capability_optionality
+RL006,IP006,0.52,0.56,0.66,0.44,0.58,0.62,0.52,0.50,preserve_options_under_urgency
+RL007,IP007,0.86,0.66,0.60,0.52,0.72,0.60,0.36,0.38,redesign_before_procurement_lockin
+RL008,IP008,0.46,0.44,0.42,0.40,0.48,0.46,0.76,0.74,maintain_stage_gate_exit_rules

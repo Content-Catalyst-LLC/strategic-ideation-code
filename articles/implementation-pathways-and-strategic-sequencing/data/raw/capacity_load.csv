@@ -1,0 +1,9 @@
+capacity_id,pathway_id,budget_load,staff_load,technical_load,governance_load,leadership_attention_load,stakeholder_participation_load,operational_disruption,absorptive_capacity,review_action
+CL001,IP001,0.46,0.48,0.56,0.62,0.48,0.42,0.38,0.70,manageable_foundation_load
+CL002,IP002,0.52,0.58,0.54,0.56,0.54,0.60,0.48,0.68,monitor_pilot_load
+CL003,IP003,0.82,0.84,0.88,0.78,0.72,0.58,0.80,0.46,reduce_scope_before_rollout
+CL004,IP004,0.48,0.54,0.42,0.58,0.52,0.76,0.44,0.66,resource_participation
+CL005,IP005,0.56,0.70,0.52,0.58,0.56,0.52,0.58,0.64,protect_staff_capacity
+CL006,IP006,0.66,0.68,0.58,0.64,0.70,0.56,0.62,0.58,manage_timing_pressure
+CL007,IP007,0.78,0.72,0.84,0.74,0.66,0.46,0.70,0.48,delay_until_capacity_ready
+CL008,IP008,0.60,0.62,0.64,0.60,0.58,0.62,0.54,0.72,stage_adaptive_rollout

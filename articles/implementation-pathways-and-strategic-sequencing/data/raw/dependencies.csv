@@ -1,0 +1,17 @@
+dependency_id,pathway_id,dependency_type,dependency_name,dependency_strength,readiness_level,bottleneck_risk,owner_clarity,review_action
+D001,IP001,governance,Data ownership model,0.72,0.66,0.42,0.70,define_owner_roles
+D002,IP001,technical,Shared data standards,0.68,0.60,0.46,0.64,sequence_standards_before_tools
+D003,IP002,evidence,Service demand validation,0.62,0.70,0.38,0.68,continue_pilot_learning
+D004,IP002,stakeholder,User feedback channels,0.58,0.66,0.40,0.62,strengthen_feedback_routing
+D005,IP003,technical,Platform integration readiness,0.86,0.42,0.82,0.46,delay_rollout_until_integration_ready
+D006,IP003,governance,Decision rights and stop rules,0.78,0.40,0.76,0.38,build_governance_before_scaling
+D007,IP004,legitimacy,Affected stakeholder voice,0.74,0.78,0.36,0.66,maintain_early_voice
+D008,IP004,ethics,Redress and contestability,0.68,0.70,0.42,0.62,protect_redress_mechanisms
+D009,IP005,capability,Training and role clarity,0.70,0.62,0.50,0.60,stage_capability_building
+D010,IP005,process,Workflow redesign,0.66,0.56,0.54,0.56,map_workflows_before_scaling
+D011,IP006,timing,External funding window,0.78,0.58,0.68,0.54,accelerate_reversible_preparation
+D012,IP006,policy,Regulatory readiness,0.72,0.52,0.64,0.50,monitor_policy_window
+D013,IP007,technical,Vendor and architecture choice,0.84,0.44,0.78,0.48,avoid_procurement_lockin
+D014,IP007,security,Security and compliance review,0.76,0.50,0.70,0.52,complete_security_review_first
+D015,IP008,feedback,Stage-gate evidence review,0.64,0.72,0.36,0.70,maintain_stage_gates
+D016,IP008,capacity,Rollout capacity planning,0.62,0.68,0.42,0.66,track_capacity_load
