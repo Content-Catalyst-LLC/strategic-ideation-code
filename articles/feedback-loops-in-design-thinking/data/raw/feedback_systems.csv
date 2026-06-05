@@ -1,0 +1,9 @@
+system_id,system_name,organization_type,domain,signal_quality,interpretation_capacity,adjustment_speed,user_insight_depth,stability,ethical_integrity,systems_awareness,decision_linkage,learning_memory,description
+F001,Weak Feedback Design System,legacy_institution,service_design,0.34,0.31,0.29,0.36,0.41,0.38,0.32,0.28,0.26,Signals exist but feedback rarely becomes interpretation or change.
+F002,Balanced Iterative Design System,product_service_org,design_strategy,0.74,0.76,0.71,0.73,0.75,0.68,0.70,0.72,0.70,Feedback cycles support steady learning and responsible adjustment.
+F003,Fast but Noisy Experimentation System,digital_team,digital_product,0.48,0.52,0.86,0.44,0.39,0.34,0.36,0.46,0.38,Fast reaction creates churn because signals are noisy and weakly interpreted.
+F004,Deep Learning Design System,research_mature_org,complex_services,0.82,0.84,0.63,0.88,0.72,0.72,0.84,0.80,0.82,Strong evidence interpretation systems thinking and learning memory.
+F005,Ethically Governed Feedback System,public_system,public_service,0.78,0.80,0.60,0.82,0.76,0.90,0.82,0.78,0.84,Ethics accessibility and decision traceability are built into feedback loops.
+F006,Performative Feedback System,large_institution,innovation_governance,0.62,0.42,0.34,0.46,0.50,0.40,0.38,0.24,0.28,Feedback is collected to signal responsiveness but decisions rarely change.
+F007,Operational Sensing System,operations_team,workflow_improvement,0.70,0.68,0.64,0.52,0.74,0.62,0.78,0.66,0.64,Operational signals are strong but user experience evidence needs depth.
+F008,Community Feedback Learning System,coalition,sustainability_service,0.76,0.74,0.56,0.86,0.70,0.88,0.80,0.74,0.78,Community feedback informs design with legitimacy and ethical governance.

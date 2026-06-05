@@ -1,0 +1,9 @@
+decision_id,system_id,decision_type,evidence_to_decision_clarity,authority_connection,resource_connection,revision_trigger_quality,stop_rule_quality,scale_rule_quality,learning_record_quality,implementation_path_quality,review_action
+D001,F001,unclear_backlog_review,0.34,0.30,0.28,0.26,0.22,0.20,0.26,0.28,define_feedback_decision_pathway
+D002,F002,prototype_revision_decision,0.74,0.72,0.66,0.70,0.58,0.56,0.70,0.68,maintain_revision_rules
+D003,F003,rapid_metric_response,0.46,0.54,0.52,0.34,0.26,0.32,0.36,0.42,add_stop_and_stability_rules
+D004,F004,learning_governance_decision,0.82,0.80,0.72,0.78,0.70,0.74,0.82,0.78,maintain_decision_traceability
+D005,F005,ethical_feedback_decision,0.84,0.78,0.70,0.76,0.72,0.70,0.84,0.80,maintain_ethics_decision_record
+D006,F006,leadership_discretion,0.24,0.22,0.26,0.20,0.16,0.14,0.20,0.18,replace_with_evidence_to_decision_rule
+D007,F007,operations_revision_queue,0.68,0.66,0.62,0.64,0.56,0.54,0.66,0.64,link_operations_to_experience_decisions
+D008,F008,community_accountability_decision,0.78,0.72,0.64,0.70,0.62,0.60,0.80,0.74,trace_community_input_to_action

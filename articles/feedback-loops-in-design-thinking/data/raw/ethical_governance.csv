@@ -1,0 +1,9 @@
+ethics_id,system_id,ethical_issue,privacy_protection,consent_quality,accessibility_review,burden_review,representation_quality,redress_path,accountability_quality,governance_traceability,review_action
+G001,F001,Survey feedback collects experience data but lacks response accountability,0.54,0.56,0.34,0.42,0.36,0.28,0.30,0.26,add_response_and_accessibility_review
+G002,F002,Prototype feedback requires clear participant expectations,0.68,0.70,0.64,0.60,0.58,0.52,0.62,0.64,strengthen_consent_and_response
+G003,F003,Fast analytics risks surveillance and metric manipulation,0.40,0.34,0.30,0.38,0.28,0.24,0.32,0.30,ethics_review_before_iteration
+G004,F004,Longitudinal feedback needs privacy and participant care,0.78,0.76,0.70,0.72,0.68,0.66,0.74,0.76,maintain_participant_care
+G005,F005,Public-service feedback requires access privacy redress and accountability,0.88,0.84,0.90,0.82,0.80,0.78,0.86,0.84,maintain_ethics_governance
+G006,F006,Feedback collection creates legitimacy risk when decisions are unchanged,0.42,0.38,0.30,0.44,0.26,0.20,0.24,0.22,stop_performative_feedback
+G007,F007,Staff feedback must not become blame assignment,0.62,0.60,0.54,0.76,0.58,0.50,0.60,0.62,frame_as_system_learning
+G008,F008,Community feedback requires participation power and visible accountability,0.78,0.80,0.84,0.78,0.86,0.76,0.84,0.82,maintain_participatory_governance

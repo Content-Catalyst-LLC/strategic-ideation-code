@@ -1,0 +1,33 @@
+title: "Feedback Loops in Design Thinking"
+slug: "feedback-loops-in-design-thinking"
+series: "Strategic Ideation"
+repository: "https://github.com/Content-Catalyst-LLC/strategic-ideation-code"
+article_folder: "articles/feedback-loops-in-design-thinking"
+purpose: "Advanced strategist-facing companion code for feedback-loop diagnostics, signal-quality review, interpretation-capacity scoring, adjustment-pathway mapping, user-feedback analysis, temporal learning review, systems-impact assessment, ethical feedback governance, noisy-churn risk scoring, decision-linkage review, and institutional feedback-memory records."
+status: "advanced scaffold"
+professional_use_cases:
+  - "Feedback-system profile scoring"
+  - "Signal-quality diagnostics"
+  - "Interpretation-capacity review"
+  - "Adjustment-pathway and decision-authority mapping"
+  - "User-feedback and experiential insight analysis"
+  - "Temporal learning and delayed-consequence review"
+  - "Systems-impact and burden-shift assessment"
+  - "Ethical feedback governance"
+  - "Noisy-churn and overreaction risk scoring"
+  - "Decision-linkage and revision-trigger scoring"
+  - "Institutional feedback-memory records"
+languages:
+  - python
+  - r
+  - julia
+  - sql
+  - rust
+  - go
+  - cpp
+  - fortran
+  - c
+notes:
+  - "Uses synthetic data only."
+  - "Designed for strategists, design researchers, service designers, systems thinkers, product strategists, public-sector teams, innovation teams, sustainability teams, organizational leaders, analysts, consultants, and knowledge architects."
+  - "Not a substitute for user research, ethical review, accessibility testing, domain expertise, accountable governance, or participatory implementation judgment."

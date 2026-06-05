@@ -135,3 +135,7 @@ This repository includes advanced workflows for journey mapping diagnostics, acc
 ## Prototyping and Rapid Experimentation
 
 This repository includes advanced workflows for prototype planning, assumption mapping, hypothesis design, experiment scoring, evidence-quality review, user-validation analysis, iteration tracking, systems-impact interpretation, ethical experiment governance, decision-linkage scoring, learning-efficiency modeling, and institutional experiment-memory records.
+
+## Feedback Loops in Design Thinking
+
+This repository includes advanced workflows for feedback-loop diagnostics, signal-quality review, interpretation-capacity scoring, adjustment-pathway mapping, user-feedback analysis, temporal learning review, systems-impact assessment, ethical feedback governance, noisy-churn risk scoring, decision-linkage review, and institutional feedback-memory records.

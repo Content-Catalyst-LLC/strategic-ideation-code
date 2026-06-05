@@ -1,0 +1,9 @@
+interpretation_id,system_id,interpretation_practice,contextual_understanding,domain_expertise,user_research_capacity,systems_thinking_capacity,bias_review,triangulation_quality,decision_relevance,review_action
+I001,F001,ad_hoc_review_meeting,0.36,0.42,0.34,0.30,0.28,0.32,0.34,create_interpretation_protocol
+I002,F002,cross_functional_feedback_review,0.74,0.72,0.76,0.68,0.64,0.74,0.76,maintain_review_cadence
+I003,F003,rapid_growth_dashboard_review,0.48,0.54,0.40,0.36,0.34,0.42,0.50,add_qualitative_and_systems_review
+I004,F004,research_ops_system_dynamics_review,0.84,0.82,0.86,0.88,0.70,0.82,0.84,maintain_deep_interpretation
+I005,F005,ethical_design_feedback_board,0.80,0.76,0.82,0.80,0.86,0.78,0.82,maintain_governance_board
+I006,F006,leadership_narrative_review,0.42,0.46,0.30,0.34,0.26,0.28,0.36,include_user_and_frontline_evidence
+I007,F007,operations_and_support_review,0.68,0.78,0.54,0.72,0.56,0.68,0.70,add_user_research_perspective
+I008,F008,community_research_interpretation_circle,0.82,0.74,0.84,0.78,0.82,0.76,0.78,formalize_decision_linkage

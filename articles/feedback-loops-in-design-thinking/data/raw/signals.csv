@@ -1,0 +1,9 @@
+signal_id,system_id,signal_source,signal_type,relevance,timeliness,reliability,representativeness,interpretability,behavioral_richness,bias_risk,review_action
+S001,F001,post_launch_survey,self_report,0.54,0.42,0.46,0.38,0.50,0.30,0.62,triangulate_with_behavioral_evidence
+S002,F002,prototype_test_observation,behavioral_observation,0.82,0.76,0.78,0.66,0.74,0.82,0.32,use_for_iteration
+S003,F003,click_stream_metric,analytics,0.50,0.88,0.58,0.46,0.40,0.34,0.66,avoid_metric_overreaction
+S004,F004,diary_study_and_interviews,qualitative_longitudinal,0.86,0.64,0.76,0.70,0.82,0.88,0.30,combine_with_operational_data
+S005,F005,accessibility_review_and_service_feedback,accessibility_ethics,0.88,0.70,0.82,0.80,0.78,0.72,0.22,prioritize_accessibility_learning
+S006,F006,executive_feedback_summary,stakeholder_summary,0.42,0.54,0.38,0.28,0.36,0.24,0.72,reconnect_to_user_and_system_signals
+S007,F007,support_ticket_patterns,operational_signal,0.76,0.72,0.74,0.62,0.68,0.58,0.34,connect_support_patterns_to_design
+S008,F008,community_listening_session,participatory_feedback,0.84,0.62,0.72,0.82,0.76,0.78,0.26,document_community_learning

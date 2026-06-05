@@ -1,0 +1,9 @@
+adjustment_id,system_id,adjustment_pathway,decision_authority,resource_availability,revision_trigger_quality,implementation_speed,change_traceability,stability_protection,communication_quality,review_action
+A001,F001,informal_design_backlog,0.34,0.36,0.30,0.42,0.28,0.34,0.32,connect_feedback_to_decision_owner
+A002,F002,prototype_revision_cycle,0.72,0.68,0.70,0.74,0.72,0.68,0.70,maintain_revision_cycle
+A003,F003,rapid_release_response,0.64,0.62,0.42,0.88,0.38,0.28,0.46,add_thresholds_to_reduce_churn
+A004,F004,learning_governance_pipeline,0.82,0.76,0.78,0.66,0.84,0.76,0.80,maintain_traceability
+A005,F005,ethical_feedback_action_board,0.78,0.70,0.76,0.60,0.82,0.84,0.78,maintain_governed_adjustment
+A006,F006,executive_discretion_only,0.26,0.34,0.22,0.30,0.20,0.42,0.28,define_revision_authority
+A007,F007,operations_change_queue,0.66,0.64,0.62,0.68,0.66,0.74,0.60,link_to_user_experience_work
+A008,F008,community_response_commitment,0.72,0.62,0.70,0.56,0.78,0.76,0.84,document_public_response

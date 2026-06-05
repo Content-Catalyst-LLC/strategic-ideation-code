@@ -1,0 +1,9 @@
+impact_id,system_id,system_issue,feedback_risk,delay_risk,burden_shift_risk,capacity_risk,incentive_risk,scale_uncertainty,monitoring_quality,review_action
+Y001,F001,Survey feedback hides support burden and nonuser exclusion,0.54,0.46,0.62,0.44,0.36,0.52,0.34,map_missing_signals
+Y002,F002,Guidance improvements may reduce confusion but increase support expectations,0.42,0.38,0.36,0.44,0.34,0.40,0.62,monitor_support_expectations
+Y003,F003,Fast optimization may amplify engagement metrics while increasing churn,0.76,0.46,0.52,0.40,0.68,0.72,0.38,review_metric_incentives
+Y004,F004,Deep feedback can reveal capacity constraints before scale,0.40,0.62,0.48,0.70,0.42,0.66,0.78,run_capacity_sensitivity
+Y005,F005,Feedback may reveal unequal burden across access channels,0.52,0.48,0.74,0.58,0.40,0.60,0.82,monitor_equity_and_access
+Y006,F006,Performative feedback creates legitimacy risk if nothing changes,0.78,0.54,0.56,0.38,0.62,0.66,0.24,connect_feedback_to_visible_response
+Y007,F007,Operational fixes may shift labor between staff roles,0.60,0.52,0.72,0.74,0.46,0.56,0.60,include_burden_shift_review
+Y008,F008,Community participation raises expectations for influence and accountability,0.58,0.50,0.54,0.46,0.40,0.52,0.76,define_public_decision_traceability

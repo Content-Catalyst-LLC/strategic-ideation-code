@@ -1,0 +1,9 @@
+memory_id,system_id,memory_practice,signal_archive_quality,interpretation_record_quality,change_record_quality,decision_rationale_quality,remaining_uncertainty_record,accessibility_of_learning,reuse_quality,review_action
+M001,F001,scattered_notes_and_dashboards,0.30,0.24,0.22,0.20,0.26,0.28,0.22,create_feedback_memory_record
+M002,F002,iteration_records,0.72,0.70,0.74,0.68,0.66,0.70,0.72,maintain_iteration_memory
+M003,F003,release_notes_only,0.44,0.32,0.48,0.28,0.24,0.36,0.30,add_learning_rationale
+M004,F004,research_repository_and_decision_log,0.82,0.84,0.80,0.78,0.76,0.74,0.82,maintain_research_memory
+M005,F005,ethical_feedback_learning_record,0.80,0.82,0.78,0.84,0.80,0.76,0.78,maintain_accountable_memory
+M006,F006,presentation_archive,0.38,0.24,0.20,0.18,0.16,0.30,0.20,replace_with_decision_memory
+M007,F007,operations_lessons_log,0.68,0.62,0.66,0.58,0.54,0.60,0.64,connect_to_design_repository
+M008,F008,community_feedback_archive,0.74,0.76,0.72,0.78,0.70,0.82,0.76,share_learning_back_to_participants

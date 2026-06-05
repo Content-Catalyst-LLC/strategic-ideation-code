@@ -1,0 +1,9 @@
+feedback_id,system_id,user_group,observed_behavior,stated_feedback,behavioral_signal_strength,preference_behavior_alignment,nonuser_inclusion,accessibility_signal,trust_signal,workaround_signal,review_action
+U001,F001,general_users,Users complete survey but support requests remain high,Service is okay,0.42,0.34,0.18,0.30,0.36,0.44,observe_journey_and_support_patterns
+U002,F002,prototype_participants,Users hesitate less after revised guidance,The next step is clearer,0.76,0.72,0.40,0.60,0.68,0.34,iterate_guidance_and_status
+U003,F003,early_adopters,Users click new feature but abandon setup,Looks interesting,0.44,0.28,0.16,0.32,0.34,0.30,test_real_commitment_and_nonusers
+U004,F004,longitudinal_panel,Users show lower burden after second iteration,Feels easier over time,0.82,0.78,0.58,0.72,0.74,0.42,monitor_longitudinal_patterns
+U005,F005,public_service_users,Accessible feedback channels reveal hidden burden,More respectful and easier to use,0.78,0.76,0.62,0.86,0.80,0.36,prioritize_hidden_burden_fix
+U006,F006,selected_stakeholders,Sponsors report satisfaction but no user behavior is observed,Stakeholders approve,0.22,0.24,0.00,0.18,0.26,0.14,recruit_real_users_and_nonusers
+U007,F007,frontline_staff,Staff identify recurring confusion in support tickets,Users ask same questions repeatedly,0.70,0.64,0.28,0.46,0.54,0.70,translate_support_signal_to_design_change
+U008,F008,community_members,Community identifies dignity and access risks,Feedback process feels accountable,0.74,0.72,0.70,0.82,0.84,0.48,trace_community_feedback_to_decisions

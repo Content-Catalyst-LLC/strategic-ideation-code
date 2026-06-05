@@ -1,0 +1,9 @@
+temporal_id,system_id,temporal_issue,early_signal_quality,delayed_outcome_tracking,pattern_detection,drift_detection,learning_cadence_quality,overreaction_risk,revision_timing_quality,review_action
+T001,F001,Feedback arrives after launch and is reviewed irregularly,0.42,0.28,0.34,0.30,0.26,0.52,0.32,build_regular_learning_cadence
+T002,F002,Prototype cycles detect patterns across iterations,0.74,0.66,0.72,0.64,0.70,0.36,0.72,maintain_iteration_review
+T003,F003,Fast metrics trigger frequent changes before pattern stability,0.62,0.34,0.38,0.32,0.42,0.84,0.30,slow_down_and_define_thresholds
+T004,F004,Delayed effects and drift are reviewed over time,0.78,0.80,0.84,0.82,0.76,0.28,0.78,maintain_temporal_review
+T005,F005,Ethical and accessibility effects are tracked after implementation,0.76,0.82,0.78,0.74,0.72,0.30,0.76,maintain_delayed_harm_monitoring
+T006,F006,Feedback is gathered for reporting cycles not learning cycles,0.44,0.30,0.32,0.28,0.24,0.48,0.26,create_learning_not_reporting_cadence
+T007,F007,Operations data reveals repeated friction over time,0.70,0.66,0.74,0.68,0.64,0.34,0.66,connect_to_experience_redesign
+T008,F008,Community feedback is revisited across project phases,0.72,0.74,0.76,0.70,0.68,0.32,0.70,archive_phase_learning
