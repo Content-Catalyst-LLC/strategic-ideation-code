@@ -1,0 +1,40 @@
+title: "Decision-Making Under Uncertainty"
+slug: "decision-making-under-uncertainty"
+series: "Strategic Ideation"
+repository: "https://github.com/Content-Catalyst-LLC/strategic-ideation-code"
+article_folder: "articles/decision-making-under-uncertainty"
+previous_article:
+  title: "Strategic Foresight and Long-Term Thinking"
+  slug: "strategic-foresight-and-long-term-thinking"
+next_article:
+  title: "Game Theory and Strategic Interaction"
+  slug: "game-theory-and-strategic-interaction"
+purpose: "Advanced strategist-facing companion code for uncertainty classification, decision-frame review, option-set evaluation, assumption mapping, scenario stress testing, robustness scoring, option-value modeling, experimentation design, ethical uncertainty review, governance, and decision-learning memory."
+status: "advanced scaffold"
+professional_use_cases:
+  - "Decision-making under uncertainty diagnostics"
+  - "Risk, uncertainty, ambiguity, complexity, and ignorance classification"
+  - "Decision-frame comparison"
+  - "Option-set quality review"
+  - "Critical assumption mapping"
+  - "Scenario stress testing"
+  - "Robustness, resilience, fragility, and exposure scoring"
+  - "Option-value and reversibility analysis"
+  - "Experimentation and staged-commitment design"
+  - "Heuristic and bias review"
+  - "Ethical uncertainty review"
+  - "Decision governance and learning-memory records"
+languages:
+  - python
+  - r
+  - julia
+  - sql
+  - rust
+  - go
+  - cpp
+  - fortran
+  - c
+notes:
+  - "Uses synthetic data only."
+  - "Designed for strategists, decision scientists, foresight practitioners, systems thinkers, public-sector teams, product strategists, consultants, organizational leaders, analysts, and knowledge architects."
+  - "Not a substitute for executive judgment, stakeholder engagement, ethical review, domain expertise, accountable governance, or responsible implementation."

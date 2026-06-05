@@ -1,0 +1,9 @@
+review_id,option_id,learning_value,future_flexibility,reversibility,staged_commitment_quality,modularity,exit_path_quality,lock_in_cost,monitoring_quality,review_action
+OV001,DO001,0.30,0.31,0.22,0.28,0.34,0.26,0.82,0.48,create_exit_options
+OV002,DO002,0.70,0.74,0.68,0.72,0.70,0.66,0.42,0.70,maintain_option_value
+OV003,DO003,0.88,0.88,0.82,0.76,0.78,0.72,0.36,0.66,define_learning_thresholds
+OV004,DO004,0.76,0.84,0.86,0.82,0.74,0.78,0.28,0.64,monitor_delay_cost
+OV005,DO005,0.48,0.62,0.64,0.58,0.56,0.62,0.34,0.68,watch_underinvestment
+OV006,DO006,0.58,0.48,0.36,0.42,0.44,0.38,0.78,0.52,increase_modularity
+OV007,DO007,0.82,0.78,0.72,0.74,0.68,0.70,0.36,0.72,maintain_adaptive_governance
+OV008,DO008,0.24,0.32,0.40,0.34,0.38,0.42,0.64,0.46,review_status_quo_lock_in

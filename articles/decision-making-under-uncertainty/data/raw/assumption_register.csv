@@ -1,0 +1,9 @@
+assumption_id,option_id,assumption,uncertainty,consequence,evidence_quality,decay_risk,monitorability,owner_clarity,review_action
+A001,DO001,Market demand will remain strong enough to justify exposure,0.66,0.82,0.58,0.64,0.56,0.50,monitor_demand_and_downside_exposure
+A002,DO002,Robust design will remain acceptable across futures,0.48,0.72,0.68,0.46,0.70,0.66,maintain_scenario_review
+A003,DO003,Exploration will generate actionable evidence before budget pressure rises,0.70,0.66,0.48,0.58,0.62,0.56,define_learning_thresholds
+A004,DO004,Delaying commitment will not close the strategic window,0.74,0.70,0.52,0.60,0.64,0.58,monitor_window_closure_signals
+A005,DO005,Reduced exposure will not undermine long-term capability,0.58,0.68,0.62,0.52,0.58,0.60,review_capability_tradeoffs
+A006,DO006,Transformational adoption will outpace governance risk,0.78,0.86,0.46,0.72,0.50,0.44,stress_test_governance_and_lock_in
+A007,DO007,Participatory review will improve legitimacy and decision quality,0.52,0.76,0.64,0.42,0.70,0.72,maintain_stakeholder_feedback
+A008,DO008,Continuity will be safer than disruptive change,0.68,0.74,0.50,0.70,0.52,0.48,stress_test_status_quo

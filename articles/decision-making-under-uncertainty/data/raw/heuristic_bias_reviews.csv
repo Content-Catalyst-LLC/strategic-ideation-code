@@ -1,0 +1,10 @@
+bias_id,option_id,bias_or_heuristic,exposure_level,decision_influence,detectability,mitigation_quality,challenge_process_quality,review_action
+HB001,DO001,overconfidence,0.82,0.78,0.42,0.38,0.36,run_premortem_and_ranges
+HB002,DO001,availability,0.64,0.58,0.52,0.46,0.44,compare_reference_classes
+HB003,DO002,confirmation_bias,0.46,0.50,0.58,0.62,0.64,maintain_challenge_review
+HB004,DO003,novelty_bias,0.52,0.56,0.50,0.54,0.58,review_learning_evidence
+HB005,DO004,omission_bias,0.58,0.54,0.46,0.50,0.52,compare_delay_vs_action_cost
+HB006,DO005,loss_aversion,0.62,0.66,0.48,0.52,0.54,review_opportunity_cost
+HB007,DO006,planning_fallacy,0.78,0.80,0.40,0.36,0.38,add_independent_estimation
+HB008,DO007,group_consensus_bias,0.44,0.48,0.60,0.66,0.70,protect_minority_reports
+HB009,DO008,status_quo_bias,0.76,0.74,0.44,0.40,0.42,stress_test_inaction

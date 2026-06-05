@@ -1,0 +1,9 @@
+test_id,option_id,scenario_stable_growth,scenario_tech_disruption,scenario_environmental_stress,scenario_regulatory_shift,scenario_trust_crisis,scenario_resource_constraint,review_action
+SS001,DO001,0.88,0.46,0.38,0.42,0.36,0.40,reduce_brittleness
+SS002,DO002,0.74,0.76,0.70,0.72,0.68,0.70,maintain_robust_balance
+SS003,DO003,0.62,0.78,0.72,0.70,0.66,0.68,protect_learning_capacity
+SS004,DO004,0.58,0.72,0.76,0.74,0.70,0.72,define_decision_triggers
+SS005,DO005,0.56,0.62,0.72,0.70,0.74,0.76,watch_opportunity_cost
+SS006,DO006,0.90,0.82,0.48,0.42,0.38,0.46,stage_transformational_commitment
+SS007,DO007,0.64,0.72,0.76,0.78,0.82,0.70,maintain_participatory_adaptation
+SS008,DO008,0.66,0.42,0.44,0.46,0.40,0.48,address_status_quo_fragility

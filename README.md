@@ -159,3 +159,7 @@ This repository includes advanced workflows for scenario planning diagnostics, f
 ## Strategic Foresight and Long-Term Thinking
 
 This repository includes advanced workflows for strategic foresight diagnostics, horizon scanning, weak-signal interpretation, driver mapping, long-term strategy scoring, scenario stress testing, temporal-depth analysis, path-dependence review, option-value modeling, anticipatory governance review, futures ethics, and foresight learning memory.
+
+## Decision-Making Under Uncertainty
+
+This repository includes advanced workflows for uncertainty classification, decision-frame review, option-set evaluation, assumption mapping, scenario stress testing, robustness scoring, option-value modeling, experimentation design, ethical uncertainty review, governance, and decision-learning memory.

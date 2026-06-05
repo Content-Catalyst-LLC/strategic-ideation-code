@@ -1,0 +1,9 @@
+memory_id,option_id,memory_practice,decision_question_record,frame_record_quality,option_record_quality,assumption_record_quality,uncertainty_record_quality,evidence_record_quality,trigger_record_quality,revision_record_quality,reuse_quality,review_action
+DM001,DO001,Investment memo archive,0.50,0.38,0.42,0.46,0.40,0.48,0.34,0.30,0.34,create_decision_learning_record
+DM002,DO002,Scenario decision log,0.74,0.70,0.72,0.70,0.72,0.70,0.68,0.66,0.72,maintain_decision_log
+DM003,DO003,Experiment learning record,0.68,0.66,0.70,0.68,0.72,0.66,0.74,0.70,0.76,maintain_experiment_memory
+DM004,DO004,Trigger-based decision record,0.70,0.64,0.66,0.68,0.70,0.62,0.78,0.74,0.72,maintain_trigger_memory
+DM005,DO005,Risk safeguard record,0.64,0.58,0.60,0.62,0.64,0.66,0.64,0.60,0.62,add_opportunity_cost_memory
+DM006,DO006,Innovation slide archive,0.44,0.40,0.42,0.38,0.36,0.42,0.34,0.30,0.32,build_uncertainty_decision_record
+DM007,DO007,Participatory decision memory,0.76,0.74,0.72,0.72,0.74,0.70,0.76,0.74,0.82,share_learning_with_stakeholders
+DM008,DO008,Continuity rationale notes,0.46,0.38,0.40,0.42,0.40,0.44,0.34,0.30,0.34,document_status_quo_assumptions

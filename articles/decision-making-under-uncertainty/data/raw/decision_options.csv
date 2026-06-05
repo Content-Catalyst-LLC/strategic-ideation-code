@@ -1,0 +1,9 @@
+option_id,option_name,decision_frame,expected_return,robustness,flexibility,information_quality,exposure,option_value,reversibility,implementation_readiness,ethical_resilience,learning_value,description
+DO001,High-Return Brittle Option,growth,0.86,0.28,0.31,0.63,0.82,0.26,0.22,0.78,0.38,0.30,Strong upside but high exposure and low flexibility.
+DO002,Balanced Robust Option,resilience,0.72,0.79,0.74,0.72,0.44,0.72,0.68,0.74,0.68,0.70,Balances return with robustness and adaptability.
+DO003,Exploratory Optionality Option,learning,0.61,0.71,0.88,0.49,0.53,0.86,0.82,0.56,0.62,0.88,Maximizes learning and future choice through exploration.
+DO004,Delayed Commitment Option,staged_commitment,0.58,0.76,0.84,0.56,0.38,0.82,0.86,0.52,0.70,0.76,Preserves flexibility by delaying irreversible commitment.
+DO005,Defensive Risk-Control Option,risk_avoidance,0.52,0.82,0.62,0.70,0.31,0.56,0.64,0.80,0.76,0.48,Reduces exposure but may limit learning and upside.
+DO006,Transformational Bet Option,innovation,0.88,0.42,0.48,0.52,0.76,0.54,0.36,0.44,0.46,0.58,High strategic upside but significant fragility and lock-in risk.
+DO007,Participatory Adaptive Option,public_value,0.60,0.74,0.78,0.66,0.40,0.76,0.72,0.58,0.88,0.82,Uses stakeholder learning and adaptive commitments.
+DO008,Status Quo Continuity Option,status_quo,0.64,0.46,0.32,0.58,0.62,0.30,0.40,0.82,0.44,0.24,Familiar and easy to justify but weak under future change.

@@ -1,0 +1,9 @@
+uncertainty_id,option_id,uncertainty_type,probability_clarity,outcome_clarity,causal_clarity,interpretive_agreement,system_complexity,stakes,reversibility,evidence_quality,decision_logic
+UC001,DO001,risk,0.70,0.66,0.58,0.54,0.48,0.76,0.22,0.62,expected_utility_with_exposure_review
+UC002,DO002,uncertainty,0.48,0.58,0.52,0.56,0.66,0.72,0.68,0.68,scenario_robustness_review
+UC003,DO003,ambiguity,0.36,0.44,0.40,0.34,0.62,0.64,0.82,0.46,experimentation_and_frame_review
+UC004,DO004,deep_uncertainty,0.30,0.38,0.34,0.42,0.70,0.68,0.86,0.52,staged_commitment_and_triggers
+UC005,DO005,risk_control,0.62,0.68,0.60,0.58,0.46,0.70,0.64,0.72,risk_threshold_and_safeguard_review
+UC006,DO006,complexity,0.34,0.40,0.32,0.38,0.82,0.84,0.36,0.48,systems_experiment_and_lock_in_review
+UC007,DO007,ambiguity_complexity,0.38,0.48,0.42,0.60,0.74,0.78,0.72,0.62,participatory_adaptive_governance
+UC008,DO008,ignorance,0.42,0.46,0.40,0.50,0.68,0.62,0.40,0.54,horizon_scan_and_status_quo_risk_review

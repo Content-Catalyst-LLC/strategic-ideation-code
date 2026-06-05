@@ -1,0 +1,9 @@
+governance_id,option_id,governance_practice,decision_rights_clarity,evidence_standard_quality,uncertainty_disclosure,review_cadence,trigger_condition_quality,dissent_protection,documentation_quality,accountability_quality,review_action
+DG001,DO001,Executive investment review,0.58,0.52,0.42,0.44,0.38,0.36,0.44,0.46,add_uncertainty_governance
+DG002,DO002,Scenario-based decision board,0.74,0.72,0.70,0.68,0.72,0.66,0.72,0.70,maintain_governance
+DG003,DO003,Experiment review forum,0.66,0.64,0.68,0.70,0.74,0.62,0.66,0.64,clarify_scaling_authority
+DG004,DO004,Staged commitment review,0.68,0.62,0.66,0.72,0.80,0.60,0.66,0.68,maintain_trigger_review
+DG005,DO005,Risk-control committee,0.70,0.72,0.66,0.68,0.64,0.58,0.68,0.70,add_opportunity_cost_review
+DG006,DO006,Innovation acceleration council,0.52,0.48,0.40,0.46,0.42,0.36,0.44,0.42,add_independent_challenge
+DG007,DO007,Participatory adaptive governance,0.72,0.68,0.74,0.72,0.74,0.78,0.74,0.76,maintain_participatory_governance
+DG008,DO008,Continuation approval routine,0.50,0.46,0.38,0.40,0.34,0.32,0.38,0.40,make_status_quo_decision_explicit

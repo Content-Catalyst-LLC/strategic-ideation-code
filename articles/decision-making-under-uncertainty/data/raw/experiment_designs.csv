@@ -1,0 +1,9 @@
+experiment_id,option_id,experiment_name,learning_question_quality,reversibility,exposure_control,evidence_quality,stakeholder_feedback_quality,scaling_trigger_clarity,decision_relevance,review_action
+EX001,DO001,Downside exposure pilot,0.52,0.42,0.48,0.56,0.42,0.44,0.62,improve_exposure_control
+EX002,DO002,Robust pathway pilot,0.70,0.68,0.70,0.68,0.62,0.66,0.72,maintain_pilot
+EX003,DO003,Exploratory prototype program,0.82,0.84,0.72,0.64,0.68,0.76,0.78,protect_learning_loop
+EX004,DO004,Delayed commitment signal test,0.76,0.82,0.76,0.60,0.58,0.80,0.70,define_window_closure_metrics
+EX005,DO005,Risk-control safeguard test,0.64,0.62,0.78,0.70,0.60,0.64,0.68,monitor_capability_loss
+EX006,DO006,Transformational limited trial,0.66,0.44,0.40,0.58,0.52,0.54,0.74,reduce_trial_exposure
+EX007,DO007,Participatory adaptive pilot,0.78,0.74,0.72,0.68,0.86,0.76,0.80,maintain_participatory_learning
+EX008,DO008,Status quo premortem and shadow test,0.56,0.58,0.62,0.54,0.50,0.52,0.58,improve_disconfirming_test

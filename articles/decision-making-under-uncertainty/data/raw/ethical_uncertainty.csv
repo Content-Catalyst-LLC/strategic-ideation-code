@@ -1,0 +1,9 @@
+ethics_id,option_id,ethical_issue,transparency,burden_shift_review,stakeholder_representation,accountability,revisability,precaution_quality,redress_path_quality,review_action
+EU001,DO001,High exposure may shift downside risk to affected groups,0.42,0.34,0.38,0.40,0.32,0.36,0.28,add_burden_and_redress_review
+EU002,DO002,Balanced option needs explicit tradeoff communication,0.66,0.62,0.60,0.66,0.68,0.64,0.58,improve_tradeoff_transparency
+EU003,DO003,Exploratory learning may underrepresent vulnerable users,0.58,0.54,0.52,0.56,0.74,0.60,0.50,add_participatory_review
+EU004,DO004,Delay may externalize harm if action is needed sooner,0.60,0.58,0.56,0.58,0.76,0.62,0.54,define_delay_accountability
+EU005,DO005,Defensive choice may deny future capability to stakeholders,0.64,0.62,0.58,0.62,0.66,0.72,0.60,review_capability_burden
+EU006,DO006,Transformational bet creates governance and access risks,0.44,0.36,0.40,0.38,0.42,0.44,0.34,add_governance_and_access_safeguards
+EU007,DO007,Participatory adaptive option centers affected groups,0.78,0.76,0.86,0.74,0.78,0.72,0.70,maintain_participatory_ethics
+EU008,DO008,Status quo hides future burden and deterioration,0.48,0.42,0.46,0.44,0.40,0.46,0.38,review_inaction_ethics
