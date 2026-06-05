@@ -1,0 +1,9 @@
+memory_id,strategy_id,memory_practice,assumption_record_quality,feedback_record_quality,interpretation_quality,revision_rationale_quality,decision_traceability,remaining_uncertainty_quality,reuse_quality,review_action
+M001,AS001,Annual strategy archive,0.42,0.34,0.30,0.32,0.34,0.28,0.32,create_adaptive_learning_record
+M002,AS002,Adaptive strategy learning log,0.74,0.76,0.74,0.72,0.74,0.70,0.72,maintain_learning_memory
+M003,AS003,Experiment notes repository,0.58,0.54,0.48,0.42,0.44,0.46,0.48,connect_experiments_to_strategy
+M004,AS004,Slide-based pivot history,0.26,0.28,0.22,0.20,0.18,0.16,0.18,build_decision_memory
+M005,AS005,Systems learning repository,0.84,0.82,0.84,0.80,0.82,0.78,0.84,maintain_systems_memory
+M006,AS006,Operational iteration record,0.68,0.70,0.66,0.64,0.66,0.62,0.68,improve_uncertainty_capture
+M007,AS007,Scenario learning record,0.78,0.76,0.76,0.74,0.76,0.72,0.78,maintain_scenario_memory
+M008,AS008,Legacy transition notes,0.48,0.44,0.40,0.38,0.42,0.36,0.40,document_transition_assumptions

@@ -1,0 +1,9 @@
+impact_id,strategy_id,systems_issue,feedback_loop_risk,delay_risk,burden_shift_risk,capacity_risk,incentive_risk,scale_uncertainty,monitoring_quality,review_action
+S001,AS001,Static execution hides delayed market and stakeholder effects,0.56,0.68,0.42,0.38,0.44,0.60,0.34,add_delayed_effect_monitoring
+S002,AS002,Service pathway revision may shift support load,0.42,0.38,0.48,0.46,0.34,0.44,0.68,monitor_handoffs
+S003,AS003,Exploration sprawl creates resource dilution,0.50,0.40,0.36,0.58,0.62,0.52,0.44,review_portfolio_incentives
+S004,AS004,Frequent pivots create stakeholder whiplash,0.74,0.46,0.58,0.52,0.70,0.62,0.28,reduce_over_adaptation
+S005,AS005,Scale may create nonlinear capacity and equity effects,0.62,0.72,0.70,0.76,0.54,0.78,0.82,maintain_systems_monitoring
+S006,AS006,Workflow change may shift hidden labor to frontline staff,0.50,0.46,0.80,0.72,0.42,0.58,0.66,review_burden_shift
+S007,AS007,Scenario activation may affect stakeholder expectations,0.52,0.58,0.46,0.44,0.48,0.66,0.74,monitor_scenario_transition
+S008,AS008,Legacy constraints create accumulating adaptation debt,0.64,0.72,0.52,0.68,0.50,0.76,0.42,plan_transition_capacity

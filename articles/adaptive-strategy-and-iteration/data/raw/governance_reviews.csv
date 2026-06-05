@@ -1,0 +1,9 @@
+governance_id,strategy_id,governance_practice,decision_rights_clarity,evidence_standard_quality,revision_authority_clarity,ethical_threshold_quality,stakeholder_review_quality,documentation_quality,accountability_quality,review_action
+G001,AS001,Annual planning governance,0.58,0.42,0.46,0.44,0.38,0.40,0.46,add_adaptive_review_cadence
+G002,AS002,Quarterly adaptive review board,0.76,0.74,0.72,0.68,0.66,0.72,0.74,maintain_adaptive_governance
+G003,AS003,Innovation steering committee,0.54,0.50,0.46,0.48,0.42,0.46,0.44,add_scaling_and_stop_rules
+G004,AS004,Executive ad hoc pivot process,0.28,0.24,0.26,0.30,0.28,0.22,0.24,replace_ad_hoc_pivoting
+G005,AS005,Systems-aware adaptive governance council,0.82,0.80,0.78,0.76,0.78,0.80,0.82,maintain_systems_governance
+G006,AS006,Operations learning review,0.70,0.66,0.68,0.64,0.62,0.66,0.68,add_cross_functional_review
+G007,AS007,Scenario trigger governance,0.78,0.76,0.76,0.70,0.68,0.74,0.76,maintain_trigger_governance
+G008,AS008,Legacy transition committee,0.52,0.46,0.48,0.44,0.40,0.42,0.46,clarify_transition_authority

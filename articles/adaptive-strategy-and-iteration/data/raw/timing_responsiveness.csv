@@ -1,0 +1,9 @@
+timing_id,strategy_id,timing_issue,response_speed,signal_interpretation,noise_filtering,delay_awareness,revision_cadence,stakeholder_communication,stability_preservation,review_action
+R001,AS001,Response lags behind environmental change,0.28,0.36,0.50,0.42,0.34,0.46,0.70,increase_responsiveness_without_losing_coherence
+R002,AS002,Response is calibrated through review cycles,0.72,0.76,0.70,0.68,0.74,0.72,0.76,maintain_timing_discipline
+R003,AS003,Exploration cycles move faster than decision learning,0.70,0.56,0.48,0.44,0.50,0.52,0.54,slow_down_investment_commitment
+R004,AS004,Executives overreact to short-term signals,0.86,0.30,0.22,0.26,0.24,0.34,0.28,reduce_whiplash
+R005,AS005,Timing accounts for delays and system effects,0.76,0.82,0.74,0.80,0.78,0.76,0.82,maintain_systems_timing
+R006,AS006,Operational timing fits workflow review cycles,0.68,0.70,0.66,0.64,0.72,0.68,0.74,monitor_peak_load_timing
+R007,AS007,Scenario cadence supports early response,0.74,0.78,0.72,0.76,0.76,0.70,0.78,maintain_trigger_cadence
+R008,AS008,Legacy timing delays adaptive moves,0.38,0.48,0.56,0.44,0.40,0.50,0.66,create_transition_timeline

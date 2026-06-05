@@ -1,0 +1,9 @@
+strategy_id,strategy_name,organization_type,domain,flexibility,learning_capacity,exploration,exploitation_balance,coherence,feedback_intelligence,governance,systems_awareness,learning_memory,description
+AS001,Static Execution Strategy,legacy_institution,stable_operations,0.24,0.31,0.18,0.74,0.81,0.34,0.62,0.38,0.36,The organization preserves coherence but adapts slowly when assumptions decay.
+AS002,Balanced Adaptive Strategy,product_service_org,service_strategy,0.82,0.84,0.68,0.79,0.76,0.82,0.78,0.74,0.76,The organization balances learning responsiveness coherence and governance.
+AS003,Exploration-Heavy Strategy,innovation_team,new_growth,0.78,0.71,0.88,0.41,0.54,0.64,0.52,0.58,0.56,The organization explores aggressively but struggles to convert learning into coherent execution.
+AS004,Reactive Over-Adjustment Strategy,executive_team,volatile_market,0.86,0.49,0.57,0.32,0.28,0.42,0.24,0.36,0.30,The organization responds to signals quickly but without governance or coherence.
+AS005,Systems-Aware Adaptive Strategy,public_system,complex_service,0.80,0.86,0.72,0.76,0.82,0.86,0.82,0.88,0.84,The organization interprets adaptation through systems effects and decision memory.
+AS006,Operational Learning Strategy,operations_team,workflow_redesign,0.66,0.72,0.48,0.82,0.78,0.70,0.72,0.68,0.70,The organization iterates operational pathways while preserving service continuity.
+AS007,Scenario-Guided Adaptive Strategy,policy_team,public_policy,0.74,0.78,0.70,0.66,0.76,0.80,0.76,0.82,0.78,The organization uses scenarios and trigger conditions to revise strategy.
+AS008,Path-Dependent Legacy Strategy,large_institution,platform_transition,0.38,0.50,0.34,0.80,0.70,0.46,0.58,0.44,0.42,The organization recognizes change but remains constrained by legacy systems and commitments.

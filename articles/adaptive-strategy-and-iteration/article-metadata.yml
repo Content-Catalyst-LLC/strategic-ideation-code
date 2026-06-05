@@ -1,0 +1,34 @@
+title: "Adaptive Strategy and Iteration"
+slug: "adaptive-strategy-and-iteration"
+series: "Strategic Ideation"
+repository: "https://github.com/Content-Catalyst-LLC/strategic-ideation-code"
+article_folder: "articles/adaptive-strategy-and-iteration"
+purpose: "Advanced strategist-facing companion code for adaptive strategy diagnostics, feedback-loop interpretation, assumption revision, trigger-condition mapping, exploration-exploitation balance, strategic timing review, over-adaptation risk scoring, systems-impact assessment, learning-memory records, and adaptive governance design."
+status: "advanced scaffold"
+professional_use_cases:
+  - "Adaptive strategy diagnostics"
+  - "Feedback-loop interpretation"
+  - "Assumption revision and decay review"
+  - "Signal/noise classification"
+  - "Trigger-condition mapping"
+  - "Exploration/exploitation balance"
+  - "Strategic timing review"
+  - "Over-adaptation risk scoring"
+  - "Path-dependence constraint mapping"
+  - "Systems-impact and burden-shift review"
+  - "Adaptive governance review"
+  - "Strategic learning-memory records"
+languages:
+  - python
+  - r
+  - julia
+  - sql
+  - rust
+  - go
+  - cpp
+  - fortran
+  - c
+notes:
+  - "Uses synthetic data only."
+  - "Designed for strategists, systems thinkers, public-sector teams, sustainability teams, product strategists, organizational leaders, analysts, consultants, design strategists, and knowledge architects."
+  - "Not a substitute for executive judgment, stakeholder engagement, ethical review, domain expertise, strategic governance, or responsible implementation."

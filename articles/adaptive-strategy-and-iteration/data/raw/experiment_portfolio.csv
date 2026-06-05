@@ -1,0 +1,9 @@
+experiment_id,strategy_id,experiment_type,critical_assumption_fit,evidence_standard_quality,learning_value,decision_linkage,resource_fit,scale_relevance,ethical_review,review_action
+E001,AS001,late_stage_review,0.36,0.32,0.34,0.28,0.46,0.38,0.44,convert_review_to_experiment
+E002,AS002,pilot_iteration,0.76,0.72,0.78,0.76,0.70,0.68,0.64,maintain_pilot_learning
+E003,AS003,exploratory_prototype,0.62,0.48,0.66,0.44,0.56,0.42,0.50,add_decision_rule
+E004,AS004,rapid_pivot_test,0.34,0.26,0.30,0.24,0.38,0.28,0.32,stop_symbolic_experimentation
+E005,AS005,systems_simulation_and_pilot,0.84,0.80,0.86,0.82,0.76,0.82,0.74,maintain_systems_experiment
+E006,AS006,workflow_pilot,0.72,0.68,0.74,0.70,0.72,0.66,0.70,monitor_implementation_load
+E007,AS007,scenario_stress_test,0.78,0.76,0.80,0.74,0.68,0.72,0.66,connect_scenario_to_triggers
+E008,AS008,legacy_modernization_trial,0.60,0.54,0.62,0.52,0.58,0.64,0.56,stage_capability_redesign

@@ -147,3 +147,7 @@ This repository includes advanced workflows for stakeholder mapping, participati
 ## Prototype Evidence and Strategic Learning
 
 This repository includes advanced workflows for prototype evidence diagnostics, assumption-to-evidence mapping, learning-target review, evidence-quality scoring, behavioral observation analysis, context-realism assessment, systems-impact review, ethical prototype governance, decision-rule tracking, validation-theater risk analysis, overgeneralization risk, and prototype evidence memory records.
+
+## Adaptive Strategy and Iteration
+
+This repository includes advanced workflows for adaptive strategy diagnostics, feedback-loop interpretation, assumption revision, trigger-condition mapping, exploration-exploitation balance, strategic timing review, over-adaptation risk scoring, systems-impact assessment, learning-memory records, and adaptive governance design.

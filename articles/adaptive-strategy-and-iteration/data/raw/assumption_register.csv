@@ -1,0 +1,9 @@
+assumption_id,strategy_id,assumption,assumption_type,uncertainty,consequence,evidence_strength,decay_risk,revision_readiness,owner_clarity,review_action
+A001,AS001,Core customer behavior will remain stable despite market volatility,market,0.72,0.78,0.34,0.76,0.28,0.46,review_decaying_assumption
+A002,AS002,Users will adopt the revised service pathway if support friction declines,behavioral,0.50,0.76,0.72,0.38,0.74,0.70,continue_iteration
+A003,AS003,Exploratory opportunities can be converted into scalable offerings,capability,0.66,0.72,0.48,0.58,0.46,0.52,connect_exploration_to_decision_rule
+A004,AS004,Frequent strategic pivots improve market fit,governance,0.80,0.82,0.24,0.84,0.20,0.28,challenge_reactive_assumption
+A005,AS005,System constraints can be addressed before broad scale,systems,0.56,0.88,0.78,0.46,0.80,0.76,maintain_systems_review
+A006,AS006,Workflow improvements will not overload frontline staff,operational,0.64,0.84,0.66,0.58,0.68,0.72,monitor_staff_burden
+A007,AS007,Scenario trigger conditions will detect policy shifts early enough,foresight,0.58,0.80,0.74,0.44,0.76,0.78,maintain_scenario_monitoring
+A008,AS008,Legacy platform constraints can be managed without strategic redesign,legacy,0.70,0.82,0.38,0.78,0.34,0.48,plan_capability_redesign

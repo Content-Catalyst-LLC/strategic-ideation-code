@@ -1,0 +1,9 @@
+trigger_id,strategy_id,trigger_name,trigger_clarity,evidence_threshold,decision_path_clarity,response_speed_fit,ethical_safeguards,authority_clarity,monitoring_quality,review_action
+T001,AS001,Market assumption decay trigger,0.42,0.38,0.34,0.40,0.46,0.52,0.36,define_assumption_decay_threshold
+T002,AS002,Service pathway revision trigger,0.74,0.72,0.70,0.68,0.62,0.72,0.74,maintain_trigger_protocol
+T003,AS003,Exploration-to-investment trigger,0.52,0.46,0.42,0.50,0.48,0.50,0.46,define_investment_threshold
+T004,AS004,Metric response trigger,0.30,0.24,0.22,0.28,0.30,0.26,0.24,avoid_metric_panic
+T005,AS005,Systems scale trigger,0.82,0.78,0.80,0.72,0.76,0.80,0.84,maintain_scale_readiness_gate
+T006,AS006,Frontline burden trigger,0.70,0.68,0.66,0.64,0.72,0.70,0.68,protect_staff_capacity
+T007,AS007,Scenario activation trigger,0.78,0.76,0.74,0.70,0.68,0.76,0.80,maintain_scenario_governance
+T008,AS008,Legacy constraint escalation trigger,0.46,0.42,0.40,0.38,0.44,0.48,0.42,create_escalation_path

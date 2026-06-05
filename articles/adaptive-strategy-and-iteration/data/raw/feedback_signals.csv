@@ -1,0 +1,9 @@
+signal_id,strategy_id,signal_type,signal_description,signal_strength,noise_risk,delay_risk,interpretation_quality,decision_relevance,stakeholder_impact,systems_relevance,review_action
+F001,AS001,weak_signal,Declining engagement appears after a delayed market shift,0.52,0.42,0.66,0.36,0.54,0.48,0.44,improve_signal_interpretation
+F002,AS002,operational_signal,Pilot support requests reveal workflow friction,0.70,0.26,0.34,0.72,0.76,0.62,0.66,revise_pathway_and_monitor
+F003,AS003,market_signal,New opportunity attracts attention but evidence is incomplete,0.58,0.54,0.38,0.52,0.60,0.44,0.46,distinguish_signal_from_novelty
+F004,AS004,metric_fluctuation,Short-term metric drop triggers executive pressure,0.46,0.78,0.28,0.30,0.40,0.52,0.36,avoid_overreaction
+F005,AS005,systems_signal,Capacity bottleneck creates burden shift during scale test,0.78,0.22,0.54,0.82,0.84,0.76,0.88,systems_review_required
+F006,AS006,frontline_signal,Staff report hidden labor after workflow revision,0.74,0.24,0.42,0.70,0.72,0.82,0.78,review_burden_shift
+F007,AS007,scenario_trigger,Policy environment shifts toward previously modeled scenario,0.76,0.30,0.46,0.78,0.80,0.66,0.82,activate_trigger_condition
+F008,AS008,legacy_constraint_signal,Platform dependency prevents timely adaptation,0.68,0.34,0.58,0.50,0.72,0.58,0.62,map_path_dependence

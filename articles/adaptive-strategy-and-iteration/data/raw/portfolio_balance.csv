@@ -1,0 +1,9 @@
+portfolio_id,strategy_id,portfolio_name,exploration_strength,exploitation_strength,balance_quality,option_value,resource_discipline,focus_quality,transition_path_quality,review_action
+P001,AS001,Efficiency-dominant portfolio,0.22,0.82,0.42,0.30,0.70,0.76,0.34,add_exploration_options
+P002,AS002,Balanced learning portfolio,0.70,0.78,0.76,0.74,0.72,0.74,0.72,maintain_portfolio_balance
+P003,AS003,Exploration-heavy portfolio,0.90,0.42,0.38,0.76,0.46,0.44,0.40,add_selection_and_scaling_rules
+P004,AS004,Reactive project mix,0.58,0.34,0.26,0.40,0.24,0.28,0.24,rebuild_portfolio_governance
+P005,AS005,Systems-aware adaptive portfolio,0.74,0.78,0.82,0.78,0.76,0.80,0.78,maintain_systems_portfolio
+P006,AS006,Operational improvement portfolio,0.48,0.84,0.66,0.54,0.78,0.80,0.68,add_future_option_workstream
+P007,AS007,Scenario option portfolio,0.76,0.66,0.74,0.82,0.70,0.72,0.76,maintain_scenario_options
+P008,AS008,Legacy maintenance portfolio,0.34,0.80,0.48,0.38,0.66,0.70,0.42,shift_resources_to_transition_options
