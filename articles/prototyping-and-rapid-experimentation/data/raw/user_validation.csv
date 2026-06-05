@@ -1,0 +1,9 @@
+validation_id,experiment_id,user_group,observed_behavior,stated_feedback,behavioral_signal_strength,preference_behavior_alignment,nonuser_inclusion,accessibility_signal,trust_signal,workaround_signal,review_action
+U001,X001,first_time_users,Participants hesitate at eligibility and next-step language,Guidance seems helpful but dense,0.72,0.54,0.30,0.58,0.50,0.46,revise_language_and_sequence
+U002,X002,current_service_users,Users check status less when updates are visible,Status is reassuring,0.78,0.74,0.42,0.66,0.76,0.32,iterate_status_design
+U003,X003,early_adopters,Users express interest but do not complete signup,Looks exciting,0.42,0.30,0.18,0.34,0.38,0.24,test_real_commitment
+U004,X004,operations_staff,Staff identify queue bottlenecks under demand increase,Simulation seems plausible,0.70,0.66,0.26,0.44,0.52,0.62,combine_staff_and_user_evidence
+U005,X005,public_service_users,Participants complete pilot with lower confusion,Feels more respectful,0.82,0.78,0.54,0.80,0.82,0.28,monitor_burden_and_privacy
+U006,X006,executive_sponsors,Sponsors approve concept but no users tested,Looks polished,0.20,0.24,0.00,0.20,0.22,0.18,recruit_real_users
+U007,X007,frontline_staff,Staff complete role-play but create new workaround for handoff,Useful but handoff still unclear,0.76,0.62,0.20,0.48,0.58,0.78,fix_handoff_design
+U008,X008,community_stakeholders,Community identifies trust and access risks before pilot,Co-design feels meaningful,0.74,0.72,0.70,0.78,0.84,0.44,build_governance_response

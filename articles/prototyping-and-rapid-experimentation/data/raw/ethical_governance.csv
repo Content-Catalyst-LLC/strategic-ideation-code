@@ -1,0 +1,9 @@
+ethics_id,experiment_id,ethical_issue,participant_risk_review,consent_quality,privacy_protection,accessibility_review,burden_review,representation_quality,redress_path,governance_traceability,review_action
+G001,X001,Comprehension testing must not embarrass or blame users,0.58,0.62,0.54,0.56,0.60,0.52,0.46,0.50,add_dignity_review
+G002,X002,Status testing may collect sensitive user anxiety and behavior signals,0.66,0.68,0.70,0.62,0.58,0.56,0.54,0.62,strengthen_data_minimization
+G003,X003,Early adopter testing excludes constrained and skeptical users,0.42,0.46,0.50,0.38,0.40,0.22,0.30,0.34,fix_representation
+G004,X004,Scale simulation may obscure burden on frontline staff,0.60,0.56,0.58,0.52,0.72,0.48,0.44,0.58,include_staff_burden_review
+G005,X005,Public-service pilot requires strong consent access privacy and redress,0.88,0.84,0.86,0.88,0.82,0.80,0.78,0.84,maintain_governance
+G006,X006,Executive showcase uses no participant protection because no real test exists,0.24,0.20,0.26,0.18,0.20,0.12,0.16,0.18,do_not_call_experiment
+G007,X007,Frontline role-play must protect staff from blame,0.70,0.64,0.60,0.58,0.76,0.62,0.56,0.64,frame_as_system_learning
+G008,X008,Community tabletop requires participation power and feedback accountability,0.82,0.78,0.74,0.80,0.78,0.86,0.76,0.82,maintain_participatory_governance

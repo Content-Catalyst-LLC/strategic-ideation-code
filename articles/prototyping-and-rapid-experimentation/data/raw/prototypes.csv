@@ -1,0 +1,9 @@
+prototype_id,system_id,prototype_name,prototype_type,learning_target,fidelity,learning_fit,cost_to_build,speed_to_test,reversibility,user_context_realism,operational_realism,systems_visibility,review_action
+P001,E001,Plain-language process sketch,concept_sketch,Test comprehension of process sequence,0.24,0.82,0.20,0.88,0.90,0.52,0.34,0.30,use_for_early_comprehension
+P002,E002,Status update clickable mockup,clickable_mockup,Test whether status cues reduce uncertainty,0.56,0.78,0.44,0.72,0.76,0.68,0.46,0.42,test_with_users
+P003,E003,Feature demo landing page,digital_mockup,Test demand among early adopters,0.62,0.46,0.48,0.80,0.70,0.38,0.28,0.26,add_behavioral_and_nonuser_test
+P004,E004,Scale-readiness simulation,simulation,Test capacity and feedback effects at scale,0.70,0.84,0.52,0.62,0.66,0.50,0.82,0.88,combine_with_pilot
+P005,E005,Ethically reviewed public-service pilot,limited_pilot,Test service changes under governed conditions,0.76,0.86,0.66,0.48,0.52,0.76,0.78,0.80,proceed_with_governance
+P006,E006,Innovation showcase prototype,high_fidelity_demo,Impress sponsors with concept narrative,0.84,0.34,0.72,0.42,0.36,0.28,0.24,0.22,refocus_on_learning_target
+P007,E007,Frontline workflow role-play,service_walkthrough,Test role clarity and support burden,0.42,0.80,0.30,0.74,0.82,0.70,0.78,0.64,run_staff_walkthrough
+P008,E008,Community scenario tabletop,scenario_tabletop,Test stakeholder interpretation and legitimacy,0.38,0.82,0.28,0.76,0.84,0.82,0.58,0.76,run_facilitated_tabletop

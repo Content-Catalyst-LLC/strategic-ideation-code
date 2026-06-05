@@ -1,0 +1,9 @@
+impact_id,experiment_id,system_issue,feedback_risk,delay_risk,burden_shift_risk,capacity_risk,incentive_risk,scale_uncertainty,monitoring_quality,review_action
+S001,X001,Simple guidance may reduce user burden but shift interpretation work to support,0.52,0.44,0.58,0.42,0.36,0.48,0.46,monitor_support_burden
+S002,X002,Visible status may reduce contacts but increase expectation for response speed,0.48,0.42,0.36,0.44,0.34,0.40,0.62,monitor_response_expectations
+S003,X003,Early adopter results may distort scale demand,0.66,0.46,0.38,0.44,0.52,0.78,0.36,add_scale_and_nonuser_review
+S004,X004,Demand growth may create queue delays and service degradation,0.74,0.70,0.62,0.86,0.56,0.82,0.70,run_capacity_sensitivity
+S005,X005,Public-service pilot may create unequal burden if access channels are uneven,0.54,0.48,0.70,0.58,0.42,0.62,0.78,monitor_equity_and_access
+S006,X006,Showcase prototypes may reinforce innovation theater metrics,0.76,0.52,0.46,0.38,0.70,0.68,0.24,replace_showcase_metrics
+S007,X007,Workflow improvement may shift coordination burden between staff roles,0.64,0.54,0.76,0.70,0.48,0.60,0.58,burden_shift_review
+S008,X008,Community co-testing may raise expectations for influence,0.62,0.50,0.58,0.52,0.44,0.56,0.72,define_decision_traceability

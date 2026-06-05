@@ -131,3 +131,7 @@ This repository includes advanced workflows for empathic inquiry review, project
 ## Journey Mapping and Experience Design
 
 This repository includes advanced workflows for journey mapping diagnostics, accumulated-friction scoring, touchpoint analysis, transition-risk review, service blueprinting, multi-channel continuity assessment, stakeholder journey comparison, accessibility and dignity review, behavioral decision-pathway modeling, journey redesign prioritization, measurement design, and institutional experience-learning records.
+
+## Prototyping and Rapid Experimentation
+
+This repository includes advanced workflows for prototype planning, assumption mapping, hypothesis design, experiment scoring, evidence-quality review, user-validation analysis, iteration tracking, systems-impact interpretation, ethical experiment governance, decision-linkage scoring, learning-efficiency modeling, and institutional experiment-memory records.

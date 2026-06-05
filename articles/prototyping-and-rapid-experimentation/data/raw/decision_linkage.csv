@@ -1,0 +1,9 @@
+decision_id,experiment_id,decision_type,evidence_to_decision_clarity,authority_connection,resource_connection,stop_rule_quality,scale_rule_quality,revision_trigger_quality,learning_record_quality,implementation_path_quality,review_action
+D001,X001,revise_or_retest,0.62,0.50,0.42,0.46,0.38,0.58,0.56,0.52,define_decision_authority
+D002,X002,prototype_iteration,0.76,0.70,0.62,0.58,0.54,0.72,0.70,0.68,proceed_to_iteration
+D003,X003,redesign_test,0.40,0.34,0.30,0.28,0.24,0.36,0.32,0.34,do_not_scale
+D004,X004,scale_readiness_review,0.82,0.76,0.68,0.70,0.78,0.74,0.76,0.74,conduct_pilot_before_scale
+D005,X005,bounded_pilot_decision,0.84,0.80,0.72,0.76,0.74,0.78,0.82,0.80,continue_with_governance
+D006,X006,showcase_approval,0.22,0.24,0.20,0.18,0.14,0.20,0.18,0.22,replace_with_evidence_decision
+D007,X007,workflow_revision,0.74,0.68,0.64,0.62,0.58,0.70,0.68,0.72,revise_handoff_workflow
+D008,X008,governance_adjustment,0.78,0.74,0.68,0.66,0.62,0.72,0.78,0.76,trace_community_input_to_decision

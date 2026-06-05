@@ -1,0 +1,9 @@
+iteration_id,experiment_id,iteration_number,learning_quality,change_traceability,assumption_revision,prototype_revision_quality,remaining_uncertainty,decision_memory_quality,next_test_clarity,review_action
+I001,X001,1,0.68,0.62,0.64,0.70,0.54,0.58,0.66,revise_and_retest_comprehension
+I002,X002,1,0.76,0.74,0.72,0.78,0.42,0.70,0.74,run_behavioral_support_metric_test
+I003,X003,1,0.36,0.30,0.32,0.34,0.78,0.28,0.40,redesign_experiment
+I004,X004,1,0.82,0.80,0.78,0.76,0.48,0.78,0.72,add_operational_pilot
+I005,X005,1,0.84,0.82,0.80,0.82,0.36,0.84,0.76,continue_bounded_pilot
+I006,X006,1,0.24,0.20,0.18,0.22,0.86,0.18,0.24,stop_showcase_as_evidence
+I007,X007,1,0.74,0.70,0.72,0.70,0.46,0.68,0.72,retest_handoff_workflow
+I008,X008,1,0.78,0.76,0.74,0.72,0.44,0.80,0.74,prototype_governance_adjustment

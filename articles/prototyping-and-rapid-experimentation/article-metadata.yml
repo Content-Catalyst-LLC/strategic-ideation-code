@@ -1,0 +1,34 @@
+title: "Prototyping and Rapid Experimentation"
+slug: "prototyping-and-rapid-experimentation"
+series: "Strategic Ideation"
+repository: "https://github.com/Content-Catalyst-LLC/strategic-ideation-code"
+article_folder: "articles/prototyping-and-rapid-experimentation"
+purpose: "Advanced strategist-facing companion code for prototype planning, assumption mapping, hypothesis design, experiment scoring, evidence-quality review, user-validation analysis, iteration tracking, systems-impact interpretation, ethical experiment governance, decision-linkage scoring, learning-efficiency modeling, and institutional experiment-memory records."
+status: "advanced scaffold"
+professional_use_cases:
+  - "Prototype portfolio review"
+  - "Assumption criticality mapping"
+  - "Hypothesis and learning-target design"
+  - "Prototype fidelity-fit scoring"
+  - "Experiment quality diagnostics"
+  - "Evidence-quality and interpretation review"
+  - "User-validation and behavioral evidence assessment"
+  - "Iteration discipline and learning-memory tracking"
+  - "Systems-impact and scale-readiness review"
+  - "Ethical experiment governance"
+  - "Decision-linkage and evidence-to-action scoring"
+  - "Institutional experiment-memory records"
+languages:
+  - python
+  - r
+  - julia
+  - sql
+  - rust
+  - go
+  - cpp
+  - fortran
+  - c
+notes:
+  - "Uses synthetic data only."
+  - "Designed for strategists, design researchers, service designers, systems thinkers, product strategists, innovation teams, sustainability teams, public-sector teams, organizational leaders, analysts, consultants, and knowledge architects."
+  - "Not a substitute for user research, ethical review, accessibility testing, domain expertise, accountable governance, or participatory implementation judgment."

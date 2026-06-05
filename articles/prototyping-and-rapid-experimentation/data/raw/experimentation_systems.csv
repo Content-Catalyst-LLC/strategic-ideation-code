@@ -1,0 +1,9 @@
+system_id,system_name,organization_type,domain,speed,cost_efficiency,insight_depth,user_validation,assumption_criticality,evidence_quality,systems_awareness,ethical_review,decision_linkage,learning_memory,description
+E001,Slow Planning-Heavy System,legacy_enterprise,strategic_planning,0.24,0.31,0.42,0.36,0.44,0.38,0.34,0.42,0.30,0.32,Heavy planning and low experimentation capacity.
+E002,Balanced Experimentation System,product_service_org,service_strategy,0.72,0.74,0.76,0.78,0.76,0.74,0.68,0.66,0.72,0.70,Good balance of speed evidence and decision linkage.
+E003,Fast but Shallow Testing System,venture_style_team,digital_product,0.88,0.69,0.38,0.47,0.50,0.40,0.36,0.34,0.48,0.42,Fast cycles with weak evidence and limited systems interpretation.
+E004,Deep Adaptive Learning System,research_mature_org,complex_strategy,0.61,0.67,0.89,0.84,0.86,0.88,0.82,0.70,0.82,0.80,Strong disciplined learning and systems interpretation.
+E005,Ethically Governed Learning System,public_system,public_service,0.58,0.62,0.82,0.80,0.84,0.86,0.80,0.90,0.78,0.82,Strong ethics governance and evidence quality.
+E006,Prototype Theater System,large_institution,innovation_theater,0.70,0.50,0.36,0.42,0.38,0.34,0.28,0.30,0.24,0.22,Prototypes are showcased but evidence rarely changes decisions.
+E007,Operational Pilot System,operations_team,workflow_redesign,0.55,0.64,0.70,0.52,0.78,0.72,0.76,0.64,0.68,0.66,Operational pilots reveal feasibility and workflow constraints.
+E008,Community Co-Test System,coalition,sustainability_service,0.50,0.58,0.78,0.86,0.82,0.80,0.84,0.88,0.74,0.76,Community participation shapes prototype and experiment governance.

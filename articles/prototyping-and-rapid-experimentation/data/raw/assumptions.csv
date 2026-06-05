@@ -1,0 +1,9 @@
+assumption_id,system_id,assumption_statement,assumption_type,uncertainty,strategic_significance,reversibility_risk,cost_of_error,evidence_gap,stakeholder_sensitivity,testing_feasibility,review_action
+A001,E001,Users will understand the proposed process from written guidance,user_comprehension,0.78,0.74,0.68,0.70,0.82,0.62,0.76,test_with_low_fidelity_walkthrough
+A002,E002,Visible status cues will reduce repeated checking and anxiety,trust_and_status,0.54,0.76,0.44,0.58,0.50,0.64,0.82,prototype_status_cues
+A003,E003,Early adopter enthusiasm predicts broader adoption,adoption,0.82,0.80,0.72,0.76,0.78,0.54,0.66,recruit_skeptical_users
+A004,E004,Prototype results remain valid under scale constraints,scale_viability,0.70,0.90,0.82,0.88,0.74,0.72,0.58,run_scale_readiness_test
+A005,E005,Experiment can be conducted without disproportionate burden to vulnerable participants,ethics,0.62,0.88,0.78,0.84,0.68,0.94,0.56,complete_ethics_review
+A006,E006,Leadership will change strategy if the prototype evidence is negative,decision_linkage,0.86,0.82,0.70,0.78,0.84,0.50,0.48,define_decision_rule_before_test
+A007,E007,Frontline staff can support the new workflow within existing capacity,operational_feasibility,0.66,0.86,0.74,0.82,0.70,0.68,0.72,run_staff_capacity_pilot
+A008,E008,Community co-testing will improve legitimacy and contextual fit,participatory_legitimacy,0.56,0.84,0.58,0.66,0.52,0.88,0.76,co_design_learning_targets

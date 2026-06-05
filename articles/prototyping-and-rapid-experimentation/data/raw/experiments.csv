@@ -1,0 +1,9 @@
+experiment_id,system_id,prototype_id,hypothesis,learning_target_clarity,test_condition_quality,evidence_standard_quality,participant_fit,risk_boundary_quality,interpretation_limit_clarity,decision_rule_quality,repeatability,review_action
+X001,E001,P001,Users can explain the process after reading a one-page sketch,0.74,0.62,0.70,0.58,0.56,0.64,0.54,0.62,define_decision_rule
+X002,E002,P002,Status cues reduce user uncertainty and repeated support contacts,0.82,0.76,0.78,0.72,0.68,0.72,0.74,0.70,run_guided_test
+X003,E003,P003,Landing page interest predicts real adoption,0.48,0.44,0.38,0.42,0.36,0.30,0.34,0.46,improve_evidence_standard
+X004,E004,P004,Capacity remains stable as demand increases by 40 percent,0.86,0.82,0.84,0.62,0.70,0.78,0.80,0.76,combine_with_operational_pilot
+X005,E005,P005,Participants can use revised service without higher burden or privacy risk,0.84,0.78,0.82,0.76,0.90,0.84,0.78,0.72,proceed_with_monitoring
+X006,E006,P006,Executive approval indicates prototype viability,0.30,0.28,0.24,0.26,0.22,0.24,0.20,0.28,replace_with_real_hypothesis
+X007,E007,P007,Frontline staff can complete workflow without added coordination burden,0.80,0.74,0.76,0.82,0.66,0.72,0.70,0.68,run_role_play_test
+X008,E008,P008,Community stakeholders identify legitimacy risks before pilot launch,0.78,0.72,0.74,0.84,0.86,0.76,0.72,0.66,document_tabletop_learning
