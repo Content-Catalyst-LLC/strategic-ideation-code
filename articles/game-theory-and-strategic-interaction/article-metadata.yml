@@ -1,0 +1,42 @@
+title: "Game Theory and Strategic Interaction"
+slug: "game-theory-and-strategic-interaction"
+series: "Strategic Ideation"
+repository: "https://github.com/Content-Catalyst-LLC/strategic-ideation-code"
+article_folder: "articles/game-theory-and-strategic-interaction"
+previous_article:
+  title: "Decision-Making Under Uncertainty"
+  slug: "decision-making-under-uncertainty"
+next_article:
+  title: "Risk, Tradeoffs, and Strategic Choices"
+  slug: "risk-tradeoffs-and-strategic-choices"
+purpose: "Advanced strategist-facing companion code for game-theoretic strategy diagnostics, actor mapping, payoff analysis, information asymmetry review, equilibrium diagnosis, cooperation-fragility scoring, signaling analysis, repeated-interaction modeling, mechanism-design review, behavioral game-theory adjustment, ethics and power review, and strategic interaction learning memory."
+status: "advanced scaffold"
+professional_use_cases:
+  - "Game-theoretic strategy diagnostics"
+  - "Actor and player mapping"
+  - "Payoff and incentive analysis"
+  - "Strategy-set comparison"
+  - "Information asymmetry review"
+  - "Timing and sequencing analysis"
+  - "Equilibrium diagnosis"
+  - "Cooperation-fragility scoring"
+  - "Repeated-interaction and reputation analysis"
+  - "Signaling and credibility review"
+  - "Mechanism-design and rule-redesign analysis"
+  - "Behavioral game-theory adjustment"
+  - "Ethics and power review"
+  - "Strategic interaction learning-memory records"
+languages:
+  - python
+  - r
+  - julia
+  - sql
+  - rust
+  - go
+  - cpp
+  - fortran
+  - c
+notes:
+  - "Uses synthetic data only."
+  - "Designed for strategists, decision scientists, economists, policy teams, public-sector teams, platform strategists, organizational leaders, consultants, analysts, systems thinkers, and knowledge architects."
+  - "Not a substitute for stakeholder engagement, legal review, ethical review, domain expertise, behavioral evidence, accountable governance, or responsible implementation."

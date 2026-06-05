@@ -1,0 +1,9 @@
+behavior_id,setting_id,behavioral_factor,fairness_salience,trust_salience,identity_salience,bounded_reasoning_risk,loss_aversion_risk,norm_strength,legitimacy_sensitivity,review_action
+BG001,GT001,Competitive overreaction,0.42,0.32,0.52,0.56,0.68,0.38,0.44,watch_escalation_bias
+BG002,GT002,Standards legitimacy,0.68,0.70,0.58,0.42,0.46,0.72,0.76,maintain_inclusive_process
+BG003,GT003,Regulatory fairness perception,0.78,0.60,0.66,0.54,0.62,0.64,0.82,address_distributional_legitimacy
+BG004,GT004,Platform trust and dependency,0.72,0.64,0.58,0.60,0.66,0.56,0.80,review_rule_legitimacy
+BG005,GT005,Collective-action identity,0.74,0.68,0.76,0.48,0.58,0.72,0.78,build_shared_norms
+BG006,GT006,Silo identity and fairness,0.66,0.48,0.72,0.54,0.52,0.60,0.64,reduce_silo_identity_barriers
+BG007,GT007,Coalition trust dynamics,0.70,0.72,0.64,0.50,0.56,0.66,0.74,protect_trust_signals
+BG008,GT008,Transition loss perception,0.76,0.58,0.68,0.52,0.78,0.62,0.80,address_transition_losses

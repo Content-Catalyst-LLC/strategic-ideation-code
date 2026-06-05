@@ -1,0 +1,9 @@
+cooperation_id,setting_id,cooperation_need,trust_level,monitoring_quality,defection_temptation,retaliation_feasibility,reputation_value,reciprocity_quality,enforcement_quality,shared_upside,review_action
+CF001,GT001,Competitor restraint,0.32,0.46,0.84,0.76,0.52,0.30,0.28,0.36,avoid_relying_on_unenforced_restraint
+CF002,GT002,Standards adoption,0.68,0.72,0.36,0.42,0.70,0.74,0.62,0.84,maintain_standard_governance
+CF003,GT003,Regulatory compromise,0.48,0.60,0.62,0.52,0.58,0.54,0.66,0.70,build_monitorable_commitments
+CF004,GT004,Ecosystem cooperation,0.52,0.58,0.68,0.56,0.64,0.58,0.52,0.76,improve_voice_and_rule_legitimacy
+CF005,GT005,Public goods contribution,0.42,0.66,0.78,0.48,0.54,0.50,0.70,0.82,build_verification_and_enforcement
+CF006,GT006,Cross-team knowledge sharing,0.50,0.54,0.58,0.34,0.48,0.52,0.46,0.72,change_internal_incentives
+CF007,GT007,Coalition maintenance,0.54,0.58,0.60,0.50,0.66,0.62,0.58,0.76,sequence_reciprocal_commitments
+CF008,GT008,Transition coordination,0.46,0.62,0.64,0.38,0.58,0.56,0.66,0.80,create_transition_assurance

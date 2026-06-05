@@ -1,0 +1,9 @@
+repeat_id,setting_id,relationship_name,interaction_frequency,future_shadow,reputation_visibility,memory_quality,retaliation_proportionality,forgiveness_capacity,trust_repair_quality,review_action
+RI001,GT001,Recurring competitor contact,0.72,0.58,0.62,0.44,0.78,0.32,0.28,avoid_escalatory_cycles
+RI002,GT002,Standards working group,0.82,0.78,0.70,0.74,0.42,0.66,0.70,maintain_reputation_and_records
+RI003,GT003,Regulator-firm review cycle,0.68,0.74,0.66,0.62,0.56,0.58,0.60,build_trustworthy_review_cadence
+RI004,GT004,Platform-complementor cycles,0.76,0.70,0.64,0.54,0.62,0.48,0.50,improve_rule_memory_and_appeals
+RI005,GT005,Annual public goods agreement,0.58,0.72,0.68,0.60,0.50,0.56,0.62,document_contribution_history
+RI006,GT006,Cross-team planning cycle,0.80,0.64,0.52,0.48,0.34,0.60,0.56,improve_decision_memory
+RI007,GT007,Coalition negotiation cycle,0.66,0.70,0.60,0.56,0.52,0.54,0.58,maintain_coalition_records
+RI008,GT008,Infrastructure transition governance,0.60,0.78,0.72,0.66,0.44,0.62,0.64,build_transition_memory

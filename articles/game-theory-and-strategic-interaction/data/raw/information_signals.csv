@@ -1,0 +1,9 @@
+signal_id,setting_id,signal_name,signal_type,credibility,observability,costliness,ambiguity,response_sensitivity,misinterpretation_risk,coordination_value,review_action
+IS001,GT001,Public price cut,competitive_signal,0.68,0.92,0.66,0.30,0.82,0.42,0.24,anticipate_retaliatory_price_response
+IS002,GT001,Capacity expansion announcement,commitment_signal,0.58,0.78,0.72,0.46,0.76,0.50,0.32,test_commitment_credibility
+IS003,GT002,Open standards roadmap,coordination_signal,0.76,0.82,0.54,0.28,0.62,0.32,0.86,amplify_focal_point
+IS004,GT003,Regulatory consultation,policy_signal,0.64,0.74,0.42,0.52,0.70,0.58,0.66,reduce_ambiguity
+IS005,GT004,Platform rule change,governance_signal,0.72,0.88,0.60,0.38,0.82,0.48,0.70,review_ecosystem_response
+IS006,GT005,Verified contribution pledge,cooperation_signal,0.80,0.76,0.68,0.30,0.66,0.34,0.82,build_reciprocal_commitment
+IS007,GT006,Shared data dashboard,transparency_signal,0.70,0.84,0.44,0.26,0.58,0.30,0.78,improve_cross_team_visibility
+IS008,GT008,Transition funding guarantee,commitment_signal,0.74,0.70,0.76,0.34,0.68,0.36,0.80,support_coordinated_transition

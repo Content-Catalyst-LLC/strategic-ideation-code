@@ -1,0 +1,9 @@
+mechanism_id,setting_id,mechanism_name,incentive_alignment,information_transparency,verification_quality,enforcement_quality,participation_quality,burden_distribution_quality,adaptability,implementation_feasibility,review_action
+MD001,GT001,Differentiated-value competition mechanism,0.58,0.52,0.48,0.42,0.46,0.44,0.56,0.60,reduce_price_war_incentives
+MD002,GT002,Open standard governance mechanism,0.78,0.80,0.72,0.66,0.76,0.70,0.72,0.74,maintain_standard_rule_design
+MD003,GT003,Regulatory transparency mechanism,0.68,0.76,0.70,0.72,0.64,0.68,0.66,0.62,clarify_evidence_and_commitments
+MD004,GT004,Platform rule appeal mechanism,0.62,0.70,0.66,0.60,0.58,0.54,0.68,0.64,improve_legitimacy_and_voice
+MD005,GT005,Verified contribution mechanism,0.82,0.78,0.80,0.76,0.72,0.74,0.70,0.68,implement_public_goods_mechanism
+MD006,GT006,Knowledge-sharing incentive mechanism,0.70,0.66,0.58,0.52,0.68,0.62,0.74,0.72,align_internal_incentives
+MD007,GT007,Coalition commitment mechanism,0.72,0.68,0.66,0.64,0.70,0.66,0.68,0.64,stage_mutual_commitments
+MD008,GT008,Transition assurance mechanism,0.76,0.72,0.70,0.68,0.72,0.78,0.74,0.60,fund_and_sequence_transition

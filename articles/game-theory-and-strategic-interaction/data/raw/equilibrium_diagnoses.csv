@@ -1,0 +1,9 @@
+equilibrium_id,setting_id,equilibrium_name,desirability,stability,efficiency,fairness,exit_pressure,coordination_barrier,incentive_misalignment,rule_change_need,review_action
+EQ001,GT001,Price war equilibrium,0.28,0.72,0.34,0.42,0.58,0.46,0.78,0.62,shift_competition_basis
+EQ002,GT002,Shared standard equilibrium,0.84,0.68,0.82,0.70,0.30,0.36,0.28,0.42,strengthen_adoption_pathway
+EQ003,GT003,Regulatory stalemate equilibrium,0.42,0.64,0.46,0.54,0.52,0.62,0.66,0.72,redesign_bargaining_process
+EQ004,GT004,Platform dependency equilibrium,0.46,0.78,0.58,0.38,0.72,0.54,0.70,0.80,review_platform_governance
+EQ005,GT005,Free-rider equilibrium,0.30,0.70,0.36,0.32,0.50,0.68,0.80,0.84,design_contribution_mechanism
+EQ006,GT006,Siloed knowledge equilibrium,0.38,0.66,0.42,0.50,0.46,0.72,0.64,0.70,change_collaboration_incentives
+EQ007,GT007,Fragile coalition equilibrium,0.56,0.54,0.58,0.56,0.60,0.58,0.60,0.66,build_credible_commitments
+EQ008,GT008,Delayed transition equilibrium,0.40,0.68,0.44,0.42,0.64,0.76,0.70,0.82,create_transition_mechanism

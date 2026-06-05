@@ -1,0 +1,11 @@
+actor_id,setting_id,actor_name,actor_role,material_payoff,reputation_payoff,legitimacy_payoff,risk_avoidance,control_preference,cooperation_dependency,exit_option_quality,power_level,review_action
+AP001,GT001,Incumbent competitor,competitor,0.86,0.58,0.42,0.66,0.78,0.28,0.74,0.76,anticipate_retaliation
+AP002,GT001,New entrant,challenger,0.78,0.62,0.40,0.48,0.62,0.34,0.52,0.46,watch_price_response
+AP003,GT002,Standards consortium,coordinator,0.62,0.76,0.72,0.54,0.48,0.88,0.44,0.64,build_focal_standard
+AP004,GT002,Late adopter,participant,0.54,0.48,0.42,0.70,0.44,0.76,0.58,0.40,reduce_adoption_risk
+AP005,GT003,Regulator,public_actor,0.46,0.70,0.86,0.74,0.62,0.66,0.50,0.82,clarify_public_value
+AP006,GT003,Regulated firm,private_actor,0.82,0.58,0.50,0.72,0.76,0.48,0.62,0.70,review_compliance_incentives
+AP007,GT004,Platform owner,rule_designer,0.84,0.72,0.56,0.60,0.88,0.68,0.82,0.86,review_platform_power
+AP008,GT004,Complementor ecosystem,participant,0.66,0.58,0.44,0.64,0.42,0.78,0.38,0.44,improve_exit_and_voice
+AP009,GT005,Free-riding actor,participant,0.74,0.40,0.38,0.58,0.52,0.36,0.60,0.48,design_contribution_incentives
+AP010,GT005,Collective-governance body,governance_actor,0.48,0.68,0.84,0.76,0.56,0.82,0.42,0.72,build_verification_and_trust

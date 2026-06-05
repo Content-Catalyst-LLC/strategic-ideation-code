@@ -1,0 +1,9 @@
+memory_id,setting_id,memory_practice,player_record_quality,payoff_record_quality,information_record_quality,equilibrium_record_quality,signal_record_quality,mechanism_record_quality,ethics_record_quality,revision_record_quality,reuse_quality,review_action
+SM001,GT001,Competitive response log,0.58,0.56,0.46,0.50,0.52,0.38,0.42,0.40,0.46,improve_interaction_memory
+SM002,GT002,Standards governance record,0.76,0.72,0.70,0.68,0.70,0.72,0.68,0.66,0.72,maintain_standard_memory
+SM003,GT003,Regulatory bargaining record,0.68,0.66,0.64,0.60,0.62,0.66,0.64,0.62,0.66,maintain_commitment_trace
+SM004,GT004,Platform rule-change memory,0.64,0.62,0.60,0.58,0.66,0.68,0.54,0.56,0.60,improve_appeal_records
+SM005,GT005,Public goods contribution ledger,0.70,0.68,0.72,0.64,0.66,0.74,0.70,0.68,0.72,maintain_contribution_memory
+SM006,GT006,Cross-team coordination notes,0.52,0.50,0.48,0.46,0.44,0.50,0.46,0.42,0.44,build_silo_learning_memory
+SM007,GT007,Coalition commitment record,0.66,0.64,0.60,0.58,0.62,0.66,0.60,0.64,0.66,maintain_coalition_memory
+SM008,GT008,Transition interaction record,0.68,0.66,0.64,0.62,0.64,0.70,0.72,0.68,0.70,preserve_transition_memory

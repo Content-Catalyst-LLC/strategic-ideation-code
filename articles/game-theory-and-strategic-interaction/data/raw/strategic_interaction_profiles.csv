@@ -1,0 +1,9 @@
+setting_id,setting_name,domain,rivalry,coordination_potential,information_asymmetry,retaliation_risk,institutional_support,behavioral_realism,mechanism_design_potential,ethical_complexity,description
+GT001,Price Competition Environment,market_strategy,0.84,0.28,0.44,0.76,0.39,0.52,0.42,0.46,Competitive market setting with high rivalry and strong retaliation risk.
+GT002,Standards Coordination Environment,technology_standards,0.36,0.86,0.31,0.24,0.73,0.68,0.78,0.54,Coordination-heavy setting where shared standards can create collective value.
+GT003,Regulatory Bargaining Environment,policy_strategy,0.58,0.62,0.78,0.63,0.66,0.72,0.70,0.72,Bargaining setting with information asymmetry and mixed public/private incentives.
+GT004,Platform Ecosystem Environment,platform_strategy,0.71,0.74,0.69,0.58,0.57,0.74,0.82,0.76,Multi-sided ecosystem with rule-design leverage and governance complexity.
+GT005,Public Goods Governance Environment,sustainability_policy,0.52,0.82,0.64,0.46,0.61,0.76,0.86,0.84,Collective-action environment involving free-riding and public value.
+GT006,Organizational Silo Environment,organizational_strategy,0.48,0.68,0.52,0.42,0.54,0.70,0.64,0.58,Internal coordination problem across teams with different incentives.
+GT007,Coalition Formation Environment,institutional_strategy,0.62,0.70,0.58,0.50,0.60,0.72,0.74,0.68,Coalition setting where bargaining and credibility shape cooperation.
+GT008,Infrastructure Transition Environment,systems_transition,0.44,0.76,0.66,0.38,0.58,0.74,0.80,0.82,Transition environment with path dependence, coordination, and public burden.

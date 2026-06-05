@@ -163,3 +163,7 @@ This repository includes advanced workflows for strategic foresight diagnostics,
 ## Decision-Making Under Uncertainty
 
 This repository includes advanced workflows for uncertainty classification, decision-frame review, option-set evaluation, assumption mapping, scenario stress testing, robustness scoring, option-value modeling, experimentation design, ethical uncertainty review, governance, and decision-learning memory.
+
+## Game Theory and Strategic Interaction
+
+This repository includes advanced workflows for game-theoretic strategy diagnostics, actor mapping, payoff analysis, information asymmetry review, equilibrium diagnosis, cooperation-fragility scoring, signaling analysis, repeated-interaction modeling, mechanism-design review, behavioral game-theory adjustment, ethics and power review, and strategic interaction learning memory.
