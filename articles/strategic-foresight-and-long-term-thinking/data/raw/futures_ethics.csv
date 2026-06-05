@@ -1,0 +1,9 @@
+ethics_id,profile_id,ethical_issue,representation_quality,power_review_quality,burden_shift_review,intergenerational_review,accessibility_quality,accountability_quality,redress_path_quality,review_action
+FE001,FS001,Future impacts are subordinated to efficiency targets,0.34,0.32,0.28,0.26,0.34,0.32,0.24,expand_future_burden_review
+FE002,FS002,Balanced strategy needs stronger affected-group review,0.66,0.62,0.62,0.60,0.62,0.66,0.54,add_stakeholder_review
+FE003,FS003,Long-horizon resilience includes future communities,0.74,0.70,0.78,0.82,0.70,0.74,0.66,maintain_intergenerational_review
+FE004,FS004,Platform strategy externalizes future dependency,0.32,0.28,0.24,0.30,0.34,0.30,0.22,review_lock_in_burden
+FE005,FS005,Governance strategy includes public accountability,0.76,0.78,0.74,0.80,0.72,0.84,0.76,maintain_public_ethics_review
+FE006,FS006,Innovation options may privilege future growth over access,0.58,0.54,0.52,0.56,0.50,0.58,0.48,add_accessibility_review
+FE007,FS007,Legacy transition may shift cost to future users,0.52,0.50,0.58,0.54,0.48,0.50,0.42,define_transition_redress_path
+FE008,FS008,Participatory futures process centers affected communities,0.88,0.84,0.82,0.80,0.78,0.82,0.76,maintain_participatory_ethics

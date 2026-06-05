@@ -1,0 +1,10 @@
+signal_id,profile_id,signal_name,signal_category,signal_strength,noise_risk,lead_time_value,strategic_relevance,interpretation_quality,monitoring_quality,owner_clarity,review_action
+HS001,FS001,Short-term demand volatility,economic,0.52,0.58,0.30,0.40,0.38,0.46,0.44,avoid_overinterpreting_near_term_noise
+HS002,FS002,AI governance and audit requirements,technology_policy,0.72,0.28,0.74,0.78,0.72,0.70,0.68,monitor_regulatory_and_trust_signals
+HS003,FS002,Stakeholder trust erosion,social_institutional,0.66,0.36,0.68,0.76,0.66,0.64,0.62,connect_trust_to_strategy_review
+HS004,FS003,Climate risk cascade indicators,environmental,0.80,0.24,0.78,0.84,0.76,0.78,0.72,monitor_cascading_risks
+HS005,FS004,Platform dependency growth,technology_architecture,0.78,0.30,0.66,0.80,0.58,0.56,0.52,review_lock_in_risk
+HS006,FS005,Policy legitimacy stress,governance,0.70,0.34,0.72,0.82,0.74,0.72,0.76,activate_anticipatory_governance_review
+HS007,FS006,Emerging user behavior shift,market_social,0.68,0.42,0.64,0.70,0.62,0.66,0.60,connect_to_scenario_monitoring
+HS008,FS007,Legacy infrastructure performance degradation,infrastructure,0.74,0.28,0.62,0.76,0.56,0.58,0.54,plan_transition_pathway
+HS009,FS008,Community opposition to future burden,social_ethics,0.72,0.32,0.70,0.84,0.76,0.70,0.78,review_future_burden_distribution

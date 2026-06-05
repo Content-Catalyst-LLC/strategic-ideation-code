@@ -1,0 +1,9 @@
+pathway_id,profile_id,pathway_name,trigger_clarity,reversibility,option_value,resource_flexibility,capability_readiness,governance_clarity,stakeholder_alignment,learning_memory,review_action
+AP001,FS001,Efficiency-to-resilience transition pathway,0.42,0.38,0.40,0.44,0.50,0.46,0.42,0.34,define_transition_triggers
+AP002,FS002,Balanced foresight review pathway,0.74,0.72,0.76,0.70,0.72,0.74,0.70,0.72,maintain_pathway_governance
+AP003,FS003,Long-horizon resilience investment pathway,0.78,0.70,0.82,0.68,0.74,0.76,0.72,0.78,maintain_resilience_pathway
+AP004,FS004,Platform lock-in reduction pathway,0.48,0.34,0.46,0.38,0.42,0.44,0.40,0.36,create_modular_exit_pathway
+AP005,FS005,Anticipatory governance trigger pathway,0.82,0.70,0.76,0.66,0.74,0.86,0.78,0.82,maintain_governance_trigger_system
+AP006,FS006,Scenario-led option portfolio pathway,0.72,0.74,0.84,0.68,0.64,0.68,0.62,0.70,test_option_readiness
+AP007,FS007,Legacy modernization pathway,0.54,0.38,0.50,0.42,0.48,0.52,0.46,0.44,clarify_transition_sequence
+AP008,FS008,Participatory futures adaptation pathway,0.76,0.72,0.74,0.64,0.66,0.74,0.88,0.84,maintain_participatory_memory

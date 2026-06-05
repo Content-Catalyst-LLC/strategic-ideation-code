@@ -1,0 +1,39 @@
+title: "Strategic Foresight and Long-Term Thinking"
+slug: "strategic-foresight-and-long-term-thinking"
+series: "Strategic Ideation"
+repository: "https://github.com/Content-Catalyst-LLC/strategic-ideation-code"
+article_folder: "articles/strategic-foresight-and-long-term-thinking"
+previous_article:
+  title: "Scenario Planning and Futures Thinking"
+  slug: "scenario-planning-and-futures-thinking"
+next_article:
+  title: "Decision-Making Under Uncertainty"
+  slug: "decision-making-under-uncertainty"
+purpose: "Advanced strategist-facing companion code for strategic foresight diagnostics, horizon scanning, weak-signal interpretation, driver mapping, long-term strategy scoring, scenario stress testing, temporal-depth analysis, path-dependence review, option-value modeling, anticipatory governance review, futures ethics, and foresight learning memory."
+status: "advanced scaffold"
+professional_use_cases:
+  - "Strategic foresight diagnostics"
+  - "Temporal-depth and long-horizon review"
+  - "Horizon scanning and weak-signal interpretation"
+  - "Driver and critical-uncertainty mapping"
+  - "Scenario stress testing"
+  - "Long-term strategy scoring"
+  - "Path-dependence and lock-in risk review"
+  - "Option-value and future-flexibility analysis"
+  - "Anticipatory governance review"
+  - "Futures ethics and intergenerational responsibility review"
+  - "Foresight learning-memory records"
+languages:
+  - python
+  - r
+  - julia
+  - sql
+  - rust
+  - go
+  - cpp
+  - fortran
+  - c
+notes:
+  - "Uses synthetic data only."
+  - "Designed for strategists, foresight practitioners, systems thinkers, public-sector teams, sustainability teams, organizational leaders, policy teams, analysts, consultants, and knowledge architects."
+  - "Not a substitute for participatory foresight, ethical review, domain expertise, expert judgment, accountable governance, or responsible implementation."

@@ -1,0 +1,9 @@
+governance_id,profile_id,governance_practice,decision_rights_clarity,evidence_standard_quality,foresight_review_cadence,signal_owner_clarity,trigger_condition_quality,ethics_review_quality,documentation_quality,accountability_quality,review_action
+AG001,FS001,Annual planning review,0.50,0.42,0.34,0.36,0.30,0.34,0.38,0.40,add_foresight_governance
+AG002,FS002,Quarterly foresight review board,0.74,0.72,0.70,0.68,0.72,0.68,0.72,0.72,maintain_governance
+AG003,FS003,Resilience investment council,0.76,0.74,0.72,0.70,0.74,0.76,0.74,0.76,maintain_resilience_governance
+AG004,FS004,Executive growth review,0.42,0.38,0.30,0.34,0.28,0.32,0.34,0.36,add_lock_in_and_ethics_review
+AG005,FS005,Anticipatory governance council,0.84,0.80,0.82,0.78,0.82,0.84,0.82,0.84,maintain_anticipatory_governance
+AG006,FS006,Innovation scenario board,0.66,0.64,0.68,0.62,0.70,0.60,0.64,0.66,clarify_scaling_authority
+AG007,FS007,Legacy transition committee,0.56,0.50,0.46,0.44,0.48,0.46,0.50,0.48,strengthen_transition_governance
+AG008,FS008,Participatory foresight assembly,0.76,0.72,0.74,0.70,0.72,0.88,0.78,0.82,maintain_participatory_governance

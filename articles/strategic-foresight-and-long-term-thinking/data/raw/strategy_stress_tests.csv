@@ -1,0 +1,8 @@
+test_id,strategy_name,future_stable_growth,future_tech_disruption,future_environmental_stress,future_institutional_fragmentation,future_public_trust_crisis,flexibility,implementation_readiness,ethical_resilience,option_value,review_action
+ST001,Short-Term Efficiency Strategy,0.86,0.42,0.34,0.46,0.38,0.28,0.86,0.42,0.30,reduce_baseline_dependence
+ST002,Balanced Foresight Strategy,0.74,0.72,0.68,0.70,0.69,0.74,0.74,0.68,0.72,maintain_adaptive_pathways
+ST003,Resilience-Biased Long-Horizon Strategy,0.66,0.76,0.82,0.74,0.72,0.79,0.66,0.76,0.78,maintain_resilience_investment
+ST004,Lock-In Prone Growth Strategy,0.84,0.48,0.40,0.42,0.36,0.26,0.76,0.38,0.28,reduce_lock_in_exposure
+ST005,Anticipatory Governance Strategy,0.66,0.70,0.76,0.82,0.84,0.72,0.70,0.82,0.70,maintain_governance_capacity
+ST006,Scenario-Led Innovation Strategy,0.68,0.82,0.62,0.66,0.60,0.76,0.58,0.62,0.80,stage_transformational_options
+ST007,Participatory Futures Strategy,0.62,0.68,0.76,0.80,0.84,0.70,0.60,0.88,0.68,protect_participatory_capacity

@@ -1,0 +1,9 @@
+memory_id,profile_id,memory_practice,focal_question_record,signal_record_quality,driver_record_quality,uncertainty_record_quality,scenario_record_quality,decision_traceability,pathway_record_quality,remaining_uncertainty_quality,reuse_quality,review_action
+LM001,FS001,Annual forecast archive,0.36,0.28,0.32,0.26,0.24,0.24,0.22,0.22,0.24,create_foresight_memory_record
+LM002,FS002,Foresight learning log,0.74,0.72,0.72,0.70,0.72,0.74,0.72,0.70,0.74,maintain_learning_log
+LM003,FS003,Resilience foresight repository,0.78,0.76,0.78,0.76,0.80,0.78,0.76,0.74,0.78,maintain_resilience_memory
+LM004,FS004,Growth strategy slide archive,0.30,0.26,0.28,0.24,0.22,0.20,0.20,0.18,0.20,build_decision_memory
+LM005,FS005,Anticipatory governance record,0.82,0.80,0.78,0.78,0.80,0.84,0.82,0.78,0.82,maintain_governance_memory
+LM006,FS006,Scenario innovation memory,0.70,0.68,0.70,0.72,0.76,0.66,0.70,0.68,0.70,connect_scenarios_to_scaling_records
+LM007,FS007,Legacy transition notes,0.52,0.46,0.50,0.48,0.46,0.42,0.44,0.40,0.42,document_transition_assumptions
+LM008,FS008,Participatory futures memory,0.80,0.78,0.76,0.76,0.78,0.78,0.80,0.76,0.84,share_learning_with_stakeholders

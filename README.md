@@ -155,3 +155,7 @@ This repository includes advanced workflows for adaptive strategy diagnostics, f
 ## Scenario Planning and Futures Thinking
 
 This repository includes advanced workflows for scenario planning diagnostics, futures-thinking methods, driver mapping, uncertainty matrices, scenario logic review, strategy stress testing, robustness scoring, signal monitoring, adaptive pathway design, ethical futures review, governance review, and scenario learning memory.
+
+## Strategic Foresight and Long-Term Thinking
+
+This repository includes advanced workflows for strategic foresight diagnostics, horizon scanning, weak-signal interpretation, driver mapping, long-term strategy scoring, scenario stress testing, temporal-depth analysis, path-dependence review, option-value modeling, anticipatory governance review, futures ethics, and foresight learning memory.

@@ -1,0 +1,9 @@
+profile_id,strategy_name,organization_type,domain,short_term_return,foresight_depth,resilience,flexibility,path_dependence_risk,signal_capacity,scenario_capacity,option_value,ethics_review,governance_capacity,learning_memory,description
+FS001,Short-Term Efficiency Strategy,private_enterprise,operational_efficiency,0.86,0.24,0.32,0.28,0.71,0.30,0.26,0.30,0.34,0.42,0.28,Strong near-term return but weak long-term resilience and high lock-in risk.
+FS002,Balanced Foresight Strategy,public_private_strategy,general_strategy,0.72,0.79,0.76,0.74,0.39,0.76,0.74,0.72,0.68,0.74,0.72,Balances near-term performance with foresight depth and adaptive capability.
+FS003,Resilience-Biased Long-Horizon Strategy,public_system,climate_and_infrastructure,0.61,0.84,0.88,0.79,0.34,0.80,0.82,0.78,0.76,0.80,0.78,Prioritizes long-term resilience and future viability.
+FS004,Lock-In Prone Growth Strategy,growth_company,platform_growth,0.83,0.31,0.37,0.26,0.82,0.34,0.32,0.28,0.38,0.40,0.30,Produces near-term growth but creates path dependence and weak future flexibility.
+FS005,Anticipatory Governance Strategy,public_institution,policy_and_governance,0.64,0.82,0.78,0.72,0.42,0.78,0.80,0.70,0.82,0.86,0.80,Links foresight to governance and public responsibility.
+FS006,Scenario-Led Innovation Strategy,innovation_team,new_services,0.66,0.74,0.68,0.76,0.46,0.70,0.84,0.80,0.62,0.66,0.68,Uses scenario work to guide innovation and option design.
+FS007,Legacy Institution Strategy,large_institution,legacy_systems,0.70,0.42,0.48,0.36,0.76,0.46,0.44,0.38,0.50,0.54,0.42,Recognizes future change but remains constrained by inherited systems.
+FS008,Participatory Futures Strategy,civic_network,social_transition,0.58,0.80,0.74,0.70,0.38,0.72,0.76,0.68,0.88,0.74,0.82,Builds long-term strategy through participatory foresight and ethical review.

@@ -1,0 +1,9 @@
+path_id,profile_id,path_dependency,dependency_type,lock_in_strength,reversibility,transition_cost,capability_gap,governance_constraint,stakeholder_constraint,option_loss_risk,review_action
+PD001,FS001,Efficiency-first operating model,operational,0.68,0.38,0.52,0.56,0.42,0.44,0.62,add_future_capability_investment
+PD002,FS002,Moderate process commitments,organizational,0.42,0.68,0.46,0.38,0.40,0.42,0.36,maintain_reversibility
+PD003,FS003,Resilience infrastructure portfolio,infrastructure,0.48,0.62,0.58,0.44,0.50,0.52,0.34,monitor_transition_costs
+PD004,FS004,Proprietary platform architecture,technology,0.86,0.22,0.76,0.70,0.62,0.58,0.82,prioritize_modularity_and_exit_options
+PD005,FS005,Formal anticipatory governance process,governance,0.38,0.72,0.44,0.36,0.42,0.46,0.30,maintain_governance_flexibility
+PD006,FS006,Experimental innovation portfolio,portfolio,0.44,0.70,0.48,0.42,0.38,0.40,0.32,stage_investments
+PD007,FS007,Legacy infrastructure dependency,infrastructure,0.80,0.26,0.82,0.74,0.66,0.60,0.78,plan_transition_roadmap
+PD008,FS008,Participatory legitimacy commitments,social_governance,0.36,0.74,0.42,0.34,0.40,0.52,0.28,maintain_participatory_pathways

@@ -1,0 +1,9 @@
+driver_id,profile_id,driver_name,driver_category,impact,predictability,uncertainty,systemic_interdependence,evidence_quality,stakeholder_salience,monitoring_feasibility,review_action
+DU001,FS001,Near-term market efficiency pressure,economic,0.70,0.64,0.36,0.44,0.54,0.48,0.56,do_not_overweight_short_term_pressure
+DU002,FS002,AI-enabled institutional transformation,technology,0.84,0.38,0.78,0.78,0.68,0.72,0.70,track_governance_and_capability_impacts
+DU003,FS003,Climate adaptation pressure,environmental,0.90,0.42,0.82,0.88,0.74,0.86,0.76,prioritize_long_horizon_resilience
+DU004,FS004,Platform ecosystem concentration,technology_market,0.82,0.46,0.74,0.80,0.62,0.66,0.62,review_dependency_and_lock_in
+DU005,FS005,Public trust in anticipatory institutions,governance_social,0.80,0.34,0.80,0.76,0.64,0.84,0.66,include_legitimacy_scenarios
+DU006,FS006,New demand from alternative futures,market,0.74,0.40,0.76,0.68,0.62,0.68,0.64,explore_scenario_led_options
+DU007,FS007,Legacy system modernization constraint,infrastructure,0.78,0.50,0.66,0.82,0.68,0.70,0.70,map_transition_dependencies
+DU008,FS008,Future burden distribution,ethics_social,0.84,0.36,0.82,0.74,0.56,0.90,0.58,center_participatory_futures_review
