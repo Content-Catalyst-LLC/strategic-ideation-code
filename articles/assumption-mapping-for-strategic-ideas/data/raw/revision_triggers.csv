@@ -1,0 +1,11 @@
+trigger_id,assumption_id,trigger_name,trigger_type,signal_quality,threshold_clarity,decision_linkage,timeliness,stakeholder_visibility,governance_owner_clarity,response_options_quality,review_action
+RT001,A001,Knowledge reuse below threshold,behavior_signal,0.78,0.70,0.72,0.68,0.66,0.64,0.70,revise_incentives_or_platform_design
+RT002,A004,Legitimacy concern from affected stakeholders,stakeholder_signal,0.84,0.76,0.78,0.70,0.90,0.68,0.76,pause_and_redesign_participation
+RT003,A006,Foresight outputs not used in decisions,decision_signal,0.80,0.72,0.86,0.66,0.60,0.70,0.74,redesign_decision_integration
+RT004,A008,Countermetric divergence or gaming signal,metric_signal,0.86,0.78,0.82,0.72,0.66,0.68,0.78,stop_or_redesign_metric_push
+RT005,A010,AI outputs score below expert baseline,quality_signal,0.78,0.70,0.76,0.74,0.58,0.66,0.72,revise_ai_workflow_governance
+RT006,A015,Weak pilots continue despite failure evidence,governance_signal,0.82,0.76,0.84,0.70,0.62,0.76,0.80,enforce_stop_rules
+RT007,A016,Burden review identifies high-risk harm,ethical_signal,0.88,0.82,0.86,0.72,0.90,0.74,0.84,redesign_or_stop_implementation
+RT008,A019,Scenario assumption invalidated by horizon signal,futures_signal,0.76,0.70,0.72,0.68,0.54,0.66,0.74,update_scenario_set
+RT009,A020,Data readiness below threshold,technical_signal,0.84,0.80,0.86,0.74,0.56,0.78,0.82,pause_ai_pilot_until_remediated
+RT010,A018,Frontline burden exceeds threshold,implementation_signal,0.86,0.78,0.84,0.72,0.88,0.72,0.82,redesign_service_workflow

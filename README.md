@@ -111,3 +111,7 @@ This repository includes advanced workflows for leverage-point diagnostics, stru
 ## Boundary Setting in Strategic Ideation
 
 This repository includes advanced workflows for boundary-setting diagnostics, stakeholder boundary review, causal-frame comparison, temporal-scope scoring, institutional responsibility mapping, evidence-boundary review, ethical boundary analysis, option sensitivity testing, boundary drift detection, revision-trigger design, learning loops, and decision-memory records.
+
+## Assumption Mapping for Strategic Ideas
+
+This repository includes advanced workflows for assumption mapping, criticality scoring, uncertainty review, evidence-strength assessment, stakeholder sensitivity analysis, assumption test prioritization, prototype learning design, theory-of-change assumption review, option confidence scoring, revision-trigger design, learning loops, and decision-memory records.

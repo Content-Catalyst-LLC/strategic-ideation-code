@@ -1,0 +1,34 @@
+title: "Assumption Mapping for Strategic Ideas"
+slug: "assumption-mapping-for-strategic-ideas"
+series: "Strategic Ideation"
+repository: "https://github.com/Content-Catalyst-LLC/strategic-ideation-code"
+article_folder: "articles/assumption-mapping-for-strategic-ideas"
+purpose: "Advanced strategist-facing companion code for assumption mapping, criticality scoring, uncertainty review, evidence-strength assessment, stakeholder sensitivity analysis, assumption test prioritization, prototype learning design, theory-of-change assumption review, option confidence scoring, revision-trigger design, learning loops, and decision-memory records."
+status: "advanced scaffold"
+professional_use_cases:
+  - "Assumption mapping"
+  - "Criticality and uncertainty scoring"
+  - "Evidence-adjusted risk review"
+  - "Test prioritization"
+  - "Prototype learning design"
+  - "Theory-of-change assumption review"
+  - "Option confidence scoring"
+  - "Stakeholder sensitivity analysis"
+  - "Capacity and institutional readiness review"
+  - "System response and feedback assumption review"
+  - "Future-facing assumption review"
+  - "Revision-trigger and decision-memory systems"
+languages:
+  - python
+  - r
+  - julia
+  - sql
+  - rust
+  - go
+  - cpp
+  - fortran
+  - c
+notes:
+  - "Uses synthetic data only."
+  - "Designed for strategists, systems thinkers, product strategists, policy teams, innovation teams, foresight practitioners, public-sector teams, sustainability teams, analysts, consultants, organizational leaders, and knowledge architects."
+  - "Not a substitute for stakeholder judgment, ethical review, domain expertise, or participatory governance."

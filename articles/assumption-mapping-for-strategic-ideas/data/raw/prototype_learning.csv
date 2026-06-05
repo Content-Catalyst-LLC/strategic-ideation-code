@@ -1,0 +1,9 @@
+prototype_id,idea_id,assumption_id,prototype_name,prototype_type,assumption_fit,learning_speed,learning_depth,realism,stakeholder_inclusion,scale_signal_quality,cost_efficiency,ethical_safety,decision_usefulness,review_action
+P001,I001,A001,knowledge_reuse_minimum_viable_workflow,workflow_prototype,0.86,0.70,0.78,0.72,0.66,0.58,0.72,0.78,0.80,run_pilot
+P002,I002,A004,legitimacy_co_design_session,participatory_prototype,0.90,0.66,0.84,0.68,0.94,0.60,0.64,0.90,0.84,run_before_design_commitment
+P003,I003,A006,foresight_decision_room_simulation,decision_prototype,0.82,0.58,0.78,0.72,0.60,0.62,0.66,0.78,0.86,run_with_leaders
+P004,I004,A008,target_countermetric_trial,metric_prototype,0.76,0.72,0.70,0.70,0.60,0.60,0.74,0.72,0.78,test_countermetrics
+P005,I005,A010,ai_idea_quality_review_sprint,ai_workflow_prototype,0.84,0.78,0.76,0.62,0.56,0.54,0.78,0.74,0.76,run_blind_review
+P006,I007,A015,portfolio_stop_rule_tabletop,governance_prototype,0.88,0.72,0.82,0.70,0.62,0.64,0.76,0.80,0.86,run_tabletop
+P007,I008,A016,burden_visibility_precheck,ethical_prototype,0.90,0.64,0.86,0.66,0.92,0.62,0.68,0.92,0.88,use_as_approval_gate
+P008,I005,A020,data_readiness_dry_run,technical_prototype,0.82,0.70,0.80,0.76,0.52,0.68,0.70,0.84,0.82,complete_before_ai_pilot

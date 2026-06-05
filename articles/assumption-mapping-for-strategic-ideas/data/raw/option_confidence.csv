@@ -1,0 +1,9 @@
+option_id,idea_id,option_name,expected_value,assumption_risk,commitment_risk,evidence_strength,learning_value,reversibility,stakeholder_legitimacy,implementation_readiness,system_resilience,decision_recommendation
+OC001,I001,Build platform after behavior pilot,0.78,0.52,0.44,0.46,0.82,0.60,0.62,0.58,0.60,test_then_phase
+OC002,I002,Launch stakeholder-centered redesign pilot,0.84,0.48,0.40,0.50,0.86,0.56,0.84,0.60,0.68,test_with_participatory_governance
+OC003,I003,Create recurring foresight decision cycle,0.76,0.50,0.38,0.44,0.88,0.66,0.58,0.62,0.70,test_decision_use_before_scaling
+OC004,I004,Scale short-term metric push,0.62,0.62,0.38,0.36,0.42,0.72,0.50,0.78,0.42,do_not_scale_without_countermetrics
+OC005,I005,Pilot AI-assisted ideation with governance,0.80,0.54,0.42,0.48,0.84,0.64,0.66,0.62,0.64,pilot_with_quality_and_ethics_review
+OC006,I006,Start cross-functional strategy council,0.72,0.50,0.48,0.42,0.78,0.46,0.60,0.52,0.60,prototype_governance_before_formalizing
+OC007,I007,Run adaptive pilot portfolio,0.84,0.46,0.34,0.52,0.92,0.72,0.70,0.58,0.74,recommended_with_stop_rules
+OC008,I008,Adopt equity and burden review standard,0.76,0.44,0.32,0.50,0.80,0.66,0.86,0.62,0.72,recommended_with_decision_gate

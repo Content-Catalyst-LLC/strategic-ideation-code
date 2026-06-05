@@ -1,0 +1,21 @@
+assumption_id,idea_id,assumption_statement,assumption_type,criticality,uncertainty,evidence_strength,evidence_relevance,evidence_transferability,testability,reversibility,stakeholder_sensitivity,time_sensitivity,system_sensitivity,decision_owner,review_action
+A001,I001,Users will contribute and reuse knowledge consistently,behavior,0.86,0.70,0.38,0.62,0.54,0.78,0.56,0.72,0.64,0.70,knowledge_lead,test_first
+A002,I001,The organization has enough documentation discipline to maintain the platform,capacity,0.82,0.66,0.42,0.60,0.52,0.66,0.50,0.58,0.62,0.64,operations_lead,test_capacity
+A003,I001,Searchable knowledge will improve decision quality,mechanism,0.78,0.62,0.46,0.58,0.50,0.62,0.58,0.54,0.60,0.66,strategy_lead,test_mechanism
+A004,I002,Affected stakeholders will view the redesign process as legitimate,stakeholder_legitimacy,0.90,0.72,0.34,0.72,0.60,0.74,0.46,0.94,0.68,0.76,service_owner,test_first
+A005,I002,Administrative burden is a major cause of low access,problem_cause,0.84,0.58,0.54,0.76,0.66,0.70,0.58,0.88,0.60,0.70,research_lead,stakeholder_inquiry
+A006,I003,Decision-makers will use foresight outputs in real decisions,behavior,0.88,0.70,0.40,0.62,0.54,0.70,0.52,0.60,0.72,0.82,foresight_lead,test_decision_use
+A007,I003,Long-horizon signals can be connected to near-term choices,mechanism,0.82,0.64,0.44,0.66,0.58,0.62,0.60,0.54,0.82,0.80,policy_lead,map_decision_pathway
+A008,I004,Performance targets will improve outcomes rather than gaming metrics,incentive,0.78,0.68,0.36,0.58,0.50,0.64,0.62,0.72,0.52,0.68,performance_lead,add_countermetrics
+A009,I004,Short-term metric movement reflects real progress,evidence_transfer,0.72,0.70,0.32,0.52,0.44,0.58,0.66,0.60,0.74,0.62,analytics_lead,avoid_premature_validation
+A010,I005,AI suggestions will improve idea quality rather than amplify weak frames,technology_mechanism,0.84,0.66,0.42,0.60,0.50,0.76,0.64,0.70,0.58,0.78,innovation_lead,test_output_quality
+A011,I005,Human review will remain accountable and disciplined,governance,0.86,0.62,0.46,0.66,0.56,0.60,0.48,0.78,0.64,0.72,ethics_lead,governance_review
+A012,I006,Senior leaders will sustain participation over time,institutional,0.80,0.64,0.40,0.60,0.54,0.54,0.46,0.56,0.72,0.66,strategy_lead,commitment_review
+A013,I006,Cross-functional governance will reduce alignment drift,mechanism,0.82,0.60,0.46,0.64,0.58,0.58,0.50,0.58,0.70,0.72,governance_lead,test_alignment_signal
+A014,I007,Small pilots can produce evidence relevant to scaling decisions,evidence_transfer,0.84,0.58,0.50,0.70,0.54,0.82,0.76,0.66,0.64,0.76,portfolio_lead,define_scale_conditions
+A015,I007,Portfolio governance will stop weak pilots instead of defending them,governance,0.86,0.66,0.38,0.62,0.52,0.62,0.54,0.70,0.72,0.74,portfolio_board,define_stop_rules
+A016,I008,Burden and harm can be made visible before implementation,ethical_evidence,0.82,0.60,0.44,0.74,0.64,0.72,0.60,0.94,0.62,0.74,ethics_lead,stakeholder_review
+A017,I008,Teams will use equity review as decision input rather than compliance ritual,behavior,0.84,0.68,0.36,0.66,0.56,0.66,0.52,0.90,0.64,0.72,governance_lead,test_decision_use
+A018,I002,Service redesign will not shift burden to frontline workers,system_feedback,0.82,0.64,0.40,0.66,0.56,0.68,0.52,0.88,0.60,0.80,implementation_lead,burden_shift_review
+A019,I003,Scenario assumptions remain useful under political change,future_facing,0.76,0.72,0.34,0.58,0.48,0.52,0.64,0.48,0.86,0.78,foresight_lead,scenario_stress_test
+A020,I005,Data quality is sufficient for responsible AI-assisted workflows,technical_capacity,0.80,0.58,0.48,0.70,0.60,0.70,0.58,0.68,0.56,0.74,data_lead,data_readiness_check

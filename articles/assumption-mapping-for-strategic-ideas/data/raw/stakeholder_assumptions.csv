@@ -1,0 +1,9 @@
+stakeholder_assumption_id,assumption_id,stakeholder_group,assumed_response,inclusion_quality,affectedness,trust_dependency,burden_risk,knowledge_value,representation_quality,redress_need,review_action
+SA001,A001,knowledge_workers,Will contribute reusable knowledge,0.62,0.76,0.68,0.58,0.82,0.60,0.42,interview_and_pilot
+SA002,A004,affected_service_users,Will see process as legitimate,0.78,0.92,0.90,0.74,0.88,0.76,0.70,co_design_review
+SA003,A006,senior_decision_makers,Will use foresight outputs,0.58,0.70,0.52,0.30,0.72,0.54,0.24,decision_room_test
+SA004,A008,performance_managed_staff,Will respond constructively to targets,0.36,0.84,0.66,0.78,0.76,0.34,0.62,urgent_burden_and_metric_review
+SA005,A010,strategists,Will use AI suggestions critically,0.64,0.68,0.58,0.42,0.74,0.62,0.36,human_review_protocol
+SA006,A015,portfolio_sponsors,Will stop weak pilots,0.52,0.62,0.48,0.46,0.66,0.50,0.34,stop_rule_simulation
+SA007,A016,affected_communities,Will identify burdens early enough,0.80,0.94,0.88,0.86,0.90,0.78,0.78,participatory_burden_audit
+SA008,A017,reviewing_teams,Will use equity review in decisions,0.56,0.74,0.62,0.68,0.70,0.52,0.64,decision_linkage_review

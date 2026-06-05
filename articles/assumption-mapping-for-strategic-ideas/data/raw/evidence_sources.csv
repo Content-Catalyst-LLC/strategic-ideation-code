@@ -1,0 +1,11 @@
+evidence_id,assumption_id,evidence_type,evidence_description,reliability,relevance,transferability,timeliness,bias_risk,coverage_quality,interpretation_quality,review_action
+E001,A001,stakeholder_interviews,Interviewed prospective knowledge users about reuse behavior,0.68,0.76,0.58,0.72,0.34,0.62,0.70,expand_sample
+E002,A001,usage_analytics,Current document repository usage analytics,0.74,0.58,0.50,0.80,0.30,0.70,0.62,connect_behavior_to_context
+E003,A004,community_workshops,Workshops with affected stakeholders on redesign legitimacy,0.70,0.86,0.68,0.74,0.28,0.66,0.78,maintain_participation
+E004,A006,decision_log_review,Reviewed whether prior foresight outputs influenced decisions,0.64,0.82,0.62,0.66,0.32,0.58,0.74,improve_decision_memory
+E005,A008,performance_dashboard,Historical response to target-setting and dashboard cadence,0.76,0.60,0.54,0.78,0.44,0.72,0.60,add_countermetric_analysis
+E006,A010,prototype_output_review,Compared AI-assisted ideas to expert-reviewed baseline,0.62,0.78,0.54,0.76,0.38,0.58,0.66,repeat_with_blind_review
+E007,A015,portfolio_minutes,Review of past pilot decisions and continuation bias,0.66,0.72,0.60,0.70,0.40,0.62,0.70,define_stop_rule_evidence
+E008,A016,burden_mapping,Stakeholder burden mapping before implementation,0.70,0.84,0.66,0.72,0.26,0.68,0.76,use_as_approval_gate
+E009,A019,horizon_scan,Horizon scan of political and regulatory uncertainty,0.58,0.74,0.52,0.82,0.36,0.60,0.66,update_quarterly
+E010,A020,data_quality_audit,Audit of completeness consistency provenance and access controls,0.78,0.86,0.70,0.74,0.24,0.76,0.80,run_before_ai_pilot

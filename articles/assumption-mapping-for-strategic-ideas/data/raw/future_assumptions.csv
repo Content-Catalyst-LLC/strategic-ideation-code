@@ -1,0 +1,9 @@
+future_assumption_id,assumption_id,future_condition,plausibility,uncertainty,strategic_dependency,monitorability,scenario_sensitivity,early_signal_quality,adaptation_options,review_cadence_quality,review_action
+F001,A006,Leadership demand for foresight will continue,0.62,0.66,0.78,0.56,0.72,0.54,0.58,0.60,monitor_decision_demand
+F002,A019,Political conditions will not invalidate the scenario set,0.54,0.76,0.76,0.62,0.86,0.58,0.64,0.66,stress_test_scenarios
+F003,A020,Data governance requirements will tighten,0.72,0.58,0.80,0.70,0.74,0.66,0.68,0.70,prepare_data_governance_path
+F004,A010,AI capability and risk profile will shift during pilot,0.76,0.64,0.72,0.68,0.80,0.62,0.72,0.68,update_ai_review_protocol
+F005,A002,Knowledge maintenance costs will rise over time,0.66,0.60,0.70,0.62,0.64,0.58,0.60,0.62,monitor_total_cost
+F006,A014,Scale conditions will differ from pilot context,0.70,0.66,0.84,0.58,0.78,0.56,0.68,0.64,define_scale_transfer_conditions
+F007,A017,Equity review may become compliance ritual under pressure,0.68,0.62,0.82,0.60,0.72,0.58,0.62,0.66,monitor_decision_use
+F008,A018,Frontline workload conditions may worsen during rollout,0.64,0.64,0.76,0.62,0.70,0.60,0.66,0.64,watch_burden_thresholds

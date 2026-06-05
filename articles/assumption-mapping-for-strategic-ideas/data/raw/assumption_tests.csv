@@ -1,0 +1,11 @@
+test_id,assumption_id,test_name,test_type,test_cost,test_speed,learning_quality,decision_relevance,stakeholder_inclusion,implementation_realism,scale_relevance,ethical_safety,success_threshold,decision_if_failed
+T001,A001,knowledge_reuse_behavior_pilot,behavioral_pilot,0.44,0.62,0.82,0.82,0.66,0.72,0.58,0.78,0.55,revise_platform_incentives
+T002,A004,legitimacy_and_burden_workshop,stakeholder_inquiry,0.36,0.66,0.84,0.80,0.92,0.62,0.54,0.88,0.70,pause_redesign_until_legitimacy_gap_addressed
+T003,A006,foresight_decision_use_test,decision_simulation,0.40,0.60,0.78,0.86,0.58,0.66,0.62,0.76,0.60,redesign_decision_integration
+T004,A008,countermetric_target_test,incentive_test,0.38,0.68,0.76,0.78,0.62,0.70,0.60,0.72,0.50,add_countermetrics_or_stop_push
+T005,A010,ai_ideation_quality_blind_review,prototype_test,0.32,0.74,0.80,0.76,0.56,0.62,0.54,0.74,0.65,adjust_prompting_and_review_governance
+T006,A015,pilot_stop_rule_simulation,governance_simulation,0.34,0.70,0.82,0.84,0.60,0.70,0.64,0.78,0.70,strengthen_portfolio_governance
+T007,A016,preimplementation_burden_audit,ethical_review,0.42,0.58,0.86,0.82,0.88,0.66,0.62,0.90,0.75,redesign_or_add_redress_path
+T008,A019,scenario_stress_test,futures_test,0.46,0.52,0.76,0.74,0.48,0.58,0.70,0.72,0.60,add_adaptive_pathways
+T009,A020,data_readiness_pilot,technical_audit,0.40,0.64,0.80,0.82,0.54,0.72,0.68,0.82,0.75,pause_ai_workflow_until_data_ready
+T010,A018,frontline_burden_shift_probe,implementation_probe,0.38,0.62,0.84,0.82,0.86,0.76,0.64,0.86,0.70,revise_service_workflow

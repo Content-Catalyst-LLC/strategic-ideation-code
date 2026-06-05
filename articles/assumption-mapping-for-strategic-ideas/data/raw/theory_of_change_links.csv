@@ -1,0 +1,11 @@
+toc_link_id,idea_id,assumption_id,link_stage,link_description,mechanism_clarity,evidence_strength,actor_response_dependency,capacity_dependency,system_dependency,ethical_dependency,failure_consequence,review_action
+TC001,I001,A001,activity_to_participation,Users must contribute and reuse knowledge for the platform to matter,0.70,0.38,0.86,0.62,0.58,0.52,0.80,test_reuse_behavior
+TC002,I001,A003,participation_to_outcome,Knowledge reuse must improve decision quality,0.64,0.46,0.70,0.56,0.66,0.46,0.74,test_decision_quality_mechanism
+TC003,I002,A004,process_to_legitimacy,Stakeholder participation must create legitimacy for redesign,0.72,0.34,0.82,0.58,0.68,0.90,0.86,test_legitimacy_assumption
+TC004,I002,A018,implementation_to_outcome,Redesign must reduce user burden without increasing frontline burden,0.68,0.40,0.76,0.70,0.80,0.88,0.84,review_burden_shift
+TC005,I003,A006,output_to_decision,Foresight outputs must be used in real decisions,0.66,0.40,0.88,0.58,0.82,0.48,0.82,decision_use_test
+TC006,I004,A008,target_to_behavior,Performance targets must improve outcomes rather than create gaming,0.58,0.36,0.78,0.54,0.68,0.72,0.80,add_countermetrics
+TC007,I005,A010,tool_to_idea_quality,AI workflow must improve idea quality not amplify weak frames,0.64,0.42,0.70,0.62,0.78,0.76,0.82,blind_quality_review
+TC008,I007,A015,learning_to_portfolio_decision,Portfolio governance must stop weak pilots,0.62,0.38,0.72,0.66,0.74,0.70,0.84,stop_rule_simulation
+TC009,I008,A017,review_to_decision,Equity review must influence decisions rather than become ritual,0.64,0.36,0.78,0.60,0.72,0.92,0.86,test_review_decision_linkage
+TC010,I008,A016,burden_to_redesign,Burden and harm must be visible before implementation,0.70,0.44,0.74,0.62,0.74,0.94,0.88,ethical_evidence_review

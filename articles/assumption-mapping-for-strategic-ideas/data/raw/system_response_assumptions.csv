@@ -1,0 +1,9 @@
+system_assumption_id,assumption_id,system_response,feedback_risk,adaptation_risk,burden_shift_risk,delay_risk,metric_gaming_risk,resistance_risk,leverage_relevance,monitoring_quality,review_action
+SR001,A001,Knowledge system may create contribution burden without reuse norms,0.62,0.66,0.58,0.54,0.40,0.56,0.70,0.58,monitor_reuse_and_contribution_load
+SR002,A004,Legitimacy may improve if participation influences decisions,0.54,0.52,0.44,0.46,0.30,0.42,0.74,0.62,track_participation_to_decision_path
+SR003,A008,Targets may produce metric gaming and burden shift,0.78,0.82,0.74,0.56,0.88,0.70,0.62,0.50,add_countermetrics_and_burden_review
+SR004,A010,AI workflow may reinforce weak frames or common ideas,0.72,0.68,0.52,0.42,0.54,0.58,0.76,0.56,blind_quality_and_bias_review
+SR005,A015,Portfolio governance may defend pilots due to sunk-cost dynamics,0.70,0.74,0.50,0.58,0.42,0.72,0.78,0.54,define_stop_rules_and_review_cadence
+SR006,A016,Burden review may reveal hidden implementation harms,0.58,0.54,0.82,0.62,0.36,0.48,0.72,0.66,build_redress_and_revision_path
+SR007,A019,Political shifts may change scenario relevance,0.64,0.70,0.46,0.78,0.32,0.66,0.80,0.58,update_scenarios_and_triggers
+SR008,A020,Data quality issues may create downstream AI risk,0.68,0.62,0.54,0.50,0.46,0.58,0.76,0.70,gate_ai_pilot_on_data_readiness
