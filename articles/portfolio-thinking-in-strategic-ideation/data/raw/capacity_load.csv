@@ -1,0 +1,11 @@
+capacity_id,idea_id,budget_demand,staff_demand,leadership_attention,technical_capacity_demand,governance_bandwidth,stakeholder_absorption,communication_load,available_capacity,review_action
+CL001,PT001,0.42,0.44,0.34,0.38,0.30,0.36,0.32,0.76,manageable_core_work
+CL002,PT002,0.36,0.38,0.42,0.44,0.46,0.50,0.42,0.68,keep_experiment_lean
+CL003,PT003,0.68,0.64,0.58,0.78,0.58,0.52,0.50,0.62,stage_platform_work
+CL004,PT004,0.88,0.84,0.82,0.74,0.76,0.70,0.68,0.54,reduce_or_stage_bet
+CL005,PT005,0.56,0.58,0.50,0.52,0.54,0.46,0.44,0.66,protect_capacity_for_resilience
+CL006,PT006,0.46,0.52,0.48,0.34,0.58,0.72,0.62,0.64,manage_stakeholder_fatigue
+CL007,PT007,0.34,0.36,0.44,0.32,0.42,0.38,0.40,0.70,connect_to_review_cycle
+CL008,PT008,0.58,0.60,0.52,0.44,0.48,0.40,0.38,0.56,review_capacity_release
+CL009,PT009,0.74,0.70,0.66,0.86,0.62,0.48,0.52,0.58,sequence_foundation_before_scale
+CL010,PT010,0.44,0.46,0.48,0.38,0.70,0.56,0.54,0.66,avoid_governance_overload

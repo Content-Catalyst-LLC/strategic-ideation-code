@@ -1,0 +1,11 @@
+idea_id,idea_name,role,time_horizon,impact,risk,learning_value,option_value,strategic_fit,capacity_demand,ethical_resilience,evidence_strength,dependency_count,governance_readiness,description
+PT001,Core Process Improvement,core_improvement,short_term,0.68,0.32,0.38,0.34,0.72,0.44,0.58,0.78,1,0.70,Improves current operations with relatively low risk but limited future learning.
+PT002,Exploratory Market Experiment,exploration,medium_term,0.58,0.56,0.84,0.76,0.62,0.38,0.62,0.52,2,0.64,Tests emerging opportunity and generates evidence before larger commitment.
+PT003,Modular Platform Investment,option_preservation,medium_term,0.74,0.42,0.68,0.86,0.78,0.66,0.70,0.60,4,0.72,Builds modular capability that preserves future switching and scaling options.
+PT004,Transformational Strategic Bet,transformation,long_term,0.88,0.78,0.70,0.62,0.70,0.86,0.48,0.44,5,0.54,High-upside strategic bet with substantial exposure and capacity demand.
+PT005,Resilience Capability Build,resilience,long_term,0.64,0.36,0.52,0.70,0.74,0.58,0.78,0.66,3,0.68,Builds shock absorption and reduces fragility across future scenarios.
+PT006,Participatory Legitimacy Initiative,legitimacy,medium_term,0.60,0.38,0.66,0.58,0.68,0.52,0.86,0.62,2,0.70,Builds trust, stakeholder voice, and social permission for future strategy.
+PT007,Long-Horizon Foresight Option,foresight,long_term,0.52,0.44,0.88,0.82,0.64,0.42,0.74,0.48,2,0.62,Explores weak signals and future scenarios that could reshape strategy.
+PT008,Legacy Initiative Renewal,legacy_review,short_term,0.50,0.46,0.34,0.30,0.48,0.62,0.44,0.70,3,0.46,Reassesses an older commitment that may be consuming capacity without clear value.
+PT009,Data Infrastructure Foundation,capability_build,medium_term,0.70,0.40,0.64,0.74,0.80,0.72,0.66,0.58,5,0.74,Builds enabling infrastructure that unlocks later portfolio options.
+PT010,Ethical Safeguards Program,ethics_governance,short_term,0.56,0.30,0.60,0.62,0.76,0.48,0.92,0.64,2,0.78,Strengthens review, accountability, and harm prevention across the portfolio.

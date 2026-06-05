@@ -1,0 +1,39 @@
+title: "Portfolio Thinking in Strategic Ideation"
+slug: "portfolio-thinking-in-strategic-ideation"
+series: "Strategic Ideation"
+repository: "https://github.com/Content-Catalyst-LLC/strategic-ideation-code"
+article_folder: "articles/portfolio-thinking-in-strategic-ideation"
+previous_article:
+  title: "Option Value and Strategic Flexibility"
+  slug: "option-value-and-strategic-flexibility"
+next_article:
+  title: "Decision Matrices and Their Limits"
+  slug: "decision-matrices-and-their-limits"
+purpose: "Advanced strategist-facing companion code for strategic idea portfolio analysis, portfolio role mapping, risk-return-learning comparison, option-value review, time-horizon balance, capacity load analysis, dependency mapping, sequencing review, ethics and power analysis, portfolio governance, and decision-memory documentation."
+status: "advanced scaffold"
+professional_use_cases:
+  - "Strategic idea portfolio diagnostics"
+  - "Portfolio role mapping"
+  - "Risk-return-learning comparison"
+  - "Option-value review"
+  - "Time-horizon balance"
+  - "Capacity load analysis"
+  - "Dependency and sequencing review"
+  - "Exploration/exploitation balance"
+  - "Ethics and power review"
+  - "Portfolio governance and pruning rules"
+  - "Decision-memory documentation"
+languages:
+  - python
+  - r
+  - julia
+  - sql
+  - rust
+  - go
+  - cpp
+  - fortran
+  - c
+notes:
+  - "Uses synthetic data only."
+  - "Designed for strategists, innovation teams, decision scientists, foresight teams, policy teams, product teams, executives, consultants, analysts, systems thinkers, and knowledge architects."
+  - "Not a substitute for executive judgment, stakeholder engagement, ethical review, legal review, domain expertise, accountable governance, or responsible implementation."

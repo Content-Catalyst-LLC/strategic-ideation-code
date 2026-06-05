@@ -1,0 +1,11 @@
+profile_id,idea_id,implementation_risk,strategic_risk,ethical_risk,systemic_risk,opportunity_cost,learning_quality,assumption_clarity,evidence_gap,review_action
+RL001,PT001,0.28,0.26,0.30,0.24,0.38,0.42,0.78,0.24,maintain_operational_focus
+RL002,PT002,0.42,0.54,0.36,0.44,0.48,0.82,0.58,0.52,protect_learning_option
+RL003,PT003,0.52,0.44,0.38,0.46,0.56,0.68,0.62,0.44,review_platform_dependencies
+RL004,PT004,0.78,0.82,0.62,0.70,0.74,0.72,0.46,0.62,stage_transformational_bet
+RL005,PT005,0.44,0.34,0.28,0.36,0.50,0.54,0.66,0.36,protect_resilience_investment
+RL006,PT006,0.38,0.36,0.24,0.34,0.44,0.66,0.64,0.34,maintain_participatory_evidence
+RL007,PT007,0.32,0.46,0.30,0.42,0.40,0.88,0.54,0.58,connect_foresight_to_decisions
+RL008,PT008,0.40,0.58,0.46,0.52,0.70,0.30,0.72,0.26,retire_or_reframe_legacy_work
+RL009,PT009,0.58,0.42,0.34,0.44,0.62,0.64,0.60,0.48,sequence_foundational_capacity
+RL010,PT010,0.34,0.30,0.18,0.28,0.36,0.62,0.68,0.32,maintain_ethics_governance

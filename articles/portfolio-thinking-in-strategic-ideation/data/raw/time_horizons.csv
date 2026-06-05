@@ -1,0 +1,11 @@
+horizon_id,idea_id,immediate_value,short_term_value,medium_term_value,long_term_value,intergenerational_value,near_term_pressure,deferred_value,review_action
+TH001,PT001,0.70,0.74,0.58,0.42,0.34,0.64,0.38,avoid_overweighting_short_term
+TH002,PT002,0.38,0.52,0.72,0.66,0.52,0.42,0.70,protect_exploratory_time_horizon
+TH003,PT003,0.34,0.50,0.76,0.84,0.68,0.46,0.82,stage_medium_term_build
+TH004,PT004,0.28,0.42,0.62,0.88,0.70,0.58,0.86,avoid_rushing_transformational_bet
+TH005,PT005,0.32,0.48,0.66,0.82,0.86,0.40,0.84,protect_long_horizon_resilience
+TH006,PT006,0.42,0.56,0.72,0.76,0.78,0.44,0.76,build_legitimacy_over_time
+TH007,PT007,0.24,0.36,0.64,0.84,0.82,0.34,0.88,connect_foresight_to_decisions
+TH008,PT008,0.46,0.44,0.38,0.28,0.22,0.52,0.24,review_legacy_drag
+TH009,PT009,0.30,0.46,0.74,0.86,0.72,0.50,0.82,protect_foundational_sequence
+TH010,PT010,0.48,0.58,0.68,0.76,0.84,0.46,0.78,maintain_ethics_horizon

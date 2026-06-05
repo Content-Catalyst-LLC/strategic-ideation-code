@@ -1,0 +1,11 @@
+role,target_share,minimum_share,maximum_share,strategic_rationale
+core_improvement,0.16,0.10,0.25,Maintain current performance without crowding out adaptation.
+exploration,0.12,0.08,0.20,Preserve learning under uncertainty.
+option_preservation,0.12,0.08,0.20,Keep future pathways open.
+transformation,0.12,0.06,0.18,Create transformational upside while limiting overexposure.
+resilience,0.12,0.08,0.18,Protect against shock and fragility.
+legitimacy,0.10,0.06,0.16,Build trust and stakeholder support.
+foresight,0.08,0.04,0.14,Maintain long-horizon readiness.
+legacy_review,0.06,0.02,0.10,Prevent stale commitments and strategic debt.
+capability_build,0.08,0.05,0.16,Build foundations needed for future pathways.
+ethics_governance,0.04,0.03,0.10,Protect accountability and responsible use.

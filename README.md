@@ -175,3 +175,7 @@ This repository includes advanced workflows for risk and tradeoff diagnostics, s
 ## Option Value and Strategic Flexibility
 
 This repository includes advanced workflows for option-value diagnostics, strategic flexibility scoring, learning-value analysis, staged-commitment review, lock-in and reversibility assessment, modularity and switching analysis, scenario stress testing, option-expiration review, governance trigger design, ethical burden analysis, and decision-memory documentation.
+
+## Portfolio Thinking in Strategic Ideation
+
+This repository includes advanced workflows for strategic idea portfolio analysis, portfolio role mapping, risk-return-learning comparison, option-value review, time-horizon balance, capacity load analysis, dependency mapping, sequencing review, ethics and power analysis, portfolio governance, and decision-memory documentation.

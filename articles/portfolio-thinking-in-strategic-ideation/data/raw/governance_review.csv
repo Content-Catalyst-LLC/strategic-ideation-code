@@ -1,0 +1,11 @@
+governance_id,idea_id,entry_rule_quality,review_cadence_quality,pruning_rule_quality,evidence_standard_quality,decision_rights_clarity,escalation_path_quality,decision_memory_quality,portfolio_visibility,review_action
+GV001,PT001,0.70,0.68,0.62,0.74,0.70,0.62,0.66,0.72,maintain_core_review
+GV002,PT002,0.64,0.66,0.68,0.70,0.62,0.60,0.64,0.66,protect_learning_review
+GV003,PT003,0.68,0.70,0.62,0.66,0.68,0.66,0.70,0.74,maintain_platform_governance
+GV004,PT004,0.52,0.54,0.48,0.50,0.56,0.52,0.48,0.60,strengthen_bet_governance
+GV005,PT005,0.66,0.64,0.60,0.62,0.64,0.60,0.66,0.68,protect_resilience_review
+GV006,PT006,0.70,0.68,0.62,0.66,0.66,0.64,0.70,0.72,maintain_participatory_governance
+GV007,PT007,0.58,0.56,0.52,0.60,0.54,0.56,0.62,0.60,connect_foresight_to_portfolio_review
+GV008,PT008,0.46,0.42,0.38,0.52,0.44,0.40,0.36,0.48,define_retirement_rules
+GV009,PT009,0.64,0.66,0.58,0.62,0.66,0.64,0.68,0.70,stage_foundation_governance
+GV010,PT010,0.74,0.72,0.66,0.70,0.72,0.70,0.76,0.74,maintain_ethics_review

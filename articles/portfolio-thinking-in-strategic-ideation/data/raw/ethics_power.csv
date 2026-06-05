@@ -1,0 +1,11 @@
+ethics_id,idea_id,ethical_issue,sponsor_power,affected_stakeholder_voice,benefit_concentration,burden_concentration,long_term_responsibility,transparency,redress_quality,review_action
+EP001,PT001,Efficiency gains may reduce slack for frontline teams,0.62,0.54,0.50,0.44,0.40,0.58,0.50,review_frontline_burden
+EP002,PT002,Experiment may privilege early adopters over quieter users,0.48,0.58,0.46,0.42,0.48,0.62,0.54,broaden_participant_voice
+EP003,PT003,Platform decisions may create future lock-in for users,0.70,0.50,0.62,0.58,0.68,0.56,0.48,review_platform_power
+EP004,PT004,Transformational bet may concentrate downside on low-power groups,0.82,0.42,0.76,0.74,0.70,0.46,0.38,urgent_distributional_review
+EP005,PT005,Resilience investment benefits future users but consumes current resources,0.58,0.62,0.44,0.46,0.86,0.64,0.58,explain_stewardship_tradeoff
+EP006,PT006,Participation must not become symbolic consultation,0.52,0.82,0.42,0.36,0.70,0.74,0.66,maintain_participatory_accountability
+EP007,PT007,Foresight may underrepresent communities outside dominant imagination,0.46,0.56,0.38,0.40,0.88,0.60,0.52,diversify_future_imagination
+EP008,PT008,Legacy initiative may persist because of internal politics,0.76,0.38,0.54,0.62,0.34,0.42,0.36,review_legacy_power
+EP009,PT009,Infrastructure choices may determine whose work becomes visible,0.68,0.52,0.58,0.54,0.74,0.58,0.50,govern_data_infrastructure_ethically
+EP010,PT010,Governance program must not become procedural theater,0.50,0.68,0.40,0.32,0.82,0.76,0.70,maintain_substantive_ethics

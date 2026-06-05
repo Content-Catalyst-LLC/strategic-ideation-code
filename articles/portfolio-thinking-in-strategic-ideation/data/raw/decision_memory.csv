@@ -1,0 +1,11 @@
+memory_id,idea_id,memory_practice,role_record_quality,evidence_record_quality,risk_record_quality,dependency_record_quality,capacity_record_quality,ethics_record_quality,decision_gate_record_quality,revision_history_quality,reuse_quality,review_action
+DM001,PT001,Core improvement record,0.70,0.72,0.66,0.58,0.64,0.58,0.62,0.60,0.66,maintain_operational_memory
+DM002,PT002,Exploration learning record,0.68,0.66,0.62,0.60,0.58,0.62,0.68,0.64,0.70,document_learning_pathway
+DM003,PT003,Platform option record,0.72,0.64,0.68,0.76,0.70,0.64,0.66,0.68,0.72,document_modularity_choices
+DM004,PT004,Transformation bet record,0.58,0.46,0.52,0.54,0.48,0.42,0.44,0.40,0.46,create_stronger_bet_memory
+DM005,PT005,Resilience investment record,0.66,0.62,0.64,0.60,0.58,0.72,0.64,0.62,0.68,maintain_resilience_memory
+DM006,PT006,Legitimacy initiative record,0.70,0.64,0.60,0.58,0.56,0.78,0.66,0.64,0.72,protect_participatory_memory
+DM007,PT007,Foresight option record,0.62,0.58,0.56,0.54,0.50,0.66,0.58,0.60,0.66,connect_foresight_memory_to_strategy
+DM008,PT008,Legacy review record,0.44,0.50,0.48,0.46,0.42,0.40,0.36,0.34,0.38,rebuild_or_retire_memory
+DM009,PT009,Infrastructure foundation record,0.68,0.60,0.62,0.74,0.72,0.64,0.66,0.64,0.70,maintain_foundation_memory
+DM010,PT010,Ethics governance record,0.72,0.66,0.64,0.60,0.58,0.82,0.70,0.68,0.74,maintain_ethics_memory
