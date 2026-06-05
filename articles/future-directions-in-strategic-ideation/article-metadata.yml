@@ -1,0 +1,40 @@
+title: "Future Directions in Strategic Ideation"
+slug: "future-directions-in-strategic-ideation"
+series: "Strategic Ideation"
+repository: "https://github.com/Content-Catalyst-LLC/strategic-ideation-code"
+article_folder: "articles/future-directions-in-strategic-ideation"
+previous_article:
+  title: "Bad Ideas and Strategic Failure"
+  slug: "bad-ideas-and-strategic-failure"
+next_article:
+  title: "Series End"
+  slug: null
+series_position: "final"
+purpose: "Advanced strategist-facing companion code for future-ready strategic ideation diagnostics, AI-assisted ideation governance, collective intelligence mapping, scenario-linked idea testing, option portfolio design, evidence and experimentation review, ethical ideation governance, knowledge architecture, sustainability-oriented systems review, public-sector ideation, adaptive implementation, and learning-loop design."
+status: "advanced scaffold"
+professional_use_cases:
+  - "Future-ready strategic ideation diagnostics"
+  - "AI-assisted ideation governance"
+  - "Collective intelligence mapping"
+  - "Scenario-linked idea testing"
+  - "Option portfolio design"
+  - "Evidence and experimentation review"
+  - "Ethical ideation governance"
+  - "Knowledge architecture and institutional memory diagnostics"
+  - "Sustainability-oriented systems review"
+  - "Public-sector and democratic ideation assessment"
+  - "Adaptive implementation and learning-loop design"
+languages:
+  - python
+  - r
+  - julia
+  - sql
+  - rust
+  - go
+  - cpp
+  - fortran
+  - c
+notes:
+  - "Uses synthetic data only."
+  - "Designed for strategists, policy teams, public-sector teams, transformation teams, sustainability teams, governance teams, ethics review teams, knowledge architects, executives, consultants, analysts, content strategists, communications leaders, and systems thinkers."
+  - "Not a substitute for executive judgment, stakeholder engagement, ethical review, legal review, information governance, privacy review, domain expertise, accountable governance, or responsible institutional change."

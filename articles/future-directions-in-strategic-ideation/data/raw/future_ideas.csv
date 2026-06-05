@@ -1,0 +1,9 @@
+idea_id,idea,idea_type,problem_frame_quality,evidence_quality,adaptability,scenario_robustness,stakeholder_legitimacy,implementation_readiness,ethical_visibility,learning_design,option_value,ai_governance,systems_responsibility,description
+FI001,AI-Governed Strategic Idea Repository,knowledge_infrastructure,0.72,0.68,0.76,0.70,0.64,0.66,0.70,0.82,0.76,0.72,0.68,Repository idea with AI governance and institutional learning potential.
+FI002,Scenario-Linked Option Portfolio,portfolio_strategy,0.78,0.72,0.84,0.86,0.70,0.70,0.76,0.86,0.90,0.62,0.78,Option portfolio that preserves flexibility across plausible futures.
+FI003,Participatory Strategy Lab,participatory_strategy,0.80,0.74,0.78,0.72,0.86,0.64,0.84,0.78,0.72,0.56,0.74,Distributed strategic ideation system using stakeholder and frontline voice.
+FI004,Climate Resilience Innovation Fund,sustainability_strategy,0.82,0.76,0.80,0.84,0.78,0.68,0.86,0.80,0.82,0.58,0.90,Long-term resilience fund with scenario stress testing and public value logic.
+FI005,Rapid Automation Initiative,technology_strategy,0.54,0.52,0.48,0.46,0.42,0.50,0.44,0.42,0.46,0.38,0.40,Automation idea with weak legitimacy AI governance and scenario robustness.
+FI006,Institutional Memory Repair Program,learning_strategy,0.76,0.70,0.74,0.72,0.68,0.72,0.72,0.84,0.70,0.60,0.70,Program to repair decision memory and retrieve prior strategic learning.
+FI007,Public Value Idea Observatory,public_sector_strategy,0.78,0.72,0.76,0.78,0.82,0.64,0.84,0.76,0.72,0.56,0.82,Public-facing idea observatory designed for legitimacy transparency and accountability.
+FI008,Systems Resilience Capability Platform,systems_strategy,0.80,0.74,0.82,0.84,0.74,0.70,0.82,0.80,0.84,0.58,0.88,Capability platform linking systems thinking resilience and strategic ideation.

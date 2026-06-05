@@ -1,0 +1,9 @@
+ai_id,idea_id,ai_use_case,disclosure_quality,source_traceability,human_review,bias_review,stakeholder_review,uncertainty_preservation,accountability_clarity,fluency_risk,review_action
+AI001,FI001,classification_and_retrieval,0.76,0.74,0.78,0.70,0.64,0.72,0.76,0.36,maintain_repository_ai_governance
+AI002,FI002,scenario_option_synthesis,0.62,0.60,0.68,0.58,0.56,0.66,0.64,0.42,improve_source_traceability_for_scenarios
+AI003,FI003,participation_synthesis,0.58,0.56,0.70,0.60,0.76,0.64,0.66,0.44,preserve_stakeholder_language_and_dissent
+AI004,FI004,climate_signal_summarization,0.60,0.62,0.68,0.58,0.60,0.70,0.66,0.40,verify_climate_sources_and_uncertainty
+AI005,FI005,automation_strategy_drafting,0.40,0.42,0.46,0.36,0.32,0.38,0.42,0.82,urgent_ai_fluency_and_accountability_review
+AI006,FI006,memory_retrieval_and_tagging,0.64,0.62,0.70,0.58,0.54,0.66,0.68,0.38,maintain_memory_retrieval_audit
+AI007,FI007,public_comment_clustering,0.62,0.60,0.72,0.64,0.78,0.68,0.70,0.36,maintain_public_participation_ai_review
+AI008,FI008,systems_signal_mapping,0.58,0.60,0.68,0.60,0.56,0.68,0.66,0.42,improve_systems_source_traceability

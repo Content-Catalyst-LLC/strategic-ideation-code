@@ -1,0 +1,9 @@
+ci_id,idea_id,knowledge_source,executive_alignment,frontline_voice,stakeholder_voice,technical_expertise,analytical_support,dissent_protection,synthesis_quality,participation_influence,review_action
+CI001,FI001,knowledge_architecture_team,0.70,0.62,0.58,0.74,0.78,0.66,0.76,0.62,expand_frontline_retrieval_testing
+CI002,FI002,strategy_and_risk_team,0.76,0.60,0.64,0.70,0.82,0.70,0.80,0.66,maintain_portfolio_governance
+CI003,FI003,stakeholder_strategy_lab,0.64,0.76,0.86,0.62,0.68,0.78,0.76,0.82,protect_meaningful_participation
+CI004,FI004,sustainability_and_public_value_team,0.70,0.66,0.78,0.74,0.78,0.72,0.80,0.74,maintain_long_term_voice_and_expertise
+CI005,FI005,automation_program_team,0.78,0.42,0.38,0.62,0.56,0.36,0.50,0.34,urgent_participation_and_dissent_repair
+CI006,FI006,organizational_learning_team,0.66,0.70,0.62,0.64,0.72,0.76,0.78,0.66,maintain_memory_feedback_loops
+CI007,FI007,public_value_network,0.62,0.68,0.84,0.60,0.70,0.76,0.74,0.80,maintain_transparent_public_synthesis
+CI008,FI008,systems_resilience_network,0.70,0.68,0.72,0.80,0.78,0.74,0.82,0.70,maintain_cross_system_synthesis

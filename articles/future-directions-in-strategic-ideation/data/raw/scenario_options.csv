@@ -1,0 +1,9 @@
+scenario_option_id,idea_id,scenario,scenario_performance,adaptation_capacity,option_preservation,lock_in_risk,learning_value,resilience_contribution,review_action
+SO001,FI001,AI governance acceleration,0.74,0.76,0.78,0.38,0.82,0.70,maintain_ai_governance_and_memory_testing
+SO002,FI002,resource scarcity,0.84,0.86,0.90,0.28,0.86,0.82,maintain_option_portfolio_under_scarcity
+SO003,FI003,public trust decline,0.82,0.78,0.74,0.34,0.78,0.76,protect_stakeholder_authority_and_feedback
+SO004,FI004,climate stress intensification,0.88,0.82,0.84,0.36,0.80,0.92,maintain_long_horizon_resilience_review
+SO005,FI005,technology backlash,0.42,0.46,0.44,0.72,0.38,0.40,urgent_legitimacy_and_reversibility_review
+SO006,FI006,leadership turnover,0.74,0.76,0.72,0.32,0.84,0.70,protect_decision_memory_across_turnover
+SO007,FI007,democratic accountability pressure,0.84,0.78,0.76,0.30,0.78,0.80,maintain_public_value_transparency
+SO008,FI008,infrastructure fragility,0.86,0.84,0.84,0.34,0.82,0.90,maintain_systems_resilience_capability

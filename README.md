@@ -243,3 +243,7 @@ This repository includes advanced workflows for institutional power diagnostics,
 ## Bad Ideas and Strategic Failure
 
 This repository includes advanced workflows for bad-idea risk diagnostics, problem-frame review, evidence quality assessment, mechanism mapping, implementation readiness analysis, incentive failure modeling, ethical burden review, power distortion analysis, red-team review, narrative honesty review, learning design, stop-rule modeling, and strategic failure pathway mapping.
+
+## Future Directions in Strategic Ideation
+
+This repository includes advanced workflows for future-ready strategic ideation diagnostics, AI-assisted ideation governance, collective intelligence mapping, scenario-linked idea testing, option portfolio design, evidence and experimentation review, ethical ideation governance, knowledge architecture, sustainability-oriented systems review, public-sector ideation, adaptive implementation, and learning-loop design.

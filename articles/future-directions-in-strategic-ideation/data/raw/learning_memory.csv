@@ -1,0 +1,9 @@
+lm_id,idea_id,idea_metadata_quality,decision_memory_quality,retrieval_quality,experiment_design,stop_rule_quality,revision_trigger_quality,outcome_learning,knowledge_reuse_value,review_action
+LM001,FI001,0.82,0.80,0.84,0.70,0.74,0.76,0.78,0.86,maintain_repository_metadata_and_retrieval_tests
+LM002,FI002,0.78,0.76,0.74,0.82,0.84,0.86,0.82,0.80,maintain_option_learning_gates
+LM003,FI003,0.72,0.74,0.70,0.76,0.74,0.76,0.78,0.74,preserve_participation_decision_memory
+LM004,FI004,0.76,0.78,0.72,0.78,0.76,0.80,0.82,0.78,maintain_long_horizon_outcome_learning
+LM005,FI005,0.48,0.44,0.42,0.46,0.38,0.40,0.42,0.38,urgent_learning_and_stop_rule_design
+LM006,FI006,0.86,0.88,0.84,0.72,0.78,0.80,0.84,0.88,maintain_memory_repair_program
+LM007,FI007,0.74,0.76,0.72,0.74,0.76,0.78,0.80,0.76,maintain_public_value_learning_record
+LM008,FI008,0.78,0.80,0.76,0.78,0.80,0.82,0.82,0.80,maintain_systems_learning_architecture
