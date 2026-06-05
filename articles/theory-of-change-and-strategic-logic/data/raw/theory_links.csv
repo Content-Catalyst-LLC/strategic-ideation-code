@@ -1,0 +1,17 @@
+link_id,idea_id,link_stage,from_element,to_element,link_description,mechanism_clarity,evidence_strength,actor_dependency,capacity_dependency,system_dependency,ethical_dependency,failure_consequence,testability,review_action
+L001,I001,input_to_activity,staff_time_platform_data,knowledge_platform_build,Resources and data must support creation of a usable knowledge platform,0.72,0.58,0.48,0.78,0.62,0.46,0.70,0.72,capacity_review
+L002,I001,activity_to_participation,knowledge_platform_build,user_contribution_and_reuse,Users must contribute and reuse knowledge for the platform to matter,0.66,0.38,0.86,0.62,0.58,0.52,0.80,0.78,test_reuse_behavior
+L003,I001,participation_to_outcome,user_contribution_and_reuse,better_decision_quality,Knowledge reuse must improve decision quality rather than merely document volume,0.62,0.42,0.72,0.56,0.66,0.46,0.76,0.64,test_decision_quality_mechanism
+L004,I002,activity_to_participation,co_design_process,stakeholder_legitimacy,Participation must create legitimacy by influencing decisions,0.72,0.44,0.82,0.58,0.68,0.90,0.86,0.74,trace_decision_influence
+L005,I002,participation_to_outcome,service_redesign,user_burden_reduction,Service redesign must reduce user burden without shifting burden to frontline teams,0.68,0.40,0.76,0.70,0.80,0.88,0.84,0.68,burden_shift_review
+L006,I003,output_to_decision,foresight_outputs,strategic_decision_use,Foresight outputs must be used in real decisions before crisis conditions,0.66,0.40,0.88,0.58,0.82,0.48,0.82,0.70,decision_use_test
+L007,I003,outcome_to_impact,scenario_readiness,strategic_resilience,Scenario readiness must improve resilience across plausible futures,0.58,0.34,0.58,0.52,0.88,0.64,0.82,0.48,scenario_stress_test
+L008,I004,activity_to_behavior,target_setting,performance_behavior,Performance targets must improve outcomes rather than metric gaming,0.56,0.36,0.78,0.54,0.68,0.72,0.80,0.64,countermetric_test
+L009,I004,output_to_outcome,dashboard_movement,real_progress,Short-term metric movement must reflect real progress,0.48,0.32,0.62,0.48,0.64,0.60,0.78,0.58,avoid_output_outcome_confusion
+L010,I005,activity_to_output,ai_workflow,expanded_idea_space,AI workflow must expand strategic idea space rather than recycle familiar frames,0.64,0.42,0.70,0.62,0.78,0.76,0.82,0.76,blind_quality_review
+L011,I005,output_to_outcome,ai_structured_outputs,better_strategy_options,Human review must turn AI outputs into better strategic options,0.60,0.40,0.74,0.64,0.76,0.80,0.84,0.68,governance_review
+L012,I006,activity_to_coordination,strategy_council,alignment_improvement,Cross-functional governance must reduce alignment drift,0.62,0.42,0.76,0.66,0.74,0.62,0.78,0.58,alignment_signal_test
+L013,I007,activity_to_learning,pilot_portfolio,validated_learning,Small pilots must generate evidence relevant to scaling decisions,0.76,0.50,0.70,0.64,0.76,0.64,0.80,0.82,define_scale_conditions
+L014,I007,learning_to_decision,pilot_evidence,portfolio_decisions,Portfolio governance must stop weak pilots rather than defending sunk costs,0.62,0.38,0.72,0.66,0.74,0.70,0.84,0.62,stop_rule_simulation
+L015,I008,review_to_decision,equity_review,changed_strategy_decisions,Equity review must influence decisions rather than become compliance ritual,0.64,0.36,0.78,0.60,0.72,0.92,0.86,0.66,decision_linkage_review
+L016,I008,decision_to_outcome,changed_decisions,reduced_burden_and_harm,Burden and harm must be visible early enough to alter implementation,0.70,0.44,0.74,0.62,0.74,0.94,0.88,0.72,ethical_evidence_review

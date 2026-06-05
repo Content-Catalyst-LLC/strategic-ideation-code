@@ -1,0 +1,11 @@
+evidence_id,link_id,assumption_id,evidence_type,evidence_description,reliability,relevance,transferability,timeliness,bias_risk,coverage_quality,interpretation_quality,review_action
+E001,L002,A001,usage_analytics,Current repository use and contribution patterns,0.74,0.58,0.50,0.80,0.30,0.70,0.62,connect_behavior_to_context
+E002,L002,A001,stakeholder_interviews,Knowledge workers describe reuse behavior and friction,0.68,0.76,0.58,0.72,0.34,0.62,0.70,expand_sample
+E003,L004,A003,community_workshops,Stakeholder review of redesign legitimacy and influence,0.70,0.86,0.68,0.74,0.28,0.66,0.78,maintain_participation
+E004,L006,A005,decision_log_review,Prior evidence of foresight outputs influencing decisions,0.64,0.82,0.62,0.66,0.32,0.58,0.74,improve_decision_memory
+E005,L008,A007,performance_dashboard,Historical response to target-setting and dashboard cadence,0.76,0.60,0.54,0.78,0.44,0.72,0.60,add_countermetric_analysis
+E006,L010,A009,prototype_output_review,AI-assisted outputs compared to expert-reviewed baseline,0.62,0.78,0.54,0.76,0.38,0.58,0.66,repeat_with_blind_review
+E007,L014,A012,portfolio_minutes,Review of continuation bias in previous pilots,0.66,0.72,0.60,0.70,0.40,0.62,0.70,define_stop_rule_evidence
+E008,L016,A014,burden_mapping,Stakeholder burden mapping before implementation,0.70,0.84,0.66,0.72,0.26,0.68,0.76,use_as_approval_gate
+E009,L007,A006,horizon_scan,Horizon scan of future uncertainty and resilience stressors,0.58,0.74,0.52,0.82,0.36,0.60,0.66,update_quarterly
+E010,L011,A010,governance_review,Review of AI workflow accountability and human decision rights,0.66,0.80,0.62,0.70,0.30,0.64,0.72,define_decision_rights

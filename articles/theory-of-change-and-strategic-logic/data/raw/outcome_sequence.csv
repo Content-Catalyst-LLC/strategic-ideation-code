@@ -1,0 +1,13 @@
+sequence_id,idea_id,outcome_stage,outcome_name,time_horizon,precondition_quality,indicator_quality,measurement_feasibility,actor_dependency,system_dependency,impact_claim_risk,review_cadence_quality,review_action
+O001,I001,immediate,Platform readiness and user comprehension,0_to_90_days,0.72,0.70,0.76,0.64,0.58,0.32,0.66,readiness_review
+O002,I001,short_term,Knowledge contribution and reuse,3_to_12_months,0.64,0.62,0.70,0.82,0.66,0.48,0.62,behavior_monitoring
+O003,I001,medium_term,Improved decision quality,12_to_24_months,0.58,0.50,0.54,0.72,0.70,0.64,0.56,outcome_evidence_plan
+O004,I002,immediate,Participation quality and legitimacy signal,0_to_90_days,0.76,0.74,0.70,0.82,0.66,0.36,0.72,participation_traceability
+O005,I002,medium_term,Reduced user burden without frontline burden shift,6_to_18_months,0.66,0.68,0.62,0.78,0.80,0.58,0.66,burden_and_counterburden_tracking
+O006,I003,short_term,Foresight outputs used in decisions,3_to_12_months,0.62,0.58,0.60,0.88,0.82,0.60,0.64,decision_use_tracking
+O007,I003,long_term,Strategic resilience under uncertainty,2_to_5_years,0.54,0.48,0.44,0.58,0.88,0.78,0.52,avoid_early_impact_claims
+O008,I004,immediate,Dashboard movement,0_to_90_days,0.70,0.82,0.86,0.62,0.58,0.72,0.54,add_countermetrics
+O009,I005,short_term,Improved idea quality,3_to_12_months,0.66,0.60,0.64,0.70,0.78,0.58,0.60,blind_quality_scoring
+O010,I007,medium_term,Pilot learning improves portfolio decisions,6_to_18_months,0.70,0.66,0.62,0.72,0.76,0.52,0.68,portfolio_decision_review
+O011,I008,short_term,Equity review changes decisions,3_to_12_months,0.68,0.60,0.58,0.78,0.72,0.62,0.64,decision_linkage_audit
+O012,I008,medium_term,Reduced burden and harm,6_to_24_months,0.62,0.58,0.54,0.74,0.76,0.66,0.62,burden_outcome_review

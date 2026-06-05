@@ -1,0 +1,9 @@
+learning_id,idea_id,learning_focus,review_stage,evidence_quality,feedback_quality,decision_linkage,governance_owner_clarity,revision_capacity,stakeholder_visibility,timeliness,learning_memory_quality,review_action
+IL001,I001,Knowledge reuse behavior and contribution burden,pilot,0.62,0.66,0.70,0.64,0.58,0.66,0.68,0.62,review_reuse_and_burden
+IL002,I002,Legitimacy and burden reduction,prototype_to_pilot,0.70,0.78,0.76,0.68,0.62,0.88,0.70,0.68,maintain_stakeholder_learning_loop
+IL003,I003,Foresight use in decisions,pilot,0.58,0.64,0.84,0.70,0.60,0.58,0.66,0.72,improve_decision_memory
+IL004,I004,Metric gaming and outcome divergence,implementation,0.54,0.58,0.72,0.62,0.52,0.60,0.70,0.54,add_countermetric_review
+IL005,I005,AI output quality and human review discipline,pilot,0.60,0.66,0.74,0.68,0.64,0.58,0.72,0.64,strengthen_quality_review
+IL006,I006,Alignment drift and council authority,pilot,0.56,0.60,0.68,0.62,0.54,0.56,0.60,0.60,clarify_decision_rights
+IL007,I007,Pilot stop rules and scaling decisions,portfolio_review,0.68,0.74,0.82,0.76,0.72,0.64,0.70,0.74,enforce_stop_rules
+IL008,I008,Equity review decision influence,approval_gate,0.66,0.72,0.80,0.72,0.68,0.88,0.68,0.70,decision_traceability_audit

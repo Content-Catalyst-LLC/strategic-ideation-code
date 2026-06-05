@@ -1,0 +1,33 @@
+title: "Theory of Change and Strategic Logic"
+slug: "theory-of-change-and-strategic-logic"
+series: "Strategic Ideation"
+repository: "https://github.com/Content-Catalyst-LLC/strategic-ideation-code"
+article_folder: "articles/theory-of-change-and-strategic-logic"
+purpose: "Advanced strategist-facing companion code for theory-of-change mapping, strategic logic diagnostics, causal link scoring, assumption review, evidence assessment, stakeholder response analysis, system feedback review, outcome sequencing, prototype-test design, implementation learning, revision-trigger design, and decision-memory records."
+status: "advanced scaffold"
+professional_use_cases:
+  - "Theory-of-change mapping"
+  - "Strategic logic diagnostics"
+  - "Causal link risk scoring"
+  - "Mechanism clarity review"
+  - "Assumption and evidence review"
+  - "Actor-response and stakeholder dependency analysis"
+  - "System feedback and burden-shift diagnostics"
+  - "Outcome sequencing"
+  - "Prototype-test design"
+  - "Implementation learning review"
+  - "Revision-trigger and decision-memory systems"
+languages:
+  - python
+  - r
+  - julia
+  - sql
+  - rust
+  - go
+  - cpp
+  - fortran
+  - c
+notes:
+  - "Uses synthetic data only."
+  - "Designed for strategists, systems thinkers, product strategists, policy teams, evaluators, innovation teams, foresight practitioners, public-sector teams, sustainability teams, analysts, consultants, organizational leaders, and knowledge architects."
+  - "Not a substitute for stakeholder judgment, ethical review, domain expertise, or participatory governance."

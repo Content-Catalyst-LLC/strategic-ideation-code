@@ -1,0 +1,9 @@
+idea_id,idea_name,idea_type,domain,problem_frame_quality,mechanism_clarity,strategic_alignment,implementation_feasibility,stakeholder_legitimacy,system_complexity,learning_value,reversibility,description
+I001,Digital Knowledge Platform,knowledge_system,organizational_learning,0.78,0.66,0.88,0.62,0.68,0.76,0.86,0.58,Create a searchable knowledge platform to improve strategic memory and decision reuse.
+I002,Stakeholder-Centered Service Redesign,service_strategy,public_service,0.84,0.72,0.84,0.56,0.90,0.78,0.82,0.54,Redesign service pathways around lived experience access and burden reduction.
+I003,Strategic Foresight Program,foresight,governance,0.76,0.68,0.86,0.60,0.62,0.84,0.88,0.66,Build recurring scenario and horizon-scanning capability for decision support.
+I004,Short-Term Performance Push,performance_management,operations,0.58,0.52,0.70,0.82,0.54,0.58,0.38,0.72,Improve metrics rapidly through targets dashboards and accountability cadence.
+I005,AI-Assisted Ideation Workflow,technology_strategy,innovation,0.74,0.64,0.82,0.64,0.66,0.80,0.84,0.62,Use AI-assisted workflows to expand and structure strategic idea generation.
+I006,Cross-Functional Strategy Council,governance,organizational_strategy,0.72,0.62,0.80,0.54,0.64,0.74,0.78,0.48,Create a standing council for strategic alignment assumption review and learning.
+I007,Adaptive Pilot Portfolio,portfolio_strategy,innovation_governance,0.80,0.76,0.86,0.58,0.70,0.82,0.92,0.70,Run small tests across multiple ideas and scale based on learning evidence.
+I008,Equity and Burden Review Standard,ethical_governance,public_strategy,0.82,0.70,0.78,0.60,0.92,0.76,0.80,0.64,Require burden shift equity and legitimacy checks before strategy approval.

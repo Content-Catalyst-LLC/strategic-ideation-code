@@ -115,3 +115,7 @@ This repository includes advanced workflows for boundary-setting diagnostics, st
 ## Assumption Mapping for Strategic Ideas
 
 This repository includes advanced workflows for assumption mapping, criticality scoring, uncertainty review, evidence-strength assessment, stakeholder sensitivity analysis, assumption test prioritization, prototype learning design, theory-of-change assumption review, option confidence scoring, revision-trigger design, learning loops, and decision-memory records.
+
+## Theory of Change and Strategic Logic
+
+This repository includes advanced workflows for theory-of-change mapping, strategic logic diagnostics, causal link scoring, assumption review, evidence assessment, stakeholder response analysis, system feedback review, outcome sequencing, prototype-test design, implementation learning, revision-trigger design, and decision-memory records.

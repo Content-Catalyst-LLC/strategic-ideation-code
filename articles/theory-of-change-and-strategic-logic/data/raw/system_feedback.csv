@@ -1,0 +1,9 @@
+feedback_id,link_id,idea_id,feedback_pattern,feedback_type,feedback_risk,adaptation_risk,delay_risk,burden_shift_risk,metric_gaming_risk,context_dependency,monitoring_quality,leverage_relevance,review_action
+F001,L002,I001,Contribution burden may reduce reuse over time,balancing,0.62,0.66,0.54,0.58,0.40,0.70,0.58,0.70,monitor_reuse_and_contribution_load
+F002,L004,I002,Legitimacy improves if participation visibly changes decisions,reinforcing,0.54,0.52,0.46,0.44,0.30,0.68,0.62,0.74,track_decision_traceability
+F003,L005,I002,User burden reduction may shift work to frontline staff,burden_shift,0.70,0.68,0.58,0.82,0.36,0.76,0.66,0.72,frontline_burden_thresholds
+F004,L008,I004,Targets may produce metric gaming,perverse_incentive,0.78,0.82,0.56,0.74,0.88,0.68,0.50,0.62,add_countermetrics
+F005,L010,I005,AI workflow may reinforce common frames,reinforcing_bias,0.72,0.68,0.42,0.52,0.54,0.78,0.56,0.76,blind_quality_review
+F006,L014,I007,Sunk-cost dynamics may keep weak pilots alive,governance_feedback,0.70,0.74,0.58,0.50,0.42,0.74,0.54,0.78,define_stop_rules
+F007,L015,I008,Equity review may become compliance ritual,ritualization,0.68,0.62,0.56,0.68,0.50,0.72,0.58,0.74,monitor_decision_use
+F008,L007,I003,Scenario value appears only under later stress,delay,0.64,0.70,0.78,0.46,0.32,0.86,0.58,0.80,stress_test_scenarios

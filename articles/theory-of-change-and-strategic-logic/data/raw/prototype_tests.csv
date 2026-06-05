@@ -1,0 +1,9 @@
+prototype_id,link_id,idea_id,prototype_name,prototype_type,link_fit,learning_speed,learning_depth,realism,stakeholder_inclusion,scale_signal_quality,cost_efficiency,ethical_safety,decision_usefulness,success_threshold,decision_if_failed
+P001,L002,I001,knowledge_reuse_minimum_viable_workflow,workflow_prototype,0.86,0.70,0.78,0.72,0.66,0.58,0.72,0.78,0.80,0.55,revise_platform_incentives
+P002,L004,I002,legitimacy_co_design_session,participatory_prototype,0.90,0.66,0.84,0.68,0.94,0.60,0.64,0.90,0.84,0.70,pause_until_legitimacy_gap_addressed
+P003,L006,I003,foresight_decision_room_simulation,decision_prototype,0.82,0.58,0.78,0.72,0.60,0.62,0.66,0.78,0.86,0.60,redesign_decision_integration
+P004,L008,I004,target_countermetric_trial,metric_prototype,0.76,0.72,0.70,0.70,0.60,0.60,0.74,0.72,0.78,0.50,add_countermetrics_or_stop_push
+P005,L010,I005,ai_idea_quality_review_sprint,ai_workflow_prototype,0.84,0.78,0.76,0.62,0.56,0.54,0.78,0.74,0.76,0.65,adjust_prompting_and_review_governance
+P006,L014,I007,portfolio_stop_rule_tabletop,governance_prototype,0.88,0.72,0.82,0.70,0.62,0.64,0.76,0.80,0.86,0.70,strengthen_stop_rules
+P007,L016,I008,burden_visibility_precheck,ethical_prototype,0.90,0.64,0.86,0.66,0.92,0.62,0.68,0.92,0.88,0.75,redesign_or_add_redress_path
+P008,L007,I003,scenario_stress_rehearsal,futures_prototype,0.78,0.52,0.76,0.64,0.54,0.70,0.62,0.74,0.80,0.60,add_adaptive_pathways

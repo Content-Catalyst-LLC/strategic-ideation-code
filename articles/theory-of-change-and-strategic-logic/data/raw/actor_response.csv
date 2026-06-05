@@ -1,0 +1,9 @@
+actor_id,link_id,idea_id,actor_group,expected_response,response_dependency,incentive_alignment,trust_condition,capacity_condition,burden_risk,resistance_risk,participation_quality,knowledge_value,review_action
+R001,L002,I001,knowledge_workers,Contribute and reuse knowledge,0.86,0.50,0.68,0.62,0.58,0.56,0.60,0.82,interview_and_pilot
+R002,L004,I002,affected_service_users,Participate and view process as legitimate,0.82,0.56,0.90,0.58,0.74,0.42,0.78,0.88,co_design_review
+R003,L005,I002,frontline_implementers,Implement redesigned service pathway,0.78,0.54,0.62,0.70,0.82,0.60,0.58,0.84,frontline_burden_review
+R004,L006,I003,senior_decision_makers,Use foresight outputs in strategic decisions,0.88,0.58,0.52,0.60,0.30,0.50,0.54,0.72,decision_room_test
+R005,L008,I004,performance_managed_staff,Respond constructively to targets,0.78,0.46,0.66,0.58,0.78,0.70,0.40,0.76,metric_gaming_review
+R006,L010,I005,strategists,Use AI outputs critically,0.70,0.60,0.58,0.66,0.42,0.48,0.62,0.74,human_review_protocol
+R007,L014,I007,portfolio_sponsors,Stop weak pilots when evidence fails,0.72,0.42,0.48,0.62,0.46,0.72,0.50,0.66,stop_rule_simulation
+R008,L015,I008,reviewing_teams,Use equity review as decision input,0.78,0.50,0.62,0.60,0.68,0.58,0.52,0.70,decision_linkage_review
