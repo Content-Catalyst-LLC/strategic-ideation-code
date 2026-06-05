@@ -1,0 +1,10 @@
+transition_id,journey_id,from_stage,to_stage,transition_type,context_loss,ownership_ambiguity,delay_risk,repetition_required,status_gap,privacy_risk,user_coordination_labor,transition_criticality,review_action
+X001,J001,Entry and eligibility check,Document upload,step_transition,0.62,0.54,0.58,0.68,0.70,0.36,0.72,0.76,reduce_repetition_and_clarify_next_step
+X002,J001,Document upload,Agency handoff,cross_agency_handoff,0.82,0.76,0.74,0.78,0.84,0.52,0.86,0.90,critical_handoff_redesign
+X003,J002,Guided onboarding,Status review,digital_transition,0.30,0.26,0.32,0.24,0.28,0.22,0.30,0.54,maintain_transition
+X004,J003,Human intake call,Care coordination handoff,staff_handoff,0.46,0.42,0.44,0.38,0.48,0.34,0.44,0.70,improve_case_continuity
+X005,J004,Self-service setup,Error recovery,error_transition,0.68,0.60,0.58,0.54,0.72,0.40,0.70,0.78,redesign_error_transition
+X006,J005,Accessible entry point,Transparent decision update,status_transition,0.22,0.18,0.20,0.16,0.18,0.20,0.18,0.66,maintain_status_transition
+X007,J006,Self-service failure,Support escalation,support_handoff,0.58,0.54,0.62,0.64,0.60,0.36,0.68,0.72,reduce_support_handoff_cost
+X008,J007,Chat interaction,Phone support,cross_channel_transfer,0.80,0.72,0.68,0.76,0.74,0.44,0.82,0.84,design_channel_continuity
+X009,J008,Community intake,Agency verification,partner_handoff,0.46,0.48,0.52,0.44,0.50,0.42,0.48,0.74,formalize_partner_handoff

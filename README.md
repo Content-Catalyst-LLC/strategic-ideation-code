@@ -127,3 +127,7 @@ This repository includes advanced workflows for design thinking capability asses
 ## Empathy and User-Centered Ideation
 
 This repository includes advanced workflows for empathic inquiry review, projection-risk scoring, user-centered ideation assessment, journey-friction analysis, unmet-need detection, stakeholder mapping, ethical empathy review, systems-aware user research, prototype-test planning, decision-linkage scoring, and institutional user-insight records.
+
+## Journey Mapping and Experience Design
+
+This repository includes advanced workflows for journey mapping diagnostics, accumulated-friction scoring, touchpoint analysis, transition-risk review, service blueprinting, multi-channel continuity assessment, stakeholder journey comparison, accessibility and dignity review, behavioral decision-pathway modeling, journey redesign prioritization, measurement design, and institutional experience-learning records.

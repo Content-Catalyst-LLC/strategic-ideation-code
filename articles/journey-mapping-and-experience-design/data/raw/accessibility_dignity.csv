@@ -1,0 +1,9 @@
+access_id,journey_id,access_issue,language_access,disability_access,device_access,literacy_support,time_flexibility,dignity_protection,recovery_path_quality,equity_risk,review_action
+A001,J001,Eligibility language and upload rules exclude users with limited literacy,0.32,0.38,0.46,0.28,0.34,0.40,0.26,0.78,plain_language_accessibility_redesign
+A002,J002,Digital guided journey works for most but needs stronger alternatives,0.68,0.70,0.72,0.66,0.64,0.72,0.64,0.38,add_alternative_channels
+A003,J003,Human support protects dignity but scheduling access varies,0.70,0.72,0.64,0.68,0.52,0.82,0.74,0.36,improve_scheduling_access
+A004,J004,Digital-only recovery burdens users with lower device confidence,0.58,0.52,0.46,0.50,0.44,0.48,0.34,0.66,add_accessible_recovery
+A005,J005,Multi-channel accessible support reduces exclusion risk,0.86,0.90,0.84,0.82,0.78,0.88,0.82,0.20,maintain_accessibility_review
+A006,J006,Support escalation helps but places burden on users,0.62,0.58,0.60,0.56,0.44,0.64,0.70,0.52,reduce_escalation_burden
+A007,J007,Channel switching creates unequal burden for users with limited time or devices,0.52,0.50,0.42,0.48,0.40,0.46,0.38,0.72,fix_cross_channel_access
+A008,J008,Community support improves access but requires institutional follow-through,0.76,0.78,0.70,0.74,0.66,0.84,0.70,0.34,strengthen_agency_followthrough

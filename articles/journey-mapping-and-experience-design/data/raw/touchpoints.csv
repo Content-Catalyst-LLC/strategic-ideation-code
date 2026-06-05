@@ -1,0 +1,15 @@
+touchpoint_id,journey_id,stage_id,touchpoint_name,channel,clarity,status_visibility,response_quality,emotional_support,accessibility_quality,error_recovery,privacy_confidence,decision_support,review_action
+T001,J001,S001,Eligibility page,web,0.36,0.30,0.32,0.28,0.34,0.26,0.42,0.30,plain_language_and_guidance
+T002,J001,S002,Document upload portal,web,0.42,0.34,0.36,0.24,0.38,0.28,0.46,0.32,improve_upload_recovery
+T003,J001,S003,Agency transfer notice,email,0.30,0.24,0.28,0.26,0.36,0.22,0.38,0.24,redesign_handoff_notice
+T004,J002,S004,Guided onboarding flow,web,0.78,0.74,0.76,0.68,0.70,0.66,0.72,0.80,maintain_and_test
+T005,J002,S005,Status dashboard,web,0.72,0.80,0.70,0.66,0.68,0.62,0.70,0.74,improve_status_language
+T006,J003,S006,Human intake call,phone,0.74,0.68,0.82,0.86,0.70,0.74,0.78,0.76,preserve_human_support
+T007,J003,S007,Care coordination note,case_system,0.66,0.60,0.68,0.72,0.62,0.64,0.70,0.66,strengthen_case_context
+T008,J004,S008,Self-service setup wizard,web,0.68,0.58,0.56,0.42,0.52,0.44,0.64,0.60,add_recovery_and_support
+T009,J004,S009,Automated error screen,web,0.42,0.30,0.34,0.28,0.46,0.26,0.52,0.32,rewrite_error_and_recovery
+T010,J005,S010,Accessible intake options,omnichannel,0.84,0.80,0.82,0.78,0.90,0.80,0.82,0.84,maintain_accessible_channels
+T011,J005,S011,Transparent decision update,sms_email_web,0.82,0.88,0.84,0.76,0.86,0.78,0.84,0.82,maintain_status_clarity
+T012,J006,S012,Helpdesk escalation,human_support,0.60,0.54,0.72,0.66,0.58,0.70,0.64,0.58,reduce_need_for_escalation
+T013,J007,S013,Channel transfer between chat and phone,channel_transition,0.44,0.34,0.40,0.38,0.50,0.36,0.52,0.42,fix_context_transfer
+T014,J008,S014,Community intake session,in_person,0.76,0.68,0.78,0.82,0.80,0.72,0.74,0.76,support_backstage_capacity

@@ -1,0 +1,15 @@
+stage_id,journey_id,stage_order,stage_name,touchpoint_type,time_cost,cognitive_load,emotional_cost,trust_risk,accessibility_burden,uncertainty,workaround_dependency,dropoff_risk,review_action
+S001,J001,1,Entry and eligibility check,form_and_policy,0.68,0.76,0.62,0.58,0.66,0.78,0.54,0.72,redesign_entry_and_plain_language
+S002,J001,2,Document upload,portal,0.72,0.70,0.58,0.52,0.60,0.66,0.68,0.64,reduce_repetition_and_file_errors
+S003,J001,3,Agency handoff,staff_handoff,0.74,0.64,0.72,0.76,0.54,0.82,0.72,0.70,fix_handoff_context_loss
+S004,J002,1,Guided onboarding,digital_and_email,0.34,0.38,0.30,0.28,0.32,0.36,0.24,0.28,maintain_guidance
+S005,J002,2,Status review,dashboard,0.36,0.42,0.40,0.34,0.30,0.38,0.28,0.32,improve_status_explanation
+S006,J003,1,Human intake call,staff_interaction,0.42,0.46,0.34,0.30,0.38,0.36,0.26,0.30,protect_human_support
+S007,J003,2,Care coordination handoff,staff_handoff,0.50,0.48,0.42,0.46,0.40,0.50,0.36,0.38,strengthen_case_continuity
+S008,J004,1,Self-service setup,digital_platform,0.44,0.58,0.46,0.48,0.52,0.54,0.38,0.46,add_recovery_guidance
+S009,J004,2,Error recovery,digital_support,0.66,0.72,0.68,0.64,0.58,0.76,0.62,0.70,redesign_recovery_path
+S010,J005,1,Accessible entry point,omnichannel,0.28,0.30,0.24,0.22,0.18,0.26,0.20,0.22,maintain_accessibility
+S011,J005,2,Transparent decision update,status_message,0.26,0.32,0.28,0.20,0.18,0.24,0.18,0.20,maintain_status_visibility
+S012,J006,1,Support escalation,helpdesk,0.70,0.62,0.66,0.58,0.48,0.68,0.64,0.54,reduce_support_dependency
+S013,J007,1,Cross-channel transfer,channel_transition,0.68,0.74,0.64,0.70,0.58,0.76,0.72,0.68,design_channel_continuity
+S014,J008,1,Community facilitated intake,community_touchpoint,0.38,0.40,0.28,0.24,0.30,0.34,0.26,0.30,preserve_community_support

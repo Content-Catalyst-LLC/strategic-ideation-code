@@ -1,0 +1,9 @@
+metric_id,journey_id,learning_system,completion_tracking,dropoff_tracking,support_signal_tracking,trust_measurement,accessibility_monitoring,qualitative_review,revision_trigger_quality,decision_memory_quality,review_action
+M001,J001,basic_operational_dashboard,0.50,0.44,0.54,0.28,0.32,0.30,0.34,0.36,build_experience_learning_loop
+M002,J002,journey_metrics_dashboard,0.76,0.72,0.70,0.62,0.60,0.58,0.64,0.66,strengthen_qualitative_review
+M003,J003,case_review_and_feedback_loop,0.70,0.64,0.72,0.70,0.58,0.74,0.66,0.68,standardize_learning
+M004,J004,digital_analytics_only,0.78,0.70,0.46,0.38,0.42,0.30,0.40,0.44,add_qualitative_and_accessibility_review
+M005,J005,experience_learning_system,0.82,0.78,0.76,0.80,0.84,0.78,0.76,0.80,maintain_learning_system
+M006,J006,support_ticket_review,0.62,0.58,0.78,0.54,0.50,0.60,0.56,0.58,connect_support_to_redesign
+M007,J007,channel_metrics_siloed,0.54,0.50,0.56,0.38,0.42,0.36,0.34,0.38,integrate_cross_channel_metrics
+M008,J008,community_feedback_and_service_review,0.68,0.62,0.64,0.76,0.72,0.80,0.70,0.74,formalize_shared_learning_record

@@ -1,0 +1,9 @@
+blueprint_id,journey_id,visible_experience,backstage_dependency,dependency_quality,data_continuity,role_clarity,workflow_fit,staff_capacity,governance_alignment,feedback_loop_quality,implementation_risk,review_action
+B001,J001,Document upload and agency handoff,Eligibility database and interagency queue,0.28,0.24,0.30,0.34,0.42,0.36,0.26,0.82,redesign_backstage_handoff
+B002,J002,Guided onboarding and dashboard,CRM status workflow and notification rules,0.72,0.70,0.68,0.74,0.66,0.70,0.64,0.34,maintain_and_refine
+B003,J003,Human-supported intake,Case coordination notes and staffing capacity,0.70,0.64,0.66,0.72,0.58,0.66,0.60,0.40,strengthen_capacity_and_continuity
+B004,J004,Automated self-service and error recovery,Identity verification and exception workflow,0.46,0.40,0.42,0.48,0.52,0.50,0.38,0.70,redesign_exception_workflow
+B005,J005,Accessible multi-channel service,Integrated case system and accessibility governance,0.80,0.78,0.76,0.82,0.74,0.80,0.76,0.24,maintain_governance
+B006,J006,Support escalation,Helpdesk knowledge base and escalation queue,0.54,0.50,0.58,0.52,0.56,0.54,0.58,0.56,reduce_escalation_dependency
+B007,J007,Cross-channel service transfer,Disconnected channel systems,0.32,0.26,0.34,0.38,0.46,0.40,0.30,0.78,integrate_channel_systems
+B008,J008,Community facilitated intake,Partner coordination and agency verification,0.66,0.58,0.62,0.64,0.60,0.68,0.64,0.42,formalize_partner_backstage

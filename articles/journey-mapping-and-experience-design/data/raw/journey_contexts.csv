@@ -1,0 +1,9 @@
+journey_id,journey_name,organization_type,domain,clarity,emotional_confidence,friction,transition_quality,accessibility,trust,completion_support,backstage_alignment,measurement_quality,description
+J001,Fragmented Institutional Journey,large_institution,public_service,0.36,0.31,0.82,0.28,0.34,0.30,0.34,0.30,0.38,High fragmentation weak handoffs and accumulated burden.
+J002,Balanced Guided Journey,service_org,customer_service,0.77,0.74,0.39,0.79,0.70,0.73,0.76,0.72,0.68,Clear guided journey with moderate accessibility and feedback loops.
+J003,High-Touch Human-Supported Journey,health_or_care_system,service_delivery,0.72,0.83,0.33,0.71,0.68,0.78,0.82,0.70,0.62,Strong human support but still dependent on backstage coordination.
+J004,Efficient but Brittle Digital Journey,digital_platform,digital_strategy,0.69,0.48,0.61,0.44,0.52,0.50,0.57,0.46,0.54,Efficient for ideal users but weak recovery and context transfer.
+J005,Accessible Trust-Centered Journey,public_system,public_service,0.81,0.79,0.28,0.82,0.88,0.84,0.86,0.78,0.76,Strong accessibility trust status visibility and recovery paths.
+J006,Support-Heavy Recovery Journey,enterprise_service,operations,0.58,0.52,0.66,0.50,0.58,0.56,0.64,0.48,0.60,Users can recover but only through costly support escalation.
+J007,Multi-Channel Discontinuous Journey,large_platform,multi_channel_service,0.54,0.45,0.72,0.36,0.50,0.44,0.52,0.34,0.46,Channels work separately but transitions lose context.
+J008,Community-Embedded Service Journey,coalition,sustainability_service,0.70,0.76,0.42,0.68,0.80,0.82,0.74,0.66,0.70,Strong community trust and access with some operational constraints.

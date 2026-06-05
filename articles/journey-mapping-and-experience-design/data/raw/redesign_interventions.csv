@@ -1,0 +1,9 @@
+intervention_id,journey_id,intervention_name,intervention_type,friction_reduction,trust_gain,accessibility_gain,transition_gain,implementation_feasibility,cost_efficiency,ethical_quality,learning_value,review_action
+I001,J001,Plain-language eligibility redesign,information_architecture,0.72,0.56,0.68,0.40,0.64,0.70,0.72,0.66,prototype_plain_language
+I002,J001,Interagency handoff context packet,transition_design,0.76,0.74,0.58,0.86,0.48,0.52,0.70,0.78,pilot_handoff_packet
+I003,J002,Status explanation upgrade,feedback_design,0.42,0.60,0.44,0.48,0.78,0.72,0.66,0.58,implement_small_test
+I004,J004,Error recovery redesign,recovery_design,0.78,0.68,0.62,0.60,0.58,0.64,0.70,0.74,prototype_error_recovery
+I005,J005,Accessibility governance checklist,governance,0.38,0.52,0.82,0.44,0.70,0.66,0.88,0.64,standardize_checklist
+I006,J006,Pre-escalation decision support,decision_support,0.64,0.56,0.54,0.48,0.66,0.70,0.68,0.72,test_decision_support
+I007,J007,Cross-channel source of truth,multi_channel_continuity,0.82,0.76,0.60,0.88,0.42,0.44,0.72,0.82,phase_system_integration
+I008,J008,Partner-agency service blueprint,service_blueprint,0.58,0.70,0.68,0.66,0.62,0.60,0.80,0.76,formalize_partner_blueprint

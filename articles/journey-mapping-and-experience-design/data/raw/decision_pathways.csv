@@ -1,0 +1,10 @@
+decision_id,journey_id,stage_id,decision_point,choice_clarity,risk_visibility,default_quality,timing_fit,cognitive_support,consequence_clarity,recovery_visibility,behavioral_risk,review_action
+D001,J001,S001,Determine eligibility and proceed,0.30,0.34,0.36,0.42,0.28,0.30,0.24,0.78,clarify_eligibility_decision
+D002,J001,S002,Decide which documents to upload,0.38,0.42,0.40,0.44,0.34,0.36,0.28,0.74,support_document_decision
+D003,J002,S004,Select guided path,0.78,0.70,0.74,0.72,0.76,0.74,0.68,0.32,maintain_choice_architecture
+D004,J003,S006,Share sensitive information,0.72,0.68,0.66,0.64,0.70,0.72,0.70,0.38,maintain_trust_and_privacy
+D005,J004,S009,Recover from error,0.32,0.46,0.40,0.52,0.34,0.30,0.24,0.80,redesign_recovery_decision
+D006,J005,S010,Choose access channel,0.84,0.78,0.82,0.78,0.82,0.80,0.78,0.22,maintain_accessible_choice
+D007,J006,S012,Escalate to support,0.58,0.56,0.54,0.50,0.60,0.58,0.70,0.48,reduce_escalation_need
+D008,J007,S013,Switch from chat to phone,0.40,0.46,0.42,0.48,0.38,0.36,0.34,0.76,fix_cross_channel_decision_path
+D009,J008,S014,Authorize community partner support,0.70,0.66,0.68,0.64,0.72,0.70,0.66,0.36,clarify_partner_permissions

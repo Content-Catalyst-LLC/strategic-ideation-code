@@ -1,0 +1,34 @@
+title: "Journey Mapping and Experience Design"
+slug: "journey-mapping-and-experience-design"
+series: "Strategic Ideation"
+repository: "https://github.com/Content-Catalyst-LLC/strategic-ideation-code"
+article_folder: "articles/journey-mapping-and-experience-design"
+purpose: "Advanced strategist-facing companion code for journey mapping diagnostics, accumulated-friction scoring, touchpoint analysis, transition-risk review, service blueprinting, multi-channel continuity assessment, stakeholder journey comparison, accessibility and dignity review, behavioral decision-pathway modeling, journey redesign prioritization, measurement design, and institutional experience-learning records."
+status: "advanced scaffold"
+professional_use_cases:
+  - "Journey-performance diagnostics"
+  - "Accumulated friction and hidden-burden analysis"
+  - "Touchpoint quality review"
+  - "Transition-risk and handoff-failure review"
+  - "Multi-channel continuity assessment"
+  - "Accessibility and dignity review"
+  - "Trust and status-visibility scoring"
+  - "Behavioral decision-pathway modeling"
+  - "Service-blueprint dependency mapping"
+  - "Journey redesign prioritization"
+  - "Measurement and continuous-refinement planning"
+  - "Institutional experience-learning records"
+languages:
+  - python
+  - r
+  - julia
+  - sql
+  - rust
+  - go
+  - cpp
+  - fortran
+  - c
+notes:
+  - "Uses synthetic data only."
+  - "Designed for strategists, design researchers, service designers, systems thinkers, product strategists, public-sector teams, innovation teams, sustainability teams, organizational leaders, analysts, consultants, and knowledge architects."
+  - "Not a substitute for user research, accessibility testing, ethical review, domain expertise, or participatory governance."

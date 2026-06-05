@@ -1,0 +1,9 @@
+trust_id,journey_id,trust_issue,status_visibility,commitment_clarity,privacy_confidence,consistency,response_timeliness,explanation_quality,escalation_visibility,trust_repair_capacity,review_action
+R001,J001,Users do not know whether documents were accepted or who owns the next step,0.24,0.32,0.42,0.30,0.34,0.28,0.22,0.26,make_status_and_ownership_visible
+R002,J002,Users need more explanation behind status changes,0.80,0.72,0.70,0.74,0.76,0.62,0.66,0.68,improve_explanation_quality
+R003,J003,Human support builds trust but handoff status needs clarity,0.60,0.66,0.78,0.72,0.70,0.68,0.64,0.72,improve_handoff_status
+R004,J004,Automated errors weaken trust because recovery is unclear,0.30,0.44,0.62,0.50,0.46,0.32,0.28,0.34,redesign_error_trust_signals
+R005,J005,Transparent updates and accessible support strengthen trust,0.88,0.84,0.82,0.86,0.80,0.82,0.78,0.84,maintain_trust_signals
+R006,J006,Escalation restores trust but only after user effort,0.54,0.58,0.64,0.56,0.52,0.60,0.70,0.66,move_reassurance_earlier
+R007,J007,Users lose trust when channels contradict each other,0.34,0.38,0.52,0.30,0.42,0.36,0.40,0.32,create_cross_channel_source_of_truth
+R008,J008,Community intermediaries create trust but agency response must match,0.68,0.70,0.72,0.66,0.62,0.70,0.64,0.76,align_agency_commitments
