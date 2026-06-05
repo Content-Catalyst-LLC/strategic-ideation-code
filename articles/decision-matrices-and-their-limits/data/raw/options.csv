@@ -1,0 +1,7 @@
+option_id,option_name,option_type,description
+DM001,Core Process Improvement,core_improvement,Incremental operating improvement with strong feasibility and limited learning value.
+DM002,Exploratory Learning Pilot,learning_option,Small experiment designed to reduce uncertainty before larger commitment.
+DM003,Transformational Platform Bet,transformation,Large strategic platform commitment with high impact and high exposure.
+DM004,Resilience Capability Build,resilience,Capability investment that reduces fragility and improves long-horizon viability.
+DM005,Participatory Legitimacy Initiative,legitimacy,Stakeholder participation initiative that strengthens trust and social permission.
+DM006,Option-Preserving Modular Pathway,option_preservation,Modular pathway that preserves switching and sequencing options.

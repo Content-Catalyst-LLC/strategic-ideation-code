@@ -1,0 +1,9 @@
+criterion_id,criterion_name,criterion_type,description,default_weight,ethical_threshold,non_compensatory
+C001,strategic_fit,benefit,Alignment with strategic direction and institutional priorities,0.16,,false
+C002,impact,benefit,Expected strategic value if successful,0.16,,false
+C003,feasibility,benefit,Implementation readiness and capability fit,0.12,,false
+C004,risk_control,benefit,Ability to limit downside exposure,0.12,0.35,true
+C005,learning_value,benefit,Evidence generated for future decisions,0.14,,false
+C006,option_value,benefit,Future choices preserved under uncertainty,0.12,,false
+C007,ethical_resilience,benefit,Fairness accountability burden reduction and harm prevention,0.12,0.50,true
+C008,evidence_confidence,benefit,Quality of evidence behind the scores,0.06,,false

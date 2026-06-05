@@ -1,0 +1,5 @@
+memory_id,decision_record,criteria_rationale,weight_rationale,evidence_notes,sensitivity_results,dissent_record,ethical_threshold_record,uncertainty_record,revision_trigger_quality,reuse_quality,review_action
+MEM001,base_matrix_review,0.66,0.58,0.62,0.54,0.46,0.60,0.56,0.58,0.62,strengthen_rationale_and_dissent
+MEM002,scenario_matrix_review,0.70,0.62,0.64,0.68,0.52,0.66,0.72,0.68,0.66,maintain_scenario_memory
+MEM003,ethics_threshold_review,0.72,0.64,0.58,0.56,0.54,0.82,0.66,0.70,0.68,protect_threshold_record
+MEM004,portfolio_matrix_review,0.64,0.60,0.56,0.58,0.48,0.62,0.58,0.60,0.64,link_to_portfolio_logic

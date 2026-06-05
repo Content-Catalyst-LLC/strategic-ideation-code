@@ -1,0 +1,14 @@
+title: "Decision Matrices and Their Limits"
+slug: "decision-matrices-and-their-limits"
+series: "Strategic Ideation"
+repository: "https://github.com/Content-Catalyst-LLC/strategic-ideation-code"
+article_folder: "articles/decision-matrices-and-their-limits"
+previous_article:
+  title: "Portfolio Thinking in Strategic Ideation"
+  slug: "portfolio-thinking-in-strategic-ideation"
+next_article:
+  title: "Opportunity Recognition and Evaluation"
+  slug: "opportunity-recognition-and-evaluation"
+purpose: "Decision matrix diagnostics, criteria design, weight sensitivity testing, evidence-confidence scoring, uncertainty-aware scoring, scenario-specific comparison, ethical threshold review, portfolio-aware matrix use, governance documentation, and decision-memory records."
+status: "advanced scaffold"
+languages: [python, r, julia, sql, rust, go, cpp, fortran, c]

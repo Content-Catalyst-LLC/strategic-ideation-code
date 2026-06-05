@@ -1,0 +1,7 @@
+option_id,strategic_fit,impact,feasibility,risk_control,learning_value,option_value,ethical_resilience,evidence_confidence,score_notes
+DM001,0.78,0.66,0.82,0.72,0.38,0.34,0.58,0.78,Strong delivery case but limited learning and option value.
+DM002,0.62,0.58,0.66,0.54,0.86,0.78,0.64,0.52,High learning value but evidence still developing.
+DM003,0.70,0.88,0.42,0.32,0.72,0.62,0.46,0.44,High impact but weak risk control and ethics confidence.
+DM004,0.74,0.64,0.58,0.76,0.56,0.70,0.82,0.66,Strong resilience role with good ethical profile.
+DM005,0.68,0.60,0.62,0.70,0.68,0.58,0.88,0.62,Strong legitimacy and ethics role.
+DM006,0.76,0.70,0.60,0.68,0.72,0.88,0.74,0.58,Strong option-preserving pathway with moderate evidence.

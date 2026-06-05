@@ -1,0 +1,7 @@
+weight_set,strategic_fit,impact,feasibility,risk_control,learning_value,option_value,ethical_resilience,evidence_confidence,description
+base,0.16,0.16,0.12,0.12,0.14,0.12,0.12,0.06,Balanced strategic weighting.
+delivery_focused,0.18,0.20,0.22,0.14,0.06,0.06,0.08,0.06,Prioritizes feasibility impact and delivery.
+learning_focused,0.12,0.10,0.08,0.10,0.28,0.20,0.08,0.04,Prioritizes learning and option value.
+ethics_focused,0.12,0.10,0.08,0.18,0.08,0.08,0.30,0.06,Prioritizes ethics risk control and accountability.
+foresight_focused,0.12,0.12,0.08,0.10,0.18,0.26,0.10,0.04,Prioritizes future flexibility and option value.
+finance_focused,0.14,0.24,0.20,0.16,0.06,0.06,0.08,0.06,Prioritizes impact feasibility and risk control.

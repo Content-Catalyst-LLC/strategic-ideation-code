@@ -1,0 +1,9 @@
+criterion_id,criterion_name,relevance,clarity,measurability,evidence_availability,stakeholder_legitimacy,ethical_importance,uncertainty_sensitivity,review_action
+C001,strategic_fit,0.82,0.70,0.62,0.66,0.58,0.54,0.62,define_fit_more_precisely
+C002,impact,0.86,0.68,0.58,0.56,0.56,0.62,0.74,use_ranges_for_impact
+C003,feasibility,0.74,0.78,0.72,0.70,0.52,0.48,0.54,maintain_feasibility_review
+C004,risk_control,0.84,0.66,0.60,0.58,0.70,0.82,0.78,make_non_compensatory_threshold_explicit
+C005,learning_value,0.78,0.60,0.52,0.50,0.56,0.58,0.84,clarify_learning_question
+C006,option_value,0.76,0.54,0.46,0.44,0.52,0.56,0.86,avoid_false_precision
+C007,ethical_resilience,0.88,0.62,0.48,0.54,0.78,0.92,0.76,use_threshold_and_qualitative_review
+C008,evidence_confidence,0.80,0.74,0.70,0.66,0.62,0.68,0.72,record_evidence_sources

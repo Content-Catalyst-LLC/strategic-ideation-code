@@ -179,3 +179,7 @@ This repository includes advanced workflows for option-value diagnostics, strate
 ## Portfolio Thinking in Strategic Ideation
 
 This repository includes advanced workflows for strategic idea portfolio analysis, portfolio role mapping, risk-return-learning comparison, option-value review, time-horizon balance, capacity load analysis, dependency mapping, sequencing review, ethics and power analysis, portfolio governance, and decision-memory documentation.
+
+## Decision Matrices and Their Limits
+
+Advanced workflows for decision matrix diagnostics, criteria design, weight sensitivity testing, evidence-confidence scoring, uncertainty-aware scoring, scenario-specific comparison, ethical threshold review, portfolio-aware matrix use, governance documentation, and decision-memory records.

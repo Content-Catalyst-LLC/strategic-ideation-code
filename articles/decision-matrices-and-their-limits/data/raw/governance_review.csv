@@ -1,0 +1,7 @@
+governance_id,practice,process_quality,transparency,stakeholder_voice,dissent_capture,sensitivity_testing,evidence_traceability,ethical_threshold_quality,decision_memory_quality,review_action
+GV001,criteria_design,0.66,0.62,0.56,0.52,0.40,0.58,0.62,0.60,include_stakeholders_in_criteria_design
+GV002,weight_selection,0.58,0.54,0.48,0.46,0.44,0.52,0.58,0.56,document_weight_rationale
+GV003,scoring_session,0.62,0.58,0.50,0.48,0.42,0.56,0.60,0.54,separate_scores_from_evidence
+GV004,sensitivity_review,0.46,0.50,0.44,0.42,0.70,0.48,0.54,0.50,run_weight_and_score_sensitivity
+GV005,ethical_review,0.64,0.60,0.66,0.54,0.50,0.56,0.78,0.62,protect_non_compensatory_thresholds
+GV006,decision_record,0.68,0.66,0.58,0.62,0.54,0.64,0.66,0.74,maintain_decision_memory
