@@ -1,0 +1,9 @@
+boundary_id,system_id,participation_purpose,problem_frame_open,idea_generation_open,prototype_open,evaluation_criteria_open,implementation_open,governance_open,constraint_transparency,decision_authority_clarity,review_action
+B001,P001,late_feedback_on_proposal,0.18,0.22,0.18,0.16,0.12,0.08,0.34,0.28,clarify_and_expand_influence
+B002,P002,co_design_service_prototype,0.70,0.78,0.82,0.72,0.58,0.42,0.74,0.72,maintain_boundary_clarity
+B003,P003,user_research_to_inform_experts,0.40,0.44,0.36,0.30,0.20,0.12,0.52,0.46,increase_participant_influence
+B004,P004,shared_governance_design,0.84,0.86,0.82,0.80,0.76,0.82,0.80,0.84,maintain_shared_governance
+B005,P005,ideation_workshop,0.34,0.56,0.40,0.28,0.16,0.10,0.38,0.26,connect_ideas_to_authority
+B006,P006,frontline_workflow_redesign,0.62,0.68,0.72,0.64,0.70,0.40,0.68,0.66,document_decision_pathways
+B007,P007,participatory_policy_options,0.72,0.76,0.62,0.70,0.52,0.48,0.76,0.68,clarify_final_authority
+B008,P008,listening_for_research_report,0.44,0.34,0.24,0.20,0.12,0.08,0.30,0.20,stop_overstating_influence

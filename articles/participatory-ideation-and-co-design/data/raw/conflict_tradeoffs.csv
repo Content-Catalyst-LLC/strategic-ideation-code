@@ -1,0 +1,9 @@
+conflict_id,system_id,conflict_type,conflict_visibility,tradeoff_clarity,dissent_documentation,burden_shift_review,value_tension_review,resolution_transparency,followup_quality,review_action
+C001,P001,efficiency_vs_access,0.28,0.30,0.18,0.26,0.32,0.22,0.20,make_tradeoffs_visible
+C002,P002,user_convenience_vs_staff_capacity,0.70,0.68,0.62,0.66,0.64,0.66,0.64,maintain_tradeoff_register
+C003,P003,expert_framing_vs_lived_experience,0.44,0.42,0.36,0.38,0.42,0.34,0.32,document_disagreement
+C004,P004,community_priorities_vs_funding_constraints,0.82,0.78,0.76,0.74,0.80,0.76,0.78,maintain_transparent_negotiation
+C005,P005,innovation_energy_vs_implementation_reality,0.34,0.36,0.24,0.30,0.34,0.26,0.24,connect_workshop_to_constraints
+C006,P006,staff_autonomy_vs_standardization,0.66,0.64,0.58,0.70,0.62,0.60,0.58,review_workflow_tradeoffs
+C007,P007,equity_vs_budget_limits,0.76,0.74,0.70,0.72,0.78,0.70,0.72,maintain_policy_tradeoff_record
+C008,P008,community_stories_vs_institutional_narrative,0.38,0.34,0.28,0.42,0.46,0.20,0.18,prevent_story_extraction

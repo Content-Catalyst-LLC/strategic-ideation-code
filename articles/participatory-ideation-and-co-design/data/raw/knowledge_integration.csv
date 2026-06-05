@@ -1,0 +1,9 @@
+knowledge_id,system_id,integration_practice,lived_experience_integration,technical_expertise_integration,operational_knowledge_integration,systems_analysis_integration,evidence_quality,conflict_visibility,synthesis_traceability,review_action
+K001,P001,summary_report_after_consultation,0.34,0.52,0.38,0.32,0.40,0.26,0.28,build_accountable_synthesis
+K002,P002,cross_knowledge_synthesis_workshop,0.76,0.72,0.70,0.68,0.72,0.66,0.74,maintain_synthesis_protocol
+K003,P003,research_team_interpretation,0.58,0.74,0.52,0.48,0.70,0.42,0.46,add_participant_interpretation
+K004,P004,community_expert_systems_synthesis,0.86,0.76,0.72,0.82,0.78,0.80,0.84,maintain_shared_synthesis
+K005,P005,workshop_note_clustering,0.44,0.46,0.40,0.34,0.38,0.30,0.32,connect_notes_to_assumptions
+K006,P006,frontline_operations_design_review,0.64,0.62,0.86,0.72,0.66,0.58,0.68,add_user_perspective
+K007,P007,policy_lab_synthesis_protocol,0.74,0.70,0.66,0.76,0.74,0.72,0.76,maintain_tradeoff_register
+K008,P008,researcher_authored_story_synthesis,0.62,0.50,0.38,0.42,0.52,0.34,0.28,add_community_validation

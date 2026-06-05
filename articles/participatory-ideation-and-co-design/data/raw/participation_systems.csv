@@ -1,0 +1,9 @@
+system_id,system_name,organization_type,domain,representation,influence,accessibility,reciprocity,power_awareness,knowledge_integration,decision_linkage,accountability,learning_memory,description
+P001,Token Consultation System,legacy_institution,public_service,0.34,0.22,0.40,0.24,0.28,0.42,0.20,0.18,0.24,Participation occurs late and has little influence on decisions.
+P002,Balanced Co-Design System,product_service_org,service_strategy,0.76,0.72,0.74,0.68,0.70,0.78,0.72,0.70,0.72,Co-design informs framing prototypes criteria and revisions.
+P003,Expert-Led User Research System,consulting_team,design_research,0.52,0.38,0.56,0.42,0.46,0.68,0.40,0.36,0.44,User insight informs experts but affected groups have limited decision influence.
+P004,Community-Governed Design System,coalition,sustainability_service,0.86,0.84,0.82,0.80,0.86,0.84,0.82,0.86,0.84,Community governance and decision traceability are central.
+P005,Workshop Theater System,large_institution,innovation_governance,0.42,0.26,0.46,0.30,0.34,0.44,0.24,0.22,0.28,Creative workshops generate energy but do not shape decisions.
+P006,Frontline Co-Design System,operations_team,workflow_redesign,0.70,0.66,0.68,0.62,0.64,0.76,0.66,0.62,0.66,Frontline workers help redesign workflows and implementation supports.
+P007,Participatory Policy Lab,public_agency,policy_design,0.74,0.68,0.72,0.70,0.72,0.76,0.64,0.68,0.70,Policy options are developed through facilitated stakeholder and community input.
+P008,Extractive Listening System,research_program,community_research,0.58,0.24,0.52,0.18,0.30,0.54,0.22,0.16,0.20,Organizations collect lived experience but return little accountability or influence.

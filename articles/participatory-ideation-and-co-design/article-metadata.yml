@@ -1,0 +1,34 @@
+title: "Participatory Ideation and Co-Design"
+slug: "participatory-ideation-and-co-design"
+series: "Strategic Ideation"
+repository: "https://github.com/Content-Catalyst-LLC/strategic-ideation-code"
+article_folder: "articles/participatory-ideation-and-co-design"
+purpose: "Advanced strategist-facing companion code for stakeholder mapping, participation-quality diagnostics, representation analysis, influence-boundary review, accessibility assessment, reciprocity scoring, power-risk analysis, knowledge-integration modeling, conflict and tradeoff registers, decision-traceability records, accountability review, tokenism and extraction risk, and participatory learning-memory systems."
+status: "advanced scaffold"
+professional_use_cases:
+  - "Stakeholder and affected-group mapping"
+  - "Representation coverage analysis"
+  - "Influence-boundary review"
+  - "Accessibility and participation-support review"
+  - "Reciprocity and participant-labor review"
+  - "Power-risk analysis"
+  - "Knowledge-integration scoring"
+  - "Conflict and tradeoff registers"
+  - "Decision-traceability records"
+  - "Accountability and close-the-loop review"
+  - "Tokenism and extraction risk scoring"
+  - "Participatory learning-memory records"
+languages:
+  - python
+  - r
+  - julia
+  - sql
+  - rust
+  - go
+  - cpp
+  - fortran
+  - c
+notes:
+  - "Uses synthetic data only."
+  - "Designed for strategists, design researchers, service designers, systems thinkers, public-sector teams, sustainability teams, product strategists, organizational leaders, analysts, consultants, facilitators, and knowledge architects."
+  - "Not a substitute for genuine participation, ethical review, accessibility planning, community accountability, domain expertise, facilitation judgment, or responsible governance."

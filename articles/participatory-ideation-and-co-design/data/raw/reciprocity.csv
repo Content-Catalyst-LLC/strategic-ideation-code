@@ -1,0 +1,9 @@
+reciprocity_id,system_id,participant_labor,compensation_quality,credit_quality,feedback_return_quality,capacity_building,benefit_to_participants,ongoing_relationship,extraction_risk_context,review_action
+R001,P001,0.54,0.10,0.12,0.18,0.08,0.16,0.14,0.70,add_compensation_and_response
+R002,P002,0.66,0.62,0.58,0.70,0.52,0.62,0.60,0.28,maintain_reciprocity
+R003,P003,0.58,0.34,0.32,0.40,0.22,0.36,0.30,0.52,improve_reciprocity
+R004,P004,0.76,0.78,0.74,0.82,0.76,0.80,0.84,0.20,maintain_community_benefit
+R005,P005,0.62,0.18,0.16,0.22,0.12,0.20,0.18,0.66,avoid_workshop_extraction
+R006,P006,0.70,0.54,0.50,0.60,0.56,0.64,0.62,0.34,recognize_staff_labor
+R007,P007,0.68,0.66,0.56,0.68,0.60,0.66,0.64,0.30,maintain_policy_lab_reciprocity
+R008,P008,0.82,0.12,0.18,0.16,0.10,0.18,0.20,0.82,stop_extractive_listening

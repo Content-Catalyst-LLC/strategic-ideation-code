@@ -1,0 +1,9 @@
+decision_id,system_id,decision_type,input_to_decision_clarity,authority_connection,resource_connection,revision_trigger_quality,implementation_path_quality,participant_review_quality,decision_rationale_quality,review_action
+D001,P001,proposal_minor_revision,0.24,0.28,0.30,0.22,0.26,0.18,0.22,create_decision_traceability
+D002,P002,prototype_iteration,0.74,0.72,0.66,0.70,0.68,0.66,0.70,maintain_traceability
+D003,P003,expert_recommendation,0.42,0.46,0.50,0.34,0.38,0.28,0.36,show_how_user_input_changed_choices
+D004,P004,shared_governance_decision,0.84,0.82,0.74,0.78,0.76,0.82,0.84,maintain_governance_record
+D005,P005,workshop_output_archive,0.26,0.24,0.28,0.20,0.22,0.16,0.20,connect_outputs_to_real_decisions
+D006,P006,workflow_redesign_decision,0.68,0.66,0.62,0.64,0.70,0.58,0.64,improve_participant_review
+D007,P007,policy_option_selection,0.72,0.70,0.60,0.66,0.64,0.68,0.72,clarify_final_authority
+D008,P008,research_report_publication,0.22,0.20,0.24,0.16,0.18,0.14,0.16,add_community_review_and_response

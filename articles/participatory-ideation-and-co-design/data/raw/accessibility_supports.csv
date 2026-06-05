@@ -1,0 +1,9 @@
+access_id,system_id,access_design,language_access,disability_access,schedule_flexibility,technology_access,compensation_support,care_transport_support,psychological_safety,cultural_fit,review_action
+A001,P001,standard_public_meeting,0.42,0.34,0.30,0.38,0.12,0.10,0.34,0.38,redesign_access_plan
+A002,P002,multi_format_codesign_sessions,0.72,0.68,0.70,0.66,0.62,0.52,0.70,0.68,maintain_access_supports
+A003,P003,research_interview_protocol,0.58,0.54,0.56,0.60,0.34,0.24,0.58,0.56,improve_compensation_and_access
+A004,P004,community_governed_access_plan,0.84,0.82,0.80,0.74,0.78,0.72,0.84,0.86,maintain_access_governance
+A005,P005,single_workshop_event,0.46,0.40,0.34,0.52,0.20,0.16,0.46,0.44,offer_multiple_participation_paths
+A006,P006,shift_friendly_staff_workshops,0.66,0.62,0.76,0.58,0.54,0.38,0.68,0.62,expand_support_for_care_needs
+A007,P007,hybrid_policy_lab,0.74,0.70,0.72,0.68,0.66,0.52,0.70,0.72,maintain_hybrid_access
+A008,P008,listening_sessions_without_support,0.60,0.48,0.42,0.44,0.16,0.12,0.50,0.62,add_reciprocity_and_supports

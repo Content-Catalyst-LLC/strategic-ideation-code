@@ -1,0 +1,9 @@
+stakeholder_id,system_id,stakeholder_group,stakeholder_type,affectedness,decision_power,implementation_role,knowledge_value,usual_exclusion_risk,participation_depth,representation_quality,review_action
+S001,P001,General service users,direct_users,0.82,0.18,0.12,0.78,0.46,0.30,0.34,move_from_consultation_to_framing
+S002,P002,Prototype participants,direct_users,0.78,0.38,0.20,0.80,0.32,0.72,0.74,maintain_influence_in_iteration
+S003,P003,Interviewed customers,direct_users,0.74,0.22,0.14,0.76,0.36,0.42,0.52,increase_decision_influence
+S004,P004,Community accountability council,affected_community,0.90,0.72,0.54,0.88,0.28,0.84,0.86,maintain_governance_role
+S005,P005,Workshop attendees,mixed_stakeholders,0.58,0.26,0.20,0.54,0.52,0.34,0.42,connect_workshop_to_decision
+S006,P006,Frontline staff,implementers,0.76,0.44,0.92,0.86,0.30,0.68,0.70,include_staff_in_workflow_decisions
+S007,P007,Policy-affected residents,affected_community,0.86,0.36,0.18,0.84,0.50,0.70,0.72,improve_representation_of_excluded_groups
+S008,P008,Community storytellers,affected_community,0.88,0.16,0.10,0.82,0.42,0.36,0.58,add_reciprocity_and_governance

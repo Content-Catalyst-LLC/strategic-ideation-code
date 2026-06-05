@@ -1,0 +1,9 @@
+accountability_id,system_id,accountability_practice,close_loop_quality,public_response_quality,participant_challenge_path,implementation_monitoring,ongoing_governance,learning_memory_quality,trust_repair_quality,review_action
+G001,P001,summary_page_after_consultation,0.22,0.24,0.12,0.18,0.10,0.24,0.18,create_close_loop_plan
+G002,P002,participant_update_and_iteration_record,0.70,0.66,0.54,0.62,0.46,0.70,0.60,maintain_feedback_response
+G003,P003,research_findings_shared_internally,0.36,0.30,0.18,0.28,0.16,0.42,0.26,share_synthesis_with_participants
+G004,P004,community_governance_board,0.84,0.82,0.78,0.80,0.84,0.82,0.78,maintain_governed_accountability
+G005,P005,workshop_thank_you_email,0.20,0.18,0.10,0.14,0.08,0.20,0.12,replace_thank_you_with_decision_record
+G006,P006,staff_workflow_followup,0.62,0.54,0.46,0.68,0.50,0.64,0.58,add_challenge_path
+G007,P007,policy_lab_decision_report,0.72,0.74,0.58,0.64,0.56,0.72,0.66,maintain_public_rationale
+G008,P008,final_research_report_only,0.18,0.20,0.08,0.12,0.06,0.18,0.10,create_accountable_return_process

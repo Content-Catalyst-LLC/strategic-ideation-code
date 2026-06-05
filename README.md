@@ -139,3 +139,7 @@ This repository includes advanced workflows for prototype planning, assumption m
 ## Feedback Loops in Design Thinking
 
 This repository includes advanced workflows for feedback-loop diagnostics, signal-quality review, interpretation-capacity scoring, adjustment-pathway mapping, user-feedback analysis, temporal learning review, systems-impact assessment, ethical feedback governance, noisy-churn risk scoring, decision-linkage review, and institutional feedback-memory records.
+
+## Participatory Ideation and Co-Design
+
+This repository includes advanced workflows for stakeholder mapping, participation-quality diagnostics, representation analysis, influence-boundary review, accessibility assessment, reciprocity scoring, power-risk analysis, knowledge-integration modeling, conflict and tradeoff registers, decision-traceability records, accountability review, tokenism and extraction risk, and participatory learning-memory systems.
