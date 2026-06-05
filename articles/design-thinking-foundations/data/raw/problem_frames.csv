@@ -1,0 +1,9 @@
+frame_id,context_id,initial_frame,reframed_problem,frame_source,inquiry_influence,boundary_quality,stakeholder_evidence,causal_depth,systems_context,ethical_awareness,decision_usefulness,reframing_maturity,review_action
+F001,C001,Low adoption is a communication issue,Adoption is limited by workflow burden and unclear authority,internal_assumption,0.42,0.46,0.40,0.48,0.44,0.42,0.46,0.44,conduct_deeper_reframing
+F002,C002,Users need better service information,Users need simpler pathways and trust-building support,mixed_evidence,0.74,0.72,0.76,0.70,0.66,0.70,0.76,0.74,prototype_reframed_pathway
+F003,C003,Feature discovery is weak,The product lacks a clear moment of value in user workflow,user_research,0.82,0.74,0.80,0.72,0.60,0.58,0.78,0.80,design_value_moment_test
+F004,C004,Employees need innovation mindset,Innovation rituals lack decision authority and follow-through,workshop_feedback,0.34,0.30,0.32,0.36,0.28,0.30,0.24,0.30,rebuild_governance_before_workshops
+F005,C005,Service access is inefficient,Access barriers reflect eligibility rules trust burden and fragmented delivery,participatory_research,0.86,0.84,0.88,0.82,0.90,0.88,0.84,0.86,move_to_systems_aware_prototype
+F006,C006,Analytics can identify all user needs,Quantitative patterns require lived-experience inquiry to interpret,analytics_review,0.48,0.54,0.38,0.56,0.62,0.48,0.58,0.52,add_qualitative_research
+F007,C007,Community needs sustainability education,Community needs power resources and institutional accountability,community_input,0.88,0.82,0.86,0.78,0.84,0.90,0.78,0.84,co_design_governance_pathway
+F008,C008,Early users need faster onboarding,Non-users face trust and switching barriers not visible in early adopters,prototype_feedback,0.66,0.58,0.54,0.60,0.48,0.46,0.62,0.60,expand_beyond_early_adopters

@@ -1,0 +1,9 @@
+system_id,context_id,design_issue,feedback_risk,delay_risk,burden_shift_risk,incentive_misalignment,metric_gaming_risk,context_dependency,leverage_relevance,monitoring_quality,review_action
+S001,C001,Adoption work may shift burden to frontline teams,0.62,0.54,0.74,0.66,0.46,0.64,0.62,0.54,burden_shift_review
+S002,C002,Trust improvements may depend on governance beyond service touchpoints,0.58,0.56,0.50,0.58,0.34,0.70,0.74,0.62,link_service_design_to_governance
+S003,C003,Prototype success may not transfer to stressed usage contexts,0.54,0.48,0.42,0.50,0.36,0.68,0.58,0.56,stress_test_context
+S004,C004,Workshop activity may create innovation theater without structural change,0.76,0.62,0.58,0.74,0.64,0.72,0.44,0.38,stop_activity_metrics_only
+S005,C005,Access redesign may shift burden across agencies,0.72,0.66,0.86,0.70,0.42,0.82,0.84,0.70,cross_boundary_system_review
+S006,C006,Analytics interpretation may reinforce existing blind spots,0.64,0.50,0.44,0.60,0.58,0.76,0.66,0.58,add_qualitative_counterevidence
+S007,C007,Community design may be constrained by institutional resource rules,0.66,0.58,0.62,0.78,0.38,0.80,0.82,0.64,redesign_authority_path
+S008,C008,Rapid testing may overfit early adopters,0.60,0.44,0.36,0.50,0.40,0.72,0.56,0.52,add_non_user_and_context_tests

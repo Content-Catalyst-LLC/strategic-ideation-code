@@ -119,3 +119,7 @@ This repository includes advanced workflows for assumption mapping, criticality 
 ## Theory of Change and Strategic Logic
 
 This repository includes advanced workflows for theory-of-change mapping, strategic logic diagnostics, causal link scoring, assumption review, evidence assessment, stakeholder response analysis, system feedback review, outcome sequencing, prototype-test design, implementation learning, revision-trigger design, and decision-memory records.
+
+## Design Thinking Foundations
+
+This repository includes advanced workflows for design thinking capability assessment, human-centered inquiry review, problem reframing analysis, prototype-test design, design-learning simulation, stakeholder evidence review, systems-aware design diagnostics, ethical design checks, decision-linkage scoring, and institutional learning records.

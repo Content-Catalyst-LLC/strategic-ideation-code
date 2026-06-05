@@ -1,0 +1,9 @@
+inquiry_id,context_id,stakeholder_group,inquiry_method,sample_quality,contextual_depth,behavioral_observation,trust_sensitivity,burden_visibility,representation_quality,interpretation_quality,decision_relevance,review_action
+Q001,C001,frontline_staff,interviews,0.42,0.46,0.30,0.52,0.48,0.38,0.44,0.42,expand_fieldwork
+Q002,C002,service_users,journey_mapping,0.70,0.74,0.66,0.72,0.70,0.68,0.72,0.76,maintain_journey_evidence
+Q003,C003,product_users,usability_observation,0.76,0.78,0.86,0.62,0.58,0.70,0.78,0.82,connect_to_strategy_decision
+Q004,C004,workshop_participants,persona_workshop,0.38,0.34,0.20,0.36,0.30,0.32,0.36,0.30,replace_with_real_inquiry
+Q005,C005,affected_communities,participatory_research,0.82,0.86,0.74,0.90,0.88,0.80,0.84,0.86,use_as_governance_input
+Q006,C006,non_users,survey,0.56,0.38,0.24,0.44,0.36,0.48,0.50,0.54,add_contextual_inquiry
+Q007,C007,community_members,co_design_sessions,0.78,0.84,0.68,0.88,0.86,0.82,0.80,0.76,trace_participation_to_decisions
+Q008,C008,early_adopters,prototype_interviews,0.64,0.58,0.66,0.48,0.40,0.56,0.62,0.70,add_non_user_research

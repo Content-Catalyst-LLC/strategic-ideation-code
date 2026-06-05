@@ -1,0 +1,9 @@
+idea_id,context_id,idea_name,idea_type,novelty,strategic_fit,human_centered_fit,feasibility,evidence_strength,system_awareness,ethical_quality,learning_value,reversibility,review_action
+I001,C001,Workflow-Sensitive Adoption Pilot,service_redesign,0.54,0.70,0.62,0.66,0.46,0.52,0.48,0.68,0.62,test_before_scaling
+I002,C002,Trust-Centered Service Pathway,service_design,0.68,0.78,0.82,0.62,0.66,0.70,0.76,0.78,0.58,prototype_with_users
+I003,C003,Moment-of-Value Product Prototype,product_strategy,0.72,0.80,0.78,0.76,0.70,0.58,0.60,0.82,0.70,run_behavior_test
+I004,C004,Innovation Workshop Series,workshop_program,0.42,0.54,0.44,0.74,0.28,0.26,0.32,0.34,0.76,do_not_scale_without_governance
+I005,C005,Systems-Aware Access Redesign,public_service,0.76,0.84,0.88,0.58,0.68,0.90,0.88,0.84,0.62,phase_with_governance
+I006,C006,Mixed-Methods User Insight Program,research_system,0.58,0.72,0.70,0.68,0.52,0.66,0.62,0.74,0.66,add_contextual_research
+I007,C007,Community Accountability Co-Design Lab,participatory_governance,0.74,0.80,0.86,0.56,0.64,0.82,0.92,0.82,0.60,build_decision_traceability
+I008,C008,Non-User Trust and Switching Prototype,market_innovation,0.70,0.76,0.72,0.70,0.58,0.52,0.50,0.78,0.72,test_with_non_users

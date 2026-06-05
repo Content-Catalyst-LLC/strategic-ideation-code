@@ -1,0 +1,32 @@
+title: "Design Thinking Foundations"
+slug: "design-thinking-foundations"
+series: "Strategic Ideation"
+repository: "https://github.com/Content-Catalyst-LLC/strategic-ideation-code"
+article_folder: "articles/design-thinking-foundations"
+purpose: "Advanced strategist-facing companion code for design thinking capability assessment, human-centered inquiry review, problem reframing analysis, prototype-test design, design-learning simulation, stakeholder evidence review, systems-aware design diagnostics, ethical design checks, decision-linkage scoring, and institutional learning records."
+status: "advanced scaffold"
+professional_use_cases:
+  - "Design thinking capability assessment"
+  - "Human-centered inquiry review"
+  - "Problem framing and reframing diagnostics"
+  - "Divergence and convergence analysis"
+  - "Prototype learning value scoring"
+  - "Testing quality and evidence review"
+  - "Systems-aware design diagnostics"
+  - "Ethical design and participation review"
+  - "Decision-linkage scoring"
+  - "Institutional learning and design memory"
+languages:
+  - python
+  - r
+  - julia
+  - sql
+  - rust
+  - go
+  - cpp
+  - fortran
+  - c
+notes:
+  - "Uses synthetic data only."
+  - "Designed for strategists, design researchers, service designers, systems thinkers, product strategists, public-sector teams, innovation teams, sustainability teams, organizational leaders, analysts, consultants, and knowledge architects."
+  - "Not a substitute for stakeholder judgment, ethical review, domain expertise, or participatory governance."

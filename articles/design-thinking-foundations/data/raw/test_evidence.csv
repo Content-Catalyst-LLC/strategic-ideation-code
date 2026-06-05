@@ -1,0 +1,9 @@
+test_id,prototype_id,context_id,test_method,evidence_type,reliability,relevance,transferability,behavioral_signal,stakeholder_signal,implementation_signal,system_signal,bias_risk,interpretation_quality,review_action
+T001,P001,C001,workflow_simulation,behavior_and_feasibility,0.66,0.74,0.60,0.72,0.58,0.70,0.54,0.32,0.68,connect_to_authority_review
+T002,P002,C002,journey_test_with_users,user_experience,0.70,0.82,0.66,0.68,0.82,0.62,0.64,0.28,0.76,revise_journey_and_trust_points
+T003,P003,C003,clickable_prototype_test,usability_and_behavior,0.74,0.80,0.58,0.78,0.66,0.60,0.50,0.30,0.74,add_real_context_pilot
+T004,P004,C004,workshop_feedback_survey,satisfaction_feedback,0.52,0.38,0.34,0.28,0.42,0.30,0.24,0.46,0.44,do_not_treat_as_outcome_evidence
+T005,P005,C005,service_blueprint_walkthrough,system_and_burden_review,0.72,0.84,0.68,0.64,0.86,0.74,0.82,0.26,0.78,run_frontline_burden_probe
+T006,P006,C006,mixed_methods_sprint,evidence_interpretation,0.68,0.76,0.62,0.58,0.64,0.56,0.60,0.34,0.72,integrate_with_analytics
+T007,P007,C007,decision_traceability_review,governance_evidence,0.70,0.84,0.64,0.60,0.90,0.66,0.78,0.28,0.80,make_decision_influence_visible
+T008,P008,C008,non_user_interviews,market_and_trust_evidence,0.66,0.78,0.58,0.62,0.70,0.52,0.48,0.36,0.68,expand_sample_and_compare

@@ -1,0 +1,9 @@
+ethics_id,context_id,ethical_issue,participation_quality,power_awareness,burden_visibility,consent_quality,representation_quality,redress_quality,decision_traceability,harm_monitoring,review_action
+E001,C001,Frontline burden may be hidden in adoption plan,0.46,0.48,0.56,0.52,0.42,0.38,0.44,0.46,add_burden_and_redress_review
+E002,C002,User trust requires visible influence over redesign,0.72,0.68,0.70,0.70,0.68,0.62,0.72,0.66,trace_feedback_to_decision
+E003,C003,Prototype may exclude low-skill or edge-case users,0.66,0.54,0.50,0.62,0.56,0.46,0.58,0.50,expand_user_sample
+E004,C004,Workshop participation may be symbolic,0.32,0.30,0.34,0.48,0.34,0.24,0.26,0.28,rebuild_participation_model
+E005,C005,Affected communities must influence service rules,0.84,0.88,0.86,0.82,0.80,0.78,0.82,0.80,maintain_participatory_governance
+E006,C006,Analytics may obscure qualitative burden,0.50,0.52,0.42,0.58,0.48,0.40,0.54,0.46,add_experiential_evidence
+E007,C007,Community participation must not become unpaid extraction,0.82,0.90,0.86,0.78,0.82,0.76,0.74,0.78,compensate_and_trace_decisions
+E008,C008,Early adopter tests may exclude skeptical users,0.56,0.48,0.40,0.60,0.46,0.36,0.52,0.42,include_non_user_voice

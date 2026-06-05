@@ -1,0 +1,9 @@
+learning_id,context_id,learning_system,observation_quality,frame_revision_quality,prototype_record_quality,test_record_quality,decision_memory_quality,reuse_quality,governance_review_quality,adaptation_quality,review_action
+L001,C001,basic_project_notes,0.44,0.42,0.38,0.40,0.36,0.34,0.42,0.40,build_design_memory_system
+L002,C002,design_learning_log,0.72,0.74,0.70,0.72,0.68,0.64,0.66,0.74,standardize_learning_records
+L003,C003,prototype_evidence_archive,0.78,0.80,0.84,0.82,0.72,0.70,0.68,0.82,connect_to_portfolio_learning
+L004,C004,workshop_artifact_folder,0.34,0.28,0.32,0.26,0.22,0.20,0.24,0.30,replace_with_decision_memory
+L005,C005,systems_design_repository,0.82,0.84,0.78,0.80,0.78,0.76,0.82,0.84,preserve_cross_boundary_learning
+L006,C006,analytics_repository,0.50,0.46,0.42,0.48,0.52,0.58,0.54,0.50,add_qualitative_design_records
+L007,C007,community_learning_archive,0.80,0.82,0.72,0.74,0.76,0.72,0.78,0.80,maintain_shared_ownership
+L008,C008,experiment_log,0.62,0.60,0.74,0.70,0.56,0.52,0.48,0.68,add_ethics_and_system_review

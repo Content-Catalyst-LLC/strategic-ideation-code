@@ -1,0 +1,9 @@
+decision_id,context_id,design_artifact,decision_type,artifact_quality,evidence_quality,decision_relevance,authority_connection,resource_connection,revision_trigger_quality,learning_memory_quality,implementation_path_quality,review_action
+D001,C001,workflow_adoption_map,implementation_decision,0.58,0.52,0.64,0.46,0.44,0.50,0.48,0.54,connect_design_to_authority
+D002,C002,trust_centered_journey_map,service_strategy,0.74,0.70,0.78,0.68,0.62,0.66,0.70,0.72,move_to_prototype_gate
+D003,C003,value_moment_prototype,product_strategy,0.78,0.74,0.82,0.72,0.68,0.70,0.70,0.76,run_behavioral_pilot
+D004,C004,innovation_workshop_board,innovation_program,0.42,0.34,0.30,0.24,0.22,0.28,0.26,0.30,do_not_scale
+D005,C005,systems_access_blueprint,public_service_strategy,0.82,0.76,0.84,0.78,0.70,0.76,0.78,0.80,phase_with_governance
+D006,C006,mixed_methods_insight_brief,research_strategy,0.64,0.62,0.70,0.58,0.52,0.58,0.62,0.64,link_to_product_decision
+D007,C007,community_decision_traceability_model,participatory_governance,0.80,0.74,0.82,0.72,0.66,0.78,0.76,0.74,formalize_governance
+D008,C008,non_user_barrier_map,market_strategy,0.68,0.62,0.72,0.64,0.60,0.62,0.58,0.66,run_market_fit_test

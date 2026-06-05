@@ -1,0 +1,9 @@
+prototype_id,idea_id,context_id,prototype_name,prototype_type,assumption_tested,prototype_fidelity,learning_potential,test_speed,stakeholder_inclusion,realism,system_signal_quality,ethical_safety,cost_efficiency,decision_usefulness,success_threshold,decision_if_failed
+P001,I001,C001,Workflow adoption dry run,workflow_prototype,Adoption depends on workflow fit and authority clarity,0.42,0.76,0.70,0.58,0.66,0.52,0.64,0.72,0.74,0.60,redesign_workflow_or_pause
+P002,I002,C002,Trust-centered service journey prototype,journey_prototype,Trust and burden reduction improve service completion,0.50,0.82,0.66,0.80,0.72,0.68,0.78,0.66,0.80,0.68,revise_service_pathway
+P003,I003,C003,Moment-of-value clickable prototype,digital_prototype,Clear value moment improves meaningful adoption,0.62,0.84,0.78,0.66,0.74,0.56,0.66,0.74,0.82,0.70,reframe_value_proposition
+P004,I004,C004,Workshop-only concept board,concept_board,Workshops alone can improve innovation quality,0.36,0.38,0.74,0.34,0.40,0.28,0.36,0.80,0.32,0.55,stop_or_add_governance
+P005,I005,C005,Access redesign service blueprint,service_blueprint,Burden can be reduced without shifting cost to frontline staff,0.56,0.86,0.62,0.88,0.76,0.84,0.90,0.60,0.84,0.72,redesign_burden_distribution
+P006,I006,C006,Contextual inquiry sprint,research_prototype,Qualitative inquiry will explain analytics patterns,0.38,0.78,0.72,0.62,0.58,0.62,0.66,0.76,0.70,0.65,expand_research_design
+P007,I007,C007,Community decision-traceability prototype,governance_prototype,Participation must influence resource decisions,0.48,0.84,0.60,0.92,0.68,0.80,0.92,0.58,0.86,0.75,redesign_governance
+P008,I008,C008,Non-user switching barrier prototype,market_test,Non-users face trust and switching barriers,0.44,0.80,0.74,0.58,0.64,0.50,0.56,0.78,0.76,0.65,revise_positioning_and_support

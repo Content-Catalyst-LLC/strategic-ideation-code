@@ -1,0 +1,9 @@
+context_id,context_name,organization_type,domain,empathy_depth,reframing_capacity,divergence_quality,convergence_quality,prototyping_strength,testing_quality,systems_awareness,ethical_review,decision_linkage,adaptability,institutional_memory,description
+C001,Planning-Dominant Organization,legacy_enterprise,operations,0.28,0.31,0.36,0.58,0.24,0.29,0.35,0.42,0.36,0.33,0.40,Strong planning culture but weak inquiry prototyping and learning loops.
+C002,Balanced Innovation Organization,mid_size_institution,innovation,0.72,0.76,0.78,0.72,0.74,0.73,0.68,0.70,0.72,0.77,0.68,Combines inquiry ideation testing and decision linkage.
+C003,Prototype-Driven Learning Organization,product_and_service_org,product_strategy,0.81,0.84,0.86,0.74,0.88,0.86,0.72,0.74,0.78,0.89,0.76,Strong prototype culture with fast learning and evidence use.
+C004,Superficial Workshop-Only Organization,large_institution,innovation_theater,0.39,0.34,0.68,0.38,0.41,0.36,0.30,0.34,0.28,0.42,0.24,Uses workshops and artifacts without deep inquiry or decision authority.
+C005,Systems-Aware Design Organization,public_system,public_service,0.78,0.82,0.74,0.70,0.76,0.80,0.90,0.86,0.80,0.84,0.78,Integrates design research with systems thinking ethics and governance.
+C006,Data-Heavy Low-Empathy Organization,analytics_org,digital_strategy,0.24,0.40,0.42,0.74,0.36,0.48,0.62,0.46,0.58,0.44,0.52,Has strong analytics but weak lived-experience inquiry.
+C007,Community-Led Design Coalition,coalition,sustainability,0.88,0.82,0.76,0.66,0.68,0.72,0.82,0.90,0.70,0.78,0.74,Strong participatory inquiry and ethical legitimacy with moderate delivery structure.
+C008,Rapid Experimentation Startup,startup,market_innovation,0.62,0.66,0.84,0.62,0.86,0.78,0.52,0.48,0.68,0.82,0.50,Fast testing and iteration but weaker systems and ethics review.
