@@ -1,0 +1,9 @@
+agenda_id,idea_id,agenda_source,leadership_priority,stakeholder_priority,frontline_priority,evidence_signal_strength,long_term_relevance,political_safety,agenda_exclusion_risk,review_action
+AP001,PI001,stakeholder_concern,0.48,0.84,0.66,0.72,0.76,0.44,0.62,protect_governance_from_agenda_exclusion
+AP002,PI002,executive_priority,0.88,0.42,0.48,0.58,0.46,0.82,0.28,apply_evidence_and_stakeholder_review
+AP003,PI003,frontline_learning,0.44,0.62,0.82,0.70,0.68,0.48,0.58,create_frontline_agenda_pathway
+AP004,PI004,technology_transformation,0.78,0.44,0.52,0.54,0.50,0.78,0.42,add_dissent_and_impact_review
+AP005,PI005,community_accountability,0.40,0.88,0.62,0.76,0.82,0.36,0.70,protect_accountability_agenda_item
+AP006,PI006,budget_pressure,0.86,0.32,0.38,0.52,0.42,0.84,0.34,review_burden_and_hidden_costs
+AP007,PI007,memory_audit,0.56,0.64,0.70,0.72,0.78,0.52,0.46,maintain_memory_repair_on_agenda
+AP008,PI008,long_horizon_signal,0.46,0.68,0.60,0.74,0.88,0.38,0.66,protect_long_term_strategy_capacity

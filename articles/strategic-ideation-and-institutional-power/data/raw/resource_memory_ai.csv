@@ -1,0 +1,9 @@
+record_id,idea_id,resource_support,incentive_fit,memory_traceability,prior_failure_visibility,dissent_memory,ai_disclosure,ai_source_traceability,ai_bias_review,ai_power_amplification_risk,review_action
+RMA001,PI001,0.58,0.52,0.70,0.64,0.70,0.54,0.52,0.50,0.38,protect_governance_resource_path
+RMA002,PI002,0.82,0.78,0.56,0.42,0.44,0.48,0.46,0.42,0.70,review_ai_or_dashboard_narrative_power
+RMA003,PI003,0.50,0.48,0.72,0.68,0.76,0.50,0.48,0.46,0.40,resource_frontline_learning
+RMA004,PI004,0.76,0.74,0.50,0.38,0.42,0.42,0.40,0.36,0.76,urgent_ai_power_review
+RMA005,PI005,0.44,0.40,0.74,0.70,0.78,0.52,0.50,0.48,0.34,protect_accountability_memory
+RMA006,PI006,0.80,0.82,0.46,0.34,0.38,0.44,0.42,0.38,0.72,review_cost_narrative_memory_erasure
+RMA007,PI007,0.60,0.58,0.86,0.82,0.84,0.54,0.54,0.50,0.30,maintain_memory_stewardship
+RMA008,PI008,0.42,0.38,0.68,0.64,0.70,0.50,0.48,0.46,0.36,protect_long_term_memory_and_resources

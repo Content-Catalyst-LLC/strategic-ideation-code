@@ -1,0 +1,9 @@
+voice_id,idea_id,participation_mode,invited_voice,actual_influence,agenda_influence,criteria_influence,decision_influence,dissent_safety,redress_access,tokenism_risk,review_action
+PV001,PI001,co_design,0.84,0.72,0.70,0.68,0.66,0.74,0.70,0.24,maintain_real_governance_influence
+PV002,PI002,consultation,0.52,0.36,0.30,0.32,0.28,0.42,0.36,0.64,avoid_dashboard_consultation_tokenism
+PV003,PI003,frontline_workshop,0.76,0.58,0.54,0.56,0.48,0.70,0.54,0.42,strengthen_frontline_decision_pathway
+PV004,PI004,feedback_session,0.58,0.40,0.34,0.36,0.32,0.40,0.38,0.66,add_worker_stakeholder_authority
+PV005,PI005,shared_accountability,0.88,0.76,0.74,0.72,0.70,0.78,0.76,0.20,protect_community_authority
+PV006,PI006,announcement_and_feedback,0.44,0.30,0.26,0.28,0.24,0.34,0.30,0.74,urgent_voice_and_redress_repair
+PV007,PI007,retrospective_review,0.70,0.62,0.60,0.58,0.54,0.72,0.60,0.34,preserve_memory_and_dissent_voice
+PV008,PI008,future_stakeholder_proxy,0.66,0.52,0.50,0.50,0.46,0.62,0.54,0.46,improve_future_voice_proxy

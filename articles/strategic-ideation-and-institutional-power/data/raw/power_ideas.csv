@@ -1,0 +1,9 @@
+idea_id,idea,idea_type,strategic_merit,evidence_strength,executive_sponsorship,resource_fit,stakeholder_influence,dissent_protection,classification_visibility,power_alignment,advancement_likelihood,ethical_visibility,description
+PI001,Participatory Governance Model,governance_strategy,0.78,0.72,0.54,0.58,0.78,0.72,0.76,0.46,0.52,0.82,Governance idea with high stakeholder legitimacy but modest executive sponsorship.
+PI002,Executive Dashboard Expansion,measurement_strategy,0.62,0.60,0.86,0.82,0.42,0.46,0.58,0.84,0.82,0.52,Executive-sponsored dashboard idea with strong institutional fit but weak stakeholder influence.
+PI003,Frontline Learning System,knowledge_strategy,0.74,0.70,0.48,0.50,0.66,0.68,0.72,0.44,0.48,0.70,Frontline-originated learning idea with low sponsorship and high implementation insight.
+PI004,AI-Assisted Workflow Redesign,technology_strategy,0.66,0.54,0.78,0.76,0.48,0.44,0.52,0.78,0.76,0.48,Technology transformation idea with high power alignment but weak dissent protection.
+PI005,Community Accountability Compact,accountability_strategy,0.82,0.76,0.42,0.44,0.84,0.78,0.80,0.38,0.40,0.88,Stakeholder-accountability idea with high merit but low institutional fit.
+PI006,Cost Consolidation Plan,efficiency_strategy,0.58,0.52,0.82,0.80,0.34,0.38,0.46,0.86,0.80,0.40,Cost-focused idea with high sponsorship but high burden invisibility risk.
+PI007,Institutional Memory Repair,learning_strategy,0.76,0.72,0.56,0.60,0.64,0.70,0.78,0.50,0.58,0.74,Memory repair idea focused on preserving dissent lessons and prior failures.
+PI008,Long-Horizon Resilience Fund,portfolio_strategy,0.80,0.74,0.46,0.42,0.70,0.72,0.74,0.40,0.44,0.86,Future-oriented idea with low budget fit and high strategic merit.

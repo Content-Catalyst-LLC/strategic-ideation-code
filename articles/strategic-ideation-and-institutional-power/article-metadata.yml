@@ -1,0 +1,40 @@
+title: "Strategic Ideation and Institutional Power"
+slug: "strategic-ideation-and-institutional-power"
+series: "Strategic Ideation"
+repository: "https://github.com/Content-Catalyst-LLC/strategic-ideation-code"
+article_folder: "articles/strategic-ideation-and-institutional-power"
+previous_article:
+  title: "Ethics of Strategic Ideation"
+  slug: "ethics-of-strategic-ideation"
+next_article:
+  title: "Bad Ideas and Strategic Failure"
+  slug: "bad-ideas-and-strategic-failure"
+purpose: "Advanced strategist-facing companion code for institutional power diagnostics, agenda-setting review, feasibility and constraint analysis, sponsorship and gatekeeper mapping, evidence parity review, participation influence mapping, dissent protection, classification power review, resource allocation analysis, institutional memory audit, AI mediation review, and power-aware governance design."
+status: "advanced scaffold"
+professional_use_cases:
+  - "Institutional power diagnostics"
+  - "Agenda-setting review"
+  - "Feasibility and constraint analysis"
+  - "Sponsorship and gatekeeper mapping"
+  - "Evidence parity review"
+  - "Participation influence mapping"
+  - "Dissent protection review"
+  - "Classification power review"
+  - "Resource allocation analysis"
+  - "Institutional memory and forgetting audit"
+  - "AI mediation review"
+  - "Power-aware governance design"
+languages:
+  - python
+  - r
+  - julia
+  - sql
+  - rust
+  - go
+  - cpp
+  - fortran
+  - c
+notes:
+  - "Uses synthetic data only."
+  - "Designed for strategists, policy teams, public-sector teams, transformation teams, governance teams, ethics review teams, knowledge architects, executives, consultants, analysts, content strategists, communications leaders, and systems thinkers."
+  - "Not a substitute for executive judgment, stakeholder engagement, ethical review, legal review, information governance, privacy review, domain expertise, accountable governance, or responsible institutional change."

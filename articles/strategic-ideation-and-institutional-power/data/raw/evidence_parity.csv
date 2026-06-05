@@ -1,0 +1,9 @@
+evidence_id,idea_id,evidence_type,evidence_strength,evidence_threshold_applied,counterevidence_visibility,source_diversity,stakeholder_evidence_quality,expertise_balance,overclaim_risk,review_action
+EP001,PI001,mixed_evidence,0.72,0.78,0.70,0.74,0.82,0.70,0.28,maintain_mixed_evidence_review
+EP002,PI002,dashboard_metrics,0.60,0.52,0.44,0.48,0.38,0.54,0.58,raise_evidence_threshold_for_power_aligned_idea
+EP003,PI003,frontline_operational_evidence,0.70,0.76,0.68,0.66,0.62,0.72,0.32,protect_frontline_evidence_credibility
+EP004,PI004,technical_vendor_evidence,0.54,0.50,0.40,0.42,0.36,0.46,0.66,require_independent_ai_and_workflow_review
+EP005,PI005,stakeholder_testimony_and_research,0.76,0.82,0.74,0.78,0.88,0.72,0.24,protect_stakeholder_evidence
+EP006,PI006,cost_model,0.52,0.48,0.38,0.40,0.30,0.42,0.72,add_capacity_burden_and_counterevidence_review
+EP007,PI007,institutional_memory_audit,0.72,0.74,0.70,0.68,0.64,0.70,0.30,maintain_decision_memory_evidence
+EP008,PI008,long_horizon_scenario_evidence,0.74,0.80,0.72,0.70,0.68,0.70,0.28,protect_future_facing_evidence
