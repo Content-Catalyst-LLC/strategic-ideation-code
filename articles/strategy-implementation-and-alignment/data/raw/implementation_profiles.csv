@@ -1,0 +1,9 @@
+organization_id,organization_name,organization_type,goal_clarity,coordination_quality,structural_support,cultural_support,incentive_alignment,resource_sufficiency,communication_quality,accountability_strength,adaptive_execution,external_alignment,ethical_resilience
+SI001,High-Intent Fragmented Organization,fragmented,0.70,0.38,0.44,0.31,0.29,0.52,0.41,0.46,0.36,0.42,0.48
+SI002,Balanced Aligned Organization,balanced,0.82,0.81,0.79,0.78,0.77,0.82,0.80,0.76,0.74,0.70,0.72
+SI003,Strong Structure Weak Culture Organization,structure_heavy,0.74,0.62,0.86,0.42,0.54,0.70,0.58,0.64,0.48,0.56,0.52
+SI004,Adaptive Cross-Functional Organization,adaptive,0.78,0.84,0.73,0.76,0.71,0.76,0.78,0.74,0.83,0.72,0.76
+SI005,Well-Resourced Low-Feedback Organization,resource_heavy,0.76,0.66,0.74,0.56,0.62,0.88,0.66,0.72,0.42,0.60,0.58
+SI006,Metric-Driven Misaligned Organization,metric_misaligned,0.68,0.54,0.62,0.50,0.36,0.68,0.58,0.66,0.46,0.50,0.46
+SI007,System-Aligned Partnership Organization,ecosystem_aligned,0.76,0.72,0.68,0.70,0.66,0.72,0.74,0.70,0.76,0.84,0.78
+SI008,Overcentralized Compliance Organization,overcentralized,0.80,0.58,0.76,0.54,0.60,0.70,0.62,0.78,0.34,0.48,0.50

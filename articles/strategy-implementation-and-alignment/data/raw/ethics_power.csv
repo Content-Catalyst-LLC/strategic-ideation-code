@@ -1,0 +1,9 @@
+ethics_id,organization_id,ethical_issue,sponsor_power,affected_stakeholder_voice,benefit_concentration,burden_concentration,transparency,redress_quality,long_term_responsibility,review_action
+EP001,SI001,Implementation burden may fall on teams without voice,0.70,0.42,0.58,0.66,0.46,0.38,0.50,expand_voice_and_redress
+EP002,SI002,Balanced system still needs distribution review,0.58,0.68,0.46,0.40,0.70,0.64,0.72,maintain_ethics_monitoring
+EP003,SI003,Structure may enforce compliance while ignoring culture,0.72,0.46,0.60,0.62,0.52,0.44,0.54,review_cultural_burden
+EP004,SI004,Adaptive system must protect accountability,0.56,0.74,0.44,0.42,0.72,0.68,0.76,maintain_responsible_adaptation
+EP005,SI005,Resources may flow without stakeholder feedback,0.66,0.48,0.64,0.54,0.58,0.46,0.58,add_feedback_and_redress
+EP006,SI006,Metrics may externalize pressure to lower-power groups,0.76,0.40,0.70,0.72,0.44,0.36,0.46,urgent_metric_ethics_review
+EP007,SI007,Partnership alignment requires fair burden sharing,0.60,0.70,0.48,0.46,0.72,0.66,0.78,maintain_partner_ethics_review
+EP008,SI008,Overcentralized control may suppress local knowledge,0.82,0.38,0.66,0.64,0.48,0.34,0.44,restore_local_voice

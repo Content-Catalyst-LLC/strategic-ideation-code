@@ -1,0 +1,9 @@
+dimension_id,organization_id,dimension,translation,structure,culture,incentives,resources,coordination,feedback,leadership,governance,decision_memory,ethics,review_action
+AD001,SI001,implementation_gap,0.43,0.38,0.33,0.31,0.40,0.34,0.35,0.39,0.36,0.38,0.41,build_basic_alignment_system
+AD002,SI002,balanced_alignment,0.78,0.76,0.75,0.74,0.76,0.77,0.72,0.75,0.74,0.73,0.70,maintain_alignment_system
+AD003,SI003,structure_culture_gap,0.66,0.76,0.42,0.54,0.65,0.56,0.50,0.61,0.58,0.57,0.52,repair_cultural_alignment
+AD004,SI004,adaptive_execution,0.75,0.76,0.77,0.73,0.74,0.80,0.79,0.78,0.77,0.76,0.74,protect_adaptive_coherence
+AD005,SI005,resource_feedback_gap,0.66,0.66,0.54,0.59,0.78,0.58,0.42,0.62,0.56,0.54,0.55,build_feedback_loops
+AD006,SI006,metric_misalignment,0.59,0.57,0.49,0.35,0.61,0.52,0.46,0.54,0.50,0.50,0.44,repair_incentive_system
+AD007,SI007,system_alignment,0.72,0.70,0.72,0.68,0.71,0.74,0.75,0.73,0.72,0.73,0.76,maintain_cross_boundary_alignment
+AD008,SI008,overcentralized_compliance,0.68,0.68,0.47,0.52,0.63,0.50,0.36,0.56,0.50,0.48,0.42,restore_local_adaptation_rights

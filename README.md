@@ -191,3 +191,7 @@ This repository includes advanced workflows for opportunity recognition, opportu
 ## From Ideas to Strategy
 
 This repository includes advanced workflows for idea-to-strategy conversion analysis, strategic fit review, feasibility and viability assessment, integration mapping, resource commitment analysis, governance design, implementation readiness scoring, feedback-loop design, ethical review, and decision-memory documentation.
+
+## Strategy Implementation and Alignment
+
+This repository includes advanced workflows for strategy implementation diagnostics, alignment review, structural fit analysis, cultural alignment assessment, incentive and metric audit, resource commitment analysis, coordination mapping, feedback-loop design, adaptive execution simulation, ethics and power review, governance documentation, and decision-memory records.
