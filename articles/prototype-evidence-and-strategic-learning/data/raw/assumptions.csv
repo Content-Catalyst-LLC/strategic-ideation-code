@@ -1,0 +1,9 @@
+assumption_id,system_id,assumption,assumption_type,uncertainty,consequence,explicitness,testability,learning_target_clarity,evidence_standard_defined,decision_rule_defined,review_action
+A001,PE001,Stakeholders will support the prototype once they see it,desirability,0.62,0.58,0.34,0.28,0.24,0.18,0.16,turn_vague_assumption_into_testable_hypothesis
+A002,PE002,Users will complete the revised service flow with fewer support requests,behavioral,0.54,0.78,0.78,0.80,0.76,0.72,0.74,maintain_assumption_to_evidence_link
+A003,PE003,Fast signups indicate product demand,market_behavior,0.70,0.74,0.54,0.46,0.42,0.34,0.36,distinguish_interest_from_commitment
+A004,PE004,The service can scale without shifting hidden labor to frontline staff,systems_feasibility,0.66,0.86,0.82,0.78,0.82,0.80,0.78,test_burden_and_capacity_before_scale
+A005,PE005,The prototype can improve access without increasing privacy or dignity risks,ethical_viability,0.58,0.88,0.80,0.76,0.78,0.82,0.80,maintain_ethical_evidence_standard
+A006,PE006,Staff can support the new workflow within existing capacity,operational_feasibility,0.64,0.82,0.74,0.72,0.70,0.68,0.66,test_capacity_under_realistic_conditions
+A007,PE007,Users who like the concept will adopt the full service later,adoption,0.76,0.78,0.46,0.34,0.32,0.26,0.24,add_behavioral_commitment_test
+A008,PE008,Affected communities will trust the prototype if implementation is transparent and accountable,legitimacy,0.60,0.84,0.80,0.76,0.78,0.76,0.78,maintain_participatory_learning_rule

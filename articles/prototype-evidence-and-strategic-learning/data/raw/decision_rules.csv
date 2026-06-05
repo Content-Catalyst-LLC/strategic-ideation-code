@@ -1,0 +1,9 @@
+decision_id,system_id,decision_context,evidence_to_decision_clarity,threshold_defined,stop_rule_quality,revise_rule_quality,scale_rule_quality,resource_connection,authority_connection,review_action
+D001,PE001,sponsor_demo_review,0.24,0.18,0.12,0.20,0.10,0.28,0.30,define_real_decision_rules
+D002,PE002,prototype_iteration_decision,0.76,0.72,0.58,0.74,0.56,0.66,0.72,maintain_decision_rules
+D003,PE003,signup_metric_review,0.44,0.36,0.26,0.38,0.22,0.46,0.50,add_commitment_thresholds
+D004,PE004,scale_readiness_review,0.84,0.78,0.72,0.76,0.74,0.70,0.82,maintain_scale_rules
+D005,PE005,ethical_go_no_go_review,0.82,0.80,0.78,0.76,0.70,0.68,0.78,maintain_ethics_stop_rules
+D006,PE006,workflow_pilot_decision,0.70,0.66,0.60,0.68,0.58,0.64,0.70,connect_staffing_resources
+D007,PE007,concept_validation_review,0.34,0.26,0.18,0.30,0.16,0.36,0.42,do_not_advance_without_behavioral_evidence
+D008,PE008,participatory_iteration_decision,0.78,0.74,0.66,0.76,0.62,0.64,0.74,include_community_review

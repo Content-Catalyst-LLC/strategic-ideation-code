@@ -1,0 +1,9 @@
+observation_id,system_id,observed_behavior,stated_feedback,behavior_signal_strength,preference_behavior_alignment,hesitation_signal,workaround_signal,abandonment_signal,commitment_signal,burden_signal,review_action
+B001,PE001,Stakeholders praised demo but no implementation commitment followed,Looks impressive,0.28,0.22,0.34,0.18,0.20,0.16,0.24,test_real_commitment
+B002,PE002,Users completed revised flow and asked fewer eligibility questions,This is clearer,0.76,0.72,0.24,0.28,0.18,0.70,0.34,continue_iteration
+B003,PE003,Users clicked signup but did not complete onboarding,Interesting idea,0.42,0.28,0.48,0.24,0.56,0.24,0.30,test_onboarding_and_commitment
+B004,PE004,Staff created workarounds when volume increased in simulation,Workflow works at low volume,0.72,0.62,0.46,0.70,0.34,0.58,0.76,redesign_capacity_support
+B005,PE005,Participants used accessible path and reported lower anxiety,Feels safer and easier,0.78,0.76,0.22,0.20,0.16,0.72,0.24,maintain_accessibility_learning
+B006,PE006,Staff completed workflow but stayed late during peak demand,Process is better but heavy,0.70,0.66,0.34,0.44,0.22,0.62,0.82,test_staffing_load
+B007,PE007,Participants liked concept but skipped next-step signup,Seems useful,0.30,0.20,0.40,0.18,0.46,0.18,0.26,test_behavior_not_preference
+B008,PE008,Community testers revised prototype language and increased repeat use,More trustworthy,0.74,0.72,0.24,0.36,0.18,0.70,0.30,trace_community_learning_to_decision

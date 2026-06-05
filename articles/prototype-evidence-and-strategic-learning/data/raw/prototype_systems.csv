@@ -1,0 +1,9 @@
+system_id,system_name,organization_type,domain,assumption_clarity,learning_target_fit,evidence_quality,behavioral_grounding,context_realism,systems_awareness,decision_linkage,ethical_review,learning_memory,description
+PE001,Prototype Theater System,large_institution,innovation_governance,0.30,0.28,0.26,0.22,0.34,0.24,0.20,0.28,0.22,Prototypes are used to persuade sponsors rather than test uncertainty.
+PE002,Balanced Learning Prototype System,product_service_org,service_strategy,0.76,0.78,0.74,0.72,0.70,0.68,0.74,0.66,0.72,Prototype cycles are tied to assumptions evidence standards and decisions.
+PE003,Fast but Weak Evidence System,digital_team,digital_product,0.48,0.44,0.38,0.32,0.40,0.34,0.42,0.32,0.36,Fast testing creates many signals but weak strategic interpretation.
+PE004,Systems-Aware Prototype Learning System,complex_services,public_service,0.84,0.82,0.84,0.76,0.80,0.88,0.82,0.72,0.82,Prototype evidence is interpreted for feedback loops delays burden shifts and scale.
+PE005,Ethically Governed Evidence System,public_system,high_stakes_service,0.78,0.76,0.82,0.78,0.76,0.80,0.78,0.90,0.84,Prototype evidence is strong and ethically governed.
+PE006,Operational Pilot Learning System,operations_team,workflow_redesign,0.72,0.70,0.68,0.64,0.74,0.76,0.70,0.62,0.68,Operational pilots generate feasibility and burden evidence.
+PE007,Concept-Only Validation System,strategy_team,early_strategy,0.52,0.46,0.40,0.26,0.32,0.30,0.38,0.36,0.34,Concept prototypes produce positive feedback but little behavior evidence.
+PE008,Participatory Prototype Learning System,coalition,sustainability_service,0.80,0.78,0.76,0.74,0.78,0.82,0.76,0.84,0.80,Prototype evidence is interpreted with affected stakeholders and learning memory.

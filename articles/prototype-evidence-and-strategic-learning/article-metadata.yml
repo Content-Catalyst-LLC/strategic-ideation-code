@@ -1,0 +1,34 @@
+title: "Prototype Evidence and Strategic Learning"
+slug: "prototype-evidence-and-strategic-learning"
+series: "Strategic Ideation"
+repository: "https://github.com/Content-Catalyst-LLC/strategic-ideation-code"
+article_folder: "articles/prototype-evidence-and-strategic-learning"
+purpose: "Advanced strategist-facing companion code for prototype evidence diagnostics, assumption-to-evidence mapping, learning-target review, evidence-quality scoring, behavioral observation analysis, context-realism assessment, systems-impact review, ethical prototype governance, decision-rule tracking, validation-theater risk analysis, overgeneralization risk, and prototype evidence memory records."
+status: "advanced scaffold"
+professional_use_cases:
+  - "Prototype evidence diagnostics"
+  - "Assumption-to-evidence mapping"
+  - "Hypothesis and learning-target review"
+  - "Evidence-quality scoring"
+  - "Behavioral observation analysis"
+  - "Context-realism assessment"
+  - "Systems-impact and burden-shift review"
+  - "Ethical prototype governance"
+  - "Decision-rule tracking"
+  - "Validation-theater risk analysis"
+  - "Overgeneralization risk analysis"
+  - "Prototype evidence memory records"
+languages:
+  - python
+  - r
+  - julia
+  - sql
+  - rust
+  - go
+  - cpp
+  - fortran
+  - c
+notes:
+  - "Uses synthetic data only."
+  - "Designed for strategists, design researchers, service designers, product strategists, systems thinkers, public-sector teams, innovation teams, sustainability teams, organizational leaders, analysts, consultants, and knowledge architects."
+  - "Not a substitute for user research, ethical review, accessibility testing, domain expertise, accountable governance, participatory design, or responsible implementation judgment."

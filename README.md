@@ -143,3 +143,7 @@ This repository includes advanced workflows for feedback-loop diagnostics, signa
 ## Participatory Ideation and Co-Design
 
 This repository includes advanced workflows for stakeholder mapping, participation-quality diagnostics, representation analysis, influence-boundary review, accessibility assessment, reciprocity scoring, power-risk analysis, knowledge-integration modeling, conflict and tradeoff registers, decision-traceability records, accountability review, tokenism and extraction risk, and participatory learning-memory systems.
+
+## Prototype Evidence and Strategic Learning
+
+This repository includes advanced workflows for prototype evidence diagnostics, assumption-to-evidence mapping, learning-target review, evidence-quality scoring, behavioral observation analysis, context-realism assessment, systems-impact review, ethical prototype governance, decision-rule tracking, validation-theater risk analysis, overgeneralization risk, and prototype evidence memory records.

@@ -1,0 +1,9 @@
+ethics_id,system_id,ethical_issue,consent_quality,privacy_protection,accessibility_review,burden_review,representation_quality,redress_path,expectation_management,accountability_quality,review_action
+G001,PE001,Prototype demo creates expectation without test transparency,0.34,0.46,0.26,0.30,0.32,0.20,0.22,0.24,clarify_test_status_and_accountability
+G002,PE002,Service walkthrough requires consent and burden monitoring,0.68,0.66,0.62,0.58,0.60,0.52,0.64,0.62,maintain_ethics_review
+G003,PE003,Landing page collects behavioral signals with limited context,0.46,0.42,0.34,0.38,0.36,0.28,0.40,0.34,improve_transparency_and_privacy
+G004,PE004,Systems pilot may expose staff burden and role risk,0.70,0.68,0.66,0.78,0.64,0.60,0.66,0.70,protect_workers_and_participants
+G005,PE005,High-stakes service prototype requires strong ethics governance,0.86,0.88,0.90,0.82,0.80,0.78,0.84,0.86,maintain_strong_ethics_governance
+G006,PE006,Staff pilot may normalize overtime if burden is ignored,0.66,0.62,0.58,0.76,0.60,0.54,0.64,0.62,address_staff_burden
+G007,PE007,Concept testing may overpromise future service availability,0.44,0.52,0.40,0.34,0.42,0.30,0.28,0.32,manage_expectations
+G008,PE008,Participatory prototype requires community accountability and consent,0.82,0.78,0.80,0.76,0.84,0.76,0.80,0.82,maintain_participatory_ethics

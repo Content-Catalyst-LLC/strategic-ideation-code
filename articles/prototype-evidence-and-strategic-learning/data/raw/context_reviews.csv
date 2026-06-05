@@ -1,0 +1,9 @@
+context_id,system_id,test_context,realism_of_setting,realism_of_incentives,realism_of_support,realism_of_constraints,participant_fit,scale_similarity,time_horizon_fit,review_action
+C001,PE001,executive_demo_room,0.24,0.22,0.34,0.18,0.32,0.16,0.14,move_test_into_realistic_context
+C002,PE002,service_lab_with_real_users,0.70,0.66,0.68,0.62,0.72,0.48,0.52,extend_to_limited_pilot
+C003,PE003,online_ad_traffic_test,0.46,0.42,0.34,0.30,0.44,0.32,0.22,add_real_onboarding_conditions
+C004,PE004,tabletop_plus_limited_field_pilot,0.78,0.72,0.70,0.74,0.70,0.62,0.64,monitor_scale_conditions
+C005,PE005,accessible_public_service_pilot,0.76,0.72,0.74,0.70,0.80,0.58,0.66,maintain_accessible_context
+C006,PE006,real_staff_shift_pilot,0.82,0.74,0.76,0.78,0.68,0.60,0.56,extend_peak_load_testing
+C007,PE007,concept_interview_context,0.30,0.28,0.34,0.22,0.40,0.18,0.16,do_not_generalize_to_adoption
+C008,PE008,community_site_testing,0.80,0.76,0.72,0.74,0.78,0.56,0.62,maintain_community_context

@@ -1,0 +1,9 @@
+effect_id,system_id,system_issue,feedback_loop_risk,delay_risk,burden_shift_risk,capacity_risk,incentive_risk,scale_uncertainty,monitoring_quality,review_action
+S001,PE001,Demo hides implementation burden and governance needs,0.62,0.54,0.58,0.50,0.44,0.66,0.24,add_systems_impact_review
+S002,PE002,Improved flow may shift support expectations downstream,0.42,0.38,0.40,0.44,0.34,0.46,0.64,monitor_handoffs
+S003,PE003,Signup optimization may incentivize shallow acquisition metrics,0.72,0.44,0.38,0.42,0.76,0.70,0.36,review_metric_incentives
+S004,PE004,Scale may create staff workarounds and capacity bottlenecks,0.56,0.64,0.76,0.82,0.46,0.74,0.76,run_capacity_sensitivity
+S005,PE005,Privacy and access dynamics may differ across user groups,0.48,0.52,0.58,0.50,0.42,0.62,0.82,monitor_equity_and_privacy
+S006,PE006,Workflow improvement may shift hidden labor to late shifts,0.54,0.50,0.80,0.78,0.44,0.60,0.66,test_peak_and_role_burden
+S007,PE007,Concept preference may not survive operational or trust constraints,0.58,0.48,0.44,0.38,0.42,0.68,0.30,test_beyond_concept
+S008,PE008,Community trust may depend on follow-up and visible accountability,0.52,0.50,0.48,0.42,0.36,0.58,0.78,trace_accountability_over_time

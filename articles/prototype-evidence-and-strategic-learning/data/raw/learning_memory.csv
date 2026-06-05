@@ -1,0 +1,9 @@
+memory_id,system_id,memory_practice,assumption_record_quality,prototype_description_quality,evidence_record_quality,interpretation_quality,decision_rationale_quality,limitation_record_quality,remaining_uncertainty_quality,reuse_quality,review_action
+M001,PE001,presentation_archive,0.22,0.30,0.20,0.18,0.16,0.14,0.12,0.18,create_evidence_memory_record
+M002,PE002,prototype_learning_log,0.74,0.72,0.76,0.74,0.70,0.68,0.70,0.72,maintain_learning_log
+M003,PE003,experiment_dashboard_notes,0.42,0.46,0.44,0.36,0.32,0.28,0.30,0.34,add_interpretation_and_limits
+M004,PE004,systems_learning_repository,0.82,0.80,0.84,0.82,0.78,0.76,0.78,0.82,maintain_systems_memory
+M005,PE005,ethical_evidence_decision_log,0.80,0.78,0.82,0.80,0.84,0.82,0.80,0.82,maintain_governed_memory
+M006,PE006,operations_pilot_record,0.70,0.72,0.70,0.66,0.64,0.60,0.62,0.66,improve_uncertainty_record
+M007,PE007,concept_test_notes,0.38,0.42,0.34,0.30,0.26,0.22,0.24,0.28,document_limits_and_decision_rule
+M008,PE008,participatory_learning_record,0.78,0.76,0.78,0.80,0.78,0.76,0.74,0.80,share_learning_with_participants
