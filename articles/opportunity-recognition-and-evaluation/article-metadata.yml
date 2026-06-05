@@ -1,0 +1,39 @@
+title: "Opportunity Recognition and Evaluation"
+slug: "opportunity-recognition-and-evaluation"
+series: "Strategic Ideation"
+repository: "https://github.com/Content-Catalyst-LLC/strategic-ideation-code"
+article_folder: "articles/opportunity-recognition-and-evaluation"
+previous_article:
+  title: "Decision Matrices and Their Limits"
+  slug: "decision-matrices-and-their-limits"
+next_article:
+  title: "From Ideas to Strategy"
+  slug: "from-ideas-to-strategy"
+purpose: "Advanced strategist-facing companion code for opportunity recognition, opportunity evaluation, signal-quality assessment, capability alignment, desirability and viability review, timing analysis, risk and uncertainty scoring, opportunity portfolio comparison, ethics and power review, learning pathway design, governance documentation, and decision-memory records."
+status: "advanced scaffold"
+professional_use_cases:
+  - "Opportunity recognition diagnostics"
+  - "Signal-quality assessment"
+  - "Capability alignment scoring"
+  - "Desirability and viability review"
+  - "Timing and opportunity window analysis"
+  - "False-positive and false-negative risk review"
+  - "Bias and assumption review"
+  - "Opportunity portfolio comparison"
+  - "Ethics and power review"
+  - "Learning pathway design"
+  - "Governance and decision-memory documentation"
+languages:
+  - python
+  - r
+  - julia
+  - sql
+  - rust
+  - go
+  - cpp
+  - fortran
+  - c
+notes:
+  - "Uses synthetic data only."
+  - "Designed for strategists, decision scientists, foresight teams, innovation teams, public-sector teams, entrepreneurs, product teams, executives, consultants, analysts, systems thinkers, and knowledge architects."
+  - "Not a substitute for executive judgment, stakeholder engagement, ethical review, legal review, domain expertise, accountable governance, or responsible implementation."

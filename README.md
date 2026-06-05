@@ -183,3 +183,7 @@ This repository includes advanced workflows for strategic idea portfolio analysi
 ## Decision Matrices and Their Limits
 
 Advanced workflows for decision matrix diagnostics, criteria design, weight sensitivity testing, evidence-confidence scoring, uncertainty-aware scoring, scenario-specific comparison, ethical threshold review, portfolio-aware matrix use, governance documentation, and decision-memory records.
+
+## Opportunity Recognition and Evaluation
+
+This repository includes advanced workflows for opportunity recognition, opportunity evaluation, signal-quality assessment, capability alignment, desirability and viability review, timing analysis, risk and uncertainty scoring, opportunity portfolio comparison, ethics and power review, learning pathway design, governance documentation, and decision-memory records.

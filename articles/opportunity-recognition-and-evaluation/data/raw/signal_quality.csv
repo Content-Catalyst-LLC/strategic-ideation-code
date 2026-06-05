@@ -1,0 +1,9 @@
+signal_id,opportunity_id,signal_source,repeatability,independence,specificity,trend_strength,stakeholder_confirmation,noise_level,hype_level,review_action
+SQ001,OR001,technology_scan,0.72,0.66,0.68,0.74,0.62,0.34,0.44,test_in_adjacent_use_case
+SQ002,OR002,policy_change,0.64,0.70,0.62,0.68,0.60,0.38,0.32,map_institutional_window
+SQ003,OR003,media_and_vendor_hype,0.52,0.34,0.42,0.78,0.46,0.62,0.88,challenge_hype_assumptions
+SQ004,OR004,sustainability_pressure,0.70,0.72,0.64,0.66,0.74,0.30,0.28,protect_long_horizon_signal
+SQ005,OR005,stakeholder_feedback,0.68,0.62,0.70,0.58,0.86,0.28,0.24,maintain_participatory_evidence
+SQ006,OR006,infrastructure_review,0.66,0.64,0.72,0.70,0.60,0.32,0.30,test_modular_sequence
+SQ007,OR007,asset_review,0.60,0.58,0.66,0.54,0.56,0.36,0.26,validate_recombination_fit
+SQ008,OR008,market_buzz,0.54,0.48,0.50,0.76,0.52,0.56,0.74,delay_or_stage_entry

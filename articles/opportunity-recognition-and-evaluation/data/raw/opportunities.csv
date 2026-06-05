@@ -1,0 +1,9 @@
+opportunity_id,opportunity_name,opportunity_type,signal_strength,capability_alignment,desirability,viability,timing,learning_value,option_value,strategic_fit,ethical_resilience,risk,evidence_confidence,description
+OR001,Emerging Technology Adjacency,technology_adjacency,0.74,0.78,0.72,0.71,0.76,0.70,0.66,0.78,0.62,0.46,0.68,Applies a credible emerging technology to an adjacent strategic domain.
+OR002,Institutional Reform Opening,institutional_change,0.68,0.64,0.69,0.58,0.63,0.74,0.70,0.72,0.68,0.52,0.60,Uses a regulatory or governance window to create strategic improvement.
+OR003,High-Hype Weak-Fit Opportunity,hype_risk,0.86,0.31,0.77,0.39,0.48,0.62,0.44,0.40,0.42,0.78,0.38,Attractive external signal with weak capability fit and high exposure.
+OR004,Slow-Build Sustainability Opportunity,sustainability_transition,0.62,0.73,0.81,0.74,0.67,0.64,0.72,0.76,0.82,0.41,0.66,Long-horizon opportunity with resilience and legitimacy value.
+OR005,Community Legitimacy Opportunity,legitimacy,0.66,0.58,0.84,0.62,0.70,0.76,0.60,0.68,0.88,0.36,0.62,Builds trust and participation around a strategic transition.
+OR006,Modular Infrastructure Pathway,option_preservation,0.72,0.76,0.70,0.76,0.74,0.68,0.84,0.80,0.74,0.44,0.64,Creates modular foundations that preserve future strategic options.
+OR007,Legacy Asset Recombination,recombination,0.58,0.82,0.64,0.70,0.62,0.58,0.66,0.74,0.66,0.40,0.70,Recombines existing assets to create new value with manageable risk.
+OR008,Premature Market Opening,timing_risk,0.80,0.56,0.76,0.48,0.32,0.70,0.68,0.58,0.54,0.70,0.42,Market signal appears strong but timing and viability are weak.

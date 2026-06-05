@@ -1,0 +1,9 @@
+capability_id,opportunity_id,skills_fit,asset_fit,authority_fit,partnership_fit,governance_fit,implementation_capacity,credibility_fit,capability_gap,review_action
+CA001,OR001,0.78,0.72,0.66,0.62,0.64,0.68,0.70,0.28,build_small_pilot_team
+CA002,OR002,0.62,0.58,0.70,0.66,0.60,0.54,0.64,0.38,clarify_authority_and_partners
+CA003,OR003,0.30,0.34,0.38,0.42,0.36,0.32,0.40,0.72,do_not_scale_without_capability
+CA004,OR004,0.70,0.68,0.62,0.72,0.66,0.60,0.76,0.34,sequence_capability_build
+CA005,OR005,0.54,0.50,0.58,0.76,0.70,0.56,0.78,0.36,protect_stakeholder_capacity
+CA006,OR006,0.74,0.76,0.68,0.64,0.70,0.66,0.72,0.30,stage_modular_investment
+CA007,OR007,0.82,0.86,0.64,0.58,0.62,0.72,0.66,0.22,advance_recombination_test
+CA008,OR008,0.50,0.48,0.52,0.56,0.44,0.42,0.50,0.58,watch_timing_and_capacity

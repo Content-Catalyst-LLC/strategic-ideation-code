@@ -1,0 +1,9 @@
+memory_id,opportunity_id,memory_practice,signal_record,capability_record,assumption_record,evidence_record,risk_record,ethics_record,timing_record,decision_gate_record,revision_trigger_quality,reuse_quality,review_action
+DM001,OR001,technology_adjacency_record,0.66,0.70,0.64,0.66,0.60,0.56,0.62,0.64,0.60,0.66,maintain_prototype_memory
+DM002,OR002,reform_opening_record,0.62,0.60,0.62,0.64,0.58,0.62,0.70,0.58,0.60,0.62,strengthen_institutional_memory
+DM003,OR003,hype_risk_record,0.50,0.38,0.46,0.44,0.52,0.42,0.48,0.40,0.54,0.46,record_rejection_or_reframe
+DM004,OR004,sustainability_opportunity_record,0.64,0.66,0.62,0.64,0.60,0.74,0.68,0.66,0.70,0.68,maintain_long_horizon_memory
+DM005,OR005,legitimacy_opportunity_record,0.66,0.58,0.64,0.66,0.56,0.82,0.66,0.64,0.68,0.70,protect_participatory_memory
+DM006,OR006,modular_pathway_record,0.68,0.72,0.66,0.66,0.62,0.68,0.70,0.72,0.66,0.72,document_option_value
+DM007,OR007,recombination_record,0.60,0.78,0.58,0.60,0.54,0.60,0.56,0.60,0.58,0.64,document_asset_reuse_logic
+DM008,OR008,premature_entry_record,0.56,0.48,0.52,0.50,0.58,0.48,0.44,0.42,0.66,0.52,record_timing_thresholds

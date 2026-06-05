@@ -1,0 +1,9 @@
+learning_id,opportunity_id,critical_assumption,smallest_responsible_test,evidence_threshold,learning_value,test_cost,decision_gate,stop_rule_quality,review_action
+LP001,OR001,Users can apply the emerging technology to a real adjacent problem,prototype_with_target_users,0.68,0.72,0.38,pilot_gate,0.62,run_targeted_prototype
+LP002,OR002,Institutional actors will support reform pathway,stakeholder_alignment_interviews,0.64,0.74,0.42,partnership_gate,0.58,confirm_authority_and_legitimacy
+LP003,OR003,Hype signal corresponds to real demand and capability fit,contrary_evidence_review,0.72,0.62,0.34,reject_or_reframe_gate,0.70,challenge_before_commitment
+LP004,OR004,Sustainability value is durable despite slower payoff,scenario_and_resilience_review,0.66,0.68,0.44,long_horizon_gate,0.64,protect_patient_learning
+LP005,OR005,Affected stakeholders see the opportunity as legitimate,participatory_discovery_sprint,0.70,0.78,0.40,legitimacy_gate,0.66,co_design_before_scaling
+LP006,OR006,Modular pathway preserves future options without excess cost,modularity_assessment,0.68,0.70,0.46,option_value_gate,0.60,test_modular_sequence
+LP007,OR007,Legacy assets can be recombined without hidden technical debt,asset_recombination_pilot,0.64,0.60,0.32,asset_fit_gate,0.58,pilot_before_scaling
+LP008,OR008,Market timing will mature soon enough to justify staged entry,timing_signal_review,0.72,0.70,0.36,timing_gate,0.72,delay_until_threshold

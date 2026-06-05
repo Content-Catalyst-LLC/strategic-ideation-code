@@ -1,0 +1,9 @@
+governance_id,opportunity_id,owner_clarity,review_cadence,evidence_standard,decision_gate_quality,stakeholder_voice,ethics_review,stop_rule_quality,decision_memory_quality,review_action
+GV001,OR001,0.68,0.62,0.66,0.64,0.56,0.58,0.60,0.64,maintain_pilot_governance
+GV002,OR002,0.62,0.60,0.64,0.58,0.54,0.62,0.56,0.60,clarify_institutional_authority
+GV003,OR003,0.46,0.48,0.52,0.44,0.40,0.46,0.38,0.42,do_not_advance_without_governance
+GV004,OR004,0.64,0.58,0.62,0.66,0.66,0.72,0.64,0.66,protect_long_horizon_review
+GV005,OR005,0.60,0.62,0.64,0.64,0.82,0.78,0.62,0.70,maintain_participatory_governance
+GV006,OR006,0.70,0.66,0.68,0.72,0.58,0.66,0.64,0.68,stage_modular_governance
+GV007,OR007,0.66,0.58,0.60,0.62,0.54,0.60,0.58,0.62,document_recombination_learning
+GV008,OR008,0.50,0.52,0.56,0.48,0.44,0.50,0.42,0.46,improve_timing_governance

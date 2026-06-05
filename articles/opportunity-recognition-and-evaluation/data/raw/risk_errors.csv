@@ -1,0 +1,9 @@
+risk_id,opportunity_id,false_positive_cost,false_negative_cost,implementation_risk,strategic_distraction,opportunity_cost,ethical_risk,reputational_risk,uncertainty_level,review_action
+RE001,OR001,0.42,0.60,0.44,0.36,0.42,0.34,0.38,0.46,test_before_scaling
+RE002,OR002,0.48,0.66,0.52,0.42,0.44,0.38,0.40,0.52,stage_reform_pathway
+RE003,OR003,0.78,0.44,0.76,0.70,0.72,0.62,0.68,0.74,high_false_positive_review
+RE004,OR004,0.38,0.70,0.40,0.34,0.46,0.28,0.30,0.48,avoid_false_negative_underinvestment
+RE005,OR005,0.34,0.62,0.38,0.32,0.40,0.22,0.26,0.42,protect_legitimacy_pathway
+RE006,OR006,0.44,0.68,0.46,0.38,0.48,0.32,0.34,0.44,preserve_option_value
+RE007,OR007,0.36,0.54,0.34,0.30,0.36,0.30,0.28,0.36,advance_low_exposure_test
+RE008,OR008,0.72,0.50,0.70,0.66,0.68,0.54,0.58,0.72,stage_or_delay_premature_opening
