@@ -1,0 +1,9 @@
+ethics_id,strategy_id,ethical_issue,sponsor_power,affected_stakeholder_voice,benefit_concentration,burden_concentration,measurement_transparency,redress_quality,long_term_responsibility,review_action
+EP001,SE001,Efficiency metrics may hide workload burden and resilience loss,0.70,0.44,0.62,0.66,0.52,0.42,0.48,add_burden_and_resilience_measures
+EP002,SE002,Balanced measurement still requires distribution review,0.56,0.68,0.46,0.40,0.70,0.64,0.72,maintain_ethics_monitoring
+EP003,SE003,Resilience costs and benefits may be distributed unevenly,0.54,0.66,0.44,0.48,0.68,0.62,0.84,review_distribution_of_resilience
+EP004,SE004,High growth metrics may externalize risk and harm,0.78,0.38,0.72,0.74,0.44,0.34,0.38,urgent_ethics_and_metric_review
+EP005,SE005,Stakeholder trust measures must avoid symbolic participation,0.48,0.82,0.38,0.34,0.74,0.70,0.80,protect_participatory_evaluation
+EP006,SE006,Learning systems must avoid surveillance or blame,0.58,0.70,0.44,0.42,0.76,0.68,0.78,maintain_learning_ethics
+EP007,SE007,Metric optimization may make unmeasured harms invisible,0.76,0.40,0.70,0.68,0.46,0.36,0.42,redesign_measurement_ethics
+EP008,SE008,Long-horizon benefits may justify near-term burdens without voice,0.62,0.58,0.54,0.56,0.64,0.56,0.82,include_transition_burden_review

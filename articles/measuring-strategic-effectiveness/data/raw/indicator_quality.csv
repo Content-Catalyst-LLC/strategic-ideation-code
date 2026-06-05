@@ -1,0 +1,9 @@
+indicator_id,strategy_id,indicator_set,leading_indicator_quality,lagging_indicator_quality,balance_quality,data_reliability,timeliness,interpretability,behavioral_incentive_risk,coverage_gap,review_action
+IQ001,SE001,efficiency_dashboard,0.46,0.78,0.50,0.72,0.74,0.68,0.66,0.58,add_resilience_and_impact_indicators
+IQ002,SE002,balanced_scorecard,0.74,0.76,0.78,0.76,0.70,0.72,0.42,0.32,maintain_balanced_indicator_set
+IQ003,SE003,resilience_measurement,0.76,0.66,0.74,0.68,0.62,0.64,0.38,0.34,add_more_lagging_outcome_review
+IQ004,SE004,growth_dashboard,0.42,0.82,0.40,0.70,0.76,0.66,0.78,0.64,urgent_fragility_indicator_review
+IQ005,SE005,stakeholder_impact_set,0.70,0.62,0.72,0.60,0.58,0.68,0.36,0.38,strengthen_quantitative_reliability
+IQ006,SE006,learning_measurement_set,0.82,0.70,0.78,0.68,0.66,0.74,0.34,0.30,maintain_learning_indicators
+IQ007,SE007,metric_optimization_dashboard,0.40,0.76,0.42,0.72,0.70,0.62,0.84,0.70,redesign_to_reduce_metric_gaming
+IQ008,SE008,long_horizon_capability_set,0.78,0.56,0.70,0.62,0.54,0.60,0.40,0.42,add_intermediate_outcome_indicators

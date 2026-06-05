@@ -1,0 +1,9 @@
+feedback_id,strategy_id,feedback_frequency,assumption_review,revision_trigger_quality,after_action_learning,drift_detection,adaptation_authority,decision_memory_quality,learning_culture,review_action
+FL001,SE001,0.54,0.46,0.42,0.48,0.44,0.46,0.50,0.42,build_learning_loops
+FL002,SE002,0.72,0.70,0.68,0.70,0.68,0.70,0.72,0.74,maintain_feedback_system
+FL003,SE003,0.66,0.68,0.72,0.66,0.74,0.68,0.70,0.72,protect_resilience_learning
+FL004,SE004,0.48,0.40,0.38,0.42,0.36,0.40,0.42,0.34,urgent_feedback_repair
+FL005,SE005,0.64,0.66,0.68,0.64,0.62,0.66,0.68,0.70,maintain_stakeholder_feedback
+FL006,SE006,0.80,0.84,0.82,0.80,0.78,0.82,0.84,0.86,maintain_adaptive_learning_system
+FL007,SE007,0.46,0.42,0.40,0.44,0.38,0.42,0.46,0.40,repair_metric_feedback_bias
+FL008,SE008,0.62,0.70,0.76,0.68,0.72,0.70,0.74,0.76,protect_long_horizon_learning

@@ -1,0 +1,39 @@
+title: "Measuring Strategic Effectiveness"
+slug: "measuring-strategic-effectiveness"
+series: "Strategic Ideation"
+repository: "https://github.com/Content-Catalyst-LLC/strategic-ideation-code"
+article_folder: "articles/measuring-strategic-effectiveness"
+previous_article:
+  title: "Adaptive Strategy and Iteration"
+  slug: "adaptive-strategy-and-iteration"
+next_article:
+  title: "Implementation Pathways and Strategic Sequencing"
+  slug: "implementation-pathways-and-strategic-sequencing"
+purpose: "Advanced strategist-facing companion code for strategic effectiveness measurement, multidimensional indicator design, leading and lagging indicator analysis, evidence-confidence scoring, attribution and contribution review, feedback-loop design, strategic drift detection, qualitative evaluation, ethics and power review, governance documentation, and decision-memory records."
+status: "advanced scaffold"
+professional_use_cases:
+  - "Strategic effectiveness diagnostics"
+  - "KPI and measurement system design"
+  - "Leading and lagging indicator analysis"
+  - "Balanced measurement review"
+  - "Evidence-confidence scoring"
+  - "Attribution and contribution review"
+  - "Feedback-loop design"
+  - "Strategic drift detection"
+  - "Qualitative and stakeholder evaluation"
+  - "Ethics and power review"
+  - "Governance and decision-memory documentation"
+languages:
+  - python
+  - r
+  - julia
+  - sql
+  - rust
+  - go
+  - cpp
+  - fortran
+  - c
+notes:
+  - "Uses synthetic data only."
+  - "Designed for strategists, evaluators, policy teams, public-sector teams, product teams, sustainability teams, transformation teams, executives, consultants, analysts, systems thinkers, and knowledge architects."
+  - "Not a substitute for executive judgment, stakeholder engagement, ethical review, legal review, domain expertise, accountable governance, evaluation expertise, or responsible implementation."

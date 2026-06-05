@@ -195,3 +195,7 @@ This repository includes advanced workflows for idea-to-strategy conversion anal
 ## Strategy Implementation and Alignment
 
 This repository includes advanced workflows for strategy implementation diagnostics, alignment review, structural fit analysis, cultural alignment assessment, incentive and metric audit, resource commitment analysis, coordination mapping, feedback-loop design, adaptive execution simulation, ethics and power review, governance documentation, and decision-memory records.
+
+## Measuring Strategic Effectiveness
+
+This repository includes advanced workflows for strategic effectiveness measurement, multidimensional indicator design, leading and lagging indicator analysis, evidence-confidence scoring, attribution and contribution review, feedback-loop design, strategic drift detection, qualitative evaluation, ethics and power review, governance documentation, and decision-memory records.
