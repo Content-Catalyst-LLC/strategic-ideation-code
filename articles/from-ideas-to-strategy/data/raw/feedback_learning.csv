@@ -1,0 +1,9 @@
+feedback_id,initiative_id,indicator_quality,feedback_frequency,assumption_tracking,revision_trigger_quality,after_action_learning,stakeholder_feedback,adaptation_capacity,drift_detection,review_action
+FL001,IS001,0.38,0.42,0.46,0.40,0.44,0.50,0.46,0.42,define_learning_system_first
+FL002,IS002,0.74,0.72,0.70,0.68,0.70,0.66,0.72,0.68,maintain_strategy_learning_loop
+FL003,IS003,0.62,0.58,0.60,0.54,0.56,0.42,0.58,0.52,add_demand_feedback
+FL004,IS004,0.66,0.60,0.68,0.64,0.62,0.66,0.70,0.66,track_integration_learning
+FL005,IS005,0.64,0.62,0.66,0.70,0.68,0.82,0.72,0.70,protect_stakeholder_feedback
+FL006,IS006,0.52,0.50,0.54,0.46,0.48,0.44,0.50,0.42,build_fragility_detection
+FL007,IS007,0.68,0.64,0.72,0.66,0.70,0.68,0.76,0.68,maintain_capability_learning
+FL008,IS008,0.56,0.54,0.58,0.52,0.60,0.50,0.56,0.54,record_renewal_learning

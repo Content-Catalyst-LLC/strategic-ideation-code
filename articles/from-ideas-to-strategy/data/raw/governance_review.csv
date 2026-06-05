@@ -1,0 +1,9 @@
+governance_id,initiative_id,owner_clarity,decision_gate_quality,evidence_standard,review_cadence,escalation_path,stop_rule_quality,adaptation_authority,decision_memory_quality,review_action
+GV001,IS001,0.38,0.40,0.42,0.44,0.36,0.34,0.42,0.40,build_governance_before_commitment
+GV002,IS002,0.78,0.74,0.72,0.70,0.68,0.66,0.72,0.76,maintain_governance
+GV003,IS003,0.58,0.54,0.60,0.56,0.52,0.50,0.54,0.58,add_demand_evidence_gate
+GV004,IS004,0.62,0.60,0.66,0.62,0.58,0.56,0.66,0.64,strengthen_integration_governance
+GV005,IS005,0.66,0.68,0.64,0.66,0.62,0.64,0.70,0.72,protect_adaptive_governance
+GV006,IS006,0.54,0.48,0.52,0.50,0.46,0.42,0.48,0.46,do_not_scale_without_stop_rules
+GV007,IS007,0.68,0.66,0.70,0.64,0.62,0.60,0.74,0.70,govern_capability_sequence
+GV008,IS008,0.50,0.46,0.54,0.50,0.48,0.44,0.52,0.56,renew_governance_logic

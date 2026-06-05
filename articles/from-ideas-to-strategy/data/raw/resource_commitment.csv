@@ -1,0 +1,9 @@
+resource_id,initiative_id,budget_commitment,staff_commitment,leadership_attention,authority_commitment,technical_capacity,communications_capacity,political_capital,commitment_stage,review_action
+RC001,IS001,0.28,0.30,0.42,0.34,0.36,0.40,0.38,exploratory,limit_to_discovery
+RC002,IS002,0.72,0.74,0.78,0.70,0.68,0.66,0.64,implementation,resource_as_core_strategy
+RC003,IS003,0.44,0.48,0.42,0.46,0.62,0.38,0.36,prototype,test_demand_before_resource_commitment
+RC004,IS004,0.62,0.60,0.70,0.58,0.64,0.58,0.60,staged,stage_integration_resources
+RC005,IS005,0.56,0.58,0.62,0.60,0.54,0.68,0.66,staged,protect_slow_build_commitment
+RC006,IS006,0.64,0.62,0.68,0.56,0.66,0.52,0.48,implementation,review_fragility_before_full_commitment
+RC007,IS007,0.60,0.64,0.66,0.62,0.58,0.56,0.58,capability_build,commit_to_capability_sequence
+RC008,IS008,0.46,0.48,0.50,0.44,0.52,0.46,0.42,renewal_review,hold_until_reframed

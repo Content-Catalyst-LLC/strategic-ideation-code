@@ -1,0 +1,9 @@
+alignment_id,initiative_id,purpose_alignment,role_alignment,incentive_alignment,communication_alignment,decision_rights_clarity,cross_function_coordination,stakeholder_alignment,dissent_capture,review_action
+AC001,IS001,0.58,0.40,0.42,0.52,0.38,0.44,0.50,0.46,clarify_roles_before_strategy
+AC002,IS002,0.82,0.78,0.72,0.76,0.74,0.78,0.72,0.68,maintain_alignment_governance
+AC003,IS003,0.52,0.62,0.56,0.50,0.58,0.60,0.42,0.54,review_demand_alignment
+AC004,IS004,0.74,0.56,0.58,0.66,0.60,0.54,0.68,0.62,strengthen_cross_function_coordination
+AC005,IS005,0.78,0.62,0.66,0.74,0.64,0.60,0.82,0.70,protect_participatory_alignment
+AC006,IS006,0.54,0.58,0.50,0.52,0.48,0.56,0.44,0.42,review_alignment_before_scaling
+AC007,IS007,0.80,0.64,0.62,0.70,0.66,0.64,0.70,0.66,align_capability_builders
+AC008,IS008,0.60,0.52,0.48,0.56,0.50,0.52,0.50,0.58,renew_alignment_logic

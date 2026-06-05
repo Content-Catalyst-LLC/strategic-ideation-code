@@ -187,3 +187,7 @@ Advanced workflows for decision matrix diagnostics, criteria design, weight sens
 ## Opportunity Recognition and Evaluation
 
 This repository includes advanced workflows for opportunity recognition, opportunity evaluation, signal-quality assessment, capability alignment, desirability and viability review, timing analysis, risk and uncertainty scoring, opportunity portfolio comparison, ethics and power review, learning pathway design, governance documentation, and decision-memory records.
+
+## From Ideas to Strategy
+
+This repository includes advanced workflows for idea-to-strategy conversion analysis, strategic fit review, feasibility and viability assessment, integration mapping, resource commitment analysis, governance design, implementation readiness scoring, feedback-loop design, ethical review, and decision-memory documentation.

@@ -1,0 +1,9 @@
+memory_id,initiative_id,memory_practice,purpose_record,evidence_record,tradeoff_record,capability_record,integration_record,resource_record,ethics_record,governance_record,revision_trigger_quality,reuse_quality,review_action
+DM001,IS001,concept_conversion_record,0.56,0.44,0.42,0.46,0.40,0.38,0.46,0.40,0.42,0.48,document_before_commitment
+DM002,IS002,balanced_strategy_record,0.78,0.74,0.70,0.72,0.70,0.72,0.68,0.74,0.72,0.76,maintain_strategy_memory
+DM003,IS003,weak_demand_record,0.58,0.62,0.56,0.64,0.58,0.54,0.48,0.56,0.58,0.60,document_demand_decision
+DM004,IS004,integration_challenge_record,0.70,0.64,0.68,0.62,0.76,0.66,0.62,0.64,0.66,0.68,record_integration_pathway
+DM005,IS005,ethical_slow_build_record,0.76,0.66,0.70,0.64,0.62,0.60,0.82,0.72,0.74,0.72,protect_long_horizon_memory
+DM006,IS006,fast_fragile_record,0.52,0.50,0.48,0.56,0.54,0.58,0.42,0.46,0.44,0.46,record_fragility_warning
+DM007,IS007,capability_build_record,0.74,0.68,0.66,0.76,0.66,0.64,0.70,0.70,0.72,0.74,document_capability_learning
+DM008,IS008,legacy_renewal_record,0.60,0.66,0.58,0.62,0.60,0.54,0.56,0.54,0.58,0.62,rebuild_legacy_decision_memory

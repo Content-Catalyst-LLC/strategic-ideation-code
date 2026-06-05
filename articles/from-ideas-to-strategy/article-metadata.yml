@@ -1,0 +1,39 @@
+title: "From Ideas to Strategy"
+slug: "from-ideas-to-strategy"
+series: "Strategic Ideation"
+repository: "https://github.com/Content-Catalyst-LLC/strategic-ideation-code"
+article_folder: "articles/from-ideas-to-strategy"
+previous_article:
+  title: "Opportunity Recognition and Evaluation"
+  slug: "opportunity-recognition-and-evaluation"
+next_article:
+  title: "Strategy Implementation and Alignment"
+  slug: "strategy-implementation-and-alignment"
+purpose: "Advanced strategist-facing companion code for idea-to-strategy conversion analysis, strategic fit review, feasibility and viability assessment, integration mapping, resource commitment analysis, governance design, implementation readiness scoring, feedback-loop design, ethical review, and decision-memory documentation."
+status: "advanced scaffold"
+professional_use_cases:
+  - "Idea-to-strategy conversion diagnostics"
+  - "Strategic fit and coherence review"
+  - "Feasibility viability and desirability assessment"
+  - "Evidence-confidence scoring"
+  - "Integration difficulty analysis"
+  - "Execution readiness scoring"
+  - "Resource commitment review"
+  - "Alignment and coordination diagnostics"
+  - "Feedback-loop and adaptation design"
+  - "Ethics and power review"
+  - "Governance and decision-memory documentation"
+languages:
+  - python
+  - r
+  - julia
+  - sql
+  - rust
+  - go
+  - cpp
+  - fortran
+  - c
+notes:
+  - "Uses synthetic data only."
+  - "Designed for strategists, innovation teams, policy teams, product teams, transformation teams, executives, consultants, analysts, systems thinkers, and knowledge architects."
+  - "Not a substitute for executive judgment, stakeholder engagement, ethical review, legal review, domain expertise, accountable governance, or responsible implementation."

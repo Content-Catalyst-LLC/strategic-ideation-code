@@ -1,0 +1,9 @@
+initiative_id,initiative_name,initiative_type,feasibility,viability,desirability,integration_difficulty,execution_readiness,strategic_fit,evidence_confidence,ethical_resilience,resource_intensity,governance_readiness,learning_value,description
+IS001,High-Idea Low-Execution Concept,concept,0.78,0.38,0.82,0.72,0.29,0.62,0.42,0.54,0.58,0.40,0.68,Compelling idea with weak execution readiness and limited viability evidence.
+IS002,Balanced Strategic Initiative,balanced_strategy,0.74,0.79,0.77,0.44,0.81,0.84,0.76,0.72,0.62,0.78,0.66,Well-rounded initiative with strong fit and execution readiness.
+IS003,Technically Feasible Weak-Demand Initiative,feasible_but_weak_demand,0.86,0.44,0.41,0.36,0.63,0.56,0.64,0.48,0.48,0.60,0.42,Technically possible but strategically weak because demand and desirability are limited.
+IS004,High-Potential Integration-Challenged Initiative,integration_challenge,0.69,0.71,0.84,0.83,0.52,0.76,0.58,0.60,0.74,0.56,0.74,Strong potential but major integration burden and sequencing requirements.
+IS005,Ethically Strong Slow-Build Strategy,ethical_slow_build,0.66,0.72,0.79,0.58,0.60,0.78,0.66,0.88,0.56,0.70,0.70,Patient strategy with ethical strength and long-horizon learning value.
+IS006,Fast but Fragile Implementation Path,fast_fragile,0.82,0.52,0.64,0.70,0.76,0.58,0.50,0.44,0.64,0.48,0.46,Fast-moving path with weak ethical resilience and high fragility.
+IS007,Capability-Building Strategic Pathway,capability_build,0.62,0.68,0.72,0.62,0.58,0.80,0.60,0.76,0.66,0.68,0.82,Strategy pathway that builds future capability and strategic learning.
+IS008,Legacy Strategy Renewal,legacy_renewal,0.70,0.56,0.58,0.66,0.54,0.64,0.72,0.62,0.52,0.50,0.48,Existing strategic idea that needs reframing before further commitment.

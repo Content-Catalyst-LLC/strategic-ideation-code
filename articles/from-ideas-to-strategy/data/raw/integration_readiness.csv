@@ -1,0 +1,9 @@
+integration_id,initiative_id,process_readiness,technology_readiness,role_clarity,governance_fit,culture_fit,stakeholder_absorption,data_readiness,dependency_complexity,review_action
+IR001,IS001,0.42,0.48,0.36,0.38,0.46,0.50,0.44,0.68,do_not_commit_without_operational_design
+IR002,IS002,0.76,0.72,0.78,0.74,0.70,0.68,0.72,0.42,ready_for_implementation_pathway
+IR003,IS003,0.70,0.74,0.66,0.62,0.58,0.46,0.70,0.36,validate_demand_before_integration
+IR004,IS004,0.52,0.58,0.50,0.54,0.48,0.56,0.60,0.86,sequence_integration_work
+IR005,IS005,0.60,0.56,0.62,0.66,0.70,0.76,0.54,0.58,stage_patient_integration
+IR006,IS006,0.66,0.70,0.58,0.52,0.44,0.42,0.68,0.72,reduce_fragility_before_scaling
+IR007,IS007,0.56,0.60,0.58,0.64,0.62,0.64,0.58,0.66,build_capability_sequence
+IR008,IS008,0.58,0.62,0.52,0.50,0.54,0.48,0.60,0.64,renew_roles_and_governance

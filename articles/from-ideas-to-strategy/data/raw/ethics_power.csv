@@ -1,0 +1,9 @@
+ethics_id,initiative_id,ethical_issue,sponsor_power,affected_stakeholder_voice,benefit_concentration,burden_concentration,transparency,redress_quality,long_term_responsibility,review_action
+EP001,IS001,Idea may receive attention before implementation burden is understood,0.68,0.48,0.58,0.54,0.52,0.44,0.50,expand_affected_voice_before_commitment
+EP002,IS002,Balanced strategy still needs burden tracking,0.58,0.66,0.46,0.40,0.68,0.62,0.70,maintain_ethics_monitoring
+EP003,IS003,Technically feasible path may ignore stakeholder need,0.62,0.40,0.54,0.46,0.54,0.48,0.48,reassess_desirability_and_voice
+EP004,IS004,Integration burden may fall unevenly across teams,0.70,0.54,0.60,0.66,0.58,0.52,0.62,map_burden_distribution
+EP005,IS005,Slow-build strategy may require fair transition support,0.54,0.78,0.38,0.42,0.72,0.68,0.88,protect_ethics_and_transition
+EP006,IS006,Fast path may externalize risk to low-power groups,0.76,0.42,0.68,0.70,0.46,0.38,0.44,urgent_ethics_review_before_scaling
+EP007,IS007,Capability-building path may privilege internal capacity over external needs,0.60,0.62,0.52,0.48,0.64,0.58,0.74,connect_capability_to_stakeholders
+EP008,IS008,Legacy renewal may preserve old power patterns,0.72,0.46,0.62,0.58,0.50,0.42,0.56,review_legacy_power
