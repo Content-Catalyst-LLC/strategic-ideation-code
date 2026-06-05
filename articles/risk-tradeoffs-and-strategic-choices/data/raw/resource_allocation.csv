@@ -1,0 +1,9 @@
+resource_id,option_id,budget_alignment,staffing_alignment,executive_attention,measurement_alignment,contingency_reserve,learning_budget,stakeholder_review_budget,declared_priority_match,review_action
+RA001,RT001,0.86,0.78,0.76,0.82,0.24,0.28,0.22,0.58,align_resources_with_resilience_claims
+RA002,RT002,0.72,0.70,0.68,0.66,0.56,0.58,0.52,0.72,maintain_resource_balance
+RA003,RT003,0.62,0.60,0.58,0.54,0.76,0.66,0.62,0.68,protect_resilience_funding
+RA004,RT004,0.80,0.72,0.82,0.76,0.28,0.34,0.24,0.50,add_safeguard_resources
+RA005,RT005,0.58,0.56,0.52,0.50,0.66,0.76,0.58,0.70,protect_learning_budget
+RA006,RT006,0.76,0.74,0.62,0.70,0.38,0.24,0.26,0.44,make_continuity_tradeoff_explicit
+RA007,RT007,0.52,0.56,0.48,0.46,0.58,0.64,0.82,0.74,fund_participation_realistically
+RA008,RT008,0.68,0.62,0.70,0.58,0.48,0.72,0.60,0.64,stage_resource_commitments

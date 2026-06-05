@@ -1,0 +1,9 @@
+cost_id,option_id,forgone_alternative,capability_cost,learning_cost,flexibility_cost,preparedness_cost,legitimacy_cost,innovation_cost,delay_cost,visibility,review_action
+OC001,RT001,Resilience and learning investment,0.72,0.66,0.70,0.78,0.46,0.52,0.30,0.42,make_hidden_fragility_visible
+OC002,RT002,More aggressive growth bet,0.38,0.34,0.30,0.32,0.26,0.44,0.36,0.62,document_balanced_sacrifice
+OC003,RT003,Near-term efficiency gains,0.46,0.28,0.24,0.18,0.20,0.34,0.62,0.58,justify_resilience_investment
+OC004,RT004,Legitimacy and resilience safeguards,0.58,0.54,0.62,0.70,0.72,0.32,0.24,0.36,do_not_hide_safeguard_cost
+OC005,RT005,Immediate execution certainty,0.34,0.22,0.20,0.24,0.28,0.30,0.58,0.56,define_decision_triggers
+OC006,RT006,Adaptive capacity and experimentation,0.62,0.72,0.68,0.66,0.44,0.70,0.18,0.34,explicitly_compare_inaction
+OC007,RT007,Speed and executive control,0.38,0.30,0.28,0.26,0.18,0.34,0.70,0.60,explain_participation_time_cost
+OC008,RT008,Low-risk continuity,0.52,0.34,0.46,0.44,0.40,0.28,0.62,0.48,stage_transformational_tradeoffs

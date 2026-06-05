@@ -1,0 +1,9 @@
+temporal_id,option_id,immediate_value,short_term_value,medium_term_value,long_term_value,intergenerational_value,near_term_cost,deferred_cost,benefit_cost_misalignment,review_action
+TT001,RT001,0.86,0.82,0.58,0.38,0.30,0.26,0.74,0.72,review_deferred_fragility
+TT002,RT002,0.68,0.72,0.74,0.72,0.68,0.42,0.38,0.34,maintain_temporal_balance
+TT003,RT003,0.48,0.56,0.72,0.84,0.82,0.58,0.24,0.30,communicate_long_term_value
+TT004,RT004,0.88,0.78,0.54,0.34,0.28,0.34,0.82,0.78,do_not_defer_exposure
+TT005,RT005,0.58,0.64,0.76,0.80,0.76,0.46,0.30,0.36,preserve_option_pathways
+TT006,RT006,0.62,0.60,0.48,0.36,0.30,0.22,0.64,0.66,make_status_quo_cost_visible
+TT007,RT007,0.48,0.58,0.70,0.78,0.80,0.52,0.26,0.32,protect_legitimacy_horizon
+TT008,RT008,0.54,0.60,0.72,0.78,0.74,0.66,0.42,0.54,sequence_transition_timing

@@ -1,0 +1,9 @@
+lock_id,option_id,irreversibility,switching_cost,ecosystem_dependence,contractual_constraint,data_or_platform_dependence,governance_constraint,retained_flexibility,exit_path_quality,review_action
+LR001,RT001,0.62,0.64,0.68,0.50,0.62,0.44,0.30,0.32,create_exit_options
+LR002,RT002,0.42,0.44,0.46,0.36,0.42,0.38,0.68,0.64,maintain_flexibility
+LR003,RT003,0.34,0.38,0.40,0.32,0.34,0.36,0.72,0.66,monitor_sunk_cost
+LR004,RT004,0.78,0.74,0.70,0.58,0.72,0.52,0.28,0.30,reduce_lock_in_before_scaling
+LR005,RT005,0.30,0.34,0.38,0.28,0.32,0.34,0.82,0.78,maintain_option_value
+LR006,RT006,0.48,0.52,0.58,0.40,0.46,0.42,0.52,0.50,review_invisible_status_quo_lock_in
+LR007,RT007,0.36,0.38,0.42,0.34,0.30,0.46,0.68,0.62,document_participatory_pathways
+LR008,RT008,0.66,0.70,0.64,0.54,0.62,0.58,0.44,0.46,stage_transition_exit_paths

@@ -1,0 +1,9 @@
+scenario_id,option_id,stable_growth,resource_constraint,trust_crisis,regulatory_shift,system_disruption,climate_or_environmental_stress,implementation_delay,review_action
+SS001,RT001,0.86,0.48,0.42,0.46,0.34,0.36,0.50,reduce_brittleness
+SS002,RT002,0.72,0.70,0.68,0.70,0.66,0.68,0.66,maintain_robust_balance
+SS003,RT003,0.62,0.82,0.78,0.76,0.84,0.86,0.70,protect_resilience_commitment
+SS004,RT004,0.90,0.38,0.34,0.42,0.30,0.32,0.40,stage_high_exposure_bet
+SS005,RT005,0.66,0.74,0.70,0.72,0.76,0.78,0.68,maintain_optionality
+SS006,RT006,0.62,0.48,0.44,0.46,0.40,0.42,0.58,stress_test_status_quo
+SS007,RT007,0.58,0.70,0.84,0.76,0.72,0.74,0.62,maintain_legitimacy_under_stress
+SS008,RT008,0.70,0.58,0.56,0.62,0.64,0.66,0.52,stage_transition_under_stress

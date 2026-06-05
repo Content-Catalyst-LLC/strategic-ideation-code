@@ -1,0 +1,9 @@
+conflict_id,option_id,value_conflict,efficiency_pressure,resilience_pressure,equity_pressure,speed_pressure,legitimacy_pressure,innovation_pressure,control_pressure,clarity_of_priority,review_action
+VC001,RT001,Efficiency versus resilience,0.86,0.32,0.42,0.76,0.48,0.46,0.72,0.42,name_resilience_sacrifice
+VC002,RT002,Balance across competing values,0.68,0.72,0.64,0.62,0.70,0.60,0.56,0.72,maintain_value_statement
+VC003,RT003,Resilience versus near-term efficiency,0.42,0.88,0.72,0.44,0.78,0.58,0.46,0.70,justify_resilience_priority
+VC004,RT004,Innovation and upside versus legitimacy and exposure,0.74,0.28,0.38,0.80,0.42,0.86,0.70,0.36,make_value_priority_explicit
+VC005,RT005,Flexibility versus execution certainty,0.54,0.74,0.66,0.52,0.72,0.68,0.40,0.68,define_when_flexibility_matters
+VC006,RT006,Continuity versus adaptation,0.66,0.46,0.44,0.58,0.52,0.34,0.68,0.40,name_status_quo_value_priority
+VC007,RT007,Legitimacy versus speed,0.46,0.70,0.84,0.34,0.90,0.52,0.38,0.74,communicate_participation_tradeoff
+VC008,RT008,Transformation versus stability,0.58,0.66,0.60,0.64,0.62,0.82,0.56,0.58,clarify_transition_values

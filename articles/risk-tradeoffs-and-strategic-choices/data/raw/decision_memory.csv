@@ -1,0 +1,9 @@
+memory_id,option_id,memory_practice,decision_question_record,objective_conflict_record,option_record,exposure_record,opportunity_cost_record,temporal_tradeoff_record,value_priority_record,revision_trigger_record,reuse_quality,review_action
+DM001,RT001,Efficiency decision memo,0.58,0.42,0.54,0.50,0.38,0.40,0.36,0.34,0.40,improve_tradeoff_memory
+DM002,RT002,Balanced tradeoff record,0.74,0.70,0.72,0.70,0.68,0.66,0.70,0.68,0.72,maintain_decision_record
+DM003,RT003,Resilience investment rationale,0.70,0.68,0.66,0.64,0.62,0.72,0.74,0.66,0.70,maintain_resilience_memory
+DM004,RT004,Growth bet approval deck,0.50,0.36,0.46,0.42,0.34,0.38,0.32,0.30,0.36,create_full_tradeoff_record
+DM005,RT005,Option-value learning record,0.68,0.66,0.70,0.64,0.72,0.68,0.66,0.78,0.76,maintain_option_value_memory
+DM006,RT006,Continuity rationale notes,0.46,0.38,0.42,0.40,0.34,0.36,0.32,0.30,0.34,document_status_quo_tradeoffs
+DM007,RT007,Participatory decision record,0.72,0.76,0.70,0.66,0.64,0.68,0.78,0.72,0.74,share_tradeoff_memory
+DM008,RT008,Transition governance record,0.66,0.64,0.68,0.70,0.62,0.72,0.66,0.70,0.68,maintain_transition_memory

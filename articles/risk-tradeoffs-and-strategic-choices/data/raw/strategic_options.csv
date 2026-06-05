@@ -1,0 +1,9 @@
+option_id,option_name,option_type,short_term_return,resilience,flexibility,stakeholder_legitimacy,opportunity_value,exposure,reversibility,implementation_readiness,ethical_resilience,learning_value,description
+RT001,Efficiency-Optimized Option,optimization,0.86,0.32,0.36,0.48,0.34,0.74,0.30,0.82,0.42,0.34,High immediate efficiency with substantial resilience and optionality tradeoffs.
+RT002,Balanced Strategic Option,balance,0.71,0.74,0.76,0.72,0.70,0.46,0.68,0.74,0.70,0.72,Balances return, resilience, legitimacy, and exposure.
+RT003,Resilience-First Option,resilience,0.58,0.88,0.79,0.81,0.76,0.34,0.72,0.62,0.82,0.70,Prioritizes shock absorption and long-term viability over immediate return.
+RT004,High-Upside High-Exposure Option,growth_bet,0.89,0.29,0.41,0.43,0.38,0.86,0.28,0.58,0.36,0.52,High upside with weak resilience and high exposure.
+RT005,Flexible Option-Value Option,optionality,0.63,0.76,0.88,0.74,0.86,0.42,0.82,0.58,0.76,0.86,Preserves future choice and learning while maintaining moderate return.
+RT006,Low-Risk Continuity Option,status_quo,0.60,0.48,0.40,0.56,0.36,0.44,0.52,0.86,0.52,0.30,Familiar and easy to execute but weak on learning and future adaptation.
+RT007,Participatory Legitimacy Option,participatory,0.55,0.72,0.74,0.88,0.70,0.38,0.68,0.52,0.90,0.78,Improves legitimacy and burden review but moves more slowly.
+RT008,Transformational Transition Option,transition,0.66,0.68,0.70,0.64,0.78,0.68,0.44,0.46,0.62,0.82,Transformational option with high learning value and meaningful exposure.

@@ -1,0 +1,9 @@
+risk_id,option_id,risk_type,financial_exposure,implementation_exposure,reputation_exposure,regulatory_exposure,ethical_exposure,systemic_exposure,strategic_exposure,absorptive_capacity,review_action
+RX001,RT001,optimization_risk,0.42,0.58,0.50,0.34,0.48,0.68,0.74,0.38,restore_resilience_buffers
+RX002,RT002,balanced_risk,0.40,0.42,0.36,0.34,0.32,0.42,0.40,0.70,maintain_balanced_review
+RX003,RT003,resilience_investment_risk,0.52,0.40,0.30,0.32,0.26,0.30,0.34,0.78,watch_short_term_budget_pressure
+RX004,RT004,high_exposure_growth_risk,0.78,0.72,0.70,0.58,0.64,0.76,0.82,0.32,limit_exposure_before_scaling
+RX005,RT005,optionality_risk,0.44,0.46,0.34,0.36,0.30,0.38,0.36,0.76,protect_learning_thresholds
+RX006,RT006,status_quo_risk,0.36,0.34,0.42,0.30,0.44,0.62,0.70,0.46,stress_test_inaction
+RX007,RT007,participation_delay_risk,0.38,0.52,0.28,0.34,0.24,0.32,0.36,0.72,manage_timeline_and_legitimacy
+RX008,RT008,transition_risk,0.64,0.66,0.56,0.54,0.48,0.66,0.70,0.50,stage_transition_commitments

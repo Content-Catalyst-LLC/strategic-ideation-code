@@ -167,3 +167,7 @@ This repository includes advanced workflows for uncertainty classification, deci
 ## Game Theory and Strategic Interaction
 
 This repository includes advanced workflows for game-theoretic strategy diagnostics, actor mapping, payoff analysis, information asymmetry review, equilibrium diagnosis, cooperation-fragility scoring, signaling analysis, repeated-interaction modeling, mechanism-design review, behavioral game-theory adjustment, ethics and power review, and strategic interaction learning memory.
+
+## Risk, Tradeoffs, and Strategic Choices
+
+This repository includes advanced workflows for risk and tradeoff diagnostics, strategic option comparison, exposure profiling, opportunity-cost analysis, temporal tradeoff review, scenario stress testing, robustness and fragility scoring, reversibility and lock-in review, value-priority mapping, ethical burden analysis, resource-allocation review, and decision-memory documentation.

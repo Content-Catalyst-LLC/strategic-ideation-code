@@ -1,0 +1,9 @@
+ethics_id,option_id,ethical_issue,benefit_concentration,burden_concentration,stakeholder_voice,transparency,redress_quality,future_generation_burden,distributional_review_quality,accountability_clarity,review_action
+EB001,RT001,Efficiency gains may shift future fragility to downstream teams,0.68,0.72,0.42,0.46,0.34,0.70,0.38,0.44,review_burden_shift
+EB002,RT002,Balanced option needs transparent sacrifice statement,0.50,0.46,0.62,0.66,0.58,0.42,0.62,0.64,document_tradeoffs
+EB003,RT003,Near-term cost may be borne by current programs,0.44,0.52,0.66,0.64,0.60,0.30,0.70,0.66,explain_resilience_burden
+EB004,RT004,High-upside bet may concentrate downside on low-power actors,0.78,0.82,0.36,0.40,0.30,0.74,0.34,0.38,urgent_ethics_review
+EB005,RT005,Optionality may delay clarity for affected stakeholders,0.46,0.42,0.64,0.60,0.62,0.36,0.66,0.60,define_review_triggers
+EB006,RT006,Status quo may hide future deterioration,0.54,0.62,0.44,0.42,0.36,0.68,0.40,0.42,review_inaction_ethics
+EB007,RT007,Participatory process reduces exclusion but increases time burden,0.40,0.38,0.86,0.76,0.72,0.30,0.82,0.70,manage_participation_burden
+EB008,RT008,Transition may shift cost across communities and future periods,0.62,0.76,0.58,0.54,0.50,0.80,0.56,0.52,strengthen_transition_justice

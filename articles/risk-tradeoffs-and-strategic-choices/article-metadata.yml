@@ -1,0 +1,39 @@
+title: "Risk, Tradeoffs, and Strategic Choices"
+slug: "risk-tradeoffs-and-strategic-choices"
+series: "Strategic Ideation"
+repository: "https://github.com/Content-Catalyst-LLC/strategic-ideation-code"
+article_folder: "articles/risk-tradeoffs-and-strategic-choices"
+previous_article:
+  title: "Game Theory and Strategic Interaction"
+  slug: "game-theory-and-strategic-interaction"
+next_article:
+  title: "Option Value and Strategic Flexibility"
+  slug: "option-value-and-strategic-flexibility"
+purpose: "Advanced strategist-facing companion code for risk and tradeoff diagnostics, strategic option comparison, exposure profiling, opportunity-cost analysis, temporal tradeoff review, scenario stress testing, robustness and fragility scoring, reversibility and lock-in review, value-priority mapping, ethical burden analysis, resource-allocation review, and decision-memory documentation."
+status: "advanced scaffold"
+professional_use_cases:
+  - "Strategic option and tradeoff diagnostics"
+  - "Risk exposure profiling"
+  - "Opportunity-cost analysis"
+  - "Temporal tradeoff review"
+  - "Scenario stress testing"
+  - "Robustness, resilience, and fragility scoring"
+  - "Reversibility and lock-in review"
+  - "Resource-allocation review"
+  - "Value-priority and objective-conflict mapping"
+  - "Ethical burden and accountability review"
+  - "Decision governance and learning-memory records"
+languages:
+  - python
+  - r
+  - julia
+  - sql
+  - rust
+  - go
+  - cpp
+  - fortran
+  - c
+notes:
+  - "Uses synthetic data only."
+  - "Designed for strategists, decision scientists, policy teams, public-sector teams, executives, organizational leaders, sustainability teams, consultants, analysts, systems thinkers, and knowledge architects."
+  - "Not a substitute for executive judgment, stakeholder engagement, ethical review, domain expertise, legal review, accountable governance, or responsible implementation."
