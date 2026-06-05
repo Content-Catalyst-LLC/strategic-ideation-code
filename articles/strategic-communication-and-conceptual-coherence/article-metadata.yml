@@ -1,0 +1,40 @@
+title: "Strategic Communication and Conceptual Coherence"
+slug: "strategic-communication-and-conceptual-coherence"
+series: "Strategic Ideation"
+repository: "https://github.com/Content-Catalyst-LLC/strategic-ideation-code"
+article_folder: "articles/strategic-communication-and-conceptual-coherence"
+previous_article:
+  title: "Content Frameworks in Strategic Ideation"
+  slug: "content-frameworks-in-strategic-ideation"
+next_article:
+  title: "Institutional Memory and Idea Systems"
+  slug: "institutional-memory-and-idea-systems"
+purpose: "Advanced strategist-facing companion code for conceptual coherence diagnostics, strategic communication mapping, core-message architecture, claim-evidence review, audience adaptation matrices, decision-communication alignment, implementation meaning tests, strategic listening systems, AI-assisted communication governance, communication stewardship, and ethics and power review."
+status: "advanced scaffold"
+professional_use_cases:
+  - "Conceptual coherence diagnostics"
+  - "Strategic communication profile scoring"
+  - "Core-message architecture"
+  - "Claim-evidence integrity review"
+  - "Audience adaptation matrix design"
+  - "Decision-communication alignment"
+  - "Implementation meaning tests"
+  - "Interpretation feedback loops"
+  - "Meaning-loss and conceptual drift scoring"
+  - "AI-assisted communication governance"
+  - "Communication stewardship"
+  - "Ethics and power review"
+languages:
+  - python
+  - r
+  - julia
+  - sql
+  - rust
+  - go
+  - cpp
+  - fortran
+  - c
+notes:
+  - "Uses synthetic data only."
+  - "Designed for strategists, content strategists, communications leaders, knowledge architects, implementation teams, policy teams, public-sector teams, product teams, sustainability teams, transformation teams, executives, consultants, analysts, and systems thinkers."
+  - "Not a substitute for executive judgment, stakeholder engagement, ethical review, legal review, information governance, privacy review, domain expertise, accountable governance, or responsible institutional change."

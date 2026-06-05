@@ -1,0 +1,9 @@
+governance_id,profile_id,core_message_ownership,definition_standards,evidence_review,version_control,audience_rules,feedback_loop_quality,stakeholder_voice,burden_visibility,dissent_preservation,ethical_risk,review_action
+GE001,SC001,0.72,0.70,0.72,0.68,0.66,0.56,0.58,0.60,0.62,0.38,improve_feedback_from_executive_briefings
+GE002,SC002,0.68,0.66,0.68,0.64,0.70,0.72,0.64,0.66,0.64,0.34,maintain_implementation_feedback
+GE003,SC003,0.66,0.68,0.70,0.62,0.74,0.78,0.84,0.80,0.76,0.28,maintain_stakeholder_accountability
+GE004,SC004,0.62,0.60,0.58,0.56,0.66,0.64,0.70,0.66,0.62,0.46,repair_public_claim_governance
+GE005,SC005,0.42,0.44,0.40,0.38,0.46,0.44,0.40,0.38,0.42,0.80,urgent_ai_communication_governance
+GE006,SC006,0.78,0.80,0.82,0.76,0.68,0.66,0.70,0.72,0.84,0.24,maintain_decision_memory_governance
+GE007,SC007,0.70,0.72,0.68,0.66,0.76,0.68,0.70,0.68,0.66,0.36,maintain_partner_alignment_governance
+GE008,SC008,0.72,0.74,0.76,0.70,0.72,0.84,0.74,0.72,0.76,0.26,maintain_learning_update_governance

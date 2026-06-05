@@ -1,0 +1,9 @@
+adaptation_id,profile_id,audience,core_meaning_preservation,language_fit,evidence_fit,depth_fit,tradeoff_visibility,uncertainty_visibility,feedback_channel_quality,distortion_risk,review_action
+AA001,SC001,executives,0.78,0.74,0.72,0.68,0.66,0.62,0.56,0.34,preserve_evidence_in_briefings
+AA002,SC002,implementation_teams,0.76,0.78,0.68,0.82,0.70,0.64,0.72,0.30,maintain_action_translation
+AA003,SC003,affected_stakeholders,0.74,0.82,0.70,0.72,0.76,0.70,0.80,0.28,maintain_voice_and_redress_fields
+AA004,SC004,public_audiences,0.64,0.78,0.58,0.54,0.50,0.48,0.62,0.54,restore_uncertainty_and_tradeoffs
+AA005,SC005,multiple_audiences,0.50,0.66,0.42,0.48,0.40,0.38,0.44,0.72,urgent_ai_adaptation_review
+AA006,SC006,future_teams,0.82,0.68,0.80,0.76,0.78,0.72,0.66,0.24,maintain_decision_memory_adaptation
+AA007,SC007,partners,0.74,0.76,0.66,0.70,0.72,0.64,0.68,0.36,create_shared_term_sheet
+AA008,SC008,learning_community,0.78,0.74,0.76,0.72,0.70,0.68,0.82,0.26,maintain_learning_feedback_loop

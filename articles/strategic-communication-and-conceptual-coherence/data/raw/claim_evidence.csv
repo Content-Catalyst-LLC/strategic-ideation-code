@@ -1,0 +1,9 @@
+claim_id,profile_id,claim_type,claim_text,evidence_quality,confidence_level,assumption_visibility,uncertainty_visibility,counterevidence_visibility,source_traceability,overclaim_risk,review_action
+CE001,SC001,decision_claim,Adaptive strategy requires governed revision triggers,0.76,0.72,0.70,0.62,0.58,0.74,0.30,maintain_decision_claim_integrity
+CE002,SC002,implementation_claim,Teams can translate adaptive strategy into roles and routines,0.68,0.64,0.66,0.58,0.52,0.64,0.42,add_implementation_examples
+CE003,SC003,stakeholder_claim,Stakeholder voice will influence design before commitment,0.70,0.66,0.64,0.62,0.58,0.68,0.38,clarify_voice_authority
+CE004,SC004,public_claim,The strategy will build public trust,0.58,0.52,0.50,0.46,0.42,0.54,0.60,reduce_trust_overclaim
+CE005,SC005,ai_generated_claim,AI can personalize communication while preserving meaning,0.44,0.40,0.38,0.36,0.34,0.42,0.72,urgent_ai_claim_review
+CE006,SC006,memory_claim,Decision memory preserves rationale evidence alternatives and dissent,0.82,0.78,0.76,0.70,0.66,0.80,0.24,maintain_traceability
+CE007,SC007,partner_claim,Partners share the same definition of strategic resilience,0.62,0.58,0.56,0.54,0.48,0.60,0.50,run_partner_definition_test
+CE008,SC008,learning_claim,Audience confusion should update communication and concept definitions,0.74,0.70,0.68,0.66,0.60,0.72,0.32,maintain_feedback_to_definition_loop

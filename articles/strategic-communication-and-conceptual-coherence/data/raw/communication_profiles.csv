@@ -1,0 +1,9 @@
+profile_id,communication_profile,profile_type,concept_definition,narrative_coherence,evidence_integrity,audience_adaptation,decision_alignment,implementation_translatability,feedback_quality,governance_strength,ethical_visibility,ai_governance,description
+SC001,Executive Strategy Briefing,executive_briefing,0.74,0.76,0.72,0.70,0.82,0.62,0.58,0.70,0.64,0.58,Concise decision-facing communication with strong alignment but risk of compressed implementation meaning.
+SC002,Implementation Guidance,implementation_guidance,0.70,0.68,0.66,0.72,0.76,0.84,0.70,0.68,0.66,0.52,Action-oriented communication linking strategy to roles routines resources and feedback.
+SC003,Stakeholder Explanation,stakeholder_explanation,0.68,0.74,0.70,0.82,0.66,0.60,0.78,0.66,0.84,0.50,Audience-facing explanation requiring trust voice burden and redress visibility.
+SC004,Public Narrative,public_narrative,0.62,0.78,0.62,0.78,0.60,0.54,0.66,0.62,0.70,0.48,Public-facing narrative with high simplification pressure and coherence risk.
+SC005,AI-Assisted Message Set,ai_assisted,0.52,0.58,0.46,0.60,0.48,0.46,0.44,0.42,0.40,0.34,AI-generated or AI-adapted content with high risk of conceptual flattening.
+SC006,Decision-Memory Communication,decision_memory,0.82,0.72,0.84,0.66,0.86,0.72,0.68,0.78,0.76,0.56,Communication anchored in decision rationale evidence alternatives dissent and revision triggers.
+SC007,Partner Alignment Brief,partner_alignment,0.72,0.70,0.68,0.74,0.78,0.70,0.64,0.70,0.68,0.50,Cross-organization communication clarifying shared meaning responsibilities and dependencies.
+SC008,Strategic Learning Update,learning_update,0.76,0.74,0.78,0.72,0.74,0.70,0.82,0.72,0.74,0.54,Communication that returns execution learning and audience interpretation to strategy.

@@ -1,0 +1,9 @@
+concept_id,concept_name,definition_quality,boundary_clarity,mechanism_clarity,evidence_linkage,decision_relevance,implementation_meaning,version_control,drift_risk,review_action
+C001,Adaptive Strategy,0.78,0.70,0.76,0.72,0.80,0.74,0.68,0.34,maintain_definition_and_revision_triggers
+C002,Decision Memory,0.84,0.78,0.72,0.78,0.86,0.70,0.74,0.28,maintain_decision_memory_standard
+C003,Stakeholder Voice,0.74,0.68,0.70,0.72,0.76,0.66,0.62,0.40,clarify_voice_authority_and_limits
+C004,Conceptual Coherence,0.80,0.74,0.72,0.68,0.72,0.64,0.66,0.32,create_usage_examples
+C005,Strategic Resilience,0.68,0.54,0.62,0.64,0.70,0.66,0.56,0.54,repair_resilience_boundary_notes
+C006,Participation,0.66,0.50,0.58,0.62,0.72,0.60,0.52,0.60,distinguish_participation_from_consultation
+C007,Strategic Intelligence,0.72,0.64,0.66,0.70,0.74,0.62,0.60,0.42,link_intelligence_to_decision_use
+C008,Ethical Innovation,0.70,0.58,0.64,0.66,0.72,0.64,0.58,0.52,restore_burden_redress_and_governance

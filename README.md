@@ -219,3 +219,7 @@ This repository includes advanced workflows for strategic idea taxonomies, metad
 ## Content Frameworks in Strategic Ideation
 
 This repository includes advanced workflows for content framework design, content type modeling, strategic template systems, conceptual hierarchy review, evidence and assumption fields, decision-support structures, narrative frameworks, modular content libraries, reuse testing, AI-assisted content governance, framework stewardship, and ethics and power review.
+
+## Strategic Communication and Conceptual Coherence
+
+This repository includes advanced workflows for conceptual coherence diagnostics, strategic communication mapping, core-message architecture, claim-evidence review, audience adaptation matrices, decision-communication alignment, implementation meaning tests, strategic listening systems, AI-assisted communication governance, communication stewardship, and ethics and power review.
