@@ -1,0 +1,9 @@
+scaling_id,context_id,template_quality,metadata_quality,repository_usability,cross_team_reuse,portfolio_synthesis,onboarding_reuse,searchability,stewardship,review_action
+KS001,LL001,0.42,0.36,0.38,0.34,0.32,0.30,0.34,0.36,create_learning_repository
+KS002,LL002,0.76,0.74,0.72,0.70,0.74,0.68,0.72,0.76,maintain_knowledge_architecture
+KS003,LL003,0.44,0.32,0.36,0.30,0.34,0.28,0.30,0.34,repair_memory_and_reuse
+KS004,LL004,0.48,0.42,0.44,0.38,0.40,0.36,0.40,0.42,connect_governance_to_repository
+KS005,LL005,0.46,0.40,0.42,0.36,0.38,0.34,0.38,0.40,tag_ethics_and_burden_lessons
+KS006,LL006,0.50,0.44,0.46,0.42,0.40,0.38,0.42,0.44,add_assumption_metadata
+KS007,LL007,0.58,0.48,0.50,0.30,0.34,0.36,0.42,0.38,scale_local_lessons
+KS008,LL008,0.72,0.70,0.68,0.66,0.68,0.64,0.70,0.72,maintain_retro_knowledge_base

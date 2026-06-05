@@ -1,0 +1,9 @@
+ethics_id,context_id,ethical_issue,sponsor_power,affected_stakeholder_voice,frontline_voice,burden_visibility,interpretive_power_balance,redress_quality,pause_authority,lesson_return,review_action
+EP001,LL001,Reporting loops privilege sponsor dashboards over affected experience,0.72,0.40,0.44,0.38,0.34,0.36,0.38,0.32,expand_voices_in_learning
+EP002,LL002,Adaptive learning still needs ongoing burden review,0.54,0.72,0.74,0.70,0.68,0.70,0.70,0.68,maintain_ethical_learning
+EP003,LL003,Pilot lessons may be extracted without returning value to participants,0.62,0.56,0.58,0.52,0.48,0.50,0.46,0.40,return_lessons_to_participants
+EP004,LL004,Weak governance prevents harmed groups from influencing decisions,0.68,0.48,0.50,0.46,0.42,0.40,0.34,0.38,add_ethics_authority
+EP005,LL005,Power filters whose evidence becomes a strategic lesson,0.76,0.32,0.36,0.34,0.28,0.30,0.32,0.26,urgent_power_filter_review
+EP006,LL006,Assumption-blind execution hides burdens until they are normalized,0.66,0.46,0.48,0.42,0.40,0.38,0.36,0.34,map_burden_assumptions
+EP007,LL007,Local learning may not travel from low-power teams to decision makers,0.64,0.54,0.66,0.56,0.46,0.48,0.44,0.42,create_escalation_channels
+EP008,LL008,Retrospectives must preserve dissent and affected-group evidence,0.58,0.68,0.70,0.66,0.64,0.66,0.68,0.64,maintain_dissent_and_ethics_records

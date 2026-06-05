@@ -1,0 +1,9 @@
+context_id,context_name,context_type,feedback_quality,assumption_review,interpretation_discipline,decision_authority,learning_closure,decision_memory,psychological_safety,knowledge_scaling,ethical_learning,strategic_coherence,adaptive_capacity,description
+LL001,Reporting-Heavy Organization,reporting_heavy,0.62,0.42,0.46,0.38,0.34,0.36,0.44,0.40,0.50,0.48,0.42,Collects feedback but rarely turns it into strategic decisions.
+LL002,Adaptive Learning Organization,adaptive_learning,0.84,0.82,0.80,0.78,0.82,0.76,0.78,0.74,0.80,0.82,0.86,Strong feedback interpretation authority memory and ethical learning.
+LL003,Pilot-Rich Memory-Poor Organization,pilot_rich_memory_poor,0.72,0.60,0.62,0.56,0.48,0.30,0.58,0.36,0.56,0.58,0.60,Runs pilots but loses lessons because decision memory and reuse are weak.
+LL004,Governance-Weak Organization,governance_weak,0.64,0.48,0.54,0.34,0.36,0.44,0.46,0.42,0.52,0.50,0.46,Collects evidence but governance cannot change resources sequence or scope.
+LL005,Ethically Filtered Learning System,ethical_filtering,0.58,0.50,0.52,0.48,0.42,0.46,0.38,0.44,0.32,0.46,0.44,Power filters whose evidence counts and whose burden becomes visible.
+LL006,Assumption-Blind Execution System,assumption_blind,0.60,0.28,0.44,0.50,0.40,0.42,0.50,0.46,0.48,0.44,0.42,Execution reviews activity but rarely tests the strategy assumptions.
+LL007,Locally Learning Fragmented System,local_learning_fragmented,0.70,0.62,0.64,0.54,0.52,0.46,0.66,0.30,0.58,0.56,0.60,Teams learn locally but lessons do not scale across the organization.
+LL008,Governed Retrospective System,governed_retrospective,0.76,0.74,0.72,0.72,0.70,0.74,0.70,0.68,0.72,0.76,0.74,Uses retrospectives decision memory and governance to convert learning into action.

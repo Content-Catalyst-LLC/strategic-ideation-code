@@ -207,3 +207,7 @@ This repository includes advanced workflows for implementation pathway design, s
 ## Alignment Drift and Strategic Coherence
 
 This repository includes advanced workflows for alignment drift diagnostics, strategic coherence assessment, purpose-continuity review, incentive and metric audit, resource alignment analysis, portfolio fragmentation review, narrative drift detection, governance strength scoring, ethical coherence review, feedback-loop design, and decision-memory documentation.
+
+## Learning Loops in Strategic Execution
+
+This repository includes advanced workflows for learning loop diagnostics, feedback-quality assessment, assumption review, evidence-confidence scoring, after-action review, strategic retrospective design, decision-memory documentation, governance authority scoring, learning closure analysis, knowledge scaling, psychological safety review, ethical learning review, and strategic learning simulation.

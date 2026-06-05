@@ -1,0 +1,9 @@
+assumption_id,context_id,assumption_type,assumption_name,explicitness,evidence_linkage,review_frequency,failure_visibility,revision_trigger_quality,owner_clarity,review_action
+AR001,LL001,impact,Activities will produce strategic outcomes,0.42,0.38,0.44,0.46,0.34,0.40,build_assumption_register
+AR002,LL002,adoption,Stakeholders will adopt the revised pathway,0.82,0.78,0.76,0.72,0.74,0.78,maintain_assumption_review
+AR003,LL003,scaling,Pilot lessons will transfer to later contexts,0.58,0.54,0.52,0.48,0.42,0.44,improve_transfer_assumptions
+AR004,LL004,governance,Decision bodies can act on evidence,0.50,0.46,0.44,0.52,0.38,0.42,clarify_governance_assumptions
+AR005,LL005,legitimacy,Affected groups experience the strategy as credible,0.48,0.40,0.42,0.44,0.34,0.38,include_affected_group_assumptions
+AR006,LL006,capacity,Teams can absorb execution demands,0.28,0.30,0.34,0.40,0.32,0.36,urgent_assumption_mapping
+AR007,LL007,knowledge,Local lessons will be reused elsewhere,0.54,0.48,0.50,0.46,0.38,0.42,design_reuse_triggers
+AR008,LL008,learning,Retrospectives will change action and memory,0.76,0.72,0.74,0.70,0.70,0.72,maintain_review_cadence

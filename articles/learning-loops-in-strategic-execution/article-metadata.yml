@@ -1,0 +1,40 @@
+title: "Learning Loops in Strategic Execution"
+slug: "learning-loops-in-strategic-execution"
+series: "Strategic Ideation"
+repository: "https://github.com/Content-Catalyst-LLC/strategic-ideation-code"
+article_folder: "articles/learning-loops-in-strategic-execution"
+previous_article:
+  title: "Alignment Drift and Strategic Coherence"
+  slug: "alignment-drift-and-strategic-coherence"
+next_article:
+  title: "Knowledge Architecture in Strategic Ideation"
+  slug: "knowledge-architecture-in-strategic-ideation"
+purpose: "Advanced strategist-facing companion code for learning loop diagnostics, feedback-quality assessment, assumption review, evidence-confidence scoring, after-action review, strategic retrospective design, decision-memory documentation, governance authority scoring, learning closure analysis, knowledge scaling, psychological safety review, ethical learning review, and strategic learning simulation."
+status: "advanced scaffold"
+professional_use_cases:
+  - "Strategic learning loop diagnostics"
+  - "Feedback-quality assessment"
+  - "Assumption review"
+  - "Evidence-confidence scoring"
+  - "After-action review"
+  - "Strategic retrospective design"
+  - "Decision-memory documentation"
+  - "Governance authority scoring"
+  - "Learning closure analysis"
+  - "Knowledge scaling and reuse review"
+  - "Psychological safety review"
+  - "Ethical learning and power review"
+languages:
+  - python
+  - r
+  - julia
+  - sql
+  - rust
+  - go
+  - cpp
+  - fortran
+  - c
+notes:
+  - "Uses synthetic data only."
+  - "Designed for strategists, implementation teams, policy teams, public-sector teams, product teams, sustainability teams, transformation teams, executives, consultants, analysts, systems thinkers, and knowledge architects."
+  - "Not a substitute for executive judgment, stakeholder engagement, ethical review, legal review, domain expertise, accountable governance, implementation expertise, labor consultation, or responsible institutional change."

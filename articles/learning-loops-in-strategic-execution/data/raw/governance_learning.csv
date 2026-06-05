@@ -1,0 +1,9 @@
+governance_id,context_id,review_cadence,decision_authority,resource_reallocation_power,revision_trigger_quality,stop_rule_quality,escalation_clarity,lesson_owner_clarity,follow_up_discipline,review_action
+GL001,LL001,0.56,0.38,0.34,0.36,0.30,0.42,0.40,0.36,attach_reports_to_decision_gates
+GL002,LL002,0.80,0.78,0.74,0.76,0.72,0.76,0.78,0.80,maintain_learning_governance
+GL003,LL003,0.64,0.56,0.48,0.52,0.46,0.54,0.42,0.40,add_memory_and_followup_authority
+GL004,LL004,0.58,0.34,0.30,0.42,0.36,0.40,0.44,0.38,rebuild_governance_authority
+GL005,LL005,0.54,0.48,0.42,0.40,0.34,0.46,0.40,0.42,add_ethics_escalation_power
+GL006,LL006,0.52,0.50,0.44,0.34,0.32,0.46,0.42,0.38,add_assumption_revision_authority
+GL007,LL007,0.66,0.54,0.48,0.50,0.44,0.52,0.50,0.42,scale_governance_for_cross_team_learning
+GL008,LL008,0.76,0.72,0.70,0.72,0.68,0.70,0.74,0.76,maintain_governed_retrospectives

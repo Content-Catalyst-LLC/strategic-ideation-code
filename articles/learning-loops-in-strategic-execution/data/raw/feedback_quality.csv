@@ -1,0 +1,9 @@
+feedback_id,context_id,source_type,reliability,timeliness,contextual_relevance,validity,triangulation,stakeholder_coverage,noise_risk,review_action
+FQ001,LL001,dashboard_reporting,0.66,0.72,0.48,0.52,0.42,0.38,0.58,add_interpretive_review
+FQ002,LL002,mixed_methods_learning,0.82,0.78,0.84,0.80,0.78,0.76,0.28,maintain_feedback_quality
+FQ003,LL003,pilot_results,0.72,0.68,0.70,0.66,0.58,0.56,0.38,preserve_pilot_lessons
+FQ004,LL004,implementation_reporting,0.68,0.66,0.58,0.60,0.54,0.50,0.44,connect_feedback_to_governance
+FQ005,LL005,filtered_stakeholder_feedback,0.56,0.58,0.54,0.50,0.42,0.30,0.52,expand_stakeholder_evidence
+FQ006,LL006,activity_tracking,0.62,0.70,0.42,0.44,0.38,0.44,0.60,add_assumption_testing_evidence
+FQ007,LL007,local_team_lessons,0.70,0.64,0.72,0.66,0.56,0.60,0.36,scale_local_feedback
+FQ008,LL008,retrospective_evidence,0.76,0.72,0.78,0.74,0.70,0.68,0.32,maintain_retrospective_evidence
