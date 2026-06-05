@@ -1,0 +1,9 @@
+stewardship_id,system_id,ownership_clarity,lifecycle_governance,metadata_stewardship,repository_curation,access_governance,continuity_planning,stakeholder_memory,dissent_preservation,privacy_sensitivity,ethical_risk,review_action
+SE001,MS001,0.60,0.62,0.58,0.56,0.54,0.52,0.56,0.54,0.42,0.44,improve_idea_intake_stewardship
+SE002,MS002,0.72,0.70,0.76,0.74,0.66,0.68,0.62,0.60,0.48,0.36,maintain_repository_stewardship
+SE003,MS003,0.74,0.76,0.72,0.70,0.68,0.72,0.66,0.82,0.54,0.30,maintain_decision_memory_integrity
+SE004,MS004,0.70,0.72,0.70,0.68,0.64,0.66,0.72,0.66,0.50,0.34,maintain_learning_record_stewardship
+SE005,MS005,0.58,0.60,0.56,0.54,0.62,0.52,0.84,0.76,0.70,0.42,protect_stakeholder_memory
+SE006,MS006,0.52,0.56,0.50,0.48,0.50,0.48,0.58,0.62,0.46,0.40,improve_archive_review_and_retention
+SE007,MS007,0.68,0.70,0.66,0.62,0.64,0.84,0.64,0.66,0.44,0.34,strengthen_transition_handoff_model
+SE008,MS008,0.50,0.52,0.56,0.54,0.58,0.56,0.50,0.48,0.62,0.72,urgent_ai_memory_governance

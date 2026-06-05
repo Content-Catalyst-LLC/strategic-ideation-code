@@ -1,0 +1,9 @@
+learning_id,idea_id,learning_source,evidence_quality,interpretation_quality,assumption_update_quality,decision_update_quality,stakeholder_update_quality,reuse_tag_quality,followup_quality,review_action
+LU001,IL001,prototype_feedback,0.72,0.70,0.68,0.64,0.76,0.66,0.64,connect_prototype_feedback_to_assumptions
+LU002,IL002,pilot_review,0.74,0.72,0.70,0.72,0.66,0.70,0.68,update_portfolio_review_criteria
+LU003,IL003,ai_governance_review,0.50,0.52,0.54,0.58,0.46,0.48,0.56,create_ai_memory_review_gate
+LU004,IL004,retrieval_test,0.78,0.76,0.74,0.76,0.66,0.82,0.78,maintain_retrieval_test_cadence
+LU005,IL005,stakeholder_feedback,0.70,0.72,0.68,0.66,0.84,0.68,0.70,preserve_stakeholder_learning
+LU006,IL006,capability_assessment,0.62,0.64,0.66,0.60,0.56,0.62,0.64,link_capacity_gaps_to_lifecycle_status
+LU007,IL007,decision_memory_audit,0.76,0.74,0.72,0.84,0.68,0.72,0.76,maintain_decision_memory_audit
+LU008,IL008,retirement_review,0.58,0.62,0.60,0.68,0.56,0.74,0.66,document_reactivation_conditions

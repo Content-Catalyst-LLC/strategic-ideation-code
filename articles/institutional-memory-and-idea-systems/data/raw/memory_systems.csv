@@ -1,0 +1,9 @@
+system_id,system_area,system_type,capture_quality,metadata_completeness,context_preservation,decision_memory,learning_integration,retrieval_readiness,reuse_potential,stewardship_quality,continuity_resilience,ethical_memory,ai_governance,description
+MS001,Idea Intake,intake,0.78,0.66,0.62,0.44,0.50,0.64,0.62,0.58,0.54,0.56,0.48,Captures early signals concepts and opportunity fragments before they disappear.
+MS002,Strategic Idea Repository,repository,0.72,0.80,0.76,0.66,0.68,0.78,0.80,0.72,0.70,0.62,0.52,Stores ideas with taxonomy metadata evidence assumptions and status.
+MS003,Decision Memory,decision_memory,0.70,0.74,0.82,0.86,0.72,0.74,0.76,0.70,0.72,0.70,0.50,Preserves rationale alternatives tradeoffs dissent and revision triggers.
+MS004,Prototype Learning Records,learning_records,0.76,0.72,0.74,0.64,0.84,0.70,0.78,0.68,0.66,0.66,0.48,Connects prototypes pilots and implementation evidence back to ideas.
+MS005,Stakeholder Memory,stakeholder_memory,0.64,0.60,0.68,0.52,0.66,0.58,0.64,0.56,0.52,0.82,0.44,Preserves stakeholder voice burden legitimacy concerns and redress issues.
+MS006,Retired Ideas Archive,archive,0.58,0.54,0.56,0.58,0.48,0.52,0.60,0.50,0.48,0.58,0.40,Preserves rejected paused or retired ideas with reuse conditions.
+MS007,Leadership Transition Memory,continuity,0.62,0.64,0.70,0.76,0.64,0.66,0.68,0.62,0.82,0.66,0.42,Protects strategy knowledge through leadership and personnel transitions.
+MS008,AI-Assisted Knowledge Retrieval,ai_memory,0.68,0.70,0.62,0.58,0.60,0.82,0.72,0.54,0.56,0.50,0.36,Uses semantic retrieval and summarization to make institutional memory findable.

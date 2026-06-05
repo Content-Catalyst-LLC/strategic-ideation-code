@@ -1,0 +1,9 @@
+decision_id,idea_id,decision_type,rationale_quality,evidence_quality,assumption_visibility,alternative_visibility,tradeoff_visibility,dissent_preservation,owner_clarity,revision_trigger_quality,traceability_quality,review_action
+DM001,IL001,advance_to_prototype,0.72,0.68,0.70,0.62,0.66,0.60,0.68,0.64,0.66,improve_revision_trigger
+DM002,IL002,continue_pilot,0.76,0.72,0.68,0.66,0.72,0.64,0.70,0.68,0.72,maintain_portfolio_decision_record
+DM003,IL003,hold_for_governance_review,0.62,0.48,0.50,0.58,0.56,0.54,0.52,0.60,0.54,add_ai_evidence_and_review_gate
+DM004,IL004,scale_repository,0.82,0.78,0.74,0.70,0.72,0.68,0.76,0.78,0.80,maintain_scale_decision_traceability
+DM005,IL005,advance_with_ethics_review,0.74,0.70,0.66,0.64,0.70,0.76,0.68,0.70,0.72,preserve_ethics_review_record
+DM006,IL006,develop_evidence_base,0.64,0.58,0.62,0.60,0.58,0.52,0.60,0.56,0.58,clarify_evidence_development_plan
+DM007,IL007,advance_to_scaling_review,0.80,0.76,0.72,0.72,0.74,0.78,0.76,0.80,0.82,maintain_decision_memory_standard
+DM008,IL008,retire_with_revisit_condition,0.70,0.62,0.60,0.74,0.66,0.68,0.64,0.76,0.70,preserve_retired_idea_context

@@ -1,0 +1,9 @@
+idea_id,idea_title,lifecycle_stage,source_quality,problem_clarity,mechanism_clarity,evidence_level,assumption_quality,decision_status_quality,learning_update_quality,reuse_condition_quality,review_action
+IL001,Community Data Stewardship,prototype,0.74,0.78,0.72,0.68,0.70,0.66,0.62,0.64,maintain_prototype_learning_record
+IL002,Adaptive Portfolio Review,pilot,0.72,0.74,0.70,0.72,0.68,0.74,0.70,0.66,connect_pilot_to_decision_memory
+IL003,AI-Assisted Scenario Library,concept,0.60,0.64,0.52,0.48,0.50,0.46,0.44,0.52,add_ai_memory_governance
+IL004,Strategic Learning Repository,scaled,0.78,0.76,0.74,0.76,0.72,0.78,0.84,0.80,maintain_repository_reuse_pathways
+IL005,Participatory Evaluation Pathway,prototype,0.70,0.72,0.68,0.70,0.66,0.64,0.68,0.66,preserve_stakeholder_feedback
+IL006,Capability-Building Roadmap,concept,0.64,0.68,0.66,0.58,0.62,0.60,0.56,0.58,develop_capability_evidence
+IL007,Strategic Decision Memory System,pilot,0.76,0.74,0.70,0.74,0.72,0.84,0.76,0.74,scale_after_retrieval_test
+IL008,Retired Partnership Model,retired,0.58,0.60,0.52,0.54,0.56,0.70,0.48,0.72,preserve_retirement_rationale

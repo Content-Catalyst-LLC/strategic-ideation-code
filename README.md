@@ -223,3 +223,7 @@ This repository includes advanced workflows for content framework design, conten
 ## Strategic Communication and Conceptual Coherence
 
 This repository includes advanced workflows for conceptual coherence diagnostics, strategic communication mapping, core-message architecture, claim-evidence review, audience adaptation matrices, decision-communication alignment, implementation meaning tests, strategic listening systems, AI-assisted communication governance, communication stewardship, and ethics and power review.
+
+## Institutional Memory and Idea Systems
+
+This repository includes advanced workflows for institutional memory diagnostics, idea lifecycle modeling, idea-system mapping, decision-memory review, retrieval testing, learning-loop integration, strategic reuse analysis, repository stewardship, continuity planning, AI-assisted memory governance, and ethics and power review.

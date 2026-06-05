@@ -1,0 +1,41 @@
+title: "Institutional Memory and Idea Systems"
+slug: "institutional-memory-and-idea-systems"
+series: "Strategic Ideation"
+repository: "https://github.com/Content-Catalyst-LLC/strategic-ideation-code"
+article_folder: "articles/institutional-memory-and-idea-systems"
+previous_article:
+  title: "Strategic Communication and Conceptual Coherence"
+  slug: "strategic-communication-and-conceptual-coherence"
+next_article:
+  title: "Taxonomy of Strategic Ideas"
+  slug: "taxonomy-of-strategic-ideas"
+purpose: "Advanced strategist-facing companion code for institutional memory diagnostics, idea lifecycle modeling, idea-system mapping, decision-memory review, retrieval testing, learning-loop integration, strategic reuse analysis, repository stewardship, continuity planning, AI-assisted memory governance, and ethics and power review."
+status: "advanced scaffold"
+professional_use_cases:
+  - "Institutional memory diagnostics"
+  - "Strategic idea lifecycle modeling"
+  - "Idea-system mapping"
+  - "Decision-memory review"
+  - "Retrieval readiness testing"
+  - "Learning-loop integration review"
+  - "Strategic reuse and recombination analysis"
+  - "Institutional forgetting diagnostics"
+  - "Tacit and explicit knowledge transfer review"
+  - "Repository stewardship"
+  - "Continuity planning"
+  - "AI-assisted memory governance"
+  - "Ethics and power review"
+languages:
+  - python
+  - r
+  - julia
+  - sql
+  - rust
+  - go
+  - cpp
+  - fortran
+  - c
+notes:
+  - "Uses synthetic data only."
+  - "Designed for strategists, knowledge architects, implementation teams, policy teams, public-sector teams, product teams, sustainability teams, transformation teams, executives, consultants, analysts, content strategists, communications leaders, and systems thinkers."
+  - "Not a substitute for executive judgment, stakeholder engagement, ethical review, legal review, information governance, privacy review, domain expertise, accountable governance, or responsible institutional change."
