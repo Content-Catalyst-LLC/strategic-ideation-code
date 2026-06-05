@@ -1,0 +1,9 @@
+governance_id,scenario_set_id,governance_practice,decision_rights_clarity,evidence_standard_quality,scenario_review_cadence,signal_owner_clarity,trigger_condition_quality,documentation_quality,accountability_quality,review_action
+G001,SC001,Annual forecast review,0.48,0.42,0.34,0.36,0.30,0.38,0.40,add_scenario_governance
+G002,SC002,Strategic foresight review board,0.72,0.70,0.68,0.66,0.70,0.72,0.70,maintain_governance
+G003,SC003,Workshop follow-up notes,0.26,0.24,0.20,0.18,0.16,0.22,0.18,create_decision_governance
+G004,SC004,Systems foresight council,0.78,0.76,0.74,0.72,0.76,0.78,0.76,maintain_systems_governance
+G005,SC005,Participatory scenario governance,0.74,0.72,0.70,0.68,0.72,0.76,0.78,maintain_participatory_governance
+G006,SC006,Disruption monitoring group,0.66,0.64,0.68,0.62,0.70,0.64,0.62,clarify_decision_authority
+G007,SC007,Implementation trigger review,0.72,0.68,0.66,0.70,0.74,0.70,0.68,maintain_trigger_governance
+G008,SC008,Analyst-led scenario update,0.50,0.48,0.46,0.42,0.40,0.44,0.38,add_ethics_and_accountability

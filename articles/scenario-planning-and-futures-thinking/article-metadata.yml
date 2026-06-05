@@ -1,0 +1,39 @@
+title: "Scenario Planning and Futures Thinking"
+slug: "scenario-planning-and-futures-thinking"
+series: "Strategic Ideation"
+repository: "https://github.com/Content-Catalyst-LLC/strategic-ideation-code"
+article_folder: "articles/scenario-planning-and-futures-thinking"
+previous_article:
+  title: "Prototype Evidence and Strategic Learning"
+  slug: "prototype-evidence-and-strategic-learning"
+next_article:
+  title: "Strategic Foresight and Long-Term Thinking"
+  slug: "strategic-foresight-and-long-term-thinking"
+purpose: "Advanced strategist-facing companion code for scenario planning diagnostics, futures-thinking methods, driver mapping, uncertainty matrices, scenario logic review, strategy stress testing, robustness scoring, signal monitoring, adaptive pathway design, ethical futures review, governance review, and scenario learning memory."
+status: "advanced scaffold"
+professional_use_cases:
+  - "Scenario planning diagnostics"
+  - "Focal question and time-horizon review"
+  - "Driver mapping and uncertainty matrices"
+  - "Scenario logic and divergence review"
+  - "Strategy stress testing across futures"
+  - "Robustness, fragility, and volatility scoring"
+  - "Signal monitoring and early-warning indicators"
+  - "Adaptive pathway and trigger-condition design"
+  - "Futures ethics and representation review"
+  - "Scenario governance and decision-linkage review"
+  - "Scenario learning-memory records"
+languages:
+  - python
+  - r
+  - julia
+  - sql
+  - rust
+  - go
+  - cpp
+  - fortran
+  - c
+notes:
+  - "Uses synthetic data only."
+  - "Designed for strategists, foresight practitioners, systems thinkers, public-sector teams, sustainability teams, product strategists, organizational leaders, analysts, consultants, design strategists, and knowledge architects."
+  - "Not a substitute for participatory foresight, ethical review, domain expertise, expert judgment, accountable governance, or responsible implementation."

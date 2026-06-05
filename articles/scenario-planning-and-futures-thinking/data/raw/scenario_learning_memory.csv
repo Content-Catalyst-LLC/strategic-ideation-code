@@ -1,0 +1,9 @@
+memory_id,scenario_set_id,memory_practice,focal_question_record,driver_record_quality,uncertainty_record_quality,scenario_logic_record,implication_record_quality,signal_record_quality,decision_traceability,remaining_uncertainty_quality,reuse_quality,review_action
+M001,SC001,Forecast archive,0.36,0.34,0.28,0.30,0.30,0.24,0.26,0.22,0.26,create_scenario_memory_record
+M002,SC002,Scenario learning log,0.74,0.72,0.74,0.72,0.76,0.70,0.72,0.70,0.74,maintain_learning_log
+M003,SC003,Workshop slide archive,0.28,0.26,0.28,0.34,0.24,0.18,0.16,0.14,0.18,convert_workshop_output_to_memory
+M004,SC004,Systems scenario repository,0.80,0.82,0.80,0.84,0.82,0.78,0.80,0.78,0.82,maintain_systems_memory
+M005,SC005,Participatory futures record,0.76,0.74,0.72,0.76,0.78,0.72,0.76,0.74,0.78,share_learning_with_stakeholders
+M006,SC006,Disruption scenario monitor,0.70,0.72,0.76,0.70,0.72,0.74,0.68,0.70,0.72,maintain_disruption_learning
+M007,SC007,Implementation scenario record,0.72,0.68,0.66,0.70,0.74,0.68,0.72,0.66,0.70,connect_to_implementation_memory
+M008,SC008,Scenario notes without ethics record,0.56,0.58,0.56,0.54,0.50,0.46,0.42,0.40,0.44,add_ethics_and_burden_record

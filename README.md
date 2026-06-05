@@ -151,3 +151,7 @@ This repository includes advanced workflows for prototype evidence diagnostics, 
 ## Adaptive Strategy and Iteration
 
 This repository includes advanced workflows for adaptive strategy diagnostics, feedback-loop interpretation, assumption revision, trigger-condition mapping, exploration-exploitation balance, strategic timing review, over-adaptation risk scoring, systems-impact assessment, learning-memory records, and adaptive governance design.
+
+## Scenario Planning and Futures Thinking
+
+This repository includes advanced workflows for scenario planning diagnostics, futures-thinking methods, driver mapping, uncertainty matrices, scenario logic review, strategy stress testing, robustness scoring, signal monitoring, adaptive pathway design, ethical futures review, governance review, and scenario learning memory.

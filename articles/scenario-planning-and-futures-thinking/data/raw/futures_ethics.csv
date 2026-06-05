@@ -1,0 +1,9 @@
+ethics_id,scenario_set_id,ethical_issue,representation_quality,power_review_quality,burden_shift_review,intergenerational_review,accessibility_quality,accountability_quality,redress_path_quality,review_action
+E001,SC001,Future impacts are defined through current customers only,0.34,0.30,0.28,0.24,0.32,0.30,0.22,expand_representation
+E002,SC002,Scenario set needs stronger affected-group review,0.66,0.62,0.60,0.58,0.60,0.64,0.52,add_stakeholder_review
+E003,SC003,Workshop process privileges internal optimism,0.28,0.24,0.30,0.26,0.32,0.26,0.20,review_power_and_bias
+E004,SC004,Systems scenarios include burden and cascading effects,0.72,0.70,0.78,0.74,0.68,0.72,0.66,maintain_ethics_review
+E005,SC005,Participatory futures process includes affected communities,0.86,0.82,0.80,0.78,0.74,0.80,0.76,maintain_participatory_ethics
+E006,SC006,Disruption scenarios may normalize security-first tradeoffs,0.60,0.54,0.64,0.56,0.52,0.58,0.50,review_rights_and_tradeoffs
+E007,SC007,Implementation futures include worker and user burden,0.70,0.66,0.74,0.62,0.68,0.70,0.64,maintain_burden_monitoring
+E008,SC008,Scenarios omit who bears future costs,0.24,0.22,0.18,0.28,0.30,0.26,0.18,stop_ethics_blind_scenario_use

@@ -1,0 +1,7 @@
+test_id,strategy_name,scenario_stable_growth,scenario_tech_disruption,scenario_environmental_stress,scenario_institutional_fragmentation,scenario_supply_disruption,flexibility,implementation_readiness,ethical_resilience,option_value,review_action
+ST001,Short-Term Optimization Strategy,0.84,0.41,0.36,0.48,0.38,0.28,0.86,0.42,0.30,reduce_baseline_dependence
+ST002,Balanced Adaptive Strategy,0.74,0.71,0.67,0.70,0.66,0.73,0.74,0.68,0.72,maintain_adaptive_pathways
+ST003,Resilience-Oriented Strategy,0.68,0.75,0.79,0.73,0.76,0.82,0.66,0.76,0.78,maintain_resilience_investment
+ST004,Transformational Bet Strategy,0.52,0.82,0.58,0.64,0.56,0.61,0.44,0.54,0.68,stage_transformational_commitment
+ST005,Governance-Heavy Strategy,0.62,0.60,0.66,0.74,0.64,0.56,0.70,0.82,0.58,improve_innovation_capacity
+ST006,Community-Led Adaptive Strategy,0.64,0.68,0.74,0.78,0.70,0.76,0.62,0.88,0.74,protect_participatory_capacity

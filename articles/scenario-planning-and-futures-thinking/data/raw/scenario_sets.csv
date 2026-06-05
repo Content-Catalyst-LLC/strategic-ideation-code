@@ -1,0 +1,9 @@
+scenario_set_id,scenario_set_name,focal_question_clarity,time_horizon_fit,driver_analysis_quality,critical_uncertainty_quality,plausibility,internal_coherence,scenario_divergence,strategic_implication_quality,signal_monitoring_quality,decision_linkage,ethics_review,learning_memory,description
+SC001,Baseline Forecast Extension,0.42,0.54,0.48,0.34,0.62,0.56,0.28,0.36,0.30,0.32,0.34,0.26,Scenario work extends current forecasts with limited divergence.
+SC002,Balanced Strategic Scenario Set,0.78,0.76,0.74,0.76,0.78,0.76,0.74,0.78,0.72,0.76,0.68,0.72,Scenarios are plausible divergent and connected to decisions.
+SC003,Workshop Theater Scenario Set,0.36,0.44,0.42,0.40,0.58,0.46,0.52,0.30,0.22,0.24,0.28,0.20,Scenario narratives are vivid but weakly connected to strategy.
+SC004,Systems-Aware Futures Set,0.82,0.80,0.84,0.82,0.80,0.84,0.78,0.82,0.78,0.80,0.76,0.82,Scenarios integrate systems dynamics feedback loops and cascading risks.
+SC005,Participatory Futures Set,0.76,0.74,0.78,0.72,0.76,0.74,0.76,0.80,0.72,0.74,0.86,0.78,Scenario work includes affected stakeholders and ethical futures review.
+SC006,High-Uncertainty Disruption Set,0.74,0.78,0.80,0.86,0.72,0.70,0.84,0.76,0.70,0.72,0.62,0.68,Scenario work explores high-consequence disruption and strategic fragility.
+SC007,Implementation-Oriented Scenario Set,0.72,0.68,0.70,0.68,0.72,0.70,0.66,0.74,0.68,0.78,0.64,0.70,Scenario work is tied to implementation pathways and trigger decisions.
+SC008,Ethics-Blind Scenario Set,0.64,0.66,0.68,0.64,0.70,0.66,0.68,0.60,0.56,0.58,0.20,0.42,Scenario work is analytically competent but weak on representation and power.

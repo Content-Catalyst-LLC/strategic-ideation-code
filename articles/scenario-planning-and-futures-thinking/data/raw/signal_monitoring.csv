@@ -1,0 +1,11 @@
+signal_id,scenario_set_id,signal_name,signal_category,signal_strength,noise_risk,lead_time_value,decision_relevance,monitoring_quality,interpretation_quality,owner_clarity,review_action
+SIG001,SC001,Quarterly demand growth,economic,0.58,0.50,0.34,0.42,0.52,0.46,0.50,do_not_overinterpret_short_term_demand
+SIG002,SC002,AI regulation proposals,policy,0.72,0.28,0.70,0.76,0.70,0.68,0.66,monitor_regulatory_trajectory
+SIG003,SC002,User trust decline in automated systems,social,0.66,0.36,0.68,0.74,0.62,0.64,0.60,connect_trust_to_strategy_review
+SIG004,SC003,Workshop enthusiasm,internal,0.48,0.72,0.22,0.26,0.24,0.28,0.30,avoid_confusing_energy_with_signal
+SIG005,SC004,Extreme weather disruption frequency,environmental,0.78,0.24,0.74,0.80,0.76,0.72,0.70,monitor_cascading_risk
+SIG006,SC004,Infrastructure queue delays,operational,0.74,0.26,0.66,0.78,0.72,0.70,0.68,connect_capacity_to_triggers
+SIG007,SC005,Community objection patterns,social,0.70,0.32,0.64,0.76,0.68,0.66,0.72,review_legitimacy_and_burden
+SIG008,SC006,Supplier concentration warnings,supply_chain,0.76,0.30,0.72,0.78,0.66,0.64,0.62,prepare_option_pathway
+SIG009,SC007,Implementation bottleneck reports,operational,0.72,0.28,0.58,0.76,0.70,0.68,0.74,activate_implementation_review
+SIG010,SC008,Affected group exclusion indicators,ethics,0.68,0.34,0.60,0.80,0.42,0.44,0.38,assign_ethics_monitoring_owner

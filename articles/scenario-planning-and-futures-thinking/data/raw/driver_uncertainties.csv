@@ -1,0 +1,11 @@
+driver_id,scenario_set_id,driver_name,driver_category,impact,predictability,uncertainty,systemic_interdependence,evidence_quality,stakeholder_salience,monitoring_feasibility,review_action
+D001,SC001,Market growth continuity,economic,0.72,0.66,0.34,0.48,0.52,0.44,0.50,avoid_baseline_overconfidence
+D002,SC002,AI-enabled service transformation,technology,0.82,0.38,0.76,0.72,0.66,0.70,0.68,track_technology_and_governance_signals
+D003,SC002,Public trust in institutions,social_institutional,0.78,0.34,0.78,0.80,0.62,0.76,0.60,include_legitimacy_signals
+D004,SC003,Leadership preference for innovation narrative,institutional,0.58,0.46,0.54,0.42,0.38,0.40,0.34,avoid_internal_bias
+D005,SC004,Climate adaptation pressure,environmental,0.88,0.42,0.82,0.86,0.72,0.84,0.74,map_cascading_effects
+D006,SC004,Infrastructure capacity constraint,infrastructure,0.82,0.44,0.76,0.84,0.70,0.78,0.72,model_capacity_thresholds
+D007,SC005,Community legitimacy and participation,social,0.80,0.36,0.80,0.74,0.66,0.88,0.64,include_affected_stakeholders
+D008,SC006,Geopolitical supply disruption,geopolitical,0.86,0.30,0.88,0.82,0.60,0.72,0.58,prepare_disruption_scenario
+D009,SC007,Implementation workforce capacity,operational,0.78,0.50,0.64,0.70,0.68,0.74,0.70,connect_to_trigger_conditions
+D010,SC008,Distribution of future burdens,ethics,0.82,0.40,0.78,0.76,0.50,0.86,0.52,add_ethics_review

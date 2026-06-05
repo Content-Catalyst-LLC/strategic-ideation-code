@@ -1,0 +1,9 @@
+pathway_id,scenario_set_id,pathway_name,trigger_clarity,reversibility,option_value,resource_flexibility,capability_readiness,governance_clarity,stakeholder_alignment,learning_memory,review_action
+P001,SC001,Baseline expansion pathway,0.32,0.34,0.28,0.42,0.58,0.46,0.42,0.30,add_adaptive_options
+P002,SC002,Modular service adaptation pathway,0.72,0.74,0.76,0.70,0.72,0.70,0.68,0.72,maintain_modularity
+P003,SC003,Workshop idea follow-up pathway,0.24,0.38,0.34,0.40,0.36,0.26,0.30,0.22,define_decision_pathway
+P004,SC004,Systems resilience pathway,0.78,0.70,0.80,0.72,0.74,0.78,0.72,0.80,maintain_systems_pathway
+P005,SC005,Participatory adaptation pathway,0.70,0.68,0.74,0.66,0.68,0.72,0.84,0.78,maintain_participatory_governance
+P006,SC006,Supply disruption option pathway,0.76,0.72,0.82,0.68,0.62,0.70,0.64,0.66,test_option_readiness
+P007,SC007,Implementation sequencing pathway,0.74,0.66,0.68,0.70,0.78,0.74,0.70,0.72,connect_to_capacity_triggers
+P008,SC008,Ethical burden correction pathway,0.42,0.56,0.60,0.52,0.46,0.38,0.50,0.44,strengthen_ethics_governance
